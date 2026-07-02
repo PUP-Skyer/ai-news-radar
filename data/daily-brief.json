@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T11:06:25.731272Z",
+  "generated_at": "2026-07-02T13:16:10.013599Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,15 +57,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8397,
-      "importance": 0.8397,
-      "importance_score": 0.8397,
+      "score": 0.8353,
+      "importance": 0.8353,
+      "importance_score": 0.8353,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7925,
+        "recency": 0.7682,
         "story_heat": 0.25
       },
       "category": "official",
@@ -83,6 +83,225 @@
         "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d9b5489d8ce2",
+      "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+      "url": "https://senior-swe-bench.snorkel.ai",
+      "primary_url": "https://senior-swe-bench.snorkel.ai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
+          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "senior-swe-bench.snorkel.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
+          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://news.ycombinator.com/item?id=48755928",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T04:14:43.783000Z"
+        },
+        {
+          "id": "02fc26d7d9c87f477de0f84757f2cc979bce6b4a",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T02:55:16Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "hackernews",
+        "senior-swe-bench.snorkel.ai"
+      ],
+      "items": [
+        {
+          "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "f0a802751bdfc6355642d0b10abc9a4ad8a126be",
+          "title": "Senior SWE-Bench：一款用于评估代理作为高级工程师表现的开源基准测试工具",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "senior-swe-bench.snorkel.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T11:04:07.048000Z"
+        },
+        {
+          "id": "44b9ee525eb636ab1d6f7ecc83a60b0b20202e13",
+          "title": "Senior SWE-Bench：评估代理为高级工程师的开源基准 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://news.ycombinator.com/item?id=48755928",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T04:14:43.783000Z"
+        },
+        {
+          "id": "02fc26d7d9c87f477de0f84757f2cc979bce6b4a",
+          "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试 / Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers",
+          "url": "https://senior-swe-bench.snorkel.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T02:55:16Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9687,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T02:55:16Z",
+      "latest_at": "2026-07-02T11:04:07.048000Z",
+      "primary_item": {
+        "id": "bf0be1955751a8976aaecbd0e06d8ea78d40b2be",
+        "title": "Senior SWE-Bench：评估AI智能体作为高级工程师的基准测试",
+        "url": "https://senior-swe-bench.snorkel.ai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_93d430ce90c0",
+      "title": "谷歌AI建设导致2025年用电量增长37%",
+      "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+      "primary_url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffb59e970921b8c03e6494ac178ab4119a203df2",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        },
+        {
+          "id": "47b73639a5d3c2b53f7836582ac65aed2bd47af3",
+          "title": "谷歌的人工智能建设导致2025年用电量增长了37%",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T12:40:23.640000Z"
+        },
+        {
+          "id": "fb7da7c9838d4ebe00f9f653ecba2ea9a6dd5cef",
+          "title": "谷歌AI建设导致2025年用电量增长37% / Google’s AI buildout drove 37% increase in electricity use in 2025",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Ars Technica",
+        "Ars Technica：AI（RSS）",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "ffb59e970921b8c03e6494ac178ab4119a203df2",
+          "title": "谷歌AI建设导致2025年用电量增长37%",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:15:49Z"
+        },
+        {
+          "id": "47b73639a5d3c2b53f7836582ac65aed2bd47af3",
+          "title": "谷歌的人工智能建设导致2025年用电量增长了37%",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T12:40:23.640000Z"
+        },
+        {
+          "id": "fb7da7c9838d4ebe00f9f653ecba2ea9a6dd5cef",
+          "title": "谷歌AI建设导致2025年用电量增长37% / Google’s AI buildout drove 37% increase in electricity use in 2025",
+          "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-02T11:15:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8065,
+      "importance": 0.8065,
+      "importance_score": 0.8065,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:15:49Z",
+      "latest_at": "2026-07-02T12:40:23.640000Z",
+      "primary_item": {
+        "id": "ffb59e970921b8c03e6494ac178ab4119a203df2",
+        "title": "谷歌AI建设导致2025年用电量增长37%",
+        "url": "https://arstechnica.com/ai/2026/07/googles-ai-buildout-drove-37-increase-in-electricity-use-in-2025",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -120,15 +339,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8368,
-      "importance": 0.8368,
-      "importance_score": 0.8368,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9601,
+        "recency": 0.9306,
         "story_heat": 0.0
       },
       "category": "official",
@@ -182,15 +401,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7839,
+        "recency": 0.7598,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,6 +426,310 @@
         "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_f1d85e98cefe",
+      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+      "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "primary_url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        },
+        {
+          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T12:37:49Z"
+        },
+        {
+          "id": "d36af898783e57a7259812a1fe033f73ee9817f7",
+          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍 / AI agents can now complete 16 percent of freelance jobs at pro quality, up from 2.5 percent eight months ago",
+          "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T12:37:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9908,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T12:37:49Z",
+      "latest_at": "2026-07-02T12:37:49Z",
+      "primary_item": {
+        "id": "956ddad026f9f13f6d9598266fd1c7acbba9650d",
+        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
+        "url": "https://the-decoder.com/ai-agents-can-now-complete-16-percent-of-freelance-jobs-at-pro-quality-up-from-2-5-percent-eight-months-ago",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1ace1e3f9bf",
+      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+      "url": "https://x.com/shao__meng/status/2072644710523691110",
+      "primary_url": "https://x.com/shao__meng/status/2072644710523691110",
+      "source": "X：邵猛 (@shao__meng)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：邵猛 (@shao__meng)"
+      ],
+      "items": [
+        {
+          "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+          "url": "https://x.com/shao__meng/status/2072644710523691110",
+          "source": "X：邵猛 (@shao__meng)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T11:33:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9755,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T11:33:01Z",
+      "latest_at": "2026-07-02T11:33:01Z",
+      "primary_item": {
+        "id": "8bd85ec65d24db622b31f61813d03f3dafe968d7",
+        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
+        "url": "https://x.com/shao__meng/status/2072644710523691110",
+        "source": "X：邵猛 (@shao__meng)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_220c563c3540",
+      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:46:56Z"
+        },
+        {
+          "id": "c544d5357b6932994f2055e5581648898361c7f9",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T08:46:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T08:46:56Z"
+        },
+        {
+          "id": "c544d5357b6932994f2055e5581648898361c7f9",
+          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具 / The Google Health API Got a CLI: ghealth is an Open-Source Tool for Your Fitbit Air Data",
+          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-02T08:46:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7813,
+      "importance": 0.7813,
+      "importance_score": 0.7813,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9373,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:46:56Z",
+      "latest_at": "2026-07-02T08:46:56Z",
+      "primary_item": {
+        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
+        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
+        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49bd0efe02c7",
+      "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+      "url": "https://www.aibase.com/news/29342",
+      "primary_url": "https://www.aibase.com/news/29342",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.aibase.com/news/29342",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:10:55.737206Z"
+        },
+        {
+          "id": "c79946eea79ed513406f94c906906633d71cea5b",
+          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.aibase.com/news/29342",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-02T08:10:55.737206Z"
+        },
+        {
+          "id": "c79946eea79ed513406f94c906906633d71cea5b",
+          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
+          "url": "https://www.qbitai.com/2026/07/442134.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9292,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T08:10:55.737206Z",
+      "latest_at": "2026-07-02T13:16:10.013599Z",
+      "primary_item": {
+        "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
+        "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
+        "url": "https://www.aibase.com/news/29342",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -244,15 +767,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7714,
-      "importance": 0.7714,
-      "importance_score": 0.7714,
+      "score": 0.7665,
+      "importance": 0.7665,
+      "importance_score": 0.7665,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8603,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -305,15 +828,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7589,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -367,15 +890,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7678,
-      "importance": 0.7678,
-      "importance_score": 0.7678,
+      "score": 0.7626,
+      "importance": 0.7626,
+      "importance_score": 0.7626,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9513,
+        "recency": 0.9221,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -390,128 +913,6 @@
         "title": "OpenAI提议美国政府持股5%估值426亿美元",
         "url": "https://x.com/testingcatalog/status/2072585845542969583",
         "source": "X：Testing Catalog (@testingcatalog)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_90ddcf143e5b",
-      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-      "url": "https://www.aibase.com/news/29346",
-      "primary_url": "https://www.aibase.com/news/29346",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:06:25.731272Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:06:25.731272Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T11:06:25.731272Z",
-      "latest_at": "2026-07-02T11:06:25.731272Z",
-      "primary_item": {
-        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-        "url": "https://www.aibase.com/news/29346",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_220c563c3540",
-      "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-      "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "primary_url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-          "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-          "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T08:46:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T08:46:56Z",
-      "latest_at": "2026-07-02T08:46:56Z",
-      "primary_item": {
-        "id": "029ac3dcd73d91378b41ccc87088880bce3f7967",
-        "title": "Google Health API 推出 CLI：ghealth 是一款针对 Fitbit 数据的开源工具",
-        "url": "https://www.marktechpost.com/2026/07/02/the-google-health-api-got-a-cli-ghealth-is-an-open-source-tool-for-your-fitbit-air-data",
-        "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -550,15 +951,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7885,
+        "recency": 0.7643,
         "story_heat": 0.0
       },
       "category": "official",
@@ -575,67 +976,6 @@
         "url": "https://github.blog/changelog/2026-07-01-copilot-vision-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d8f3653ac051",
-      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-      "url": "https://x.com/shao__meng/status/2072484635955900792",
-      "primary_url": "https://x.com/shao__meng/status/2072484635955900792",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://x.com/shao__meng/status/2072484635955900792",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-          "url": "https://x.com/shao__meng/status/2072484635955900792",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T00:56:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.758,
-      "importance": 0.758,
-      "importance_score": 0.758,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8636,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T00:56:56Z",
-      "latest_at": "2026-07-02T00:56:56Z",
-      "primary_item": {
-        "id": "be89553067b21e59ee095ac130c583c9121efbfc",
-        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
-        "url": "https://x.com/shao__meng/status/2072484635955900792",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -692,15 +1032,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7448,
-      "importance": 0.7448,
-      "importance_score": 0.7448,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7343,
+        "recency": 0.7117,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -719,17 +1059,17 @@
       }
     },
     {
-      "story_id": "story_41cf2f9ed76c",
-      "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-      "url": "https://www.aibase.com/news/29347",
-      "primary_url": "https://www.aibase.com/news/29347",
+      "story_id": "story_90ddcf143e5b",
+      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+      "url": "https://www.aibase.com/news/29346",
+      "primary_url": "https://www.aibase.com/news/29346",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-          "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-          "url": "https://www.aibase.com/news/29347",
+          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/news/29346",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -742,9 +1082,9 @@
       ],
       "items": [
         {
-          "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-          "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-          "url": "https://www.aibase.com/news/29347",
+          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+          "url": "https://www.aibase.com/news/29346",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -753,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7621,
+      "importance": 0.7621,
+      "importance_score": 0.7621,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -772,71 +1112,11 @@
       "earliest_at": "2026-07-02T11:06:25.731272Z",
       "latest_at": "2026-07-02T11:06:25.731272Z",
       "primary_item": {
-        "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-        "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-        "url": "https://www.aibase.com/news/29347",
+        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
+        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
+        "url": "https://www.aibase.com/news/29346",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_63e856da06a3",
-      "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-      "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-      "primary_url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-      "source": "公众号：千问APP（阿里）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "966e197d8252662a15b82375236b763ba3141c81",
-          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-          "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T10:22:07Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：千问APP（阿里）"
-      ],
-      "items": [
-        {
-          "id": "966e197d8252662a15b82375236b763ba3141c81",
-          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-          "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-          "source": "公众号：千问APP（阿里）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T10:22:07Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.62,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9894,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T10:22:07Z",
-      "latest_at": "2026-07-02T10:22:07Z",
-      "primary_item": {
-        "id": "966e197d8252662a15b82375236b763ba3141c81",
-        "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
-        "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
-        "source": "公众号：千问APP（阿里）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -893,15 +1173,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8129,
+        "recency": 0.7879,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -916,6 +1196,66 @@
         "title": "Claude Code v2.1.198 发布",
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.198",
         "source": "Claude Code：GitHub Releases（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_63e856da06a3",
+      "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+      "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
+      "primary_url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
+      "source": "公众号：千问APP（阿里）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "966e197d8252662a15b82375236b763ba3141c81",
+          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+          "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T10:22:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：千问APP（阿里）"
+      ],
+      "items": [
+        {
+          "id": "966e197d8252662a15b82375236b763ba3141c81",
+          "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+          "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
+          "source": "公众号：千问APP（阿里）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T10:22:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.62,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.959,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-02T10:22:07Z",
+      "latest_at": "2026-07-02T10:22:07Z",
+      "primary_item": {
+        "id": "966e197d8252662a15b82375236b763ba3141c81",
+        "title": "千问团队朱达：C端Agent Harness的\"多快好省\"工程哲学与主动服务探索",
+        "url": "https://mp.weixin.qq.com/s/l70iUM0bIpG9EdV9Px7QPQ",
+        "source": "公众号：千问APP（阿里）",
         "source_name": "AI HOT"
       }
     },
@@ -954,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
+        "recency": 0.8608,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,15 +1354,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8134,
+      "importance": 0.8134,
+      "importance_score": 0.8134,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8104,
+        "recency": 0.7855,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1042,49 +1382,49 @@
       }
     },
     {
-      "story_id": "story_eee24709d878",
-      "title": "证监会同意宇树科技科创板 IPO 注册申请",
-      "url": "https://www.ithome.com/0/971/790.htm",
-      "primary_url": "https://www.ithome.com/0/971/790.htm",
-      "source": "IT之家（RSS）",
+      "story_id": "story_d8f3653ac051",
+      "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+      "url": "https://x.com/shao__meng/status/2072484635955900792",
+      "primary_url": "https://x.com/shao__meng/status/2072484635955900792",
+      "source": "X：邵猛 (@shao__meng)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "62ad6650d7e42d6aea5838c848815ee92ebf000e",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://www.ithome.com/0/971/790.htm",
-          "source": "IT之家（RSS）",
+          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://x.com/shao__meng/status/2072484635955900792",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
+          "published_at": "2026-07-02T00:56:56Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "IT之家（RSS）"
+        "X：邵猛 (@shao__meng)"
       ],
       "items": [
         {
-          "id": "62ad6650d7e42d6aea5838c848815ee92ebf000e",
-          "title": "证监会同意宇树科技科创板 IPO 注册申请",
-          "url": "https://www.ithome.com/0/971/790.htm",
-          "source": "IT之家（RSS）",
+          "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+          "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+          "url": "https://x.com/shao__meng/status/2072484635955900792",
+          "source": "X：邵猛 (@shao__meng)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-02T09:10:36Z"
+          "published_at": "2026-07-02T00:56:56Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7567,
-      "importance": 0.7567,
-      "importance_score": 0.7567,
+      "score": 0.7533,
+      "importance": 0.7533,
+      "importance_score": 0.7533,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.7,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.837,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,197 +1432,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T09:10:36Z",
-      "latest_at": "2026-07-02T09:10:36Z",
+      "earliest_at": "2026-07-02T00:56:56Z",
+      "latest_at": "2026-07-02T00:56:56Z",
       "primary_item": {
-        "id": "62ad6650d7e42d6aea5838c848815ee92ebf000e",
-        "title": "证监会同意宇树科技科创板 IPO 注册申请",
-        "url": "https://www.ithome.com/0/971/790.htm",
-        "source": "IT之家（RSS）",
+        "id": "be89553067b21e59ee095ac130c583c9121efbfc",
+        "title": "Emil Kowalski 发布设计工程师 Skills，让 AI 编码工具具备 UI 动画审美",
+        "url": "https://x.com/shao__meng/status/2072484635955900792",
+        "source": "X：邵猛 (@shao__meng)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7bec97c12fd8",
-      "title": "Meta 大规模 AI 存储蓝图",
-      "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "primary_url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-      "source": "Meta Engineering Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Meta Engineering Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-          "title": "Meta 大规模 AI 存储蓝图",
-          "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-          "source": "Meta Engineering Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-01T16:00:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.759,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-01T16:00:36Z",
-      "latest_at": "2026-07-01T16:00:36Z",
-      "primary_item": {
-        "id": "47cce869fdc7767c028d74cc046f7f674885f398",
-        "title": "Meta 大规模 AI 存储蓝图",
-        "url": "https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale",
-        "source": "Meta Engineering Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_24bc8df62c78",
-      "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-      "url": "https://www.aibase.com/news/29344",
-      "primary_url": "https://www.aibase.com/news/29344",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
-          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-          "url": "https://www.aibase.com/news/29344",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:06:25.731272Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
-          "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-          "url": "https://www.aibase.com/news/29344",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:06:25.731272Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T11:06:25.731272Z",
-      "latest_at": "2026-07-02T11:06:25.731272Z",
-      "primary_item": {
-        "id": "080a15ab3e6afb9db8d5d89ebdd2c5ca719a99ca",
-        "title": "Godot 游戏引擎发布新政策：禁止 AI 生成代码，强化贡献审核",
-        "url": "https://www.aibase.com/news/29344",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3aa6eba89386",
-      "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-      "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "primary_url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-          "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-          "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-01T22:27:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.833,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-01T22:27:16Z",
-      "latest_at": "2026-07-01T22:27:16Z",
-      "primary_item": {
-        "id": "6f716d8f58c61aa200401cc4cbd70ab729f1b104",
-        "title": "企业可以默认自动选型 / Enterprises can default to auto model selection",
-        "url": "https://github.blog/changelog/2026-07-01-enterprises-can-default-to-auto-model-selection",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
