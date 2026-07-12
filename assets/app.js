@@ -1287,16 +1287,6 @@ function dateGroupWeekday(ms) {
   return new Intl.DateTimeFormat("zh-CN", { weekday: "long" }).format(new Date(ms));
 }
 
-function itemTagLabels(item, row = null) {
-  const tags = [];
-  if (row && (row.sourceCount > 1 || row.mergedCount > 1)) tags.push("多源验证");
-  if (item.site_id === "official_ai") tags.push("官方");
-  if (item.site_id === "aihot") tags.push("AI HOT");
-  // 单值栏目：一条 item 只显示一个栏目徽章
-  tags.push(sectionBadgeLabel(itemSection(item)));
-  return Array.from(new Set(tags)).slice(0, 3);
-}
-
 function itemSourceRefs(item, row = null) {
   const refs = [];
   const seen = new Set();
@@ -1337,13 +1327,9 @@ function signalSummaryText(row) {
   const story = row.story || {};
   const editorialSummary = itemSummaryText(item) || itemSummaryText(story.primary_item || {});
   if (editorialSummary) return editorialSummary;
-  const label = story.importance_label || labelText(item);
-  const sourceCount = rowSourceCount(row);
-  const multi = row.sourceCount > 1 || row.mergedCount > 1;
-  if (multi && label) return `${label}信号，已被 ${fmtNumber(sourceCount)} 个来源验证，适合优先判断是否继续深挖。`;
   const reason = reasonText(item);
   if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "核心方向：");
-  return `${label}方向的新近更新，已进入 24 小时 AI 强相关池。`;
+  return "";
 }
 
 function whyImportantText(row) {
@@ -1376,7 +1362,7 @@ function feedSummaryText(item) {
   if (signals.length) return `相关线索：${signals.join(" / ")}。`;
   const reason = reasonText(item);
   if (reason && !reason.startsWith("来源与标题")) return reason.replace(/^命中方向：/, "相关线索：");
-  return `${labelText(item)} · AI 相关度 ${scorePercent(item) || "待评估"}。`;
+  return "";
 }
 
 // 共享卡片组件：唯一渲染入口，主列表（精选/全量）共用同一基础变体。
@@ -1387,27 +1373,14 @@ function renderItemNode(row) {
   const item = row.item || {};
 
   const metaRow = node.querySelector(".meta-row");
-  const timeEl = node.querySelector(".time");
-  const storyTimeline = row.story?.latest_at || row.story?.earliest_at || "";
-  const timelineValue = timelineIso(item) || storyTimeline;
-  timeEl.textContent = fmtTime(timelineValue);
-  timeEl.title = fmtTime(timelineValue);
+
+  const curatedEl = node.querySelector(".curated-badge");
+  const curatedRefs = [item, ...(row.story && Array.isArray(row.story.sources) ? row.story.sources : [])];
+  const curated = (row.story && isStoryCurated(row.story)) || curatedRefs.some(isCuratedSourceRef);
+  curatedEl.hidden = !curated;
 
   const siteEl = node.querySelector(".site");
   siteEl.textContent = item.source || item.site_name || "";
-
-  const kind = sourceKind(item.site_id);
-  const categoryEl = node.querySelector(".category");
-  categoryEl.textContent = kind.label;
-  categoryEl.className = `category kind-${kind.tone}`;
-
-  const aihotSub = aihotSubSource(item);
-  if (aihotSub) {
-    const subChip = document.createElement("span");
-    subChip.className = `category kind-${AIHOT_SUB_TONES[aihotSub]}`;
-    subChip.textContent = AIHOT_SUB_LABELS[aihotSub];
-    categoryEl.insertAdjacentElement("afterend", subChip);
-  }
 
   const sourceEl = node.querySelector(".source");
   const sourceLabel = sourceSignal(item);
@@ -1416,10 +1389,49 @@ function renderItemNode(row) {
     sourceEl.title = `${sourceEl.title || ""} · 共 ${fmtNumber(rowSourceCount(row))} 个来源`.replace(/^ · /, "");
   }
 
-  const curatedEl = node.querySelector(".curated-badge");
-  const curatedRefs = [item, ...(row.story && Array.isArray(row.story.sources) ? row.story.sources : [])];
-  const curated = (row.story && isStoryCurated(row.story)) || curatedRefs.some(isCuratedSourceRef);
-  curatedEl.hidden = !curated;
+  // aihot 子来源 chip（X/公众号/HN/RSS）紧跟通道 chip（.source）之后，色调复用既有 .category.kind-* 规则，不新增样式。
+  let metaAnchorEl = sourceEl;
+  const aihotSub = aihotSubSource(item);
+  if (aihotSub) {
+    const subChip = document.createElement("span");
+    subChip.className = `category kind-${AIHOT_SUB_TONES[aihotSub]}`;
+    subChip.textContent = AIHOT_SUB_LABELS[aihotSub];
+    metaAnchorEl.insertAdjacentElement("afterend", subChip);
+    metaAnchorEl = subChip;
+  }
+
+  // 多源 chip：source_count>=2 时出现，紧跟通道/子来源 chip 之后，同时充当"同一事件"展开/收起触发器
+  // （取代旧的独立 event-expand-toggle）。子列表挂在 news-card-body 末尾，首次点击才建 DOM，之后本地 toggle。
+  if (row.story && storySourceCount(row.story) >= 2) {
+    const bodyEl = node.querySelector(".news-card-body") || node;
+    const eventCount = storySourceCount(row.story);
+    const collapsedLabel = `多源 ${fmtNumber(eventCount)} ▸`;
+    const expandedLabel = `多源 ${fmtNumber(eventCount)} ▾`;
+    const multiChip = document.createElement("button");
+    multiChip.type = "button";
+    multiChip.className = "multi-chip";
+    multiChip.textContent = collapsedLabel;
+    multiChip.setAttribute("aria-expanded", "false");
+    let eventList = null;
+    multiChip.addEventListener("click", () => {
+      const expanded = multiChip.getAttribute("aria-expanded") === "true";
+      if (expanded) {
+        if (eventList) eventList.hidden = true;
+        multiChip.setAttribute("aria-expanded", "false");
+        multiChip.textContent = collapsedLabel;
+        return;
+      }
+      if (!eventList) {
+        eventList = buildEventSourceList(row);
+        if (eventList) bodyEl.appendChild(eventList);
+      }
+      if (!eventList) return;
+      eventList.hidden = false;
+      multiChip.setAttribute("aria-expanded", "true");
+      multiChip.textContent = expandedLabel;
+    });
+    metaAnchorEl.insertAdjacentElement("afterend", multiChip);
+  }
 
   const scoreEl = node.querySelector(".score-badge");
   const displayScore = row.score;
@@ -1431,43 +1443,10 @@ function renderItemNode(row) {
     scoreEl.hidden = true;
   }
 
-  const tagRow = node.querySelector(".tag-row");
-  itemTagLabels(item, row).forEach((label) => {
-    tagRow.appendChild(itemTagChip(label));
-  });
-
-  // 同一事件展开：只在 source_count>=2 的故事行上出现，紧跟 tag-row；
-  // 子列表本身挂在 news-card-body 末尾（why-box/persona-slot 之后），首次点击才建 DOM，之后本地 toggle。
-  if (row.story && storySourceCount(row.story) >= 2) {
-    const bodyEl = node.querySelector(".news-card-body") || node;
-    const eventCount = storySourceCount(row.story);
-    const collapsedLabel = `同一事件 · ${fmtNumber(eventCount)} 家报道 ▸`;
-    const expandedLabel = `同一事件 · ${fmtNumber(eventCount)} 家报道 ▾`;
-    const eventToggle = document.createElement("button");
-    eventToggle.type = "button";
-    eventToggle.className = "event-expand-toggle";
-    eventToggle.textContent = collapsedLabel;
-    eventToggle.setAttribute("aria-expanded", "false");
-    let eventList = null;
-    eventToggle.addEventListener("click", () => {
-      const expanded = eventToggle.getAttribute("aria-expanded") === "true";
-      if (expanded) {
-        if (eventList) eventList.hidden = true;
-        eventToggle.setAttribute("aria-expanded", "false");
-        eventToggle.textContent = collapsedLabel;
-        return;
-      }
-      if (!eventList) {
-        eventList = buildEventSourceList(row);
-        if (eventList) bodyEl.appendChild(eventList);
-      }
-      if (!eventList) return;
-      eventList.hidden = false;
-      eventToggle.setAttribute("aria-expanded", "true");
-      eventToggle.textContent = expandedLabel;
-    });
-    tagRow.insertAdjacentElement("afterend", eventToggle);
-  }
+  // 栏目 chip（行业/模型/产品...）是 meta-row 的最后一个 chip，appendChild 保证排在 score-badge 之后、
+  // 在下面的"查看原文"链接（margin-left: auto 靠右）之前。
+  const sectionChip = itemTagChip(sectionBadgeLabel(itemSection(item)));
+  metaRow.appendChild(sectionChip);
 
   const titleEl = node.querySelector(".title");
   const displayTitle = row.story ? storyPrimaryTitleText(row.story) : itemTitleText(item);
@@ -1487,7 +1466,11 @@ function renderItemNode(row) {
   titleEl.href = item.url || row.story?.primary_url || row.story?.url || "#";
 
   const summaryEl = node.querySelector(".news-summary");
-  if (summaryEl) summaryEl.textContent = row.story ? signalSummaryText(row) : feedSummaryText(item);
+  if (summaryEl) {
+    const summaryText = row.story ? signalSummaryText(row) : feedSummaryText(item);
+    summaryEl.textContent = summaryText;
+    summaryEl.hidden = !summaryText;
+  }
 
   const whyBox = node.querySelector(".why-box");
   const reasons = Array.isArray(row.story?.reasons) ? row.story.reasons : [];

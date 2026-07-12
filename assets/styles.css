@@ -1155,6 +1155,7 @@ summary:focus-visible {
 .category,
 .source,
 .ai-tag,
+.multi-chip,
 .meta-row .signal-tag {
   padding: 2px 7px;
   border: 1px solid var(--line);
@@ -1226,8 +1227,24 @@ summary:focus-visible {
   background: var(--surface-soft);
 }
 
-.time {
-  margin-left: auto;
+.multi-chip {
+  color: var(--ink);
+  background: var(--surface-soft);
+  font-weight: 650;
+  cursor: pointer;
+  font-family: inherit;
+  line-height: 1.4;
+}
+
+.multi-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.multi-chip[aria-expanded="true"] {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: rgba(18, 106, 115, 0.06);
 }
 
 .title {
@@ -1517,10 +1534,6 @@ summary:focus-visible {
     max-width: 112px;
     padding-inline: 10px;
     white-space: nowrap;
-  }
-
-  .time {
-    margin-left: 0;
   }
 
   .waytoagi-head {
@@ -1930,32 +1943,22 @@ summary:focus-visible {
   background: rgba(31, 122, 77, 0.08);
 }
 
-.tag-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 6px;
-  align-items: center;
-}
-
 .why-box {
-  display: grid;
-  gap: 4px;
   margin-top: 2px;
   border-left: 2px solid rgba(18, 106, 115, 0.28);
   padding-left: 10px;
+  font-size: 13px;
+  line-height: 1.5;
 }
 
 .why-label {
   color: var(--ink);
-  font-size: 12px;
   font-weight: 820;
+  margin-right: 4px;
 }
 
 .why-text {
-  margin: 0;
   color: var(--muted);
-  font-size: 13px;
-  line-height: 1.5;
   overflow-wrap: anywhere;
 }
 
@@ -1964,22 +1967,8 @@ summary:focus-visible {
 }
 
 /* 同一事件展开：时间线卡片内联子列表 + 热点行内联子列表，共用同一套行样式。
+   触发器现在是 meta-row 里的 .multi-chip（时间线卡片）/ .hot-row-source-toggle（热点行）。
    红线：单强调色 var(--accent)、0 圆角、1px 边框，不新增色彩。 */
-.event-expand-toggle {
-  justify-self: start;
-  border: 0;
-  background: transparent;
-  padding: 0;
-  color: var(--accent);
-  font-size: 12px;
-  font-weight: 700;
-  cursor: pointer;
-}
-
-.event-expand-toggle:hover {
-  text-decoration: underline;
-}
-
 .event-expand-list {
   display: grid;
   gap: 6px;
