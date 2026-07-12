@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T18:02:51.675834Z",
+  "generated_at": "2026-07-12T19:37:39.890234Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7962,
-      "importance": 0.7962,
-      "importance_score": 0.7962,
+      "score": 0.7929,
+      "importance": 0.7929,
+      "importance_score": 0.7929,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7976,
+        "recency": 0.7796,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -128,6 +128,79 @@
         "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_94a1c14fcbb4",
+      "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+      "url": "https://x.com/dotey/status/2076372677577576864",
+      "primary_url": "https://x.com/dotey/status/2076372677577576864",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_en": null,
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：宝玉 (@dotey)"
+      ],
+      "items": [
+        {
+          "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+          "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "title_en": null,
+          "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+          "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+          "url": "https://x.com/dotey/status/2076372677577576864",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T18:26:38Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.983,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T18:26:38Z",
+      "latest_at": "2026-07-12T18:26:38Z",
+      "primary_item": {
+        "id": "b9e48e81b83ac2a8c1d352a0c5efe75ff0c78b93",
+        "title": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_zh": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "title_en": null,
+        "title_original": "Codex 移除5小时限制，GPT 5.6 Sol 效率提升",
+        "summary": "Codex 和 ChatGPT Work 发布三项更新：1）临时移除所有 Plus、Business 和 Pro 计划的5小时使用限制；2）推出 GPT 5.6 Sol 的全面效率改进，使其更省 token，具体影响待量化公布；3）活跃用户达600万，下一小时内进行使用量重置。",
+        "url": "https://x.com/dotey/status/2076372677577576864",
+        "source": "X：宝玉 (@dotey)",
         "source_name": "AI HOT"
       }
     },
@@ -174,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7724,
-      "importance": 0.7724,
-      "importance_score": 0.7724,
+      "score": 0.7684,
+      "importance": 0.7684,
+      "importance_score": 0.7684,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9766,
+        "recency": 0.9546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -247,15 +320,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9592,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -347,15 +420,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8809,
+        "recency": 0.861,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -448,15 +521,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7894,
+        "recency": 0.7716,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -549,15 +622,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7618,
-      "importance": 0.7618,
-      "importance_score": 0.7618,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7789,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -578,6 +651,205 @@
         "url": "https://www.ithome.com/0/975/646.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": null,
+          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        },
+        {
+          "id": "c3fedd292d29d837fe3fc126af4c35eec6d55edc",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "title_original": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": null,
+          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        },
+        {
+          "id": "c3fedd292d29d837fe3fc126af4c35eec6d55edc",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "title_original": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7978,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:09:50Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "primary_item": {
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "title_en": null,
+        "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d5a4110e827",
+      "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "summary": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-12T03:09:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+          "summary": null,
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-07-12T03:09:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7295,
+      "importance": 0.7295,
+      "importance_score": 0.7295,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7884,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-12T03:09:47Z",
+      "latest_at": "2026-07-12T03:09:47Z",
+      "primary_item": {
+        "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
+        "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
+        "summary": null,
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
       }
     },
     {
@@ -650,15 +922,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.788,
-      "importance": 0.788,
-      "importance_score": 0.788,
+      "score": 0.7842,
+      "importance": 0.7842,
+      "importance_score": 0.7842,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.92,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -679,78 +951,6 @@
         "url": "https://github.com/cosmtrek/mindwalk",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8d5a4110e827",
-      "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "summary": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-07-12T03:09:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
-          "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-          "summary": null,
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-07-12T03:09:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7328,
-      "importance": 0.7328,
-      "importance_score": 0.7328,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8066,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T03:09:47Z",
-      "latest_at": "2026-07-12T03:09:47Z",
-      "primary_item": {
-        "id": "64682bab9874d86464e2078bf82dc89b5abb8572",
-        "title": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026年 W28) | GPT-5.6 开启自我演化与智能主权博弈",
-        "summary": null,
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
       }
     },
     {
@@ -823,22 +1023,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8003,
+        "recency": 0.7823,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T02:37:22Z",
       "latest_at": "2026-07-12T02:37:22Z",
@@ -851,107 +1050,6 @@
         "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
         "url": "https://www.ithome.com/0/975/666.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b21c70de14cb",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": null,
-          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
-        },
-        {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "summary": null,
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": null,
-          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
-        },
-        {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "summary": null,
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8162,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:09:50Z",
-      "latest_at": "2026-07-12T03:59:09.632000Z",
-      "primary_item": {
-        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "title_en": null,
-        "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1128,15 +1226,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6858,
-      "importance": 0.6858,
-      "importance_score": 0.6858,
+      "score": 0.6818,
+      "importance": 0.6818,
+      "importance_score": 0.6818,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4968,
         "source_tier": 0.54,
         "ai_relevance": 0.69,
-        "recency": 1.0,
+        "recency": 0.9774,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1227,15 +1325,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.7463,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1255,6 +1353,607 @@
         "url": "https://www.ithome.com/0/975/634.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e7c3ab251152",
+      "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+      "url": "https://news.ycombinator.com/item?id=48881043",
+      "primary_url": "https://news.ycombinator.com/item?id=48881043",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "452ee035aa56d1430de840abe43917375b47a204",
+          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+          "title_zh": "人工智能促进了研究事业，但缩小了探索的想法范围：研究",
+          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
+          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:24:10.159000Z"
+        },
+        {
+          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_en": null,
+          "title_original": "人工智能助推科研职业发展，却抑制了科学发现",
+          "summary": null,
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T18:07:01.116000Z"
+        },
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_zh": "人工智能促进了研究事业的发展，但使科学发现变得扁平化",
+          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:33:34.425000Z"
+        },
+        {
+          "id": "45b102ad776f52c6bf3f730c5257598e919c703f",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "summary": null,
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:26:13Z"
+        },
+        {
+          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
+          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
+          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
+          "summary": null,
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "452ee035aa56d1430de840abe43917375b47a204",
+          "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+          "title_zh": "人工智能促进了研究事业，但缩小了探索的想法范围：研究",
+          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
+          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:24:10.159000Z"
+        },
+        {
+          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_en": null,
+          "title_original": "人工智能助推科研职业发展，却抑制了科学发现",
+          "summary": null,
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T18:07:01.116000Z"
+        },
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_zh": "人工智能促进了研究事业的发展，但使科学发现变得扁平化",
+          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:33:34.425000Z"
+        },
+        {
+          "id": "45b102ad776f52c6bf3f730c5257598e919c703f",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
+          "summary": null,
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:26:13Z"
+        },
+        {
+          "id": "ea26dc7b16bd417d2aa68e407dc9189716294b0b",
+          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
+          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
+          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
+          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
+          "summary": null,
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6202,
+      "importance": 0.6202,
+      "importance_score": 0.6202,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9968,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:26:13Z",
+      "latest_at": "2026-07-12T19:24:10.159000Z",
+      "primary_item": {
+        "id": "452ee035aa56d1430de840abe43917375b47a204",
+        "title": "人工智能促进了研究事业，但缩小了探索的想法范围：研究 / AI boosts research careers but narrow the span of ideas explored: study",
+        "title_zh": "人工智能促进了研究事业，但缩小了探索的想法范围：研究",
+        "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
+        "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
+        "summary": null,
+        "url": "https://news.ycombinator.com/item?id=48881043",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_065047e21dc3",
+      "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "primary_url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "source": "systima.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "title_zh": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "title_en": null,
+          "title_original": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "summary": null,
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "systima.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T19:27:07.004000Z"
+        },
+        {
+          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_zh": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k",
+          "title_en": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_original": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48883275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:24:10.159000Z"
+        },
+        {
+          "id": "5789ff39e34331991ecd13c5c4bf5ce1d419069e",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_zh": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "title_en": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_original": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "summary": null,
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:25:51Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "systima.ai"
+      ],
+      "items": [
+        {
+          "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "title_zh": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "title_en": null,
+          "title_original": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "summary": null,
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "systima.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T19:27:07.004000Z"
+        },
+        {
+          "id": "8ee628acb1b0e26a28cf1e8423e778ce9d6b6b1e",
+          "title": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_zh": "Claude Code 在阅读提示之前发送了 33k 令牌； OpenCode 发送 7k",
+          "title_en": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_original": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48883275",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T19:24:10.159000Z"
+        },
+        {
+          "id": "5789ff39e34331991ecd13c5c4bf5ce1d419069e",
+          "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个 / Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_zh": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+          "title_en": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "title_original": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+          "summary": null,
+          "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T18:25:51Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5703,
+      "importance": 0.5703,
+      "importance_score": 0.5703,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9975,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T18:25:51Z",
+      "latest_at": "2026-07-12T19:27:07.004000Z",
+      "primary_item": {
+        "id": "bb7376bdffa1cee9104b1e400b6a174d7f3868a4",
+        "title": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+        "title_zh": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+        "title_en": null,
+        "title_original": "Claude Code 在读取提示前发送了 3.3 万个代币；OpenCode 发送了 7 千个",
+        "summary": null,
+        "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "source": "systima.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2596075911d3",
+      "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "primary_url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
+          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
+          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
+          "title_en": "A no-brainer for protecting your brain",
+          "title_original": "A no-brainer for protecting your brain",
+          "summary": null,
+          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T15:23:59Z"
+        },
+        {
+          "id": "a189fb3d7493b75c026dbf64148fd39b29520f86",
+          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / The shingles vaccine may reduce the risk of dementia",
+          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
+          "title_en": "The shingles vaccine may reduce the risk of dementia",
+          "title_original": "The shingles vaccine may reduce the risk of dementia",
+          "summary": null,
+          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T15:23:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
+          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
+          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
+          "title_en": "A no-brainer for protecting your brain",
+          "title_original": "A no-brainer for protecting your brain",
+          "summary": null,
+          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T15:23:59Z"
+        },
+        {
+          "id": "a189fb3d7493b75c026dbf64148fd39b29520f86",
+          "title": "带状疱疹疫苗可能降低患痴呆症的风险 / The shingles vaccine may reduce the risk of dementia",
+          "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
+          "title_en": "The shingles vaccine may reduce the risk of dementia",
+          "title_original": "The shingles vaccine may reduce the risk of dementia",
+          "summary": null,
+          "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T15:23:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9408,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T15:23:59Z",
+      "latest_at": "2026-07-12T15:23:59Z",
+      "primary_item": {
+        "id": "fd2c4cd155f371f55ae586a402244d3d90079fd1",
+        "title": "带状疱疹疫苗可能降低患痴呆症的风险 / A no-brainer for protecting your brain",
+        "title_zh": "带状疱疹疫苗可能降低患痴呆症的风险",
+        "title_en": "A no-brainer for protecting your brain",
+        "title_original": "A no-brainer for protecting your brain",
+        "summary": null,
+        "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_12c458e9f6b4",
+      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "title_en": null,
+          "title_original": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "title_en": "AI giants learn what everyone else on the modern internet already knows",
+          "title_original": "AI giants learn what everyone else on the modern internet already knows",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "title_en": null,
+          "title_original": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T14:23:06.187000Z"
+        },
+        {
+          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
+          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
+          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+          "title_en": "AI giants learn what everyone else on the modern internet already knows",
+          "title_original": "AI giants learn what everyone else on the modern internet already knows",
+          "summary": null,
+          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T14:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9271,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T14:02:01Z",
+      "latest_at": "2026-07-12T14:23:06.187000Z",
+      "primary_item": {
+        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
+        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "title_en": null,
+        "title_original": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
+        "summary": null,
+        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_79354e1b81c7",
+      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
+          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "title_zh": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "title_en": null,
+          "title_original": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
+          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "title_zh": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "title_en": null,
+          "title_original": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T12:53:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
+          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "title_zh": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "title_en": null,
+          "title_original": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
+          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "title_zh": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "title_en": null,
+          "title_original": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
+          "summary": null,
+          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T12:53:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5319,
+      "importance": 0.5319,
+      "importance_score": 0.5319,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9226,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T12:53:09Z",
+      "latest_at": "2026-07-12T14:03:05.481602Z",
+      "primary_item": {
+        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
+        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+        "title_zh": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+        "title_en": null,
+        "title_original": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
+        "summary": null,
+        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1354,15 +2053,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5644,
-      "importance": 0.5644,
-      "importance_score": 0.5644,
+      "score": 0.5605,
+      "importance": 0.5605,
+      "importance_score": 0.5605,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9647,
+        "recency": 0.9429,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,402 +2079,6 @@
         "summary": null,
         "url": "https://news.ycombinator.com/item?id=48881009",
         "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_12c458e9f6b4",
-      "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-      "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "title_en": null,
-          "title_original": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "summary": null,
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "title_en": "AI giants learn what everyone else on the modern internet already knows",
-          "title_original": "AI giants learn what everyone else on the modern internet already knows",
-          "summary": null,
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "title_en": null,
-          "title_original": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "summary": null,
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T14:23:06.187000Z"
-        },
-        {
-          "id": "2f0a66f4493e18a9b91c14c15e8029c0cec5cc91",
-          "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实 / AI giants learn what everyone else on the modern internet already knows",
-          "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-          "title_en": "AI giants learn what everyone else on the modern internet already knows",
-          "title_original": "AI giants learn what everyone else on the modern internet already knows",
-          "summary": null,
-          "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T14:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9485,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T14:02:01Z",
-      "latest_at": "2026-07-12T14:23:06.187000Z",
-      "primary_item": {
-        "id": "ba95601d865a0210044540be1f74d839af08e1f6",
-        "title": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-        "title_zh": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-        "title_en": null,
-        "title_original": "人工智能巨头们终于明白了现代互联网上的其他人都早已知道的事实",
-        "summary": null,
-        "url": "https://www.businessinsider.com/ai-giants-learn-hard-truth-modern-internet-anthropic-openai-google-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79354e1b81c7",
-      "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-      "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874651.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "title_zh": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "title_en": null,
-          "title_original": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "title_zh": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "title_en": null,
-          "title_original": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-          "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "title_zh": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "title_en": null,
-          "title_original": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "c96c2c820fa8341624ea5d57bbd3ee17cb4b3e41",
-          "title": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "title_zh": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "title_en": null,
-          "title_original": "10倍生产力和打折的支付能力，AI最大的矛盾如何破局？",
-          "summary": null,
-          "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T12:53:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9439,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T12:53:09Z",
-      "latest_at": "2026-07-12T14:03:05.481602Z",
-      "primary_item": {
-        "id": "2f73b85ce310166279bd6f41b12db5f86db47840",
-        "title": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "title_zh": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "title_en": null,
-        "title_original": "10 倍生产力和打折的支付能力，AI 最大的矛盾如何破局？",
-        "summary": null,
-        "url": "https://www.huxiu.com/article/4874651.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_56cbb52c8dba",
-      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-      "source": "36氪 (36Kr)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "title_zh": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "title_en": null,
-          "title_original": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "summary": null,
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        },
-        {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "title_zh": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "title_en": null,
-          "title_original": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "summary": null,
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "title_zh": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "title_en": null,
-          "title_original": "AI热潮太费电，燃气轮机价格3年涨了300%",
-          "summary": null,
-          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T11:37:33Z"
-        },
-        {
-          "id": "3a40211363b4e97f550cc53ceba9c73101f9536a",
-          "title": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "title_zh": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "title_en": null,
-          "title_original": "AI 热潮太费电 燃气轮机价格 3 年涨了 300%",
-          "summary": null,
-          "url": "https://www.gelonghui.com/live/2548422",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9114,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T10:55:45.275745Z",
-      "latest_at": "2026-07-12T11:37:33Z",
-      "primary_item": {
-        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
-        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
-        "title_zh": "AI热潮太费电，燃气轮机价格3年涨了300%",
-        "title_en": null,
-        "title_original": "AI热潮太费电，燃气轮机价格3年涨了300%",
-        "summary": null,
-        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
-        "source": "36氪 (36Kr)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e2469c92ba3c",
-      "title": "Nutlope / 标志 / Nutlope /      hallmark",
-      "url": "https://github.com/Nutlope/hallmark",
-      "primary_url": "https://github.com/Nutlope/hallmark",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "title_zh": "Nutlope / 标志",
-          "title_en": "Nutlope /      hallmark",
-          "title_original": "Nutlope /      hallmark",
-          "summary": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        },
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "title_zh": "Nutlope / 标志",
-          "title_en": "Nutlope / hallmark",
-          "title_original": "Nutlope / hallmark",
-          "summary": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-          "title": "Nutlope / 标志 / Nutlope /      hallmark",
-          "title_zh": "Nutlope / 标志",
-          "title_en": "Nutlope /      hallmark",
-          "title_original": "Nutlope /      hallmark",
-          "summary": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T11:31:25.750000Z"
-        },
-        {
-          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
-          "title": "Nutlope / 标志 / Nutlope / hallmark",
-          "title_zh": "Nutlope / 标志",
-          "title_en": "Nutlope / hallmark",
-          "title_original": "Nutlope / hallmark",
-          "summary": null,
-          "url": "https://github.com/Nutlope/hallmark",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9101,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T10:55:45.275745Z",
-      "latest_at": "2026-07-12T11:31:25.750000Z",
-      "primary_item": {
-        "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
-        "title": "Nutlope / 标志 / Nutlope /      hallmark",
-        "title_zh": "Nutlope / 标志",
-        "title_en": "Nutlope /      hallmark",
-        "title_original": "Nutlope /      hallmark",
-        "summary": null,
-        "url": "https://github.com/Nutlope/hallmark",
-        "source": "github",
         "source_name": "NewsNow"
       }
     },
@@ -1876,15 +2179,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5295,
-      "importance": 0.5295,
-      "importance_score": 0.5295,
+      "score": 0.5263,
+      "importance": 0.5263,
+      "importance_score": 0.5263,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7704,
+        "recency": 0.753,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1903,203 +2206,6 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
         "source": "blog.yaelwrites.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-      "url": "https://www.36kr.com/p/3892222176574211",
-      "primary_url": "https://www.36kr.com/p/3892222176574211",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://www.36kr.com/p/3892222176574211",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://www.36kr.com/p/3892222176574211",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9023,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T10:55:45.275745Z",
-      "primary_item": {
-        "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "title_en": null,
-        "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "summary": null,
-        "url": "https://www.36kr.com/p/3892222176574211",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a090ea6b9f4d",
-      "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-      "url": "https://www.v2ex.com/t/1226732",
-      "primary_url": "https://www.v2ex.com/t/1226732",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_zh": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_en": null,
-          "title_original": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        },
-        {
-          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
-          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_zh": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_en": null,
-          "title_original": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_zh": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_en": null,
-          "title_original": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        },
-        {
-          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
-          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_zh": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "title_en": null,
-          "title_original": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-          "summary": null,
-          "url": "https://www.v2ex.com/t/1226732",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T09:33:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5251,
-      "importance": 0.5251,
-      "importance_score": 0.5251,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8847,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T09:33:59Z",
-      "latest_at": "2026-07-12T09:33:59Z",
-      "primary_item": {
-        "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
-        "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-        "title_zh": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-        "title_en": null,
-        "title_original": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
-        "summary": null,
-        "url": "https://www.v2ex.com/t/1226732",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
       }
     }
   ]
