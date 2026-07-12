@@ -4455,7 +4455,10 @@ def load_title_zh_cache(path: Path) -> dict[str, str]:
     try:
         data = json.loads(path.read_text(encoding="utf-8"))
         if isinstance(data, dict):
-            return {str(k): str(v) for k, v in data.items() if str(k).strip() and str(v).strip()}
+            # Note: keep empty-string values (e.g. title-enhance negative-cache
+            # entries under TITLE_ENHANCE_CACHE_PREFIX) so they survive reload
+            # instead of being retried every run.
+            return {str(k): str(v) for k, v in data.items() if str(k).strip()}
     except Exception:
         pass
     return {}
@@ -4747,6 +4750,237 @@ def add_bilingual_fields(
     ai_out = [enrich(it, allow_translate=True) for it in items_ai]
     all_out = [enrich(it, allow_translate=False) for it in items_all]
     return ai_out, all_out, cache
+
+
+TITLE_ENHANCE_CACHE_PREFIX = "te1|"
+
+_TITLE_ENHANCE_GATED_TIERS = {"discussion", "aggregate", "community"}
+_TITLE_ENHANCE_EXEMPT_TIERS = {"official", "curated"}
+
+_TITLE_ENHANCE_YEAR_SUFFIX_RE = re.compile(r"\(20\d{2}\)\s*$")
+
+_TITLE_ENHANCE_ENTITY_RE = re.compile(r"[A-Za-z][A-Za-z0-9]+")
+
+
+def title_needs_enhance(item: dict[str, Any]) -> bool:
+    """Gate for the micro-crawl + DeepSeek title-rewrite step: many source
+    titles are bare product/company names or jargon-heavy aggregator titles
+    that don't read as self-explanatory news headlines."""
+    site_id = str(item.get("site_id") or "").strip().lower()
+    tier = str(item.get("source_tier") or "").strip().lower()
+    if site_id == "official_ai" or tier in _TITLE_ENHANCE_EXEMPT_TIERS:
+        return False
+
+    en_title = str(item.get("title_en") or item.get("title_original") or "").strip()
+    if en_title and 1 <= len(en_title.split()) <= 4:
+        return True
+
+    if tier in _TITLE_ENHANCE_GATED_TIERS:
+        zh_title = str(item.get("title_zh") or "").strip()
+        effective_title = zh_title or en_title
+        if effective_title and len(effective_title) < 18:
+            return True
+        if en_title and _TITLE_ENHANCE_YEAR_SUFFIX_RE.search(en_title):
+            return True
+
+    return False
+
+
+def fetch_title_context(session: requests.Session, url: str) -> str:
+    """Micro-crawl the source page for enough context (meta descriptions +
+    first paragraphs) to let the LLM rewrite a terse title informatively.
+    Any failure or empty extraction returns "" so callers can skip cleanly."""
+    u = str(url or "").strip()
+    if not u:
+        return ""
+    headers = {
+        "User-Agent": (
+            "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+            "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        ),
+        "Accept": "text/html,application/xhtml+xml",
+    }
+    resp = None
+    try:
+        resp = session.get(u, timeout=8, headers=headers, stream=True)
+        resp.raise_for_status()
+        limit = 512 * 1024
+        chunks: list[bytes] = []
+        total = 0
+        for chunk in resp.iter_content(chunk_size=8192):
+            if not chunk:
+                continue
+            chunks.append(chunk)
+            total += len(chunk)
+            if total >= limit:
+                break
+        raw = b"".join(chunks)
+        if not raw:
+            return ""
+        soup = BeautifulSoup(raw, "html.parser")
+
+        parts: list[str] = []
+        for attrs in (
+            {"property": "og:description"},
+            {"name": "description"},
+            {"name": "twitter:description"},
+            {"property": "twitter:description"},
+        ):
+            tag = soup.find("meta", attrs=attrs)
+            if tag and tag.get("content"):
+                text = str(tag.get("content")).strip()
+                if text:
+                    parts.append(text)
+
+        p_count = 0
+        for p in soup.find_all("p"):
+            if p_count >= 3:
+                break
+            if p.find_parent(["script", "style", "nav"]):
+                continue
+            text = p.get_text(" ", strip=True)
+            if text:
+                parts.append(text)
+                p_count += 1
+
+        joined = "\n".join(part for part in parts if part).strip()
+        return joined[:800]
+    except Exception:
+        return ""
+    finally:
+        if resp is not None:
+            try:
+                resp.close()
+            except Exception:
+                pass
+
+
+def _title_enhance_entity_tokens(title: str) -> list[str]:
+    return [tok for tok in _TITLE_ENHANCE_ENTITY_RE.findall(str(title or "")) if len(tok) >= 2]
+
+
+def enhance_title_deepseek(title: str, context: str, timeout: int = 20) -> str | None:
+    """Rewrite a terse/jargon title into an informative Chinese one-liner,
+    grounded in `context` (micro-crawled page text). Validates the candidate
+    before returning so a non-None result can be trusted by callers."""
+    title_s = str(title or "").strip()
+    context_s = str(context or "").strip()
+    if not title_s:
+        return None
+    api_key = str(os.environ.get("DEEPSEEK_API_KEY") or "").strip()
+    if not api_key:
+        return None
+    base_url = str(os.environ.get("DEEPSEEK_API_BASE_URL") or "https://api.deepseek.com").strip().rstrip("/")
+    model = str(os.environ.get("DEEPSEEK_MODEL") or "deepseek-chat").strip()
+    system_prompt = (
+        "你是科技新闻编辑，负责把语焉不详、看不出信息量的英文标题改写成一条完整的中文资讯标题。"
+        "输出一条中文资讯标题，不超过28个字。"
+        "原文中的关键实体（公司名、产品名、人名）必须原样保留英文，不要翻译或音译。"
+        "不得编造原文和参考资料之外的数字或事实。"
+        "使用新闻陈述语气，不要营销口号腔调。"
+        "只输出标题本身，不加引号，不加任何解释。"
+    )
+    user_content = f"原标题：{title_s}"
+    if context_s:
+        user_content += f"\n\n参考网页内容：\n{context_s}"
+    try:
+        r = requests.post(
+            f"{base_url}/chat/completions",
+            headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
+            json={
+                "model": model,
+                "temperature": 0.3,
+                "messages": [
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_content},
+                ],
+            },
+            timeout=timeout,
+        )
+        if r.status_code != 200:
+            return None
+        payload = r.json()
+        choices = payload.get("choices") if isinstance(payload, dict) else None
+        if not isinstance(choices, list) or not choices:
+            return None
+        content = str(((choices[0] or {}).get("message") or {}).get("content") or "").strip()
+        content = content.strip("\"'“”「」").strip()
+    except Exception:
+        return None
+
+    if not content or not has_cjk(content):
+        return None
+    if not (8 <= len(content) <= 40):
+        return None
+
+    entities = _title_enhance_entity_tokens(title_s)
+    if entities:
+        lowered = content.lower()
+        if not any(tok.lower() in lowered for tok in entities):
+            return None
+
+    return content
+
+
+def add_title_enhancements(
+    items_ai: list[dict[str, Any]],
+    session: requests.Session,
+    cache: dict[str, str],
+    max_new_per_run: int | None = None,
+) -> tuple[list[dict[str, Any]], dict[str, str]]:
+    """Micro-crawl + DeepSeek-rewrite gated items_ai entries into an
+    informative `title_enhanced_zh`. No-ops entirely without a DeepSeek key."""
+    if not str(os.environ.get("DEEPSEEK_API_KEY") or "").strip():
+        return items_ai, cache
+
+    if max_new_per_run is None:
+        try:
+            max_new_per_run = int(os.environ.get("TITLE_ENHANCE_MAX_PER_RUN") or 30)
+        except Exception:
+            max_new_per_run = 30
+    max_new_per_run = max(0, max_new_per_run)
+
+    used = 0
+    out: list[dict[str, Any]] = []
+    for item in items_ai:
+        new_item = dict(item)
+        if not title_needs_enhance(new_item):
+            out.append(new_item)
+            continue
+
+        url = normalize_url(str(new_item.get("url") or ""))
+        title = str(
+            new_item.get("title_en") or new_item.get("title_original") or new_item.get("title") or ""
+        ).strip()
+        cache_key = TITLE_ENHANCE_CACHE_PREFIX + hashlib.sha1(f"{url}|{title}".encode("utf-8")).hexdigest()
+
+        if cache_key in cache:
+            cached = cache.get(cache_key) or ""
+            if cached:
+                new_item["title_enhanced_zh"] = cached
+            out.append(new_item)
+            continue
+
+        if used >= max_new_per_run:
+            out.append(new_item)
+            continue
+
+        used += 1
+        context = fetch_title_context(session, str(new_item.get("url") or ""))
+        if not context:
+            cache[cache_key] = ""
+            out.append(new_item)
+            continue
+
+        enhanced = enhance_title_deepseek(title, context)
+        if enhanced:
+            cache[cache_key] = enhanced
+            new_item["title_enhanced_zh"] = enhanced
+        else:
+            cache[cache_key] = ""
+        out.append(new_item)
+
+    return out, cache
 
 
 def dedupe_items_by_title_url(items: list[dict[str, Any]], random_pick: bool = True) -> list[dict[str, Any]]:
@@ -5042,8 +5276,8 @@ def choose_primary_story_item(
 def story_item_link(item: dict[str, Any]) -> dict[str, Any]:
     return {
         "id": item.get("id"),
-        "title": item.get("title_bilingual") or item.get("title"),
-        "title_zh": item.get("title_zh"),
+        "title": item.get("title_enhanced_zh") or item.get("title_bilingual") or item.get("title"),
+        "title_zh": item.get("title_enhanced_zh") or item.get("title_zh"),
         "title_en": item.get("title_en"),
         "title_original": item.get("title_original"),
         "summary": item.get("summary"),
@@ -5085,7 +5319,7 @@ def build_story_record(
     times = [ts for ts in (event_time(item) for item in sorted_items) if ts]
     source_refs = [story_item_link(item) for item in sorted_items]
     source_names = sorted({str(item.get("source") or item.get("site_name") or "") for item in sorted_items if item.get("source") or item.get("site_name")})
-    title = primary.get("title_bilingual") or primary.get("title")
+    title = primary.get("title_enhanced_zh") or primary.get("title_bilingual") or primary.get("title")
     url = primary.get("url")
     return {
         "story_id": story_id,
@@ -5112,7 +5346,7 @@ def build_story_record(
         "primary_item": {
             "id": primary.get("id"),
             "title": title,
-            "title_zh": primary.get("title_zh"),
+            "title_zh": primary.get("title_enhanced_zh") or primary.get("title_zh"),
             "title_en": primary.get("title_en"),
             "title_original": primary.get("title_original"),
             "summary": primary.get("summary"),
@@ -5619,6 +5853,7 @@ def main() -> int:
     )
     latest_items_ai_dedup = suppress_near_duplicate_items(dedupe_items_by_title_url(latest_items, random_pick=False))
     latest_items_all_dedup = dedupe_items_by_title_url(latest_items_all, random_pick=True)
+    latest_items_ai_dedup, title_cache = add_title_enhancements(latest_items_ai_dedup, session, title_cache)
     stories, merge_events = merge_story_items(latest_items_ai_dedup, now=now, window_hours=args.window_hours)
     generated_at = iso(now)
     daily_brief_payload = build_daily_brief_payload(stories, generated_at=generated_at, window_hours=args.window_hours)
