@@ -1162,7 +1162,7 @@ class TopicFilterTests(unittest.TestCase):
         url, kwargs = session.calls[0]
         self.assertEqual(url, "https://api.socialdata.tools/twitter/search")
         self.assertEqual(kwargs["headers"]["Authorization"], "Bearer test")
-        self.assertEqual(kwargs["params"]["type"], "Latest")
+        self.assertEqual(kwargs["params"]["type"], "Top")
 
     def test_socialdata_drops_tweets_older_than_recency_window(self):
         class FakeResponse:

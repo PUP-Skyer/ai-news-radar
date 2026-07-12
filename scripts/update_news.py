@@ -3421,7 +3421,7 @@ def fetch_socialdata_search(
     query: str,
     now: datetime,
     max_results: int,
-    search_type: str = "Latest",
+    search_type: str = "Top",
     base_url: str = SOCIALDATA_API_BASE_DEFAULT,
 ) -> tuple[list[RawItem], dict[str, Any]]:
     """Fetch public X search results through SocialData; no writes and no private data."""
@@ -3429,7 +3429,9 @@ def fetch_socialdata_search(
     if len(query) > SOCIALDATA_MAX_QUERY_CHARS:
         raise ValueError("socialdata_query_too_long")
     capped_max_results = max(1, min(int(max_results or SOCIALDATA_DEFAULT_MAX_RESULTS), 100))
-    effective_search_type = search_type if search_type in {"Latest", "Top"} else "Latest"
+    # 默认 Top:Latest 返回的是 API 调用瞬间刚发出的推文,一批的原帖时间挤在同一分钟,
+    # 时间轴上表现为同分钟刷屏;Top 按热度返回时间窗内的推文,原帖时间自然散布。
+    effective_search_type = search_type if search_type in {"Latest", "Top"} else "Top"
     out: list[RawItem] = []
     raw_tweet_count = 0
     response_top_level_keys: list[str] = []
@@ -3691,7 +3693,7 @@ def maybe_fetch_socialdata_updates(
 
     query = str(os.environ.get("SOCIALDATA_QUERY") or SOCIALDATA_DEFAULT_QUERY).strip()
     base_url = str(os.environ.get("SOCIALDATA_API_BASE_URL") or SOCIALDATA_API_BASE_DEFAULT).strip()
-    search_type = str(os.environ.get("SOCIALDATA_SEARCH_TYPE") or "Latest").strip() or "Latest"
+    search_type = str(os.environ.get("SOCIALDATA_SEARCH_TYPE") or "Top").strip() or "Top"
     list_id = str(os.environ.get("SOCIALDATA_LIST_ID") or SOCIALDATA_LIST_ID_DEFAULT).strip()
     list_enabled = bool(list_id) and str(os.environ.get("SOCIALDATA_LIST_ENABLED", "1")).strip().lower() in {
         "1",
