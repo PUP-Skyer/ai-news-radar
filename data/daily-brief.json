@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T14:03:05.481602Z",
+  "generated_at": "2026-07-12T15:32:56.938982Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,15 +100,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.8014,
+      "importance": 0.8014,
+      "importance_score": 0.8014,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.845,
+        "recency": 0.8269,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -201,15 +201,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7776,
-      "importance": 0.7776,
-      "importance_score": 0.7776,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.9132,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -302,15 +302,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.8184,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -403,15 +403,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8252,
+        "recency": 0.8075,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -435,38 +435,38 @@
       }
     },
     {
-      "story_id": "story_b21c70de14cb",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "story_id": "story_4da51d31a85f",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "primary_url": "https://github.com/cosmtrek/mindwalk",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
           "title_en": null,
-          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         },
         {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
+          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "title_zh": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话",
+          "title_en": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "title_original": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
           "summary": null,
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
+          "published_at": "2026-07-12T05:51:32Z"
         }
       ],
       "source_count": 2,
@@ -476,43 +476,43 @@
       ],
       "items": [
         {
-          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
           "title_en": null,
-          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09.632000Z"
+          "published_at": "2026-07-12T13:51:05.035000Z"
         },
         {
-          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
-          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "id": "8ae43e3e6e516ec40634c1eb5556f6a09222b8b2",
+          "title": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话 / Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "title_zh": "Show HN: Mindwalk——在代码库的 3D 地图上重放编码代理会话",
+          "title_en": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
+          "title_original": "Show HN: Mindwalk – Replay coding-agent sessions on a 3D map of your codebase",
           "summary": null,
-          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "url": "https://github.com/cosmtrek/mindwalk",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-12T01:09:50Z"
+          "published_at": "2026-07-12T05:51:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8647,
+        "recency": 0.9758,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -521,16 +521,16 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T01:09:50Z",
-      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "earliest_at": "2026-07-12T05:51:32Z",
+      "latest_at": "2026-07-12T13:51:05.035000Z",
       "primary_item": {
-        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "id": "f0ab453c983795f2bb58f4460a1491625e458b92",
+        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "title_zh": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
         "title_en": null,
-        "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
-        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "title_original": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "summary": "Mindwalk 是一款可视化工具，可将 Claude Code 和 Codex 的会话日志在代码库的 3D 地图上回放。它将仓库绘制成夜间地图，代理搜索、读取和编辑过的文件会发光，未触及区域保持黑暗，让用户一眼看清代理对任务的理解范围。单个 Go 二进制文件即可运行，所有会话数据完全本地处理，不会离开机器。支持树状图/地形图两种视图，文件触达状态分为未访问、已查看、已读取、已编辑四种颜色标记。播放界面包含错误率、文件修改量等摩擦信号面板，以及上下文压缩、子代理启动、用户交互等时间轴标记。支持键盘快捷键控制播放速度、跳转编辑点或错误点。",
+        "url": "https://github.com/cosmtrek/mindwalk",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
@@ -578,15 +578,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8545,
+        "recency": 0.8362,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,15 +677,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.733,
-      "importance": 0.733,
-      "importance_score": 0.733,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7354,
+        "recency": 0.7197,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -777,15 +777,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.756,
+      "importance": 0.756,
+      "importance_score": 0.756,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8479,
+        "recency": 0.8297,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -805,6 +805,107 @@
         "summary": "苹果在美国起诉OpenAI，指控其挖角400名员工、窃取工程机和机密文件。分析师Paolo Pescatore认为，即使指控最终无法证实，OpenAI的硬件计划仍可能受拖累，双方本就脆弱的合作关系将进一步削弱。斯坦福大学教授Mark Lemley指出，若前苹果员工确实带走机密文件并在OpenAI使用，问题将变得严重。该案涉及消费级硬件产品，预计未来将有更多信息曝光。",
         "url": "https://www.ithome.com/0/975/666.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b21c70de14cb",
+      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "primary_url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": null,
+          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": null,
+          "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T03:59:09.632000Z"
+        },
+        {
+          "id": "b97d788b92fd38b4c103fc801bdc650df9832b27",
+          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史 / What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+          "title_en": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "title_original": "What xAI's Grok Build CLI Actually Sends to xAI",
+          "summary": null,
+          "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T01:09:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8462,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:09:50Z",
+      "latest_at": "2026-07-12T03:59:09.632000Z",
+      "primary_item": {
+        "id": "8e31f61f67fba6ecd5e7a7f27e13e7d9e0ba4535",
+        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "title_zh": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "title_en": null,
+        "title_original": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
+        "summary": "对 xAI 官方 Grok Build 编码 CLI（grok 0.2.93）的网络流量分析显示，该工具在消费者登录后会向 xAI 发送三类数据：一是它读取的文件内容（包括 .env 密钥文件）以明文形式通过 POST /v1/responses 传输，并同时打包成 session_state 存档通过 POST /v1/storage 上传并获 HTTP 200 确认；二是整个仓库的全部文件内容及 git 历史，独立于 AI 智能体实际读取的文件--即使提示\"不要读取任何文件\"，Grok 仍将整个仓库作为 git bundle 上传至 Google Cloud Storage 的 grok-code-session-traces 存储桶；三是该上传机制默认开启，且关闭\"改进模型\"设置不会禁用（/v1/settings 仍返回 trace_upload_enabled： true）。在 12 GB 仓库测试中，/v1/storage 传输了 5.10 GiB 数据，而模型对话通道仅传输 192 KB，比例约 27，800 倍。分析未证明 xAI 使用这些数据进行训练，但证实了数据被传输、接收并存储。",
+        "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -851,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7236,
-      "importance": 0.7236,
-      "importance_score": 0.7236,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7387,
+        "recency": 0.7229,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -877,107 +978,6 @@
         "summary": "剑桥大学CASP研究员Antonia Jülich对27名前成员的57次访谈显示，博科圣地已使用ChatGPT、Claude、Gemini、Grok、Meta AI和DeepSeek等主流AI聊天机器人，用于袭击策划、制造更强爆炸装置、武器维护及行动安全。该组织两个派系均设立了专门的AI部门。ISIS自2023年起便提供提示工程和越狱培训，并训练尼日利亚的博科圣地指挥官绕过AI安全过滤器。研究指出，安全过滤器未能可靠防止滥用。Anthropic近期承认，越狱可能永远无法完全消除。",
         "url": "https://the-decoder.com/terrorist-groups-are-using-every-major-ai-chatbot-for-attack-planning-and-weapons-development",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9c885636aaf2",
-      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-      "url": "https://www.mixfont.com/ghost-font",
-      "primary_url": "https://www.mixfont.com/ghost-font",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "title_zh": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "title_en": null,
-          "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "title_zh": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "title_en": null,
-          "title_original": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "summary": null,
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.mixfont.com"
-      ],
-      "items": [
-        {
-          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "title_zh": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "title_en": null,
-          "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-          "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        },
-        {
-          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
-          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "title_zh": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "title_en": null,
-          "title_original": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
-          "summary": null,
-          "url": "https://www.mixfont.com/ghost-font",
-          "source": "www.mixfont.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T16:31:09.615000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7328,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T16:31:09.615000Z",
-      "latest_at": "2026-07-11T16:31:09.615000Z",
-      "primary_item": {
-        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
-        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "title_zh": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "title_en": null,
-        "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
-        "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
-        "url": "https://www.mixfont.com/ghost-font",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1051,22 +1051,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8089,
+        "recency": 0.7916,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T23:21:57Z",
       "latest_at": "2026-07-11T23:21:57Z",
@@ -1084,13 +1083,39 @@
     },
     {
       "story_id": "story_2df82173bb28",
-      "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+      "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
       "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
       "primary_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-      "source": "社区更新 · 2026-07-11",
+      "source": "社区更新 · 2026-07-12",
       "source_name": "WaytoAGI",
       "sources": [
         {
+          "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
+          "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "title_zh": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "title_en": null,
+          "title_original": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "summary": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:32:56.938982Z"
+        },
+        {
+          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "title_zh": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "title_en": null,
+          "title_original": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "summary": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:32:56.938982Z"
+        },
+        {
           "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
           "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
           "title_zh": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
@@ -1143,12 +1168,39 @@
           "published_at": "2026-07-11T16:58:14.203553Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 6,
       "source_names": [
-        "社区更新 · 2026-07-11"
+        "社区更新 · 2026-07-11",
+        "社区更新 · 2026-07-12"
       ],
       "items": [
         {
+          "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
+          "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "title_zh": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "title_en": null,
+          "title_original": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "summary": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:32:56.938982Z"
+        },
+        {
+          "id": "9b390655dafd542dce2eb4f54ba659155af6b256",
+          "title": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "title_zh": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "title_en": null,
+          "title_original": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "summary": "AJ受邀参加了D20峰会 AI 云智能分论坛 Go! Vibe Designing，做了一场「AI时代的设计流程重组」的分享，还和播客主理人刘飞、B 站 UP 主抽象仔一起，把圆桌聊成了一场现场播客。下面就和线上的朋友们一起回顾下AJ的分享内容！",
+          "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
+          "source": "社区更新 · 2026-07-12",
+          "source_name": "WaytoAGI",
+          "site_id": "waytoagi",
+          "published_at": "2026-07-12T15:32:56.938982Z"
+        },
+        {
           "id": "caee1cb3a04957cae68506cd128aeb2d65398a1f",
           "title": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
           "title_zh": "被零散灵感困住、难以落地完整剧本的编剧与内容创作者，快来试试猫叔的原点编剧系统（Plotcat）。它适配电影、长剧集、微短剧三类创作逻辑，打通了从单句创意到完整分场剧本的全流程。除了可以梳理故事内核、立体塑造人物、可视化管理故事结构与人物关系，还按需发散剧情、拆解节奏钩子，始终以创作者判断为主。数据本地存储可以保障素材隐私，兼容主流大模型，简单几步即可部署，新手也能用它高效搭建完整故事体系。",
@@ -1201,35 +1253,262 @@
           "published_at": "2026-07-11T16:58:14.203553Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.6094,
-      "importance": 0.6094,
-      "importance_score": 0.6094,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6692,
+      "importance": 0.6692,
+      "importance_score": 0.6692,
       "importance_label": "多源热议",
       "importance_breakdown": {
-        "editorial": 0.4896,
+        "editorial": 0.468,
         "source_tier": 0.54,
-        "ai_relevance": 0.68,
-        "recency": 0.7376,
-        "story_heat": 0.75
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-11T16:58:14.203553Z",
-      "latest_at": "2026-07-11T17:58:59.524998Z",
+      "latest_at": "2026-07-12T15:32:56.938982Z",
       "primary_item": {
-        "id": "3c2022c7454f793525a90db411cf2ed531ba3489",
-        "title": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-        "title_zh": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+        "id": "c5c6174b0bb558b86c7043802bc43e3396732d03",
+        "title": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+        "title_zh": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
         "title_en": null,
-        "title_original": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
-        "summary": "如果你也经常日常使用ChatGPT、Codex做办公与代码开发，这份OpenAI官方提示词指南可以帮助你提升指令输出的质量。文中给出了通用的高效 Prompt 底层框架，还区分了普通对话、批量工作任务、代码工程三类专属指令逻辑，附上文件、插件、云端资源调用规范。",
+        "title_original": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
+        "summary": "AI可以批量写文案、做图片、投广告，品牌制造“声量”的成本正在快速下降。可当所有人都能生产更多内容，顾客为什么还要记住你、信任你，甚至主动把你推荐给别人？这正是营销家Seth Godin在这期对话里追问的问题。",
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
-        "source": "社区更新 · 2026-07-11",
+        "source": "社区更新 · 2026-07-12",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_9c885636aaf2",
+      "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+      "url": "https://www.mixfont.com/ghost-font",
+      "primary_url": "https://www.mixfont.com/ghost-font",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "title_zh": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "title_en": null,
+          "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "title_zh": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "title_en": null,
+          "title_original": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "summary": null,
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.mixfont.com"
+      ],
+      "items": [
+        {
+          "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+          "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "title_zh": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "title_en": null,
+          "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+          "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "title_zh": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "title_en": null,
+          "title_original": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "summary": null,
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7171,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T16:31:09.615000Z",
+      "latest_at": "2026-07-11T16:31:09.615000Z",
+      "primary_item": {
+        "id": "eb0c2a306d2503ddbefd65127804aca9757392ab",
+        "title": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+        "title_zh": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+        "title_en": null,
+        "title_original": "Ghost Font：一种人类能读懂但AI无法识别的反AI字体",
+        "summary": "Ghost Font 是一种利用运动、视频、噪点和诱饵来隐藏文字的反AI字体。用户输入文字后可生成并下载视频片段，视频中的字母由与背景完全相同的点组成，单帧截图无法显示任何信息。该字体生成的视频被传递给Claude Fable和GPT Sol 5.6 Ultra等前沿模型时，这些模型即使具备编程能力也无法解码移动信息，直到被提示具体技术。视频中还包含一条诱饵信息，使模型误以为找到真实内容。项目灵感来自2013年Sang Mun设计的ZXX字体，但现代AI已能轻松读取ZXX。Ghost Font目前为本地原型，数据不发送至任何服务器。作者计划未来将视频生成代码开源，并探索将其用于CAPTCHA系统或AI视觉感知基准测试。",
+        "url": "https://www.mixfont.com/ghost-font",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_af41461907f9",
+      "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "url": "https://news.ycombinator.com/item?id=48881009",
+      "primary_url": "https://news.ycombinator.com/item?id=48881009",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
+          "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_zh": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范",
+          "title_en": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_original": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48881009",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:33:34.425000Z"
+        },
+        {
+          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "title_zh": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "title_en": null,
+          "title_original": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "summary": null,
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T13:35:15.303000Z"
+        },
+        {
+          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_zh": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "title_en": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_original": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "summary": null,
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:21:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
+          "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_zh": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范",
+          "title_en": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_original": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48881009",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:33:34.425000Z"
+        },
+        {
+          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "title_zh": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "title_en": null,
+          "title_original": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "summary": null,
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T13:35:15.303000Z"
+        },
+        {
+          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_zh": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "title_en": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "title_original": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "summary": null,
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:21:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5708,
+      "importance": 0.5708,
+      "importance_score": 0.5708,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:21:01Z",
+      "latest_at": "2026-07-12T15:33:34.425000Z",
+      "primary_item": {
+        "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
+        "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+        "title_zh": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范",
+        "title_en": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+        "title_original": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+        "summary": null,
+        "url": "https://news.ycombinator.com/item?id=48881009",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1356,15 +1635,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5739,
-      "importance": 0.5739,
-      "importance_score": 0.5739,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8781,
+        "recency": 0.8593,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1455,15 +1734,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1554,15 +1833,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5359,
+      "importance": 0.5359,
+      "importance_score": 0.5359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9656,
+        "recency": 0.9449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,15 +1932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9642,
+        "recency": 0.9435,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1679,132 +1958,6 @@
         "summary": null,
         "url": "https://github.com/Nutlope/hallmark",
         "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-      "url": "https://news.ycombinator.com/item?id=48875342",
-      "primary_url": "https://news.ycombinator.com/item?id=48875342",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48875342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T00:41:44.375000Z"
-        },
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_en": null,
-          "title_original": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "summary": null,
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": null,
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48875342",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T00:41:44.375000Z"
-        },
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_en": null,
-          "title_original": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "summary": null,
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "2c492bf97e09e599b514e5ed4acce179dc5cc1e8",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "summary": null,
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8246,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-12T00:41:44.375000Z",
-      "primary_item": {
-        "id": "79108bffc3cb1131a68a630ef7b64acbd08aa64a",
-        "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-        "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-        "summary": null,
-        "url": "https://news.ycombinator.com/item?id=48875342",
-        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -1878,15 +2031,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5385,
-      "importance": 0.5385,
-      "importance_score": 0.5385,
+      "score": 0.5348,
+      "importance": 0.5348,
+      "importance_score": 0.5348,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9595,
+        "recency": 0.9389,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1905,105 +2058,6 @@
         "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-      "url": "https://www.36kr.com/p/3892222176574211",
-      "primary_url": "https://www.36kr.com/p/3892222176574211",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://www.36kr.com/p/3892222176574211",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://www.36kr.com/p/3892222176574211",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "title_en": null,
-          "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "summary": null,
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9559,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T10:55:45.275745Z",
-      "primary_item": {
-        "id": "6b804231c301f483c3025548fce93ba0d9f09ac4",
-        "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "title_zh": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "title_en": null,
-        "title_original": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-        "summary": null,
-        "url": "https://www.36kr.com/p/3892222176574211",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
       }
     },
     {
@@ -2103,15 +2157,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8162,
+        "recency": 0.7987,
         "story_heat": 0.5
       },
       "category": "multi_source",
