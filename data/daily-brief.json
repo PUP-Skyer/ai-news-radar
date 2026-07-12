@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:52:33.550356Z",
+  "generated_at": "2026-07-12T07:28:06.193720Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -26,8 +26,8 @@
         },
         {
           "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
           "title_en": "Mesh LLM: distributed AI computing on iroh",
           "title_original": "Mesh LLM: distributed AI computing on iroh",
           "summary": null,
@@ -73,8 +73,8 @@
         },
         {
           "id": "ee5b199ca5a51d3343c682aebc936f278feb572d",
-          "title": "Mesh LLM：iroh 上的分布式 AI 计算 / Mesh LLM: distributed AI computing on iroh",
-          "title_zh": "Mesh LLM：iroh 上的分布式 AI 计算",
+          "title": "Mesh LLM：在 iroh 上进行分布式人工智能计算 / Mesh LLM: distributed AI computing on iroh",
+          "title_zh": "Mesh LLM：在 iroh 上进行分布式人工智能计算",
           "title_en": "Mesh LLM: distributed AI computing on iroh",
           "title_original": "Mesh LLM: distributed AI computing on iroh",
           "summary": null,
@@ -100,15 +100,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8262,
-      "importance": 0.8262,
-      "importance_score": 0.8262,
+      "score": 0.8199,
+      "importance": 0.8199,
+      "importance_score": 0.8199,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9647,
+        "recency": 0.9292,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -128,6 +128,107 @@
         "summary": "Mesh LLM 是一个开源项目，能将用户多台机器上的 GPU 和内存池化，对外暴露兼容 OpenAI 的 API。它通过 iroh 网络库实现点对点连接，无需中央服务器。请求可在本地 GPU 运行、路由到已加载模型的节点，或将大模型按层分区（内部称\"Skippy\"）流水线式拆分到多台机器。系统内置 40 多个模型，从 5 亿参数到 235B MoE 巨模型均可支持。软件体积约 18 MB，启动后以 `localhost：9337/v1` 提供服务。",
         "url": "https://www.iroh.computer/blog/mesh-llm",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ed5bc085d889",
+      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+      "url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_original": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "summary": null,
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Thibault Sottiaux",
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T01:40:04Z"
+        },
+        {
+          "id": "1d11733b9fec7200cfaf033270139b86b36a3e26",
+          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+          "title_en": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "title_original": "If you aren't yet bold enough to install the Codex app, you can stay in the presence of your orange crab and point it at GPT 5.6 Sol. Takes 5 minutes. Kudos to Theo for explaining one of the ways to get this done. Ste...",
+          "summary": null,
+          "url": "https://x.com/thsottiaux/status/2076119366647894371",
+          "source": "Follow Builders · X · Thibault Sottiaux",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-12T01:40:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7871,
+      "importance": 0.7871,
+      "importance_score": 0.7871,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9196,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T01:40:04Z",
+      "latest_at": "2026-07-12T01:40:04Z",
+      "primary_item": {
+        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
+        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
+        "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
+        "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
+        "url": "https://x.com/thsottiaux/status/2076119366647894371",
+        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -255,15 +356,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.8058,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -356,15 +457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7912,
-      "importance": 0.7912,
-      "importance_score": 0.7912,
+      "score": 0.7849,
+      "importance": 0.7849,
+      "importance_score": 0.7849,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9075,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -384,79 +485,6 @@
         "summary": "OpenAI 宣布其 GPT-5.6 Sol Ultra 模型在不到一小时内生成了图论难题\"循环双覆盖猜想\"的完整证明。该猜想由数学家 George Szekeres 和 Paul Seymour 于 1970 年代提出，悬而未决超过 50 年。模型通过调用 64 个并行子智能体及对抗智能体，在预留的 8 小时计算时间内仅用约 1 小时完成证明。OpenAI 已将证明及提示词以 PDF 形式发布。该证明尚未经同行评审，也未使用 Lean 等形式化工具验证。若通过验证，这将是 LLM 首次独立解决维基百科\"未解决数学问题\"列表中的难题。",
         "url": "https://www.ithome.com/0/975/646.htm",
         "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ed5bc085d889",
-      "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-      "url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "primary_url": "https://x.com/thsottiaux/status/2076119366647894371",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-          "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-          "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-          "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
-          "url": "https://x.com/thsottiaux/status/2076119366647894371",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T01:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9547,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-12T01:40:04Z",
-      "latest_at": "2026-07-12T01:40:04Z",
-      "primary_item": {
-        "id": "ac96d43e31bdd30398b6e53a653614781c362c89",
-        "title": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法 / If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-        "title_zh": "Tibo 分享通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法",
-        "title_en": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-        "title_original": "If you aren't yet bold enough to install the Codex app， you can stay in the presence of your orange …",
-        "summary": "用户 Tibo 分享了一种通过 CLIProxyAPI 将 Claude Code 后端模型切换为 GPT-5.6 Sol 的方法。只需三步：安装 CLIProxyAPI、连接认证、设置环境变量别名 `claudex`。该别名配置了子智能体模型、始终启用 Effort、最大并发工具调用数等参数。引用推文作者 Theo 补充，若已配置好代理，仅需约 2 条提示词即可完成设置。Tibo 称整个过程约 5 分钟，若被封锁可重置。",
-        "url": "https://x.com/thsottiaux/status/2076119366647894371",
-        "source": "X：Tibo (@thsottiaux)",
         "source_name": "AI HOT"
       }
     },
@@ -503,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9756,
+        "recency": 0.9397,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -531,107 +559,6 @@
         "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-07-12-hexi-2077-ai-weekly-2026-w28",
         "source": "Daily Digest",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_57583f5b9bca",
-      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "primary_url": "https://x.com/sama/status/2075985056846451123",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "summary": null,
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Sam Altman",
-        "X：Sam Altman (@sama)"
-      ],
-      "items": [
-        {
-          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-11T16:46:22Z"
-        },
-        {
-          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
-          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
-          "summary": null,
-          "url": "https://x.com/sama/status/2075985056846451123",
-          "source": "Follow Builders · X · Sam Altman",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-07-11T16:46:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8396,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-11T16:46:22Z",
-      "latest_at": "2026-07-11T16:46:22Z",
-      "primary_item": {
-        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
-        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
-        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
-        "url": "https://x.com/sama/status/2075985056846451123",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -704,22 +631,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7391,
+        "recency": 0.7119,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-11T07:56:11Z",
       "latest_at": "2026-07-11T07:56:11Z",
@@ -732,6 +658,106 @@
         "summary": "蚂蚁集团旗下具身智能团队 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型。该模型采用因果 DiT 架构，视频专家约 13.0B 参数（约 1.9B 激活），训练规模约 15.3B 参数，推理时每 token 约 2.5B 激活。模型引入多块预测（MCP）实现 2.3 倍训练加速，并通过前瞻推理将推理延迟降至 142 ms/chunk。在 RoboTwin 2.0 的 50 个任务上，干净与随机演示数据平均成功率分别达 93.8% 和 93.4%。",
         "url": "https://www.marktechpost.com/2026/07/11/ant-groups-robbyant-unveils-lingbot-va-2-0",
         "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_57583f5b9bca",
+      "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+      "url": "https://x.com/sama/status/2075985056846451123",
+      "primary_url": "https://x.com/sama/status/2075985056846451123",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "summary": null,
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Follow Builders · X · Sam Altman",
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+          "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T16:46:22Z"
+        },
+        {
+          "id": "810bc02281177a13ff528308e8739a3d83a654e4",
+          "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+          "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\" https://t.co/n4J37XVqNM",
+          "summary": null,
+          "url": "https://x.com/sama/status/2075985056846451123",
+          "source": "Follow Builders · X · Sam Altman",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-07-11T16:46:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8088,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-11T16:46:22Z",
+      "latest_at": "2026-07-11T16:46:22Z",
+      "primary_item": {
+        "id": "22ef182015f2e83386377266bcbf01ec0a50df4d",
+        "title": "OpenAI 发布 GPT-5.6 系列医疗评估结果 / \"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_zh": "OpenAI 发布 GPT-5.6 系列医疗评估结果",
+        "title_en": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "title_original": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
+        "summary": "OpenAI 发布 GPT-5.6 系列在医疗领域的评估结果。最小变体 GPT-5.6 Luna 在最低推理强度下即超越最高推理强度的 GPT-5.5，且成本低 25 倍；最大变体 GPT-5.6 Sol 树立新标杆。在涵盖患者端与临床端的多样化任务中，专科医生被要求以无限时间和网络访问权限撰写回答，随后由其他医生盲评。评估基于准确性、沟通、完整性、指令遵循及健康决策帮助性五个维度，共 20000 次评分。结果显示，所有 GPT-5.6 模型表现均显著优于医生，且医生发现 GPT-5.6 回答中的缺陷少于医生自己撰写的回答。",
+        "url": "https://x.com/sama/status/2075985056846451123",
+        "source": "X：Sam Altman (@sama)",
         "source_name": "AI HOT"
       }
     },
@@ -805,15 +831,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7744,
+      "importance": 0.7744,
+      "importance_score": 0.7744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.968,
+        "recency": 0.9324,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -879,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8433,
+        "recency": 0.8123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,15 +1004,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7963,
-      "importance": 0.7963,
-      "importance_score": 0.7963,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9872,
+        "recency": 0.951,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1079,15 +1105,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9235,
+        "recency": 0.8896,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1180,15 +1206,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.735,
+        "recency": 0.708,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1331,15 +1357,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.6282,
-      "importance": 0.6282,
-      "importance_score": 0.6282,
+      "score": 0.6227,
+      "importance": 0.6227,
+      "importance_score": 0.6227,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.842,
+        "recency": 0.8111,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1358,6 +1384,159 @@
         "url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
         "source": "社区更新 · 2026-07-11",
         "source_name": "WaytoAGI"
+      }
+    },
+    {
+      "story_id": "story_3ff1f70f056f",
+      "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+      "primary_url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+      "source": "pluralistic.net",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_en": null,
+          "title_original": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "summary": null,
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "pluralistic.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T05:03:04.325000Z"
+        },
+        {
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "title_zh": "反向半人马是人工智能悖论的答案",
+          "title_en": "Reverse centaurs are the answer to the AI paradox",
+          "title_original": "Reverse centaurs are the answer to the AI paradox",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T19:18:08.299000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
+          "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_en": "Reverse centaurs are the answer to the AI paradox",
+          "title_original": "Reverse centaurs are the answer to the AI paradox",
+          "summary": null,
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_en": "Reverse centaurs are the answer to the AI paradox (2025)",
+          "title_original": "Reverse centaurs are the answer to the AI paradox (2025)",
+          "summary": null,
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "pluralistic.net"
+      ],
+      "items": [
+        {
+          "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_en": null,
+          "title_original": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "summary": null,
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "pluralistic.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T05:03:04.325000Z"
+        },
+        {
+          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
+          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
+          "title_zh": "反向半人马是人工智能悖论的答案",
+          "title_en": "Reverse centaurs are the answer to the AI paradox",
+          "title_original": "Reverse centaurs are the answer to the AI paradox",
+          "summary": null,
+          "url": "https://news.ycombinator.com/item?id=48873855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T19:18:08.299000Z"
+        },
+        {
+          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox",
+          "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_en": "Reverse centaurs are the answer to the AI paradox",
+          "title_original": "Reverse centaurs are the answer to the AI paradox",
+          "summary": null,
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T17:23:52Z"
+        },
+        {
+          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
+          "title": "“反向半人马”是解决人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
+          "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+          "title_en": "Reverse centaurs are the answer to the AI paradox (2025)",
+          "title_original": "Reverse centaurs are the answer to the AI paradox (2025)",
+          "summary": null,
+          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T17:23:52Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5896,
+      "importance": 0.5896,
+      "importance_score": 0.5896,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9657,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T17:23:52Z",
+      "latest_at": "2026-07-12T05:03:04.325000Z",
+      "primary_item": {
+        "id": "97efab0bfe2b1a777aa0b77fa065f105f53d35d6",
+        "title": "“反向半人马”是解决人工智能悖论的答案（2025）",
+        "title_zh": "“反向半人马”是解决人工智能悖论的答案（2025）",
+        "title_en": null,
+        "title_original": "“反向半人马”是解决人工智能悖论的答案（2025）",
+        "summary": null,
+        "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
+        "source": "pluralistic.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1395,22 +1574,22 @@
           "published_at": "2026-07-11T20:15:06.203000Z"
         },
         {
-          "id": "48d3b5aff06eecd09d5a51ebd27515b9dc241399",
+          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
           "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
           "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "summary": null,
           "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-11T20:03:42Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "github.com",
         "hackernews"
       ],
@@ -1442,30 +1621,30 @@
           "published_at": "2026-07-11T20:15:06.203000Z"
         },
         {
-          "id": "48d3b5aff06eecd09d5a51ebd27515b9dc241399",
+          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
           "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "title_zh": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
           "title_en": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "title_original": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
           "summary": null,
           "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-11T20:03:42Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9414,
+        "recency": 0.9068,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1521,22 +1700,22 @@
           "published_at": "2026-07-11T23:11:32.847000Z"
         },
         {
-          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
           "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
           "title_zh": "别再让我去问LLM了",
           "title_en": "Stop Telling Me to Ask an LLM",
           "title_original": "Stop Telling Me to Ask an LLM",
           "summary": null,
           "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:28:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "blog.yaelwrites.com",
         "hackernews"
       ],
@@ -1568,30 +1747,30 @@
           "published_at": "2026-07-11T23:11:32.847000Z"
         },
         {
-          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
+          "id": "7ad6a87cd024d1f73c270622a277ed46ea3f5091",
           "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
           "title_zh": "别再让我去问LLM了",
           "title_en": "Stop Telling Me to Ask an LLM",
           "title_original": "Stop Telling Me to Ask an LLM",
           "summary": null,
           "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-11T22:28:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9318,
+        "recency": 0.8976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1709,15 +1888,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5479,
-      "importance": 0.5479,
-      "importance_score": 0.5479,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8728,
+        "recency": 0.8407,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1808,15 +1987,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9633,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1907,15 +2086,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5428,
-      "importance": 0.5428,
-      "importance_score": 0.5428,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9834,
+        "recency": 0.9473,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1937,228 +2116,101 @@
       }
     },
     {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_d510ab3ae5b4",
+      "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "primary_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": null,
-          "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "title_zh": "简单液体中意外的类固体断裂",
+          "title_en": "Unexpected Solidlike Fracture in Simple Liquids",
+          "title_original": "Unexpected Solidlike Fracture in Simple Liquids",
           "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
         },
         {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_original": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "title_zh": "我们知道简单的流体可以流动。事实证明，有些会骨折",
+          "title_en": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "title_original": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
           "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": null,
-          "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+          "title_zh": "简单液体中意外的类固体断裂",
+          "title_en": "Unexpected Solidlike Fracture in Simple Liquids",
+          "title_original": "Unexpected Solidlike Fracture in Simple Liquids",
           "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
         },
         {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "title_en": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "title_original": "What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
+          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
+          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "title_zh": "我们知道简单的流体可以流动。事实证明，有些会骨折",
+          "title_en": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
+          "title_original": "We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
           "summary": null,
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
+          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-12T02:13:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8898,
+        "recency": 0.9271,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
+      "earliest_at": "2026-07-12T02:13:46Z",
+      "latest_at": "2026-07-12T02:13:46Z",
       "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "title_zh": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "title_en": null,
-        "title_original": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
+        "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
+        "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
+        "title_zh": "简单液体中意外的类固体断裂",
+        "title_en": "Unexpected Solidlike Fracture in Simple Liquids",
+        "title_original": "Unexpected Solidlike Fracture in Simple Liquids",
         "summary": null,
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3ff1f70f056f",
-      "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-      "url": "https://news.ycombinator.com/item?id=48873855",
-      "primary_url": "https://news.ycombinator.com/item?id=48873855",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "title_zh": "反向半人马是人工智能悖论的答案",
-          "title_en": "Reverse centaurs are the answer to the AI paradox",
-          "title_original": "Reverse centaurs are the answer to the AI paradox",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T19:18:08.299000Z"
-        },
-        {
-          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "title_zh": "反向半人马是人工智能悖论的答案",
-          "title_en": "Reverse centaurs are the answer to the AI paradox",
-          "title_original": "Reverse centaurs are the answer to the AI paradox",
-          "summary": null,
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T17:23:52Z"
-        },
-        {
-          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "title_zh": "反向半人马是人工智能悖论的答案（2025）",
-          "title_en": "Reverse centaurs are the answer to the AI paradox (2025)",
-          "title_original": "Reverse centaurs are the answer to the AI paradox (2025)",
-          "summary": null,
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "title_zh": "反向半人马是人工智能悖论的答案",
-          "title_en": "Reverse centaurs are the answer to the AI paradox",
-          "title_original": "Reverse centaurs are the answer to the AI paradox",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48873855",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T19:18:08.299000Z"
-        },
-        {
-          "id": "f402204aeafbc5a0640273db623e38d0d26434e3",
-          "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-          "title_zh": "反向半人马是人工智能悖论的答案",
-          "title_en": "Reverse centaurs are the answer to the AI paradox",
-          "title_original": "Reverse centaurs are the answer to the AI paradox",
-          "summary": null,
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T17:23:52Z"
-        },
-        {
-          "id": "ca08a8a9570106ba8f43da5446dfe54bce89078f",
-          "title": "反向半人马是人工智能悖论的答案（2025） / Reverse centaurs are the answer to the AI paradox (2025)",
-          "title_zh": "反向半人马是人工智能悖论的答案（2025）",
-          "title_en": "Reverse centaurs are the answer to the AI paradox (2025)",
-          "title_original": "Reverse centaurs are the answer to the AI paradox (2025)",
-          "summary": null,
-          "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T17:23:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8709,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T17:23:52Z",
-      "latest_at": "2026-07-11T19:18:08.299000Z",
-      "primary_item": {
-        "id": "4b19ef5e4aa2c105b128b1488ad19432c619d975",
-        "title": "反向半人马是人工智能悖论的答案 / Reverse centaurs are the answer to the AI paradox",
-        "title_zh": "反向半人马是人工智能悖论的答案",
-        "title_en": "Reverse centaurs are the answer to the AI paradox",
-        "title_original": "Reverse centaurs are the answer to the AI paradox",
-        "summary": null,
-        "url": "https://news.ycombinator.com/item?id=48873855",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
