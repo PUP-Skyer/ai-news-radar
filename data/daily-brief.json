@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T09:53:28.295439Z",
+  "generated_at": "2026-07-13T12:31:00.194922Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -46,15 +46,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.842,
-      "importance": 0.842,
-      "importance_score": 0.842,
+      "score": 0.8362,
+      "importance": 0.8362,
+      "importance_score": 0.8362,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8669,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -201,15 +201,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.863,
+        "recency": 0.8309,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -302,15 +302,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9628,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -331,6 +331,107 @@
         "url": "https://www.aibase.com/news/29553",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_9d6f1edd7517",
+      "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+      "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "primary_url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+          "title_original": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+          "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        },
+        {
+          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "title_en": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "title_original": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "summary": null,
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+          "title_original": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+          "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:41:01Z"
+        },
+        {
+          "id": "daddd7a1c9e26338bd9ce8d3c3f82a7bd6063c1e",
+          "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+          "title_en": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "title_original": "German AI consortium releases Soofi S, an open 30B model that tops benchmarks in both English and German",
+          "summary": null,
+          "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-13T11:41:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7844,
+      "importance": 0.7844,
+      "importance_score": 0.7844,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.988,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T11:41:01Z",
+      "latest_at": "2026-07-13T11:41:01Z",
+      "primary_item": {
+        "id": "b85e516629d56ead39ce36a091c53a6f7f1398fe",
+        "title": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先 / German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+        "title_zh": "德国AI协会发布开源模型Soofi S，在英语和德语基准测试中领先",
+        "title_en": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+        "title_original": "German AI consortium releases Soofi S， an open 30B model that tops benchmarks in both English and German",
+        "summary": "德国AI协会协调的研究联盟发布开源大语言模型Soofi S 30B-A3B。该模型总参数量316亿，每个token仅激活约32亿参数，采用Mamba-2与标准注意力层混合的MoE架构。模型完全在德国电信慕尼黑工业AI云上训练，训练数据中德语占比从第一阶段的7.2%提升至第二阶段的15.3%。在基准测试中，Soofi S在所有完全开源模型中取得英语和德语综合最高分，超越OLMo 3 32B和Apertus 70B。在HumanEval上得分73.8%，MBPP得分70.2，德语版MBPP得分84.2。上下文窗口支持最高100万token，在4万token长度下，生成吞吐量约为同规模稠密模型的8倍。模型权重已开源。",
+        "url": "https://the-decoder.com/german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks-in-both-english-and-german",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -376,15 +477,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8679,
+        "recency": 0.8357,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -476,15 +577,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8786,
+        "recency": 0.8459,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -504,6 +605,152 @@
         "summary": "英伟达CEO黄仁勋在摩根士丹利路演中表示，公司季度营收即将逼近1000亿美元，且增长速度仍在加快。他否认下一代旗舰架构Rubin Ultra延期传闻，称其仍按计划于明年出货，当前机架设计调整仅为系统架构优化。一个此前主要依赖ASIC的前沿AI模型项目，如今英伟达GPU算力占比已接近50%，市场普遍指向Anthropic。英伟达预计本财年CPU业务收入约200亿美元，下一代Vera CPU将进军通用服务器市场。摩根士丹利维持英伟达\"增持\"评级，目标价288美元。",
         "url": "https://www.ithome.com/0/975/865.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c88804a1a15e",
+      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+      "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "primary_url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "title_zh": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "title_en": null,
+          "title_original": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
+          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:12:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "title_zh": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "title_en": null,
+          "title_original": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+          "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
+          "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T11:12:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7763,
+      "importance": 0.7763,
+      "importance_score": 0.7763,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9814,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T11:12:59Z",
+      "latest_at": "2026-07-13T11:12:59Z",
+      "primary_item": {
+        "id": "61d9642554851a2085940fe2edbfe8ef73086fcf",
+        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+        "title_zh": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+        "title_en": null,
+        "title_original": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
+        "summary": "腾讯混元发布 HyOCR-1.5，这是端到端 OCR 大模型领域首个将训练、推理、模型权重完整开源的专家模型。仅 1B 参数，覆盖 8 种以上 text-centric 任务。引入 DFlash 投机解码框架，在 Transformers 下实现 6.37× 加速，vLLM 下 2.14× 加速，端到端推理达每页 1.408s。支持 4K 分辨率与 128K 上下文窗口，通过 Agentic Data Flow 扩展低资源 OCR（331 种语言）、古文字识别与多图问答能力。在 OmniDocBench v1.6 上以 94.74 分居端到端第一。",
+        "url": "https://mp.weixin.qq.com/s/vKFCa9FfoGBUGK8J1MhFag",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8a28bfbd1227",
+      "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
+      "url": "https://x.com/op7418/status/2076604797202161800",
+      "primary_url": "https://x.com/op7418/status/2076604797202161800",
+      "source": "X：歸藏 (@op7418)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
+          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
+          "title_zh": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+          "title_en": "http://x.com/i/article/2076599995600621568",
+          "title_original": "http://x.com/i/article/2076599995600621568",
+          "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
+          "url": "https://x.com/op7418/status/2076604797202161800",
+          "source": "X：歸藏 (@op7418)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:48:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：歸藏 (@op7418)"
+      ],
+      "items": [
+        {
+          "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
+          "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
+          "title_zh": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+          "title_en": "http://x.com/i/article/2076599995600621568",
+          "title_original": "http://x.com/i/article/2076599995600621568",
+          "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
+          "url": "https://x.com/op7418/status/2076604797202161800",
+          "source": "X：歸藏 (@op7418)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:48:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7697,
+      "importance": 0.7697,
+      "importance_score": 0.7697,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9618,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:48:59Z",
+      "latest_at": "2026-07-13T09:48:59Z",
+      "primary_item": {
+        "id": "90bf249d7928ebe554e90c999d6994ccf17b25b8",
+        "title": "Seedream 5.0 Pro 测评：图像编辑门槛爆降 / http://x.com/i/article/2076599995600621568",
+        "title_zh": "Seedream 5.0 Pro 测评：图像编辑门槛爆降",
+        "title_en": "http://x.com/i/article/2076599995600621568",
+        "title_original": "http://x.com/i/article/2076599995600621568",
+        "summary": "字节跳动发布 Seedream 5.0 Pro，图像质量与提示词理解追平 GPT-Image 2.0，综合能力仅次于后者。核心亮点是\"可编辑\"交互：用户可在图上打点、画框、涂鸦，提示词中直接 @ 标记，实现精准局部编辑（如换沙发、改墙面颜色），其他区域不变。实测案例涵盖家装改造（一次替换六件家具）、商品图制作（键盘爆炸拆解图、标注卖点）、海报排版（框定位置生成文字）等场景，支持色卡配色和 SKU 换色。火山引擎已全量上线 API，即梦、豆包、Lumina 可体验。",
+        "url": "https://x.com/op7418/status/2076604797202161800",
+        "source": "X：歸藏 (@op7418)",
         "source_name": "AI HOT"
       }
     },
@@ -577,15 +824,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
+      "score": 0.7859,
+      "importance": 0.7859,
+      "importance_score": 0.7859,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9628,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -606,6 +853,79 @@
         "url": "https://www.aibase.com/news/29549",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_163a2ee8955d",
+      "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+      "url": "https://www.ithome.com/0/976/149.htm",
+      "primary_url": "https://www.ithome.com/0/976/149.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_en": null,
+          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+          "url": "https://www.ithome.com/0/976/149.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:58:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+          "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "title_en": null,
+          "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+          "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+          "url": "https://www.ithome.com/0/976/149.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T09:58:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7761,
+      "importance": 0.7761,
+      "importance_score": 0.7761,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9641,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T09:58:56Z",
+      "latest_at": "2026-07-13T09:58:56Z",
+      "primary_item": {
+        "id": "5aedac9544da285aa57dbd2ff63bad857319f243",
+        "title": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "title_zh": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "title_en": null,
+        "title_original": "Meta 宣布扩建路易斯安那州数据中心至 5GW，总投资超 500 亿美元",
+        "summary": "Meta 将其路易斯安那州数据中心算力扩至 5GW，总投资超 500 亿美元，为全球最大 AI 基础设施投资之一。Meta 承诺承担全部能源及水资源费用，并另投超 10 亿美元改善当地道路及供水系统。此外，Meta 与安特吉公司达成协议，为新建天然气发电厂、储能电池及核电增容项目提供资金支持。",
+        "url": "https://www.ithome.com/0/976/149.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -651,15 +971,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7466,
-      "importance": 0.7466,
-      "importance_score": 0.7466,
+      "score": 0.7413,
+      "importance": 0.7413,
+      "importance_score": 0.7413,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8001,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -723,15 +1043,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7949,
+        "recency": 0.7654,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,15 +1115,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7769,
+        "recency": 0.748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -867,15 +1187,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7631,
+        "recency": 0.7347,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -966,15 +1286,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7835,
-      "importance": 0.7835,
-      "importance_score": 0.7835,
+      "score": 0.7772,
+      "importance": 0.7772,
+      "importance_score": 0.7772,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9144,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1040,15 +1360,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7487,
+        "recency": 0.7209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1139,15 +1459,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.769,
+      "importance": 0.769,
+      "importance_score": 0.769,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9027,
+        "recency": 0.8691,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1396,15 +1716,15 @@
       ],
       "item_count": 8,
       "duplicate_count": 8,
-      "score": 0.6601,
-      "importance": 0.6601,
-      "importance_score": 0.6601,
+      "score": 0.6538,
+      "importance": 0.6538,
+      "importance_score": 0.6538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9497,
+        "recency": 0.9144,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1468,15 +1788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1541,15 +1861,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1569,510 +1889,6 @@
         "url": "https://www.aibase.com/news/29548",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_b3c3f980dac1",
-      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-      "url": "https://www.aibase.com/news/29550",
-      "primary_url": "https://www.aibase.com/news/29550",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
-          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "title_zh": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "title_en": null,
-          "title_original": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
-          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "title_zh": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "title_en": null,
-          "title_original": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "summary": null,
-          "url": "https://www.aibase.com/news/29550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T09:53:28.295439Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T09:53:28.295439Z",
-      "latest_at": "2026-07-13T09:53:28.295439Z",
-      "primary_item": {
-        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
-        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-        "title_zh": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-        "title_en": null,
-        "title_original": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-        "summary": null,
-        "url": "https://www.aibase.com/news/29550",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e7c3ab251152",
-      "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-      "url": "https://news.ycombinator.com/item?id=48881043",
-      "primary_url": "https://news.ycombinator.com/item?id=48881043",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "452ee035aa56d1430de840abe43917375b47a204",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
-          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:24:10.159000Z"
-        },
-        {
-          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": null,
-          "title_original": "人工智能助推科研职业发展，却抑制了科学发现",
-          "summary": null,
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T18:07:01.116000Z"
-        },
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T15:33:34.425000Z"
-        },
-        {
-          "id": "45b102ad776f52c6bf3f730c5257598e919c703f",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "summary": null,
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T13:26:13Z"
-        },
-        {
-          "id": "2f30556c9e94175d1efbbe9c82cd512628207f16",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
-          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
-          "summary": null,
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "spectrum.ieee.org"
-      ],
-      "items": [
-        {
-          "id": "452ee035aa56d1430de840abe43917375b47a204",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
-          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T19:24:10.159000Z"
-        },
-        {
-          "id": "dee0c736de01daef715bfd2e02b1ff94cc839fec",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": null,
-          "title_original": "人工智能助推科研职业发展，却抑制了科学发现",
-          "summary": null,
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "spectrum.ieee.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-12T18:07:01.116000Z"
-        },
-        {
-          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48881043",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-12T15:33:34.425000Z"
-        },
-        {
-          "id": "45b102ad776f52c6bf3f730c5257598e919c703f",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "title_original": "AI Boosts Research Careers but Flattens Scientific Discovery",
-          "summary": null,
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-12T13:26:13Z"
-        },
-        {
-          "id": "2f30556c9e94175d1efbbe9c82cd512628207f16",
-          "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-          "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-          "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
-          "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
-          "summary": null,
-          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T13:26:13Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5868,
-      "importance": 0.5868,
-      "importance_score": 0.5868,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8112,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T13:26:13Z",
-      "latest_at": "2026-07-12T19:24:10.159000Z",
-      "primary_item": {
-        "id": "452ee035aa56d1430de840abe43917375b47a204",
-        "title": "人工智能助推科研职业发展，却抑制了科学发现 / AI boosts research careers but narrow the span of ideas explored: study",
-        "title_zh": "人工智能助推科研职业发展，却抑制了科学发现",
-        "title_en": "AI boosts research careers but narrow the span of ideas explored: study",
-        "title_original": "AI boosts research careers but narrow the span of ideas explored: study",
-        "summary": null,
-        "url": "https://news.ycombinator.com/item?id=48881043",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_bd87c1bd9f8f",
-      "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-      "primary_url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-      "source": "raymyers.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "title_en": null,
-          "title_original": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "summary": null,
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_zh": "Zig 创造者实话实说，人性化烟雾",
-          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T09:28:44.591000Z"
-        },
-        {
-          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "summary": null,
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T08:39:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "raymyers.org"
-      ],
-      "items": [
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "title_en": null,
-          "title_original": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "summary": null,
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_zh": "Zig 创造者实话实说，人性化烟雾",
-          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "summary": null,
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T09:28:44.591000Z"
-        },
-        {
-          "id": "04d20d323946c0bc33dee02fbc4289db29879f4e",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "title_en": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "title_original": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "summary": null,
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T08:39:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5703,
-      "importance": 0.5703,
-      "importance_score": 0.5703,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9971,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T08:39:39Z",
-      "latest_at": "2026-07-13T09:41:19.566000Z",
-      "primary_item": {
-        "id": "0c987916ddf453e2c44a5247157e884356412396",
-        "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-        "title_zh": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-        "title_en": null,
-        "title_original": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-        "summary": null,
-        "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-        "source": "raymyers.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1061a57c7386",
-      "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-      "primary_url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-      "source": "cacm.acm.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
-          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_en": null,
-          "title_original": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "summary": null,
-          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-          "source": "cacm.acm.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T08:53:24.018000Z"
-        },
-        {
-          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
-          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Can We Understand How Large Language Models Reason?",
-          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_en": "Can We Understand How Large Language Models Reason?",
-          "title_original": "Can We Understand How Large Language Models Reason?",
-          "summary": null,
-          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T18:04:41Z"
-        },
-        {
-          "id": "1fca1ed15a3e75db7f226a888918ac389ccb2aeb",
-          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Mechanistic interpretability researchers applying causality theory to LLMs",
-          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_en": "Mechanistic interpretability researchers applying causality theory to LLMs",
-          "title_original": "Mechanistic interpretability researchers applying causality theory to LLMs",
-          "summary": null,
-          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T18:04:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "cacm.acm.org"
-      ],
-      "items": [
-        {
-          "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
-          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_en": null,
-          "title_original": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "summary": null,
-          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-          "source": "cacm.acm.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T08:53:24.018000Z"
-        },
-        {
-          "id": "b343153d11bf6dff04b805d3820fac2560fdf6f1",
-          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Can We Understand How Large Language Models Reason?",
-          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_en": "Can We Understand How Large Language Models Reason?",
-          "title_original": "Can We Understand How Large Language Models Reason?",
-          "summary": null,
-          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T18:04:41Z"
-        },
-        {
-          "id": "1fca1ed15a3e75db7f226a888918ac389ccb2aeb",
-          "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者 / Mechanistic interpretability researchers applying causality theory to LLMs",
-          "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-          "title_en": "Mechanistic interpretability researchers applying causality theory to LLMs",
-          "title_original": "Mechanistic interpretability researchers applying causality theory to LLMs",
-          "summary": null,
-          "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T18:04:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9856,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T18:04:41Z",
-      "latest_at": "2026-07-13T08:53:24.018000Z",
-      "primary_item": {
-        "id": "ffb60773e5dc03276bb3ab008bb47d8e1a08079e",
-        "title": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-        "title_zh": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-        "title_en": null,
-        "title_original": "将因果理论应用于大型语言模型（LLMs）的机制可解释性研究者",
-        "summary": null,
-        "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason",
-        "source": "cacm.acm.org",
-        "source_name": "Buzzing"
       }
     }
   ]
