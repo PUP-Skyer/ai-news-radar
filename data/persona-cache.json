@@ -234,6 +234,30 @@
       "review": "官方公告有链接，但无技术细节与独立验证，不可复现。",
       "title_hash": "a9ac8004",
       "scored_at": "2026-07-14T20:35:10.076372Z"
+    },
+    "story_ee7d92805957|pragmatic|0a5c5b24": {
+      "score": 90,
+      "review": "直接威胁安全，立即检查版本并暂停打开可疑仓库。",
+      "title_hash": "bd86314d",
+      "scored_at": "2026-07-14T22:25:32.079865Z"
+    },
+    "story_a583c8549146|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "若在用该模型，立即隔离权限并审计日志；尚未用的暂缓上线。",
+      "title_hash": "7cbab8a2",
+      "scored_at": "2026-07-14T22:25:35.156720Z"
+    },
+    "story_ee7d92805957|cynic|f4237a62": {
+      "score": 30,
+      "review": "AI 自动补代码倒是挺欢，自动补个安全补丁怎么没这积极性？",
+      "title_hash": "bd86314d",
+      "scored_at": "2026-07-14T22:25:39.562534Z"
+    },
+    "story_ee7d92805957|paper-police|966065bf": {
+      "score": 15,
+      "review": "仅有一篇博客宣称漏洞，无论文无PoC代码，无法验证真实性。",
+      "title_hash": "bd86314d",
+      "scored_at": "2026-07-14T22:25:43.324892Z"
     }
   }
 }

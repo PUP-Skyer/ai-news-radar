@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T21:24:18.515996Z",
+  "generated_at": "2026-07-14T22:25:43.324963Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_ee7d92805957",
+      "title": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 30,
+          "review": "AI 自动补代码倒是挺欢，自动补个安全补丁怎么没这积极性？"
+        },
+        "paper-police": {
+          "score": 15,
+          "review": "仅有一篇博客宣称漏洞，无论文无PoC代码，无法验证真实性。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "直接威胁安全，立即检查版本并暂停打开可疑仓库。"
+        }
+      }
+    },
+    {
       "story_id": "story_3c7e9dc57dbe",
       "title": "代码扫描显示AI对拉取请求进行安全检测 / Code scanning shows AI security detections on pull requests",
       "url": "https://github.blog/changelog/2026-07-14-code-scanning-shows-ai-security-detections-on-pull-requests",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a37b7492af9e",
-      "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "终于想起自己会写漏洞了？这功能该叫‘事后诸葛亮’。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方公告有链接，但无技术细节与独立验证，不可复现。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "写代码时直接查安全漏洞，省去单独跑工具的时间，今天就能用。"
         }
       }
     }
