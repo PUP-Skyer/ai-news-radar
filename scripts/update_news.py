@@ -599,6 +599,35 @@ def parse_date_any(value: Any, now: datetime) -> datetime | None:
         return None
 
 
+FUTURE_PUBLISH_SKEW = timedelta(hours=2)
+CST_MISLABEL_OFFSET = timedelta(hours=8)
+
+
+def correct_future_published(
+    published: datetime | None,
+    now: datetime,
+    *,
+    assume_cst_mislabel: bool = False,
+) -> datetime | None:
+    """兜住源头 feed 错标时区产生的"未来"发布时间。
+
+    典型病例：InfoQ CN 的 RSS 把北京时间直接标成 GMT（如
+    "Tue, 14 Jul 2026 22:01:15 GMT" 实为 22:01 北京时间），按标记解析后
+    published 领先真实时间 8 小时，前端时间轴出现未来条目。
+    中文源先尝试减 8 小时纠正；纠正后仍在未来（或非中文源）则回退抓取时间。
+    """
+    if published is None:
+        return None
+    limit = now + FUTURE_PUBLISH_SKEW
+    if published <= limit:
+        return published
+    if assume_cst_mislabel:
+        corrected = published - CST_MISLABEL_OFFSET
+        if corrected <= limit:
+            return corrected
+    return now
+
+
 def apply_public_raw_meta(record: dict[str, Any], raw: RawItem) -> None:
     """Promote safe source metadata needed by public scoring and UI ranking."""
     meta = raw.meta if isinstance(raw.meta, dict) else {}
@@ -2642,6 +2671,7 @@ def fetch_opml_rss(
                     host_of_url(feed_url),
                 )
                 entries = parsed.entries
+                cn_feed = ".cn/" in feed_url or feed_url.endswith(".cn") or has_cjk(str(feed_title or ""))
                 for entry in entries:
                     title = str(entry.get("title", "")).strip()
                     link = str(entry.get("link", "")).strip()
@@ -2651,6 +2681,9 @@ def fetch_opml_rss(
                         parse_date_any(entry.get("published"), now)
                         or parse_date_any(entry.get("updated"), now)
                         or parse_date_any(entry.get("pubDate"), now)
+                    )
+                    published = correct_future_published(
+                        published, now, assume_cst_mislabel=cn_feed or has_cjk(title)
                     )
                     if not published:
                         continue
@@ -2671,8 +2704,13 @@ def fetch_opml_rss(
             else:
                 source_name = first_non_empty(feed_title, host_of_url(feed_url))
                 entries = parse_feed_entries_via_xml(resp.content)
+                cn_feed = ".cn/" in feed_url or feed_url.endswith(".cn") or has_cjk(str(feed_title or ""))
                 for entry in entries:
                     published = parse_date_any(entry.get("published"), now)
+                    published = correct_future_published(
+                        published, now,
+                        assume_cst_mislabel=cn_feed or has_cjk(str(entry.get("title") or "")),
+                    )
                     if not published:
                         continue
                     local_items.append(
@@ -5842,6 +5880,10 @@ def build_story_record(
     score = importance["score"]
     category = story_category(score, primary, len(items))
     times = [ts for ts in (event_time(item) for item in sorted_items) if ts]
+    # 与前端 timelineIso 的未来时间防御对齐：错标时区的条目漏到 story 层时，
+    # earliest_at/latest_at 不得超过当前时间（精选模式排序/展示走的是这两个字段）
+    story_future_limit = now + timedelta(minutes=10)
+    times = [ts if ts <= story_future_limit else now for ts in times]
     source_refs = [story_item_link(item) for item in sorted_items]
     source_names = sorted({str(item.get("source") or item.get("site_name") or "") for item in sorted_items if item.get("source") or item.get("site_name")})
     title = primary.get("title_enhanced_zh") or primary.get("title_bilingual") or primary.get("title")
