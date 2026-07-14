@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-07-14T16:04:54.193921Z",
+  "model": "deepseek-v4-flash",
+  "personas": [
+    {
+      "id": "cynic",
+      "name": "毒舌评论员"
+    },
+    {
+      "id": "paper-police",
+      "name": "论文警察"
+    },
+    {
+      "id": "pragmatic",
+      "name": "实用派"
+    }
+  ],
+  "items": [
+    {
+      "story_id": "story_a37b7492af9e",
+      "title": "GitHub Copilot 应用现已支持安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "终于想起自己会写漏洞了？这功能该叫‘事后诸葛亮’。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方公告宣布新功能，但无论文或评测数据，无法验证有效性。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "写代码时直接查安全漏洞，省去单独跑工具的时间，今天就能用。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b39fa54bc8de",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译 / http://x.com/i/article/2067347903761485824",
+      "url": "https://x.com/googleaidevs/status/2077049898059354565",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "70+语言？先测测延迟和方言准确度再吹不迟。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有官方推文，无论文无代码无评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "直接可用的语音翻译API，多语言应用立刻集成。"
+        }
+      }
+    },
+    {
+      "story_id": "story_de135bbc6d10",
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "url": "https://mp.weixin.qq.com/s/Kq30ftirASryPrUtjK2xSw",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 77,
+          "review": "量化版有诚意，但“接近满血”的基准线是什么？希望公开对比曲线。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "无论文无代码，仅官方公众号宣称性能，缺独立验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "1bit单卡可跑，4bit损失小，部署门槛骤降，今天就能试。"
+        }
+      }
+    }
+  ]
+}
