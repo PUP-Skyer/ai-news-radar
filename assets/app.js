@@ -81,6 +81,9 @@ const modeAllBtnEl = document.getElementById("modeAllBtn");
 const hotBoardWrapEl = document.getElementById("hotBoardWrap");
 const hotBoardListEl = document.getElementById("hotBoardList");
 const hotBoardMetaEl = document.getElementById("hotBoardMeta");
+const top3BoardWrapEl = document.getElementById("top3BoardWrap");
+const top3BoardListEl = document.getElementById("top3BoardList");
+const top3BoardMetaEl = document.getElementById("top3BoardMeta");
 const newsListWrapEl = document.getElementById("newsListWrap");
 const modeHintEl = document.getElementById("modeHint");
 const allDedupeWrapEl = document.getElementById("allDedupeWrap");
@@ -1067,16 +1070,36 @@ function buildEventSourceList(row) {
   return list;
 }
 
-const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "论文警察" };
+const PERSONA_NAMES = { pragmatic: "实用派", cynic: "毒舌评论员", "paper-police": "较真党" };
+
+// 锐评字段（persona_review/persona_id）由 persona_score.py 只写进 daily-brief.json；
+// 主列表/热点榜的 story 对象来自 stories-merged.json，天然没有这两个字段，
+// 必须按 story_id 回查每日精选才能拿到锐评。
+let _briefByIdCache = null;
+function briefStoryById(storyId) {
+  if (!storyId) return null;
+  if (!_briefByIdCache) {
+    _briefByIdCache = new Map();
+    briefStories().forEach((s) => {
+      if (s && s.story_id) _briefByIdCache.set(s.story_id, s);
+    });
+  }
+  return _briefByIdCache.get(storyId) || null;
+}
 
 function buildStoryPersonaLine(story) {
-  const reviewText = typeof story?.persona_review === "string" ? story.persona_review.trim() : "";
+  let source = story;
+  let reviewText = typeof story?.persona_review === "string" ? story.persona_review.trim() : "";
+  if (!reviewText) {
+    source = briefStoryById(story?.story_id);
+    reviewText = typeof source?.persona_review === "string" ? source.persona_review.trim() : "";
+  }
   if (!reviewText) return null;
   const line = document.createElement("div");
   line.className = "story-persona";
   const label = document.createElement("span");
   label.className = "story-persona-label";
-  label.textContent = PERSONA_NAMES[story.persona_id] || PERSONA_NAMES.pragmatic;
+  label.textContent = PERSONA_NAMES[source?.persona_id] || PERSONA_NAMES.pragmatic;
   const text = document.createElement("span");
   text.className = "story-persona-text";
   text.textContent = reviewText;
@@ -1474,11 +1497,15 @@ function renderItemNode(row) {
 
   const personaSlot = node.querySelector(".persona-slot");
   if (row.story) {
-    const personaLine = buildStoryPersonaLine(row.story);
-    if (personaLine) personaSlot.appendChild(personaLine);
     const personaEntry = findTop3PersonaEntry(row.story.story_id);
     const personaPanel = buildPersonaPanel(personaEntry);
-    if (personaPanel) personaSlot.appendChild(personaPanel);
+    if (personaPanel) {
+      // TOP3 三口味面板已含默认口味整列，再显示单条锐评行就是原句重复
+      personaSlot.appendChild(personaPanel);
+    } else {
+      const personaLine = buildStoryPersonaLine(row.story);
+      if (personaLine) personaSlot.appendChild(personaLine);
+    }
   }
 
   const originalLink = document.createElement("a");
@@ -1677,8 +1704,35 @@ function renderMainList() {
   });
 }
 
+function top3BoardEntries() {
+  if (state.mode !== "selected") return [];
+  const t3 = state.top3Personas?.items;
+  if (!Array.isArray(t3) || !t3.length) return [];
+  const byId = new Map(mergedStories().map((s) => [s.story_id, s]));
+  return t3
+    .slice()
+    .sort((a, b) => (Number(a.rank) || 0) - (Number(b.rank) || 0))
+    .map((entry) => byId.get(entry?.story_id))
+    .filter(Boolean)
+    .map((story, index) => storyToRow(story, index));
+}
+
+// 今日 TOP3 板块：三口味并排锐评的固定展示入口。TOP3 卡片在主列表里按时间排序，
+// 常沉在几屏之外（用户翻不到，面板等于隐身），所以命中 top3-personas.json 的故事在这里置顶再展示一次。
+function renderTop3Board() {
+  if (!top3BoardListEl) return;
+  const rows = top3BoardEntries();
+  const show = rows.length > 0;
+  if (top3BoardWrapEl) top3BoardWrapEl.hidden = !show;
+  if (!show) return;
+  if (top3BoardMetaEl) top3BoardMetaEl.textContent = Object.values(PERSONA_NAMES).join(" · ");
+  top3BoardListEl.innerHTML = "";
+  rows.forEach((row) => top3BoardListEl.appendChild(renderItemNode(row)));
+}
+
 // 热点排行区：不设固定条数，展示条数取决于当前有多少条满足多信源热度阈值（HOT_BOARD_LIMIT 只是技术兜底）。
 function renderHotBoard() {
+  renderTop3Board();
   if (!hotBoardListEl) return;
   const show = state.mode === "selected";
   if (hotBoardWrapEl) hotBoardWrapEl.hidden = !show;

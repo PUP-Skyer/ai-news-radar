@@ -1740,6 +1740,13 @@ summary:focus-visible {
   flex-direction: column;
 }
 
+/* 今日 TOP3 板块：复用完整精选卡片（含三口味并排面板），卡片间留缝即可 */
+.top3-board-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
 /* 热点排行区：一行一条（AIHOT 式），不复用下方精选列表的完整卡片，避免摘要/标签重复展示 */
 .hot-row {
   display: flex;
