@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:14:16.039137Z",
+  "generated_at": "2026-07-15T00:07:03.734882Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -59,7 +59,7 @@
           "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": "The vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nAfter loading a project, Cursor attempts to find git binaries at various locations including the current workspace. By creating a repository with a planted malicious git.exe in the root, the IDE will execute it with no user interaction and no prompting of the user. This occurs repeatedly on ",
+          "summary": null,
           "recommend_reason_zh": "Cursor有700万+用户，却被曝出加载项目时自动执行根目录恶意git.exe的简单0day漏洞，Mindgard报告后7个月未修复，值得警惕。",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "source": "Hacker News",
@@ -124,7 +124,7 @@
           "title_zh": "Cursor IDE 0day 漏洞：打开恶意仓库即可自动执行任意代码",
           "title_en": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
           "title_original": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
-          "summary": "The vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nThe vulnerability nobody seems interested in fixing\nAfter loading a project, Cursor attempts to find git binaries at various locations including the current workspace. By creating a repository with a planted malicious git.exe in the root, the IDE will execute it with no user interaction and no prompting of the user. This occurs repeatedly on ",
+          "summary": null,
           "recommend_reason_zh": "Cursor有700万+用户，却被曝出加载项目时自动执行根目录恶意git.exe的简单0day漏洞，Mindgard报告后7个月未修复，值得警惕。",
           "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
           "source": "Hacker News",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.871,
-      "importance": 0.871,
-      "importance_score": 0.871,
+      "score": 0.8688,
+      "importance": 0.8688,
+      "importance_score": 0.8688,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9623,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8338,
-      "importance": 0.8338,
-      "importance_score": 0.8338,
+      "score": 0.8317,
+      "importance": 0.8317,
+      "importance_score": 0.8317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9435,
+        "recency": 0.9316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,7 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9008,
+        "recency": 0.8894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,7 +342,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
+      }
+    },
+    {
+      "story_id": "story_72440e047ac9",
+      "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+      "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+      "primary_url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+      "source": "X：OpenAI Developers (@OpenAIDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5d91636db5625e900361a03a18921524a4153cb4",
+          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_zh": "Codex 周活超700万，两月更新150+项",
+          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
+          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI Developers (@OpenAIDevs)"
+      ],
+      "items": [
+        {
+          "id": "5d91636db5625e900361a03a18921524a4153cb4",
+          "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_zh": "Codex 周活超700万，两月更新150+项",
+          "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+          "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+          "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
+          "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+          "source": "X：OpenAI Developers (@OpenAIDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T23:01:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9842,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T23:01:05Z",
+      "latest_at": "2026-07-14T23:01:05Z",
+      "primary_item": {
+        "id": "5d91636db5625e900361a03a18921524a4153cb4",
+        "title": "Codex 周活超700万，两月更新150+项 / 7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "title_zh": "Codex 周活超700万，两月更新150+项",
+        "title_en": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "title_original": "7M+ weekly Codex users. 150+ updates in two months. @romainhuet catches you up on what's new in Cod…",
+        "summary": "7M+ 周活跃 Codex 用户。两月内 150+ 项更新。\n\n@romainhuet 为你梳理 Codex 新动态：GPT-5.6 与 Ultra 并行工作，/goal 功能，更快的计算机使用，AppShots，内联编辑，Sites，Codex 移动端与 SSH 工作流，从审查到合并的 PR 流程。",
+        "recommend_reason_zh": "@romainhuet 介绍了Codex在两个月内150+项更新，包括GPT-5.6、Ultra、并行工作/goal等，该平台已吸引每周700万以上用户。",
+        "url": "https://x.com/OpenAIDevs/status/2077166520392970529",
+        "source": "X：OpenAI Developers (@OpenAIDevs)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "Codex更新频繁，生态活跃，搞AI编程的今天可查更新日志优化工作流。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -390,15 +474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.826,
+        "recency": 0.8156,
         "story_heat": 0.0
       },
       "category": "official",
@@ -427,92 +511,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
-      }
-    },
-    {
-      "story_id": "story_06d2516f2dbe",
-      "title": "Codex CLI 0.144.4",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-          "title": "Codex CLI 0.144.4",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.4",
-          "title_original": "Codex CLI 0.144.4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-          "title": "Codex CLI 0.144.4",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.4",
-          "title_original": "Codex CLI 0.144.4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8147,
-      "importance": 0.8147,
-      "importance_score": 0.8147,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
-      "primary_item": {
-        "id": "dccc7d95847b43e88e3705ff4f710f07a7560ef7",
-        "title": "Codex CLI 0.144.4",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.144.4",
-        "title_original": "Codex CLI 0.144.4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "Codex CLI 小版本更新，可能修了 bug 或加小功能，用到的可以升。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -589,15 +588,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7988,
+      "importance": 0.7988,
+      "importance_score": 0.7988,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.98,
+        "recency": 0.9676,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -626,7 +625,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -674,15 +673,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9101,
+        "recency": 0.8986,
         "story_heat": 0.0
       },
       "category": "official",
@@ -711,7 +710,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -756,7 +755,7 @@
           "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": "Today, we're announcing Bonsai 27B, based on Qwen3.6 27B, the new multimodal flagship of the Bonsai family and the first model of its capability class to run on a phone.\nOur earlier releases proved that models with 1-bit and ternary weights could produce commercially useful language models. Bonsai 27B extends that frontier to a new capability tier: multi-step reasoning, structured tool calls, vision tasks, and computer-use agentic loops that stay coherent across many steps. Until today, deployin",
+          "summary": null,
           "recommend_reason_zh": "1-bit Bonsai 27B仅3.9GB，首次让27B级模型在iPhone 17 Pro上运行，保留90%精度；三元版5.9GB保留95%，内存仅为传统4-bit模型的2.5倍。",
           "url": "https://prismml.com/news/bonsai-27b",
           "source": "Hacker News",
@@ -806,7 +805,7 @@
           "title_zh": "Bonsai 27B：首款可在手机上运行的27B级多模态模型",
           "title_en": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
           "title_original": "Bonsai 27B (1-bit LLM): The First 27B-Class Model to Run on a Phone",
-          "summary": "Today, we're announcing Bonsai 27B, based on Qwen3.6 27B, the new multimodal flagship of the Bonsai family and the first model of its capability class to run on a phone.\nOur earlier releases proved that models with 1-bit and ternary weights could produce commercially useful language models. Bonsai 27B extends that frontier to a new capability tier: multi-step reasoning, structured tool calls, vision tasks, and computer-use agentic loops that stay coherent across many steps. Until today, deployin",
+          "summary": null,
           "recommend_reason_zh": "1-bit Bonsai 27B仅3.9GB，首次让27B级模型在iPhone 17 Pro上运行，保留90%精度；三元版5.9GB保留95%，内存仅为传统4-bit模型的2.5倍。",
           "url": "https://prismml.com/news/bonsai-27b",
           "source": "Hacker News",
@@ -817,15 +816,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.9403,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -854,92 +853,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
-      }
-    },
-    {
-      "story_id": "story_ed0356b75e5a",
-      "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-          "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
-          "title_zh": "数据科学团队如何使用ChatGPT Work",
-          "title_en": "How data science teams use ChatGPT Work",
-          "title_original": "How data science teams use ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-          "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
-          "title_zh": "数据科学团队如何使用ChatGPT Work",
-          "title_en": "How data science teams use ChatGPT Work",
-          "title_original": "How data science teams use ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
-      "primary_item": {
-        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
-        "title": "数据科学团队如何使用ChatGPT Work / How data science teams use ChatGPT Work",
-        "title_zh": "数据科学团队如何使用ChatGPT Work",
-        "title_en": "How data science teams use ChatGPT Work",
-        "title_original": "How data science teams use ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "教程性质，非新工具或降价，不急着看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -987,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7782,
-      "importance": 0.7782,
-      "importance_score": 0.7782,
+      "score": 0.7762,
+      "importance": 0.7762,
+      "importance_score": 0.7762,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1023,7 +937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1071,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8614,
+        "recency": 0.8505,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1108,7 +1022,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1185,15 +1099,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8188,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1222,7 +1136,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1299,15 +1213,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7765,
+        "recency": 0.7667,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1336,92 +1250,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
-      }
-    },
-    {
-      "story_id": "story_459a6aaf961d",
-      "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
-      "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "primary_url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
-          "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
-          "title_zh": "销售团队如何使用ChatGPT Work",
-          "title_en": "How sales teams use ChatGPT Work",
-          "title_original": "How sales teams use ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": "本文详解销售团队如何用ChatGPT Work从CRM、通话笔记、Slack等来源自动生成pipeline briefs、会议准备包、预测复盘和账户计划，并集成Salesforce、HubSpot等工具。",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
-          "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
-          "title_zh": "销售团队如何使用ChatGPT Work",
-          "title_en": "How sales teams use ChatGPT Work",
-          "title_original": "How sales teams use ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": "本文详解销售团队如何用ChatGPT Work从CRM、通话笔记、Slack等来源自动生成pipeline briefs、会议准备包、预测复盘和账户计划，并集成Salesforce、HubSpot等工具。",
-          "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-14T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
-      "primary_item": {
-        "id": "3656a6a4e4f9f7aa7d86fc13f27d4e8bb2583db5",
-        "title": "销售团队如何使用ChatGPT Work / How sales teams use ChatGPT Work",
-        "title_zh": "销售团队如何使用ChatGPT Work",
-        "title_en": "How sales teams use ChatGPT Work",
-        "title_original": "How sales teams use ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": "本文详解销售团队如何用ChatGPT Work从CRM、通话笔记、Slack等来源自动生成pipeline briefs、会议准备包、预测复盘和账户计划，并集成Salesforce、HubSpot等工具。",
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "销售场景教程，对开发者无直接帮助，非技术从业者可参考。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1469,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8149,
+        "recency": 0.8047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1504,7 +1333,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1552,15 +1381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7401,
+      "importance": 0.7401,
+      "importance_score": 0.7401,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1587,7 +1416,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1635,15 +1464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7352,
+      "importance": 0.7352,
+      "importance_score": 0.7352,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8134,
+        "recency": 0.8031,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1670,7 +1499,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1701,8 +1530,8 @@
           "title_zh": "如何阻止Claude说\"load-bearing",
           "title_en": "How to stop Claude from saying load-bearing",
           "title_original": "How to stop Claude from saying load-bearing",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "I guess they are not annoying since I know I am talking to an LLM and expect the typical responses. When I am reading prose online that I previously would have expected a human to write, it can be quite jarring to realize its an LLM.\nreply\nreply\nreply\n[0]: https://slate.com/human-interest/2011/05/em-dashes-why-write...\nBut the LLMs really seem to fixate on using the same ones in the same places all the time. I guess that's because that's the highest probability construction.\nreply\nreply\nreply\nOr",
+          "recommend_reason_zh": "本文揭示了AI语言模型（如Claude）为何频繁使用“load-bearing”等固定短语，并引用用户自身“<scope problem>...<constraint/requirement> is loadbearing”的重复模式，说明人类习惯也可能被AI复制为“slop”。",
           "url": "https://news.ycombinator.com/item?id=48905248",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1751,8 +1580,8 @@
           "title_zh": "如何阻止Claude说\"load-bearing",
           "title_en": "How to stop Claude from saying load-bearing",
           "title_original": "How to stop Claude from saying load-bearing",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "I guess they are not annoying since I know I am talking to an LLM and expect the typical responses. When I am reading prose online that I previously would have expected a human to write, it can be quite jarring to realize its an LLM.\nreply\nreply\nreply\n[0]: https://slate.com/human-interest/2011/05/em-dashes-why-write...\nBut the LLMs really seem to fixate on using the same ones in the same places all the time. I guess that's because that's the highest probability construction.\nreply\nreply\nreply\nOr",
+          "recommend_reason_zh": "本文揭示了AI语言模型（如Claude）为何频繁使用“load-bearing”等固定短语，并引用用户自身“<scope problem>...<constraint/requirement> is loadbearing”的重复模式，说明人类习惯也可能被AI复制为“slop”。",
           "url": "https://news.ycombinator.com/item?id=48905248",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -1776,15 +1605,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9093,
+        "recency": 0.8978,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1813,7 +1642,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1890,15 +1719,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.8188,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1927,7 +1756,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     },
     {
@@ -1975,15 +1804,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
+      "score": 0.7218,
+      "importance": 0.7218,
+      "importance_score": 0.7218,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7216,
+        "recency": 0.7125,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2010,7 +1839,173 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-14T23:24:46.216867Z"
+        "scored_at": "2026-07-15T00:13:59.272522Z"
+      }
+    },
+    {
+      "story_id": "story_f81c4bc04acd",
+      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "primary_url": "https://x.com/demishassabis/status/2076957440109625718",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+          "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "title_en": "http://x.com/i/article/2076946210397552640",
+          "title_original": "http://x.com/i/article/2076946210397552640",
+          "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+          "recommend_reason_zh": "由于提供的正文只有登录提示和链接，没有可引用的具体事实、数字或细节，无法生成符合要求的推荐语。请提供包含文章内容的原文。",
+          "url": "https://x.com/demishassabis/status/2076957440109625718",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+          "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "title_en": "http://x.com/i/article/2076946210397552640",
+          "title_original": "http://x.com/i/article/2076946210397552640",
+          "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+          "recommend_reason_zh": "由于提供的正文只有登录提示和链接，没有可引用的具体事实、数字或细节，无法生成符合要求的推荐语。请提供包含文章内容的原文。",
+          "url": "https://x.com/demishassabis/status/2076957440109625718",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8059,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T09:10:16Z",
+      "latest_at": "2026-07-14T09:10:16Z",
+      "primary_item": {
+        "id": "fcf33a91034cba26e0f446e0c02b9ab1a910ecd0",
+        "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍 / http://x.com/i/article/2076946210397552640",
+        "title_zh": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+        "title_en": "http://x.com/i/article/2076946210397552640",
+        "title_original": "http://x.com/i/article/2076946210397552640",
+        "summary": "Google DeepMind 联合创始人 Demis Hassabis 发文称，AGI 可能仅需数年即可实现，其影响将达工业革命的10倍且速度更快。他指出，前沿模型在网络安全、核与生物风险方面已构成挑战，未来需对日益智能体化、递归自我改进的系统建立稳健防护。Hassabis 呼吁美国率先建立类似 FINRA 的前沿AI标准机构，采用联邦监督下的公私合作或自律组织模式，由独立技术专家和开源代表组成董事会，资金主要来自行业以吸引顶尖人才和算力。他强调，当前商业与地缘竞赛导致技术进步快于理解，需以谨慎乐观态度推进公共政策，兼顾创新与安全。",
+        "recommend_reason_zh": "由于提供的正文只有登录提示和链接，没有可引用的具体事实、数字或细节，无法生成符合要求的推荐语。请提供包含文章内容的原文。",
+        "url": "https://x.com/demishassabis/status/2076957440109625718",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "愿景不写代码，等有产品再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T00:13:59.272522Z"
+      }
+    },
+    {
+      "story_id": "story_682e97a04185",
+      "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
+      "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+      "primary_url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "29280d50c21ea6130e6110d918142a03656a01b8",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
+          "title_zh": "Google 因 AI 训练再遭出版商集体诉讼",
+          "title_en": "Google faces another AI training lawsuit from major publishers",
+          "title_original": "Google faces another AI training lawsuit from major publishers",
+          "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
+          "recommend_reason_zh": "Hachette、Cengage、Elsevier等出版商联合作者起诉Google，指控其用Google Books和Play Store中的版权作品训练Gemini，并刻意删除版权信息，引用内部文件称可能面临“100亿美元罚款”。",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "29280d50c21ea6130e6110d918142a03656a01b8",
+          "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
+          "title_zh": "Google 因 AI 训练再遭出版商集体诉讼",
+          "title_en": "Google faces another AI training lawsuit from major publishers",
+          "title_original": "Google faces another AI training lawsuit from major publishers",
+          "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
+          "recommend_reason_zh": "Hachette、Cengage、Elsevier等出版商联合作者起诉Google，指控其用Google Books和Play Store中的版权作品训练Gemini，并刻意删除版权信息，引用内部文件称可能面临“100亿美元罚款”。",
+          "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T18:33:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9229,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-14T18:33:31Z",
+      "latest_at": "2026-07-14T18:33:31Z",
+      "primary_item": {
+        "id": "29280d50c21ea6130e6110d918142a03656a01b8",
+        "title": "Google 因 AI 训练再遭出版商集体诉讼 / Google faces another AI training lawsuit from major publishers",
+        "title_zh": "Google 因 AI 训练再遭出版商集体诉讼",
+        "title_en": "Google faces another AI training lawsuit from major publishers",
+        "title_original": "Google faces another AI training lawsuit from major publishers",
+        "summary": "包括 Hachette、Cengage、Elsevier 及作家 Scott Turow 在内的出版商与作者团体对 Google 提起集体诉讼，指控其未经授权使用受版权保护的作品训练 Gemini 模型，并故意移除或篡改版权信息以掩盖这一行为。原告称 Google 将原本仅用于 Google Books 搜索片段展示的书籍副本，以及 Google Play 商店上传的图书，非法用于 AI 训练。诉讼援引 Google 内部文件，其中指出此举可能带来\"100 亿至 1000 亿美元的潜在罚款\"。该案在纽约南区联邦地区法院提起。",
+        "recommend_reason_zh": "Hachette、Cengage、Elsevier等出版商联合作者起诉Google，指控其用Google Books和Play Store中的版权作品训练Gemini，并刻意删除版权信息，引用内部文件称可能面临“100亿美元罚款”。",
+        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "诉讼不影响今天写代码，继续关注判决结果。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-15T00:13:59.272522Z"
       }
     }
   ]
