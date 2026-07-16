@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T21:17:28.000864Z",
+  "generated_at": "2026-07-16T23:11:23.591864Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8558,
-      "importance": 0.8558,
-      "importance_score": 0.8558,
+      "score": 0.8512,
+      "importance": 0.8512,
+      "importance_score": 0.8512,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9264,
+        "recency": 0.9014,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -163,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8528,
-      "importance": 0.8528,
-      "importance_score": 0.8528,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9267,
+        "recency": 0.9017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.8342,
+      "importance": 0.8342,
+      "importance_score": 0.8342,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9264,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,30 +285,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
-      "story_id": "story_17b15ceeb6c5",
-      "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "story_id": "story_68bcdb6b8621",
+      "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
+      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "title_zh": "仓库管理员可以归档拉取请求",
-          "title_en": "Repository admins can archive pull requests",
-          "title_original": "Repository admins can archive pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
+          "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
+          "title_zh": "Projects 高级搜索已正式上线",
+          "title_en": "Advanced search for Projects is generally available",
+          "title_original": "Advanced search for Projects is generally available",
+          "summary": "The filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate…\nThe filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate view for every question. Just type an expression using OR , AND in the filter bar of any project view.\nShare your feedback in the GitHub Community .\nDiscover tip",
+          "recommend_reason_zh": "GitHub Projects 的 filter bar 现已支持高级搜索，可使用逻辑 AND 和 OR 构建精确视图，告别为每个问题维护独立视图的繁琐。",
+          "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
+          "published_at": "2026-07-16T19:07:14Z"
         }
       ],
       "source_count": 1,
@@ -317,31 +317,31 @@
       ],
       "items": [
         {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "title_zh": "仓库管理员可以归档拉取请求",
-          "title_en": "Repository admins can archive pull requests",
-          "title_original": "Repository admins can archive pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
+          "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
+          "title_zh": "Projects 高级搜索已正式上线",
+          "title_en": "Advanced search for Projects is generally available",
+          "title_original": "Advanced search for Projects is generally available",
+          "summary": "The filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate…\nThe filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate view for every question. Just type an expression using OR , AND in the filter bar of any project view.\nShare your feedback in the GitHub Community .\nDiscover tip",
+          "recommend_reason_zh": "GitHub Projects 的 filter bar 现已支持高级搜索，可使用逻辑 AND 和 OR 构建精确视图，告别为每个问题维护独立视图的繁琐。",
+          "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
+          "published_at": "2026-07-16T19:07:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9677,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "official",
@@ -350,27 +350,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T19:01:09Z",
-      "latest_at": "2026-07-16T19:01:09Z",
+      "earliest_at": "2026-07-16T19:07:14Z",
+      "latest_at": "2026-07-16T19:07:14Z",
       "primary_item": {
-        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-        "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-        "title_zh": "仓库管理员可以归档拉取请求",
-        "title_en": "Repository admins can archive pull requests",
-        "title_original": "Repository admins can archive pull requests",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
-        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+        "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
+        "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
+        "title_zh": "Projects 高级搜索已正式上线",
+        "title_en": "Advanced search for Projects is generally available",
+        "title_original": "Advanced search for Projects is generally available",
+        "summary": "The filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate…\nThe filter bar in GitHub Projects views now supports advanced search, so you can build the exact view you need with logical AND and OR instead of maintaining a separate view for every question. Just type an expression using OR , AND in the filter bar of any project view.\nShare your feedback in the GitHub Community .\nDiscover tip",
+        "recommend_reason_zh": "GitHub Projects 的 filter bar 现已支持高级搜索，可使用逻辑 AND 和 OR 构建精确视图，告别为每个问题维护独立视图的繁琐。",
+        "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "仓库管理员可直接归档PR，清理旧请求提升协作效率，今天就能用。",
+      "persona_score": 55,
+      "persona_review": "搜索功能通用，非AI专用，有需要可试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -401,7 +401,7 @@
           "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
           "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
           "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk’s xAI files first lawsuit against Grok user accused of making child sex images.\nFacing mounting pressure to acknowledge that Grok can still be used to generate non-consensual sexualized images of adults and minors, xAI f",
+          "summary": null,
           "recommend_reason_zh": "xAI起诉用户Terry Wayne Harwood，指控其使用Grok生成儿童性虐待图像，涉及一名年仅10岁的女孩，另一案件中继父用Grok生成7000张性化图像后自杀。",
           "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
           "source": "Ars Technica",
@@ -436,7 +436,7 @@
           "title_zh": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
           "title_en": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
           "title_original": "xAI can’t deny Grok makes CSAM anymore. So it’s suing users.",
-          "summary": "Elon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk's xAI files first lawsuit against Grok user accused of making child sex images.\nElon Musk’s xAI files first lawsuit against Grok user accused of making child sex images.\nFacing mounting pressure to acknowledge that Grok can still be used to generate non-consensual sexualized images of adults and minors, xAI f",
+          "summary": null,
           "recommend_reason_zh": "xAI起诉用户Terry Wayne Harwood，指控其使用Grok生成儿童性虐待图像，涉及一名年仅10岁的女孩，另一案件中继父用Grok生成7000张性化图像后自杀。",
           "url": "https://arstechnica.com/tech-policy/2026/07/xai-cant-deny-grok-makes-csam-anymore-so-its-suing-users",
           "source": "Ars Technica",
@@ -447,15 +447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8354,
-      "importance": 0.8354,
-      "importance_score": 0.8354,
+      "score": 0.8306,
+      "importance": 0.8306,
+      "importance_score": 0.8306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9611,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,7 +484,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -532,15 +532,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7353,
+        "recency": 0.7154,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,7 +569,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -617,15 +617,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8436,
+        "recency": 0.8208,
         "story_heat": 0.0
       },
       "category": "official",
@@ -654,7 +654,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
+      }
+    },
+    {
+      "story_id": "story_17b15ceeb6c5",
+      "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+          "title_zh": "仓库管理员可以归档拉取请求",
+          "title_en": "Repository admins can archive pull requests",
+          "title_original": "Repository admins can archive pull requests",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
+          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T19:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+          "title_zh": "仓库管理员可以归档拉取请求",
+          "title_en": "Repository admins can archive pull requests",
+          "title_original": "Repository admins can archive pull requests",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
+          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T19:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9416,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T19:01:09Z",
+      "latest_at": "2026-07-16T19:01:09Z",
+      "primary_item": {
+        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+        "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+        "title_zh": "仓库管理员可以归档拉取请求",
+        "title_en": "Repository admins can archive pull requests",
+        "title_original": "Repository admins can archive pull requests",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
+        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "仓库管理员可直接归档PR，清理旧请求提升协作效率，今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -702,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8723,
+        "recency": 0.8487,
         "story_heat": 0.0
       },
       "category": "official",
@@ -739,92 +824,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
-      "story_id": "story_f2f3dd65eb7e",
-      "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_aed8bc029fb1",
+      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
+      "url": "https://x.ai/news/grok-automations",
+      "primary_url": "https://x.ai/news/grok-automations",
+      "source": "xAI：News（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
-          "title_en": "REST API endpoints for Visual Studio Subscription management",
-          "title_original": "REST API endpoints for Visual Studio Subscription management",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
+          "id": "862a9de3f6f2e72267c0ece7882dabe66de7fcdc",
+          "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
+          "title_zh": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+          "title_en": "Automations in Grok",
+          "title_original": "Automations in Grok",
+          "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+          "recommend_reason_zh": "Grok的Automations让用户只需描述一次任务，即可按每日/周/月等时间表或邮件触发自动执行，支持按发件人、主题过滤，并选择通过邮件或应用通知报告结果。",
+          "url": "https://x.ai/news/grok-automations",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T21:39:40.165000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "xAI：News（网页）"
       ],
       "items": [
         {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
-          "title_en": "REST API endpoints for Visual Studio Subscription management",
-          "title_original": "REST API endpoints for Visual Studio Subscription management",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
+          "id": "862a9de3f6f2e72267c0ece7882dabe66de7fcdc",
+          "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
+          "title_zh": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+          "title_en": "Automations in Grok",
+          "title_original": "Automations in Grok",
+          "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+          "recommend_reason_zh": "Grok的Automations让用户只需描述一次任务，即可按每日/周/月等时间表或邮件触发自动执行，支持按发件人、主题过滤，并选择通过邮件或应用通知报告结果。",
+          "url": "https://x.ai/news/grok-automations",
+          "source": "xAI：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T21:39:40.165000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8359,
-      "importance": 0.8359,
-      "importance_score": 0.8359,
-      "importance_label": "官方更新",
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9552,
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T18:06:52Z",
-      "latest_at": "2026-07-16T18:06:52Z",
+      "earliest_at": "2026-07-16T21:39:40.165000Z",
+      "latest_at": "2026-07-16T21:39:40.165000Z",
       "primary_item": {
-        "id": "225611c19971e2c7202b85385fe274bebde738e4",
-        "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-        "title_zh": "Visual Studio 订阅管理的 REST API 端点",
-        "title_en": "REST API endpoints for Visual Studio Subscription management",
-        "title_original": "REST API endpoints for Visual Studio Subscription management",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
-        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "862a9de3f6f2e72267c0ece7882dabe66de7fcdc",
+        "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
+        "title_zh": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果",
+        "title_en": "Automations in Grok",
+        "title_original": "Automations in Grok",
+        "summary": "xAI 为 Grok 引入 Automations 功能，用户可描述一次任务，让 Grok 按计划（一次/每日/工作日/每周/每月/每年）或邮件触发（按发件人、收件人或主题过滤）自动运行。每次执行都是一次完整对话，结果保存至运行历史，支持邮件或应用内通知。定时自动化对所有用户开放，邮件触发需 SuperGrok 订阅。",
+        "recommend_reason_zh": "Grok的Automations让用户只需描述一次任务，即可按每日/周/月等时间表或邮件触发自动执行，支持按发件人、主题过滤，并选择通过邮件或应用通知报告结果。",
+        "url": "https://x.ai/news/grok-automations",
+        "source": "xAI：News（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "除非你管企业VS订阅，否则跟你写代码无关。",
+      "persona_score": 75,
+      "persona_review": "Grok 用户可搭定时任务，自动化工作流实测有用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -872,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9264,
+        "recency": 0.9014,
         "story_heat": 0.0
       },
       "category": "official",
@@ -909,7 +993,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -957,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.964,
+        "recency": 0.9379,
         "story_heat": 0.0
       },
       "category": "official",
@@ -993,7 +1077,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1070,15 +1154,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.781,
-      "importance": 0.781,
-      "importance_score": 0.781,
+      "score": 0.7764,
+      "importance": 0.7764,
+      "importance_score": 0.7764,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9356,
+        "recency": 0.9103,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1107,30 +1191,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
-      "story_id": "story_dec969f83e4d",
-      "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
-      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "story_id": "story_f2f3dd65eb7e",
+      "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-          "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
-          "title_zh": "Xcode 27 runner 镜像现公开预览",
-          "title_en": "Xcode 27 runner image now in public preview",
-          "title_original": "Xcode 27 runner image now in public preview",
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
+          "title_en": "REST API endpoints for Visual Studio Subscription management",
+          "title_original": "REST API endpoints for Visual Studio Subscription management",
           "summary": null,
-          "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T18:00:07Z"
+          "published_at": "2026-07-16T18:06:52Z"
         }
       ],
       "source_count": 1,
@@ -1139,31 +1223,31 @@
       ],
       "items": [
         {
-          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-          "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
-          "title_zh": "Xcode 27 runner 镜像现公开预览",
-          "title_en": "Xcode 27 runner image now in public preview",
-          "title_original": "Xcode 27 runner image now in public preview",
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
+          "title_en": "REST API endpoints for Visual Studio Subscription management",
+          "title_original": "REST API endpoints for Visual Studio Subscription management",
           "summary": null,
-          "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
-          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-16T18:00:07Z"
+          "published_at": "2026-07-16T18:06:52Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8357,
-      "importance": 0.8357,
-      "importance_score": 0.8357,
+      "score": 0.8313,
+      "importance": 0.8313,
+      "importance_score": 0.8313,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9536,
+        "recency": 0.9293,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1172,27 +1256,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T18:00:07Z",
-      "latest_at": "2026-07-16T18:00:07Z",
+      "earliest_at": "2026-07-16T18:06:52Z",
+      "latest_at": "2026-07-16T18:06:52Z",
       "primary_item": {
-        "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
-        "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
-        "title_zh": "Xcode 27 runner 镜像现公开预览",
-        "title_en": "Xcode 27 runner image now in public preview",
-        "title_original": "Xcode 27 runner image now in public preview",
+        "id": "225611c19971e2c7202b85385fe274bebde738e4",
+        "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+        "title_zh": "Visual Studio 订阅管理的 REST API 端点",
+        "title_en": "REST API endpoints for Visual Studio Subscription management",
+        "title_original": "REST API endpoints for Visual Studio Subscription management",
         "summary": null,
-        "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
-        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+        "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
+        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "CI/CD 直接用上新 Xcode，苹果开发者今天就能换镜像跑构建。",
+      "persona_score": 15,
+      "persona_review": "除非你管企业VS订阅，否则跟你写代码无关。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1240,15 +1324,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7353,
+        "recency": 0.7154,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1277,7 +1361,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1325,15 +1409,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7633,
-      "importance": 0.7633,
-      "importance_score": 0.7633,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8759,
+        "recency": 0.8522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1361,7 +1445,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1438,15 +1522,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.822,
+        "recency": 0.7997,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1475,7 +1559,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1523,15 +1607,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9084,
+        "recency": 0.8838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1559,7 +1643,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1607,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.97,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1643,7 +1727,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     },
     {
@@ -1691,15 +1775,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7555,
-      "importance": 0.7555,
-      "importance_score": 0.7555,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8495,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1727,91 +1811,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
-      }
-    },
-    {
-      "story_id": "story_378446ad4acc",
-      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "primary_url": "https://www.mixfont.com/experiments/decoy-font",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
-          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "title_zh": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "title_en": null,
-          "title_original": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
-          "recommend_reason_zh": "Decoy Font用空间频率混淆技术，每字母搭配诱饵，能欺骗GPT Sol和Gemini 3.5 with Thinking，让人类眯眼或远离屏幕才能看清隐藏内容。",
-          "url": "https://www.mixfont.com/experiments/decoy-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T18:32:23.680000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
-          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "title_zh": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "title_en": null,
-          "title_original": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-          "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
-          "recommend_reason_zh": "Decoy Font用空间频率混淆技术，每字母搭配诱饵，能欺骗GPT Sol和Gemini 3.5 with Thinking，让人类眯眼或远离屏幕才能看清隐藏内容。",
-          "url": "https://www.mixfont.com/experiments/decoy-font",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T18:32:23.680000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.961,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T18:32:23.680000Z",
-      "latest_at": "2026-07-16T18:32:23.680000Z",
-      "primary_item": {
-        "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
-        "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-        "title_zh": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-        "title_en": null,
-        "title_original": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
-        "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
-        "recommend_reason_zh": "Decoy Font用空间频率混淆技术，每字母搭配诱饵，能欺骗GPT Sol和Gemini 3.5 with Thinking，让人类眯眼或远离屏幕才能看清隐藏内容。",
-        "url": "https://www.mixfont.com/experiments/decoy-font",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "有趣的对抗技术，但暂无现成工具可用，关注后续开源或集成。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T21:24:50.535296Z"
+        "scored_at": "2026-07-16T23:18:35.037014Z"
       }
     }
   ]
