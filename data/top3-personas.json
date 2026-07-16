@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T18:29:37.212795Z",
+  "generated_at": "2026-07-16T20:21:59.900938Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_9b3183996a36",
-      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
+      "story_id": "story_dec969f83e4d",
+      "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "Parallel搜索听着高级，本质还是调自家API，企业版终于补上基础功能了。"
+          "review": "版本号+1，runner升级了啥？希望不是只改了个数字。"
         },
         "paper-police": {
           "score": 25,
-          "review": "官方博客宣布功能，无论文代码或独立评测，证据不足。"
+          "review": "官方公告但无评测数据，能否跑通全看运气，等实测反馈。"
         },
         "pragmatic": {
           "score": 92,
-          "review": "Agent能联网搜索了，实时信息获取直接集成，今天就能调API试。"
+          "review": "CI/CD 直接用上新 Xcode，苹果开发者今天就能换镜像跑构建。"
         }
       }
     },
     {
-      "story_id": "story_6ecaedd1168a",
-      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
+      "story_id": "story_17b15ceeb6c5",
+      "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "附属工具当亮点，xAI 的 PR 团队该换个地方挖了。"
+          "score": 70,
+          "review": "终于能关掉那些陈年PR了？顺手的事拖这么久，GitHub的PR管理就这？"
         },
         "paper-police": {
-          "score": 25,
-          "review": "仅博客提及，无代码仓库或论文链接，无法验证。"
+          "score": 70,
+          "review": "官方公告有链接可查，功能明确，无需论文代码。"
         },
         "pragmatic": {
-          "score": 92,
-          "review": "命令行画框图利器，克隆即用，省去截图烦恼。"
+          "score": 88,
+          "review": "仓库管理员可直接归档PR，清理旧请求提升协作效率，今天就能用。"
         }
       }
     }

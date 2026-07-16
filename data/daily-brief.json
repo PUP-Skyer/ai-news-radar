@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T18:20:04.602796Z",
+  "generated_at": "2026-07-16T20:12:39.127603Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.863,
-      "importance": 0.863,
-      "importance_score": 0.863,
+      "score": 0.8584,
+      "importance": 0.8584,
+      "importance_score": 0.8584,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9668,
+        "recency": 0.941,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -163,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8601,
-      "importance": 0.8601,
-      "importance_score": 0.8601,
+      "score": 0.8554,
+      "importance": 0.8554,
+      "importance_score": 0.8554,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9672,
+        "recency": 0.9413,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9668,
+        "recency": 0.941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,517 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_17b15ceeb6c5",
+      "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+          "title_zh": "仓库管理员可以归档拉取请求",
+          "title_en": "Repository admins can archive pull requests",
+          "title_original": "Repository admins can archive pull requests",
+          "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests…\nRepository admins can now archive pull requests to remove them from public view without permanently deleting them.\nWhen a pull request is archived, it is closed and locked. Pull requests can be archived in bulk or on an individual basis. Archived pull requests are only visible to repository admins, and non-admi",
+          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
+          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T19:01:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+          "title_zh": "仓库管理员可以归档拉取请求",
+          "title_en": "Repository admins can archive pull requests",
+          "title_original": "Repository admins can archive pull requests",
+          "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests…\nRepository admins can now archive pull requests to remove them from public view without permanently deleting them.\nWhen a pull request is archived, it is closed and locked. Pull requests can be archived in bulk or on an individual basis. Archived pull requests are only visible to repository admins, and non-admi",
+          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
+          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T19:01:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8409,
+      "importance": 0.8409,
+      "importance_score": 0.8409,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9829,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T19:01:09Z",
+      "latest_at": "2026-07-16T19:01:09Z",
+      "primary_item": {
+        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
+        "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
+        "title_zh": "仓库管理员可以归档拉取请求",
+        "title_en": "Repository admins can archive pull requests",
+        "title_original": "Repository admins can archive pull requests",
+        "summary": "Repository admins can now archive pull requests to remove them from public view without permanently deleting them. When a pull request is archived, it is closed and locked. Pull requests…\nRepository admins can now archive pull requests to remove them from public view without permanently deleting them.\nWhen a pull request is archived, it is closed and locked. Pull requests can be archived in bulk or on an individual basis. Archived pull requests are only visible to repository admins, and non-admi",
+        "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
+        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "仓库管理员可直接归档PR，清理旧请求提升协作效率，今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_affed1a668e3",
+      "title": "Codex CLI 0.144.5",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "Codex CLI 0.144.5",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.144.5",
+          "title_original": "Codex CLI 0.144.5",
+          "summary": null,
+          "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+          "title": "Codex CLI 0.144.5",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.144.5",
+          "title_original": "Codex CLI 0.144.5",
+          "summary": null,
+          "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8204,
+      "importance": 0.8204,
+      "importance_score": 0.8204,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "027b6c9a356ca75814a626e9497b95393736ceea",
+        "title": "Codex CLI 0.144.5",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.144.5",
+        "title_original": "Codex CLI 0.144.5",
+        "summary": null,
+        "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "小版本更新，升级看 changelog 再决定是否值得更新。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_e58a2c2a018a",
+      "title": "我们的生物韧性策略 / Our approach to bioresilience",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+      "primary_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+          "title": "我们的生物韧性策略 / Our approach to bioresilience",
+          "title_zh": "我们的生物韧性策略",
+          "title_en": "Our approach to bioresilience",
+          "title_original": "Our approach to bioresilience",
+          "summary": null,
+          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T09:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+          "title": "我们的生物韧性策略 / Our approach to bioresilience",
+          "title_zh": "我们的生物韧性策略",
+          "title_en": "Our approach to bioresilience",
+          "title_original": "Our approach to bioresilience",
+          "summary": null,
+          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T09:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8182,
+      "importance": 0.8182,
+      "importance_score": 0.8182,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8568,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T09:30:42Z",
+      "latest_at": "2026-07-16T09:30:42Z",
+      "primary_item": {
+        "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
+        "title": "我们的生物韧性策略 / Our approach to bioresilience",
+        "title_zh": "我们的生物韧性策略",
+        "title_en": "Our approach to bioresilience",
+        "title_original": "Our approach to bioresilience",
+        "summary": null,
+        "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
+        "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "战略方向，今天用不上，关注后续产品。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_284815e6209e",
+      "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+          "title_zh": "模型更新，优势依旧",
+          "title_en": "Newer Models, Same Advantage",
+          "title_original": "Newer Models, Same Advantage",
+          "summary": null,
+          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T11:49:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+          "title_zh": "模型更新，优势依旧",
+          "title_en": "Newer Models, Same Advantage",
+          "title_original": "Newer Models, Same Advantage",
+          "summary": null,
+          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T11:49:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.886,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T11:49:48Z",
+      "latest_at": "2026-07-16T11:49:48Z",
+      "primary_item": {
+        "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
+        "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
+        "title_zh": "模型更新，优势依旧",
+        "title_en": "Newer Models, Same Advantage",
+        "title_original": "Newer Models, Same Advantage",
+        "summary": null,
+        "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
+        "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "标题含糊，无具体模型名或API变化，等细节再看是否能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_f2f3dd65eb7e",
+      "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
+          "title_en": "REST API endpoints for Visual Studio Subscription management",
+          "title_original": "REST API endpoints for Visual Studio Subscription management",
+          "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including…\nGitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments:\nThese endpoints are especially useful for organizations where VSS UPN formats do not ",
+          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:06:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "225611c19971e2c7202b85385fe274bebde738e4",
+          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
+          "title_en": "REST API endpoints for Visual Studio Subscription management",
+          "title_original": "REST API endpoints for Visual Studio Subscription management",
+          "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including…\nGitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments:\nThese endpoints are especially useful for organizations where VSS UPN formats do not ",
+          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
+          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:06:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8386,
+      "importance": 0.8386,
+      "importance_score": 0.8386,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9702,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T18:06:52Z",
+      "latest_at": "2026-07-16T18:06:52Z",
+      "primary_item": {
+        "id": "225611c19971e2c7202b85385fe274bebde738e4",
+        "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
+        "title_zh": "Visual Studio 订阅管理的 REST API 端点",
+        "title_en": "REST API endpoints for Visual Studio Subscription management",
+        "title_original": "REST API endpoints for Visual Studio Subscription management",
+        "summary": "GitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments: GET /enterprises/{enterprise}/visual-studio-subscriptions: Returns all VSS assignments for an enterprise, including…\nGitHub Enterprise Cloud admins can now use the following REST API endpoints to programmatically manage Visual Studio Subscription (VSS) assignments:\nThese endpoints are especially useful for organizations where VSS UPN formats do not ",
+        "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
+        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "除非你管企业VS订阅，否则跟你写代码无关。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_b3af4b376b32",
+      "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+          "title_zh": "将更多应用连接到 Search",
+          "title_en": "Connect more of your apps to Search",
+          "title_original": "Connect more of your apps to Search",
+          "summary": null,
+          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+          "title_zh": "将更多应用连接到 Search",
+          "title_en": "Connect more of your apps to Search",
+          "title_original": "Connect more of your apps to Search",
+          "summary": null,
+          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
+          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8334,
+      "importance": 0.8334,
+      "importance_score": 0.8334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.941,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T16:00:00Z",
+      "latest_at": "2026-07-16T16:00:00Z",
+      "primary_item": {
+        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
+        "title": "将更多应用连接到 Search / Connect more of your apps to Search",
+        "title_zh": "将更多应用连接到 Search",
+        "title_en": "Connect more of your apps to Search",
+        "title_original": "Connect more of your apps to Search",
+        "summary": null,
+        "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
+        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "产品功能扩展，等具体API开放后再接入。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -339,21 +849,7 @@
           "published_at": "2026-07-15T22:17:34.170000Z"
         },
         {
-          "id": "8459b9aebdd130d313d05f7319c194b0ce85eff5",
-          "title": "Grok Build 现已开源 / Grok Build is open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is open source",
-          "title_original": "Grok Build is open source",
-          "summary": null,
-          "recommend_reason_zh": "SpaceXAI将Grok Build CLI开源，你只需一条命令即可在终端运行，还能体验Grok的语音对话、图像视频生成和实时搜索。",
-          "url": "https://x.ai/open-source",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T20:47:29Z"
-        },
-        {
-          "id": "2bae480a28c8c210f7d2ba243fc9896aad67ad1c",
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
           "title": "Grok Build 现已开源 / Grok Build is open source",
           "title_zh": "Grok Build 现已开源",
           "title_en": "Grok Build is open source",
@@ -361,15 +857,14 @@
           "summary": null,
           "recommend_reason_zh": "SpaceXAI将AI编码智能体Grok Build开源，基于Rust构建的全屏TUI支持鼠标交互、编辑文件、执行shell命令，并为macOS、Linux、Windows发布预编译二进制。",
           "url": "https://github.com/xai-org/grok-build",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-15T20:24:58Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
         "X：Elon Musk (@elonmusk, xAI)",
         "github.com",
@@ -419,21 +914,7 @@
           "published_at": "2026-07-15T22:17:34.170000Z"
         },
         {
-          "id": "8459b9aebdd130d313d05f7319c194b0ce85eff5",
-          "title": "Grok Build 现已开源 / Grok Build is open source",
-          "title_zh": "Grok Build 现已开源",
-          "title_en": "Grok Build is open source",
-          "title_original": "Grok Build is open source",
-          "summary": null,
-          "recommend_reason_zh": "SpaceXAI将Grok Build CLI开源，你只需一条命令即可在终端运行，还能体验Grok的语音对话、图像视频生成和实时搜索。",
-          "url": "https://x.ai/open-source",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-15T20:47:29Z"
-        },
-        {
-          "id": "2bae480a28c8c210f7d2ba243fc9896aad67ad1c",
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
           "title": "Grok Build 现已开源 / Grok Build is open source",
           "title_zh": "Grok Build 现已开源",
           "title_en": "Grok Build is open source",
@@ -441,24 +922,24 @@
           "summary": null,
           "recommend_reason_zh": "SpaceXAI将AI编码智能体Grok Build开源，基于Rust构建的全屏TUI支持鼠标交互、编辑文件、执行shell命令，并为macOS、Linux、Windows发布预编译二进制。",
           "url": "https://github.com/xai-org/grok-build",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-15T20:24:58Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.8315,
-      "importance": 0.8315,
-      "importance_score": 0.8315,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7329,
-        "story_heat": 1.0
+        "recency": 0.7133,
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -486,432 +967,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
-      "story_id": "story_affed1a668e3",
-      "title": "Codex CLI 0.144.5",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_bc0344ef6635",
+      "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+      "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+      "primary_url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+      "source": "X：ChatGPT (@ChatGPTapp)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
-          "title": "Codex CLI 0.144.5",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.5",
-          "title_original": "Codex CLI 0.144.5",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
+          "id": "63354309c911c1d6e9d80174e5cc9abb63a80904",
+          "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+          "title_zh": "ChatGPT 工作区支持文档表格幻灯片编辑",
+          "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+          "title_original": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+          "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
+          "recommend_reason_zh": "本文展示了如何在ChatGPT Work中创建和编辑文档、电子表格和幻灯片，并由@nickbaumann_亲自演示操作流程，适合希望提升办公效率的用户。",
+          "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+          "source": "X：ChatGPT (@ChatGPTapp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T18:44:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "X：ChatGPT (@ChatGPTapp)"
       ],
       "items": [
         {
-          "id": "027b6c9a356ca75814a626e9497b95393736ceea",
-          "title": "Codex CLI 0.144.5",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.144.5",
-          "title_original": "Codex CLI 0.144.5",
-          "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
+          "id": "63354309c911c1d6e9d80174e5cc9abb63a80904",
+          "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+          "title_zh": "ChatGPT 工作区支持文档表格幻灯片编辑",
+          "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+          "title_original": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+          "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
+          "recommend_reason_zh": "本文展示了如何在ChatGPT Work中创建和编辑文档、电子表格和幻灯片，并由@nickbaumann_亲自演示操作流程，适合希望提升办公效率的用户。",
+          "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+          "source": "X：ChatGPT (@ChatGPTapp)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T18:44:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8002,
+      "importance": 0.8002,
+      "importance_score": 0.8002,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.68,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7674,
+        "ai_relevance": 1.0,
+        "recency": 0.9791,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T00:00:00Z",
-      "latest_at": "2026-07-16T00:00:00Z",
+      "earliest_at": "2026-07-16T18:44:58Z",
+      "latest_at": "2026-07-16T18:44:58Z",
       "primary_item": {
-        "id": "027b6c9a356ca75814a626e9497b95393736ceea",
-        "title": "Codex CLI 0.144.5",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.144.5",
-        "title_original": "Codex CLI 0.144.5",
-        "summary": null,
-        "recommend_reason_zh": "Codex CLI 0.144.5 已集成至 macOS 和 Windows 版 ChatGPT 桌面应用，现有用户可更新并保留项目、设置和工作流，还能将 Codex 设为默认视图并保留原图标。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
+        "id": "63354309c911c1d6e9d80174e5cc9abb63a80904",
+        "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+        "title_zh": "ChatGPT 工作区支持文档表格幻灯片编辑",
+        "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+        "title_original": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
+        "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
+        "recommend_reason_zh": "本文展示了如何在ChatGPT Work中创建和编辑文档、电子表格和幻灯片，并由@nickbaumann_亲自演示操作流程，适合希望提升办公效率的用户。",
+        "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
+        "source": "X：ChatGPT (@ChatGPTapp)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "小版本更新，升级看 changelog 再决定是否值得更新。",
+      "persona_score": 50,
+      "persona_review": "办公套件集成，终端用户利好，但开发者暂不需调整方案。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_e58a2c2a018a",
-      "title": "我们的生物韧性策略 / Our approach to bioresilience",
-      "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-      "primary_url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
-          "title": "我们的生物韧性策略 / Our approach to bioresilience",
-          "title_zh": "我们的生物韧性策略",
-          "title_en": "Our approach to bioresilience",
-          "title_original": "Our approach to bioresilience",
-          "summary": null,
-          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
-          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T09:30:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
-          "title": "我们的生物韧性策略 / Our approach to bioresilience",
-          "title_zh": "我们的生物韧性策略",
-          "title_en": "Our approach to bioresilience",
-          "title_original": "Our approach to bioresilience",
-          "summary": null,
-          "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
-          "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T09:30:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8804,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:30:42Z",
-      "latest_at": "2026-07-16T09:30:42Z",
-      "primary_item": {
-        "id": "a239dc49f2a95e5471009f20f50bcc71277feaa9",
-        "title": "我们的生物韧性策略 / Our approach to bioresilience",
-        "title_zh": "我们的生物韧性策略",
-        "title_en": "Our approach to bioresilience",
-        "title_original": "Our approach to bioresilience",
-        "summary": null,
-        "recommend_reason_zh": "Google DeepMind与Isomorphic Labs基于AlphaFold、IsoDDE和AlphaGenome等AI模型，建立了涵盖预防、检测、响应的生物韧性框架，并已推进超过15项合作。",
-        "url": "https://deepmind.google/blog/our-approach-to-bioresilience",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "战略方向，今天用不上，关注后续产品。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_284815e6209e",
-      "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-      "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "primary_url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-          "title_zh": "模型更新，优势依旧",
-          "title_en": "Newer Models, Same Advantage",
-          "title_original": "Newer Models, Same Advantage",
-          "summary": null,
-          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T11:49:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-          "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-          "title_zh": "模型更新，优势依旧",
-          "title_en": "Newer Models, Same Advantage",
-          "title_original": "Newer Models, Same Advantage",
-          "summary": null,
-          "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
-          "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T11:49:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8439,
-      "importance": 0.8439,
-      "importance_score": 0.8439,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9103,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T11:49:48Z",
-      "latest_at": "2026-07-16T11:49:48Z",
-      "primary_item": {
-        "id": "f9dab31ff1cbacf2542008b471d9231fd350dd74",
-        "title": "模型更新，优势依旧 / Newer Models, Same Advantage",
-        "title_zh": "模型更新，优势依旧",
-        "title_en": "Newer Models, Same Advantage",
-        "title_original": "Newer Models, Same Advantage",
-        "summary": null,
-        "recommend_reason_zh": "DharmaOCR通过监督微调与DPO两阶段训练，在巴西葡萄牙语OCR基准上实现最高提取质量分数与最低退化率，证明了专注单一语言的结构性优势。",
-        "url": "https://huggingface.co/blog/Dharma-AI/newer-models-same-advantages",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "标题含糊，无具体模型名或API变化，等细节再看是否能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_b3af4b376b32",
-      "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-          "title_zh": "将更多应用连接到 Search",
-          "title_en": "Connect more of your apps to Search",
-          "title_original": "Connect more of your apps to Search",
-          "summary": null,
-          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-          "title_zh": "将更多应用连接到 Search",
-          "title_en": "Connect more of your apps to Search",
-          "title_original": "Connect more of your apps to Search",
-          "summary": null,
-          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.838,
-      "importance": 0.838,
-      "importance_score": 0.838,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9668,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-        "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-        "title_zh": "将更多应用连接到 Search",
-        "title_en": "Connect more of your apps to Search",
-        "title_original": "Connect more of your apps to Search",
-        "summary": null,
-        "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
-        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "产品功能扩展，等具体API开放后再接入。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_85928d22c4fa",
-      "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
-      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
-          "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
-          "title_zh": "改进秘密扫描与公共监控",
-          "title_en": "Improvements to secret scanning and public monitoring",
-          "title_original": "Improvements to secret scanning and public monitoring",
-          "summary": null,
-          "recommend_reason_zh": "GitHub本周升级secret scanning，新增Resend令牌检测及APIclub新秘密类型，推送保护默认拦截含秘密提交，webhook新增secret_category字段，public monitoring首页加入洞察卡片，提升安全响应效率。",
-          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T22:38:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
-          "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
-          "title_zh": "改进秘密扫描与公共监控",
-          "title_en": "Improvements to secret scanning and public monitoring",
-          "title_original": "Improvements to secret scanning and public monitoring",
-          "summary": null,
-          "recommend_reason_zh": "GitHub本周升级secret scanning，新增Resend令牌检测及APIclub新秘密类型，推送保护默认拦截含秘密提交，webhook新增secret_category字段，public monitoring首页加入洞察卡片，提升安全响应效率。",
-          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T22:38:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7524,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T22:38:16Z",
-      "latest_at": "2026-07-15T22:38:16Z",
-      "primary_item": {
-        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
-        "title": "改进秘密扫描与公共监控 / Improvements to secret scanning and public monitoring",
-        "title_zh": "改进秘密扫描与公共监控",
-        "title_en": "Improvements to secret scanning and public monitoring",
-        "title_original": "Improvements to secret scanning and public monitoring",
-        "summary": null,
-        "recommend_reason_zh": "GitHub本周升级secret scanning，新增Resend令牌检测及APIclub新秘密类型，推送保护默认拦截含秘密提交，webhook新增secret_category字段，public monitoring首页加入洞察卡片，提升安全响应效率。",
-        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "扫密钥更准了，CICD 里加个扫描步骤今天就能防泄漏。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -988,15 +1128,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7837,
+      "importance": 0.7837,
+      "importance_score": 0.7837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.9503,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1025,7 +1165,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_dec969f83e4d",
+      "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
+      "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+          "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
+          "title_zh": "Xcode 27 runner 镜像现公开预览",
+          "title_en": "Xcode 27 runner image now in public preview",
+          "title_original": "Xcode 27 runner image now in public preview",
+          "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode…\nYou can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview.\nWith early access to the latest Xcode toolchain and Apple SDKs, you can validate your apps against the newest tools, catch compatibility issues sooner, and keep your CI/CD pipelin",
+          "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
+          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:00:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+          "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
+          "title_zh": "Xcode 27 runner 镜像现公开预览",
+          "title_en": "Xcode 27 runner image now in public preview",
+          "title_original": "Xcode 27 runner image now in public preview",
+          "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode…\nYou can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview.\nWith early access to the latest Xcode toolchain and Apple SDKs, you can validate your apps against the newest tools, catch compatibility issues sooner, and keep your CI/CD pipelin",
+          "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
+          "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T18:00:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9686,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T18:00:07Z",
+      "latest_at": "2026-07-16T18:00:07Z",
+      "primary_item": {
+        "id": "8b851e9e6471a3ec412b76a98930d2cd7a0e35aa",
+        "title": "Xcode 27 runner 镜像现公开预览 / Xcode 27 runner image now in public preview",
+        "title_zh": "Xcode 27 runner 镜像现公开预览",
+        "title_en": "Xcode 27 runner image now in public preview",
+        "title_original": "Xcode 27 runner image now in public preview",
+        "summary": "You can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview. With early access to the latest Xcode…\nYou can now build and test your Apple applications against Xcode 27 on GitHub-hosted macOS runners. This is now available in public preview.\nWith early access to the latest Xcode toolchain and Apple SDKs, you can validate your apps against the newest tools, catch compatibility issues sooner, and keep your CI/CD pipelin",
+        "recommend_reason_zh": "GitHub 宣布Xcode 27 runner image公开预览，支持在arm64 macOS runners上构建测试Apple应用，但暂不支持Intel架构。",
+        "url": "https://github.blog/changelog/2026-07-16-xcode-27-runner-image-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 92,
+      "persona_review": "CI/CD 直接用上新 Xcode，苹果开发者今天就能换镜像跑构建。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -1073,15 +1298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8101,
-      "importance": 0.8101,
-      "importance_score": 0.8101,
+      "score": 0.8064,
+      "importance": 0.8064,
+      "importance_score": 0.8064,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7674,
+        "recency": 0.7469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1110,7 +1335,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -1158,15 +1383,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9141,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,91 +1419,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_2e5a4333049e",
-      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-      "url": "https://www.ithome.com/0/977/793.htm",
-      "primary_url": "https://www.ithome.com/0/977/793.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "title_en": null,
-          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
-          "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "title_en": null,
-          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
-          "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
-          "url": "https://www.ithome.com/0/977/793.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T14:38:08Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7672,
-      "importance": 0.7672,
-      "importance_score": 0.7672,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.948,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T14:38:08Z",
-      "latest_at": "2026-07-16T14:38:08Z",
-      "primary_item": {
-        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
-        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "title_en": null,
-        "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
-        "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
-        "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
-        "url": "https://www.ithome.com/0/977/793.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "组织成立对写代码没影响，等有实际资源再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -1355,15 +1496,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.767,
-      "importance": 0.767,
-      "importance_score": 0.767,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8578,
+        "recency": 0.8349,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1392,7 +1533,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_2e5a4333049e",
+      "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+      "url": "https://www.ithome.com/0/977/793.htm",
+      "primary_url": "https://www.ithome.com/0/977/793.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_en": null,
+          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+          "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T14:38:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+          "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "title_en": null,
+          "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+          "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+          "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
+          "url": "https://www.ithome.com/0/977/793.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T14:38:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7627,
+      "importance": 0.7627,
+      "importance_score": 0.7627,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9226,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T14:38:08Z",
+      "latest_at": "2026-07-16T14:38:08Z",
+      "primary_item": {
+        "id": "9e5e9c82b17e8d5f9f02898d4f70f7e7a1e61376",
+        "title": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "title_zh": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "title_en": null,
+        "title_original": "世界人工智能合作组织协定签署仪式在上海举行，总部设中国上海",
+        "summary": "7月16日，成立世界人工智能合作组织协定签署仪式在上海举行，中共中央政治局委员、外交部长王毅代表中国政府签署协定。该组织是独立的政府间国际组织，总部设在中国上海，旨在促进人工智能国际合作与全球治理。哈萨克斯坦、老挝、巴基斯坦等29个国家代表签署协定成为创始成员国。",
+        "recommend_reason_zh": "29国签署协定，世界人工智能合作组织总部设在上海，2026世界人工智能大会将迎300余款AI新品全球首发。",
+        "url": "https://www.ithome.com/0/977/793.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "组织成立对写代码没影响，等有实际资源再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
+      }
+    },
+    {
+      "story_id": "story_4727d09c2e30",
+      "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
+      "url": "https://www.kimi.com/blog/perception-bench",
+      "primary_url": "https://www.kimi.com/blog/perception-bench",
+      "source": "Moonshot AI：Kimi Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
+          "title_zh": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+          "title_en": "PerceptionBench",
+          "title_original": "PerceptionBench",
+          "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
+          "recommend_reason_zh": "PerceptionBench用3000个仅需“看”的问题评估多模态大模型10种原子视觉能力，发现无一模型超过60%准确率，且重复提问时模型常靠猜测而非真正感知。",
+          "url": "https://www.kimi.com/blog/perception-bench",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T19:11:01.192000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Moonshot AI：Kimi Blog"
+      ],
+      "items": [
+        {
+          "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+          "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
+          "title_zh": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+          "title_en": "PerceptionBench",
+          "title_original": "PerceptionBench",
+          "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
+          "recommend_reason_zh": "PerceptionBench用3000个仅需“看”的问题评估多模态大模型10种原子视觉能力，发现无一模型超过60%准确率，且重复提问时模型常靠猜测而非真正感知。",
+          "url": "https://www.kimi.com/blog/perception-bench",
+          "source": "Moonshot AI：Kimi Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T19:11:01.192000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9853,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T19:11:01.192000Z",
+      "latest_at": "2026-07-16T19:11:01.192000Z",
+      "primary_item": {
+        "id": "ce8c88f36db4b4d4dd052be3cf3e4419b232412f",
+        "title": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准 / PerceptionBench",
+        "title_zh": "Moonshot AI 发布 PerceptionBench：多模态模型视觉感知能力诊断基准",
+        "title_en": "PerceptionBench",
+        "title_original": "PerceptionBench",
+        "summary": "Moonshot AI 发布 PerceptionBench，一个从 40 多个现有基准中模型实际失败案例归纳出的视觉感知基准，包含 10 项原子感知能力和 3000 道验证题。所有测试模型准确率均未超过 60%，且大量正确答案在重复提问时无法复现，表明模型更多是猜测而非真正感知。PerceptionBench 旨在精确诊断多模态 AI 的视觉感知断裂点，推动其实现忠实、一致的视觉理解。",
+        "recommend_reason_zh": "PerceptionBench用3000个仅需“看”的问题评估多模态大模型10种原子视觉能力，发现无一模型超过60%准确率，且重复提问时模型常靠猜测而非真正感知。",
+        "url": "https://www.kimi.com/blog/perception-bench",
+        "source": "Moonshot AI：Kimi Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "新基准有助于选型评估，但暂无直接可用性，做多模态的可以关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
@@ -1440,15 +1749,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7622,
-      "importance": 0.7622,
-      "importance_score": 0.7622,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8866,
+        "recency": 0.8629,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1476,346 +1785,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     },
     {
-      "story_id": "story_9b3183996a36",
-      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-      "primary_url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-      "source": "Google Developers Blog（RSS）",
+      "story_id": "story_378446ad4acc",
+      "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "primary_url": "https://www.mixfont.com/experiments/decoy-font",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
-          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-          "title_zh": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-          "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-          "title_original": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-          "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
-          "recommend_reason_zh": "Parallel Web Systems集成Gemini平台，支持实时网络数据引用、程序化调用及零数据保留，为金融、法律等领域的自主智能体工作流提供可验证的事实依据。",
-          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-          "source": "Google Developers Blog（RSS）",
+          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "title_zh": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "title_en": null,
+          "title_original": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
+          "recommend_reason_zh": "Decoy Font用空间频率混淆技术，每字母搭配诱饵，能欺骗GPT Sol和Gemini 3.5 with Thinking，让人类眯眼或远离屏幕才能看清隐藏内容。",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T09:58:51.914000Z"
+          "published_at": "2026-07-16T18:32:23.680000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Google Developers Blog（RSS）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
-          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-          "title_zh": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-          "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-          "title_original": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-          "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
-          "recommend_reason_zh": "Parallel Web Systems集成Gemini平台，支持实时网络数据引用、程序化调用及零数据保留，为金融、法律等领域的自主智能体工作流提供可验证的事实依据。",
-          "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-          "source": "Google Developers Blog（RSS）",
+          "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+          "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "title_zh": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "title_en": null,
+          "title_original": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+          "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
+          "recommend_reason_zh": "Decoy Font用空间频率混淆技术，每字母搭配诱饵，能欺骗GPT Sol和Gemini 3.5 with Thinking，让人类眯眼或远离屏幕才能看清隐藏内容。",
+          "url": "https://www.mixfont.com/experiments/decoy-font",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T09:58:51.914000Z"
+          "published_at": "2026-07-16T18:32:23.680000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.6,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.8864,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T09:58:51.914000Z",
-      "latest_at": "2026-07-16T09:58:51.914000Z",
-      "primary_item": {
-        "id": "d4edb81fade0c4304db2d178b4f7a98084b1c296",
-        "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-        "title_zh": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
-        "title_en": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-        "title_original": "Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-        "summary": "Google Cloud 与 Parallel Web Systems 合作，将 Parallel 的搜索基础设施作为新的网络接地提供商原生集成到 Gemini Enterprise Agent Platform 中。该集成使开发者能将 AI 智能体锚定在可验证的实时网络结果上，以提升企业工作流的事实准确性。用户还可编程提取、永久缓存并与其他大语言模型一起处理网络数据。",
-        "recommend_reason_zh": "Parallel Web Systems集成Gemini平台，支持实时网络数据引用、程序化调用及零数据保留，为金融、法律等领域的自主智能体工作流提供可验证的事实依据。",
-        "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "Agent能联网搜索了，实时信息获取直接集成，今天就能调API试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_f5dc0234fef8",
-      "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-      "url": "https://huggingface.co/blog/security-incident-july-2026",
-      "primary_url": "https://huggingface.co/blog/security-incident-july-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
-          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-          "title_zh": "安全事件披露——2026年7月",
-          "title_en": "Security incident disclosure — July 2026",
-          "title_original": "Security incident disclosure — July 2026",
-          "summary": null,
-          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
-          "url": "https://huggingface.co/blog/security-incident-july-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
-          "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-          "title_zh": "安全事件披露——2026年7月",
-          "title_en": "Security incident disclosure — July 2026",
-          "title_original": "Security incident disclosure — July 2026",
-          "summary": null,
-          "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
-          "url": "https://huggingface.co/blog/security-incident-july-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7674,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T00:00:00Z",
-      "latest_at": "2026-07-16T00:00:00Z",
-      "primary_item": {
-        "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
-        "title": "安全事件披露——2026年7月 / Security incident disclosure — July 2026",
-        "title_zh": "安全事件披露——2026年7月",
-        "title_en": "Security incident disclosure — July 2026",
-        "title_original": "Security incident disclosure — July 2026",
-        "summary": null,
-        "recommend_reason_zh": "Hugging Face披露了一次由自主AI代理系统驱动的入侵，他们用AI检测并分析了17,000+个记录事件，在几小时内完成通常需要几天的工作，揭示了AI安全攻防的新现实。",
-        "url": "https://huggingface.co/blog/security-incident-july-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "安全公告，暂无行动要求，建议检查个人账号密钥是否受影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_6ecaedd1168a",
-      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
-      "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-      "primary_url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
-          "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "title_en": "Mermaid to Unicode box art （grok-mermaid）",
-          "title_original": "Mermaid to Unicode box art （grok-mermaid）",
-          "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
-          "recommend_reason_zh": "在Grok CLI开源代码中发现了Rust编写的Mermaid终端渲染器xai-grok-markdown/src/mermaid.rs，作者将其通过WebAssembly移植到浏览器中运行，探索了代码复用新可能。",
-          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:33:18Z"
-        },
-        {
-          "id": "360f022b2c08e14e86fa65fd83cfa95d393a90a6",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art (grok-mermaid)",
-          "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "title_en": "Mermaid to Unicode box art (grok-mermaid)",
-          "title_original": "Mermaid to Unicode box art (grok-mermaid)",
-          "summary": null,
-          "recommend_reason_zh": "Simon Willison在开源Grok CLI中发现Rust写的Mermaid终端渲染器，并用Claude Code通过WebAssembly将其移植到浏览器，好玩又实用。",
-          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-16T00:33:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Simon Willison",
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
-          "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "title_en": "Mermaid to Unicode box art （grok-mermaid）",
-          "title_original": "Mermaid to Unicode box art （grok-mermaid）",
-          "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
-          "recommend_reason_zh": "在Grok CLI开源代码中发现了Rust编写的Mermaid终端渲染器xai-grok-markdown/src/mermaid.rs，作者将其通过WebAssembly移植到浏览器中运行，探索了代码复用新可能。",
-          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:33:18Z"
-        },
-        {
-          "id": "360f022b2c08e14e86fa65fd83cfa95d393a90a6",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art (grok-mermaid)",
-          "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "title_en": "Mermaid to Unicode box art (grok-mermaid)",
-          "title_original": "Mermaid to Unicode box art (grok-mermaid)",
-          "summary": null,
-          "recommend_reason_zh": "Simon Willison在开源Grok CLI中发现Rust写的Mermaid终端渲染器，并用Claude Code通过WebAssembly将其移植到浏览器，好玩又实用。",
-          "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-16T00:33:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7736,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T00:33:18Z",
-      "latest_at": "2026-07-16T00:33:18Z",
-      "primary_item": {
-        "id": "67a32c2116cce00a5f76e3432a7b540189bbd594",
-        "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具 / Mermaid to Unicode box art （grok-mermaid）",
-        "title_zh": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-        "title_en": "Mermaid to Unicode box art （grok-mermaid）",
-        "title_original": "Mermaid to Unicode box art （grok-mermaid）",
-        "summary": "xAI 开源的 Grok CLI 编码智能体代码库中包含一个用 Rust 编写的 Mermaid 图表示例终端渲染器 `xai-grok-markdown/src/mermaid.rs`。开发者通过 Claude Code for web （Fable 5） 将其编译为 WebAssembly，实现在浏览器中运行该工具。",
-        "recommend_reason_zh": "在Grok CLI开源代码中发现了Rust编写的Mermaid终端渲染器xai-grok-markdown/src/mermaid.rs，作者将其通过WebAssembly移植到浏览器中运行，探索了代码复用新可能。",
-        "url": "https://simonwillison.net/2026/Jul/16/grok-mermaid",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "命令行画框图利器，克隆即用，省去截图烦恼。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_351600ec071e",
-      "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-      "url": "https://www.aibase.com/news/29661",
-      "primary_url": "https://www.aibase.com/news/29661",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_en": null,
-          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "summary": null,
-          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
-          "url": "https://www.aibase.com/news/29661",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T11:54:34.901486Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-          "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "title_en": null,
-          "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-          "summary": null,
-          "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
-          "url": "https://www.aibase.com/news/29661",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T11:54:34.901486Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9114,
+        "recency": 0.9762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1823,110 +1849,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T11:54:34.901486Z",
-      "latest_at": "2026-07-16T11:54:34.901486Z",
+      "earliest_at": "2026-07-16T18:32:23.680000Z",
+      "latest_at": "2026-07-16T18:32:23.680000Z",
       "primary_item": {
-        "id": "2133d408eff7e2bc49dc9eea784f2bbff5bd1a43",
-        "title": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "title_zh": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
+        "id": "544a8b40618a9ff55c0f0054febd016a3ade9047",
+        "title": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+        "title_zh": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
         "title_en": null,
-        "title_original": "简历石沉大海?千问把写简历、做PPT、筛脏数据拆成了一套可复制的AI办公流水线",
-        "summary": null,
-        "recommend_reason_zh": "一场由Qwen APP在武汉举办的AI办公实操课，现场带求职者完成简历诊断、报告写作和销售表分析三个任务，产品经理Jin Shixing强调AI文档要“转材料为文件”而非堆文字。",
-        "url": "https://www.aibase.com/news/29661",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "办公场景的实用工具，写简历筛数据直接能套用，省人工。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
-      }
-    },
-    {
-      "story_id": "story_cb1391ebd37c",
-      "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-      "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-      "primary_url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
-          "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-          "title_zh": "Claude Code 新增 MCP 连接器调用功能",
-          "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-          "title_original": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-          "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
-          "recommend_reason_zh": "Claude Code artifacts 现可调用 MCP connectors，为每个 viewer 按需获取信息并执行操作，此功能面向 Pro、Max、Team、Enterprise 计划，但不支持公开共享的 artifacts。",
-          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T20:26:06Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
-          "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-          "title_zh": "Claude Code 新增 MCP 连接器调用功能",
-          "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-          "title_original": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-          "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
-          "recommend_reason_zh": "Claude Code artifacts 现可调用 MCP connectors，为每个 viewer 按需获取信息并执行操作，此功能面向 Pro、Max、Team、Enterprise 计划，但不支持公开共享的 artifacts。",
-          "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T20:26:06Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7462,
-      "importance": 0.7462,
-      "importance_score": 0.7462,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7289,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T20:26:06Z",
-      "latest_at": "2026-07-15T20:26:06Z",
-      "primary_item": {
-        "id": "2758bfe897b69511438af28072b3c9956fd3ff7a",
-        "title": "Claude Code 新增 MCP 连接器调用功能 / Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-        "title_zh": "Claude Code 新增 MCP 连接器调用功能",
-        "title_en": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-        "title_original": "Claude Code artifacts can now call MCP connectors， letting you build dashboards and apps that can fe…",
-        "summary": "Claude Code 的 artifacts 现在可以调用 MCP 连接器，让你构建能够按需为每位查看者获取信息并执行操作的仪表盘和应用。\n\n适用于 Pro、Max、Team 和 Enterprise 计划。不适用于公开共享的 artifacts。",
-        "recommend_reason_zh": "Claude Code artifacts 现可调用 MCP connectors，为每个 viewer 按需获取信息并执行操作，此功能面向 Pro、Max、Team、Enterprise 计划，但不支持公开共享的 artifacts。",
-        "url": "https://x.com/ClaudeDevs/status/2077489907350856038",
-        "source": "X：Claude Devs (@ClaudeDevs)",
+        "title_original": "Decoy 字体：用空间频率混淆让 AI 看不清你输入的文字",
+        "summary": "Decoy Font 是一款 TTF 字体，通过在同一字符中叠加不同空间频率的图形（前景细轮廓与背景低频模糊块），使近距离观看时 AI 读到\"诱饵\"字母，而人眼远距离或眯眼时才能看到真实隐藏信息。",
+        "recommend_reason_zh": "Decoy Font用空间频率混淆技术，每字母搭配诱饵，能欺骗GPT Sol和Gemini 3.5 with Thinking，让人类眯眼或远离屏幕才能看清隐藏内容。",
+        "url": "https://www.mixfont.com/experiments/decoy-font",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "在Claude Code里直接调MCP连接器做应用，今天就能试。",
+      "persona_score": 45,
+      "persona_review": "有趣的对抗技术，但暂无现成工具可用，关注后续开源或集成。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-16T18:29:35.058919Z"
+        "scored_at": "2026-07-16T20:21:31.601384Z"
       }
     }
   ]
