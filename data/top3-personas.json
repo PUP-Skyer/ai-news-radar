@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T15:48:37.192587Z",
+  "generated_at": "2026-07-17T17:41:08.940873Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_3c32cc962842",
+      "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 78,
+          "review": "组合拳不错，但“大规模”的代价和效果边界没敢细说。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客有技术细节，但无独立论文和开源代码，需等完整发布验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "直接结合NeMo和Diffusers，大规模微调视频/图像模型今天就能上。"
+        }
+      }
+    },
+    {
       "story_id": "story_4cdf56f2cdfc",
       "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本登顶 RTEB 检索基准",
       "url": "https://www.aibase.com/news/29695",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 90,
           "review": "直接能换用，检索任务性能更强。"
-        }
-      }
-    },
-    {
-      "story_id": "story_624c8b050a08",
-      "title": "NVIDIA 发布 Nemotron 3 Embed 系列，8B 版本在 RTEB 基准上排名第一 / NVIDIA AI Releases Nemotron 3 Embed： An Open Embedding Collection Whose 8B Checkpoint Ranks #1 on RTEB",
-      "url": "https://www.marktechpost.com/2026/07/17/nvidia-ai-releases-nemotron-3-embed-an-open-embedding-collection-whose-8b-checkpoint-ranks-1-on-rteb",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "RTEB榜上就你一家？8B参数跑第一不稀奇。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "无论文无代码，仅新闻稿宣称第一，待第三方验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "开源即用，检索或RAG可直接替换，今天就能测试效果。"
         }
       }
     }

@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-07-17T15:41:00.973226Z",
+  "generated_at": "2026-07-17T17:31:39.889850Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_3c32cc962842",
+      "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "primary_url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+          "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "title_zh": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型",
+          "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nTable of contents What is NeMo Automodel? Supported diffusion models What this collaboration unlocks A look at the fine-tuning workflow 1. Pre-encode the dataset 2. Launch training with the existing FLUX YAML 3. Generate from the fine-tuned checkpoint 4. Performance Other Finetuned/LoRA examples Try it today Coming next: Pythonic recipe APIs Resources A joint post from NVIDIA and Hugging Face. Special thanks to Sayak Pau",
+          "recommend_reason_zh": "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持FLUX.1-dev、Wan 2.1等模型的无转换分布式微调，兼容全参数与LoRA训练，性能可扩展至数百GPU。",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T15:57:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+          "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "title_zh": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型",
+          "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nTable of contents What is NeMo Automodel? Supported diffusion models What this collaboration unlocks A look at the fine-tuning workflow 1. Pre-encode the dataset 2. Launch training with the existing FLUX YAML 3. Generate from the fine-tuned checkpoint 4. Performance Other Finetuned/LoRA examples Try it today Coming next: Pythonic recipe APIs Resources A joint post from NVIDIA and Hugging Face. Special thanks to Sayak Pau",
+          "recommend_reason_zh": "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持FLUX.1-dev、Wan 2.1等模型的无转换分布式微调，兼容全参数与LoRA训练，性能可扩展至数百GPU。",
+          "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-17T15:57:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.856,
+      "importance": 0.856,
+      "importance_score": 0.856,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9777,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T15:57:54Z",
+      "latest_at": "2026-07-17T15:57:54Z",
+      "primary_item": {
+        "id": "01c3497dce4036769d3dc0ecb5cd7db5130df1d2",
+        "title": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型 / Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "title_zh": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型",
+        "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+        "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nTable of contents What is NeMo Automodel? Supported diffusion models What this collaboration unlocks A look at the fine-tuning workflow 1. Pre-encode the dataset 2. Launch training with the existing FLUX YAML 3. Generate from the fine-tuned checkpoint 4. Performance Other Finetuned/LoRA examples Try it today Coming next: Pythonic recipe APIs Resources A joint post from NVIDIA and Hugging Face. Special thanks to Sayak Pau",
+        "recommend_reason_zh": "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持FLUX.1-dev、Wan 2.1等模型的无转换分布式微调，兼容全参数与LoRA训练，性能可扩展至数百GPU。",
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "直接结合NeMo和Diffusers，大规模微调视频/图像模型今天就能上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T17:40:42.937252Z"
+      }
+    },
     {
       "story_id": "story_23f6bdd28b68",
       "title": "OpenAI 提出 AI 时代记分卡：\"有用智能每美元\"衡量实际工作价值 / A scorecard for the AI age",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9212,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,207 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
-      }
-    },
-    {
-      "story_id": "story_187b1be42679",
-      "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "primary_url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "title_en": "Create, edit and star in videos with two Google Vids updates",
-          "title_original": "Create, edit and star in videos with two Google Vids updates",
-          "summary": null,
-          "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        },
-        {
-          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create， edit and star in videos with two Google Vids updates",
-          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "title_en": "Create， edit and star in videos with two Google Vids updates",
-          "title_original": "Create， edit and star in videos with two Google Vids updates",
-          "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
-          "recommend_reason_zh": "Google Vids推出Gemini Omni，支持用文字提示和图像参考生成编辑视频；新增personal avatars，上传自拍和语音即可创建数字分身，无需上镜即可出镜。",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Google AI Blog",
-        "Google Blog：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "title_en": "Create, edit and star in videos with two Google Vids updates",
-          "title_original": "Create, edit and star in videos with two Google Vids updates",
-          "summary": null,
-          "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        },
-        {
-          "id": "fe84a00887f2c0520a8c226f1720fcc2da2022c5",
-          "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create， edit and star in videos with two Google Vids updates",
-          "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-          "title_en": "Create， edit and star in videos with two Google Vids updates",
-          "title_original": "Create， edit and star in videos with two Google Vids updates",
-          "summary": "Google Vids 推出两项更新：Gemini Omni 支持用户通过自然语言提示词和图片参考生成、逐步编辑高质量视频片段；个人数字分身功能允许用户上传自拍和语音录制后，输入文字即可让数字分身出镜。两项功能面向 Google AI Pro 和 Ultra 订阅者及 Google Workspace 商业客户开放，所有生成内容均含不可见的 SynthID 数字水印。",
-          "recommend_reason_zh": "Google Vids推出Gemini Omni，支持用文字提示和图像参考生成编辑视频；新增personal avatars，上传自拍和语音即可创建数字分身，无需上镜即可出镜。",
-          "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-          "source": "Google Blog：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8169,
-      "importance": 0.8169,
-      "importance_score": 0.8169,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7103,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "eb1c0533c3f0cd2bca2920e379a1799766151b44",
-        "title": "Google Vids 上线 Gemini Omni 与个人数字分身功能 / Create, edit and star in videos with two Google Vids updates",
-        "title_zh": "Google Vids 上线 Gemini Omni 与个人数字分身功能",
-        "title_en": "Create, edit and star in videos with two Google Vids updates",
-        "title_original": "Create, edit and star in videos with two Google Vids updates",
-        "summary": null,
-        "recommend_reason_zh": "Google Vids 推出 Gemini Omni，用自然语言提示和图像参考即可生成编辑视频；个人化身功能仅需自拍和语音录制，创建数字替身出演，无需架设摄像机。",
-        "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "面向C端的产品更新，对开发者暂无直接可用的API或工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
-      }
-    },
-    {
-      "story_id": "story_95e34e657e86",
-      "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
-          "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:01:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-          "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
-          "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
-          "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:01:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7106,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:01:21Z",
-      "latest_at": "2026-07-16T16:01:21Z",
-      "primary_item": {
-        "id": "7b473d5cfb10c3308bce5cb8829a83a6d25e1ea9",
-        "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-        "title_zh": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步",
-        "title_en": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-        "title_original": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA发布Nemotron 3 Embed模型，8B版本在RTEB排名第一，1B变体支持NVFP4部署，更强检索可降低下游agentic token成本。",
-        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "检索模型新SOTA，跑RAG/Agent可试试看，但等开源或API后再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -333,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7431,
+        "recency": 0.7236,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -447,15 +332,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7939,
-      "importance": 0.7939,
-      "importance_score": 0.7939,
+      "score": 0.7903,
+      "importance": 0.7903,
+      "importance_score": 0.7903,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7574,
+        "recency": 0.7375,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,7 +369,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
+      }
+    },
+    {
+      "story_id": "story_73d08ef26c2b",
+      "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+      "url": "https://x.com/gabriel1/status/2078156277247881438",
+      "primary_url": "https://x.com/gabriel1/status/2078156277247881438",
+      "source": "X：Gabriel (@gabriel1)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
+          "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+          "title_zh": "Sora 2 视频克隆效果惊人，真假难辨",
+          "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+          "title_original": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+          "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
+          "recommend_reason_zh": "OpenAI的Sora发布一年后，其视频深度克隆已能完美捕捉使用者和Sam的每个面部肌肉运动及走路姿态，单帧截图真假难辨。",
+          "url": "https://x.com/gabriel1/status/2078156277247881438",
+          "source": "X：Gabriel (@gabriel1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:34:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Gabriel (@gabriel1)"
+      ],
+      "items": [
+        {
+          "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
+          "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+          "title_zh": "Sora 2 视频克隆效果惊人，真假难辨",
+          "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+          "title_original": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+          "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
+          "recommend_reason_zh": "OpenAI的Sora发布一年后，其视频深度克隆已能完美捕捉使用者和Sam的每个面部肌肉运动及走路姿态，单帧截图真假难辨。",
+          "url": "https://x.com/gabriel1/status/2078156277247881438",
+          "source": "X：Gabriel (@gabriel1)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:34:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9862,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T16:34:01Z",
+      "latest_at": "2026-07-17T16:34:01Z",
+      "primary_item": {
+        "id": "a3e474b460c8d7ea397e8fa60487f31c5f5bc268",
+        "title": "Sora 2 视频克隆效果惊人，真假难辨 / nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+        "title_zh": "Sora 2 视频克隆效果惊人，真假难辨",
+        "title_en": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+        "title_original": "nothing comes close to the perfect video deep clone of sora a year later. it catches mine and sams e…",
+        "summary": "一年后，没有任何东西能接近 Sora 的完美视频深度克隆。它捕捉到了我和 Sam 的每一块面部肌肉运动以及我们走路的方式。\n\n如果你从这段关于我或 Sam 的视频中截取一帧，根本无法判断它是真是假。",
+        "recommend_reason_zh": "OpenAI的Sora发布一年后，其视频深度克隆已能完美捕捉使用者和Sam的每个面部肌肉运动及走路姿态，单帧截图真假难辨。",
+        "url": "https://x.com/gabriel1/status/2078156277247881438",
+        "source": "X：Gabriel (@gabriel1)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "效果虽好但没开放，等API或代码出来再激动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T17:40:42.937252Z"
+      }
+    },
+    {
+      "story_id": "story_3f67571c4418",
+      "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+      "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+      "primary_url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+      "source": "X：Artificial Analysis (@ArtificialAnlys)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
+          "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+          "title_zh": "八天四款前沿模型发布，Kimi K3 跻身第三",
+          "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+          "title_original": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+          "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+          "recommend_reason_zh": "八天内四款前沿模型密集发布——Grok 4.5、GPT-5.6、Muse Spark 1.1和Kimi K3，指数得分超50的实验室从6月初的2家增至6家，AI竞赛白热化。",
+          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:11:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Artificial Analysis (@ArtificialAnlys)"
+      ],
+      "items": [
+        {
+          "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
+          "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+          "title_zh": "八天四款前沿模型发布，Kimi K3 跻身第三",
+          "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+          "title_original": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+          "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+          "recommend_reason_zh": "八天内四款前沿模型密集发布——Grok 4.5、GPT-5.6、Muse Spark 1.1和Kimi K3，指数得分超50的实验室从6月初的2家增至6家，AI竞赛白热化。",
+          "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+          "source": "X：Artificial Analysis (@ArtificialAnlys)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:11:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9951,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:11:19Z",
+      "latest_at": "2026-07-17T17:11:19Z",
+      "primary_item": {
+        "id": "2f69db9fc8c217acc9e2ea01bb0208ab26cb651c",
+        "title": "八天四款前沿模型发布，Kimi K3 跻身第三 / The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+        "title_zh": "八天四款前沿模型发布，Kimi K3 跻身第三",
+        "title_en": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+        "title_original": "The frontier has opened up： four frontier launches in eight days - Grok 4.5， GPT-5.6， Muse Spark 1.1…",
+        "summary": "过去八天内，Grok 4.5、GPT-5.6、Muse Spark 1.1 与 Kimi K3 四款前沿模型相继发布，使 Artificial Analysis Intelligence Index 得分超 50 的实验室从 6 月初的 2 家增至 6 家。",
+        "recommend_reason_zh": "八天内四款前沿模型密集发布——Grok 4.5、GPT-5.6、Muse Spark 1.1和Kimi K3，指数得分超50的实验室从6月初的2家增至6家，AI竞赛白热化。",
+        "url": "https://x.com/ArtificialAnlys/status/2078165665278730490",
+        "source": "X：Artificial Analysis (@ArtificialAnlys)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "模型发布多但细节少，等具体API或开箱体验再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -532,15 +585,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
+      "score": 0.768,
+      "importance": 0.768,
+      "importance_score": 0.768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.978,
+        "recency": 0.9523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -568,176 +621,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
-      }
-    },
-    {
-      "story_id": "story_ee917382d959",
-      "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
-      "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "primary_url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
-          "title_zh": "为什么青少年值得使用安全的AI",
-          "title_en": "Why teens deserve access to safe AI",
-          "title_original": "Why teens deserve access to safe AI",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "ed38a837e6df66b70357bb878fdb525481735328",
-          "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
-          "title_zh": "为什么青少年值得使用安全的AI",
-          "title_en": "Why teens deserve access to safe AI",
-          "title_original": "Why teens deserve access to safe AI",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
-          "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7103,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "ed38a837e6df66b70357bb878fdb525481735328",
-        "title": "为什么青少年值得使用安全的AI / Why teens deserve access to safe AI",
-        "title_zh": "为什么青少年值得使用安全的AI",
-        "title_en": "Why teens deserve access to safe AI",
-        "title_original": "Why teens deserve access to safe AI",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI为青少年推出ChatGPT安全保护措施，包括Study Mode和家长控制，并引用近9成青少年每周使用ChatGPT学习的数据，说明让青少年安全使用AI的重要性。",
-        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "社会倡议，无新工具或API，开发者不用行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
-      }
-    },
-    {
-      "story_id": "story_268031546842",
-      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-      "url": "https://schema-harness.github.io",
-      "primary_url": "https://schema-harness.github.io",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_en": null,
-          "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-          "recommend_reason_zh": "Schema Harness 使用 Claude Opus 4.8 和 Fable 5 在 ARC-AGI-3 公开集上达到 99% RHAE，而此前最强模型 GPT-5.6 Sol 仅 13.33%，证明改变使用模型的方式比模型本身更重要。",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "title_en": null,
-          "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-          "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-          "recommend_reason_zh": "Schema Harness 使用 Claude Opus 4.8 和 Fable 5 在 ARC-AGI-3 公开集上达到 99% RHAE，而此前最强模型 GPT-5.6 Sol 仅 13.33%，证明改变使用模型的方式比模型本身更重要。",
-          "url": "https://schema-harness.github.io",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T08:41:53.383000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.78,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.904,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-17T08:41:53.383000Z",
-      "latest_at": "2026-07-17T08:41:53.383000Z",
-      "primary_item": {
-        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
-        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "title_en": null,
-        "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
-        "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
-        "recommend_reason_zh": "Schema Harness 使用 Claude Opus 4.8 和 Fable 5 在 ARC-AGI-3 公开集上达到 99% RHAE，而此前最强模型 GPT-5.6 Sol 仅 13.33%，证明改变使用模型的方式比模型本身更重要。",
-        "url": "https://schema-harness.github.io",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "ARC-AGI新高，但工具未开源前先观望，不能直接抄。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -785,15 +669,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.742,
+        "recency": 0.7225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -822,7 +706,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
+      }
+    },
+    {
+      "story_id": "story_268031546842",
+      "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+      "url": "https://schema-harness.github.io",
+      "primary_url": "https://schema-harness.github.io",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "title_en": null,
+          "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
+          "recommend_reason_zh": "Schema Harness 使用 Claude Opus 4.8 和 Fable 5 在 ARC-AGI-3 公开集上达到 99% RHAE，而此前最强模型 GPT-5.6 Sol 仅 13.33%，证明改变使用模型的方式比模型本身更重要。",
+          "url": "https://schema-harness.github.io",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T08:41:53.383000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+          "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "title_en": null,
+          "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+          "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
+          "recommend_reason_zh": "Schema Harness 使用 Claude Opus 4.8 和 Fable 5 在 ARC-AGI-3 公开集上达到 99% RHAE，而此前最强模型 GPT-5.6 Sol 仅 13.33%，证明改变使用模型的方式比模型本身更重要。",
+          "url": "https://schema-harness.github.io",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T08:41:53.383000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8803,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T08:41:53.383000Z",
+      "latest_at": "2026-07-17T08:41:53.383000Z",
+      "primary_item": {
+        "id": "b424de1a6db424313a45a1899c4fa0e980d45480",
+        "title": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+        "title_zh": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+        "title_en": null,
+        "title_original": "Schema Harness 在 ARC-AGI-3 公开集上取得约 99% 成绩",
+        "summary": "Schema 框架在 ARC-AGI-3 公开集上，使用 Claude Opus 4.8 和 Fable 5 达到 99% RHAE 分数，使用 GPT-5.6 Sol 达到 95.35%。该框架不修改模型权重，而是将原始观测转化为可编辑程序，联合解决状态归因和机制发现问题。此前最强模型 GPT-5.6 Sol 在半私有集上仅得 7.78%。",
+        "recommend_reason_zh": "Schema Harness 使用 Claude Opus 4.8 和 Fable 5 在 ARC-AGI-3 公开集上达到 99% RHAE，而此前最强模型 GPT-5.6 Sol 仅 13.33%，证明改变使用模型的方式比模型本身更重要。",
+        "url": "https://schema-harness.github.io",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "ARC-AGI新高，但工具未开源前先观望，不能直接抄。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -870,15 +838,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7709,
+        "recency": 0.7506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -906,92 +874,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
-      }
-    },
-    {
-      "story_id": "story_b3af4b376b32",
-      "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-          "title_zh": "将更多应用连接到 Search",
-          "title_en": "Connect more of your apps to Search",
-          "title_original": "Connect more of your apps to Search",
-          "summary": null,
-          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-          "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-          "title_zh": "将更多应用连接到 Search",
-          "title_en": "Connect more of your apps to Search",
-          "title_original": "Connect more of your apps to Search",
-          "summary": null,
-          "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
-          "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7103,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T16:00:00Z",
-      "latest_at": "2026-07-16T16:00:00Z",
-      "primary_item": {
-        "id": "275ff8386d97fb52ed42d6ed6334b2663cdf6521",
-        "title": "将更多应用连接到 Search / Connect more of your apps to Search",
-        "title_zh": "将更多应用连接到 Search",
-        "title_en": "Connect more of your apps to Search",
-        "title_original": "Connect more of your apps to Search",
-        "summary": null,
-        "recommend_reason_zh": "Google Search推出AI Mode，可安全链接Instacart、Canva、YouTube Music等应用，直接在搜索结果中添加购物车、生成设计模板或保存播放列表，无需跳转页面。",
-        "url": "https://blog.google/products-and-platforms/products/search/connected-apps",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "产品功能扩展，等具体API开放后再接入。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1039,15 +922,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9369,
+        "recency": 0.9122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +958,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1123,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9171,
+        "recency": 0.893,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1042,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1207,15 +1090,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7391,
+        "recency": 0.7197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1243,7 +1126,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1291,21 +1174,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.834,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T04:57:38Z",
       "latest_at": "2026-07-17T04:57:38Z",
@@ -1327,7 +1209,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1375,21 +1257,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7519,
-      "importance": 0.7519,
-      "importance_score": 0.7519,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9128,
+        "recency": 0.8888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:21:51.096110Z",
       "latest_at": "2026-07-17T09:21:51.096110Z",
@@ -1411,7 +1292,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
+      }
+    },
+    {
+      "story_id": "story_1096f28474dc",
+      "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高 / Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+      "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "primary_url": "https://claude.com/blog/working-at-the-frontier-cursor",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a91c79f3f2ebba579910d9888da5c1abbf319b66",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高 / Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+          "title_zh": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+          "title_original": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+          "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
+          "recommend_reason_zh": "Cursor如何用自研基准测试CursorBench发现Claude Fable 5的突破：在复杂、模糊的真实编程任务中达到72.9%准确率，让工程师不再需要反复解释目标，直接解决最难的1%问题。",
+          "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:32:51.023000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "a91c79f3f2ebba579910d9888da5c1abbf319b66",
+          "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高 / Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+          "title_zh": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+          "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+          "title_original": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+          "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
+          "recommend_reason_zh": "Cursor如何用自研基准测试CursorBench发现Claude Fable 5的突破：在复杂、模糊的真实编程任务中达到72.9%准确率，让工程师不再需要反复解释目标，直接解决最难的1%问题。",
+          "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T16:32:51.023000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.64,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9859,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T16:32:51.023000Z",
+      "latest_at": "2026-07-17T16:32:51.023000Z",
+      "primary_item": {
+        "id": "a91c79f3f2ebba579910d9888da5c1abbf319b66",
+        "title": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高 / Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+        "title_zh": "Cursor 评估负责人确认 Claude Fable 5 在 CursorBench 达 72.9% 新高",
+        "title_en": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+        "title_original": "Working at the frontier： How Cursor knew Claude Fable 5 was ready for the hardest 1% of problems",
+        "summary": "Cursor 的模型评估负责人 Nate Schmidt 发现，Claude Fable 5 在其内部基准 CursorBench 上以 Max effort 模式达到 72.9%，创下新高。该模型在模糊的真实编程任务中表现出全局推理能力，例如在航天模拟器中仅凭一句提示自主规划并成功登月，而此前 Claude Opus 运行 12 小时以上仍无结果。",
+        "recommend_reason_zh": "Cursor如何用自研基准测试CursorBench发现Claude Fable 5的突破：在复杂、模糊的真实编程任务中达到72.9%准确率，让工程师不再需要反复解释目标，直接解决最难的1%问题。",
+        "url": "https://claude.com/blog/working-at-the-frontier-cursor",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "benchmark 新高但未说明开放，先观望，等API或开源再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1459,15 +1423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8935,
+        "recency": 0.87,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1494,44 +1458,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
-      "story_id": "story_8ac5a4402ae1",
-      "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-      "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-      "primary_url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+      "story_id": "story_835aee216500",
+      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
+      "primary_url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
       "source": "VentureBeat：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-          "title_original": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-          "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-          "recommend_reason_zh": "对157家企业调查发现，50%曾部署通过内部评估却导致客户失败的人工智能代理，仅5%完全信任自动评估，66%正走向无人工干预部署。",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+          "title_original": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+          "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
+          "recommend_reason_zh": "54%的企业已遭遇AI agent安全事件，仅32%为每个agent分配独立身份，30%隔离高风险agent。本文揭示企业安全控制滞后于agent激增的现状与风险。",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         },
         {
-          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "title_en": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "title_original": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "title_en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "title_original": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
           "summary": null,
-          "recommend_reason_zh": "一项针对157家企业的调查发现，50%的组织曾部署通过内部评估却在生产中导致客户失败的AI agent，仅5%完全信任自动化评估，而66%正走向零人工部署。",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "recommend_reason_zh": "根据对107家企业的调查，54%已遭遇AI agent安全事故或未遂事件，仅32%为每个agent分配独立身份，30%隔离高风险agent，安全栈多依赖OpenAI等模型提供商。",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         }
       ],
       "source_count": 2,
@@ -1541,45 +1505,45 @@
       ],
       "items": [
         {
-          "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-          "title_original": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-          "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-          "recommend_reason_zh": "对157家企业调查发现，50%曾部署通过内部评估却导致客户失败的人工智能代理，仅5%完全信任自动评估，66%正走向无人工干预部署。",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+          "title_original": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+          "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
+          "recommend_reason_zh": "54%的企业已遭遇AI agent安全事件，仅32%为每个agent分配独立身份，30%隔离高风险agent。本文揭示企业安全控制滞后于agent激增的现状与风险。",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         },
         {
-          "id": "93287a8d384a16f108101f4fddf8738f7f6daf67",
-          "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-          "title_en": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
-          "title_original": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem — and most are shipping to production anyway",
+          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
+          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+          "title_en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
+          "title_original": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
           "summary": null,
-          "recommend_reason_zh": "一项针对157家企业的调查发现，50%的组织曾部署通过内部评估却在生产中导致客户失败的AI agent，仅5%完全信任自动化评估，而66%正走向零人工部署。",
-          "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+          "recommend_reason_zh": "根据对107家企业的调查，54%已遭遇AI agent安全事故或未遂事件，仅32%为每个agent分配独立身份，30%隔离高风险agent，安全栈多依赖OpenAI等模型提供商。",
+          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
           "source": "VentureBeat AI",
           "source_name": "Curated Media",
           "site_id": "curated_media",
-          "published_at": "2026-07-16T16:40:48Z"
+          "published_at": "2026-07-16T19:02:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7417,
-      "importance": 0.7417,
-      "importance_score": 0.7417,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7174,
+        "recency": 0.7228,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1587,27 +1551,27 @@
         "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-16T16:40:48Z",
-      "latest_at": "2026-07-16T16:40:48Z",
+      "earliest_at": "2026-07-16T19:02:38Z",
+      "latest_at": "2026-07-16T19:02:38Z",
       "primary_item": {
-        "id": "5d6d8d91fe656d818e850012b9eed533e99d688b",
-        "title": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障 / The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-        "title_zh": "企业AI智能体评估存在\"现实对齐\"缺口：半数组织曾将通过内部测试的智能体部署到生产环境后导致客户故障",
-        "title_en": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-        "title_original": "The agent evaluation gap： Enterprise AI organizations have a reality-alignment problem， not a coverage problem - and most are shipping to production anyway",
-        "summary": "对157家企业的调查显示，50%的组织在过去一年曾部署通过内部评估但导致客户故障的AI智能体或大语言模型功能，5%的企业完全信任自动化评估，29%认为评估与现实结果对齐不佳是最大局限。尽管信任度低，66%的企业已允许或正计划在12个月内实现低风险智能体的全自动、无人工干预部署。",
-        "recommend_reason_zh": "对157家企业调查发现，50%曾部署通过内部评估却导致客户失败的人工智能代理，仅5%完全信任自动评估，66%正走向无人工干预部署。",
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
+        "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
+        "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+        "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
+        "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+        "title_original": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
+        "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
+        "recommend_reason_zh": "54%的企业已遭遇AI agent安全事件，仅32%为每个agent分配独立身份，30%隔离高风险agent。本文揭示企业安全控制滞后于agent激增的现状与风险。",
+        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
         "source": "VentureBeat：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "提醒了生产环境测试的重要性，但没给工具或具体方案，先记着。",
+      "persona_score": 52,
+      "persona_review": "提醒你检查agent权限配置，别让API Key裸奔。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1655,15 +1619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
+      "score": 0.7924,
+      "importance": 0.7924,
+      "importance_score": 0.7924,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7324,
+        "recency": 0.7131,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1692,7 +1656,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     },
     {
@@ -1769,15 +1733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7507,
+      "importance": 0.7507,
+      "importance_score": 0.7507,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8051,
+        "recency": 0.784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1806,7 +1770,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T15:48:33.512789Z"
+        "scored_at": "2026-07-17T17:40:42.937252Z"
       }
     }
   ]
