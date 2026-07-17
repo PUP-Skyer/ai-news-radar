@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T03:49:35.440016Z",
+  "generated_at": "2026-07-17T06:36:30.689415Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_f7be63b540c0",
+      "title": "Kimi K3 登顶前端编码榜，开放权重挑战闭源双巨头",
+      "url": "https://x.com/AYi_AInotes/status/2077981025905316253",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "前端编码榜登顶不错，但换到LeetCode Hard试试？开放权重倒是比闭源大方。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅个人推特宣称登顶，无论文无代码无评测细节，可信度低。"
+        },
+        "pragmatic": {
+          "score": 92,
+          "review": "开放权重可下载部署，前端编码需求直接替换，省API费用。"
+        }
+      }
+    },
+    {
       "story_id": "story_17b15ceeb6c5",
       "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
       "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -40,7 +60,7 @@
       "story_id": "story_95e34e657e86",
       "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 75,
           "review": "检索模型新SOTA，跑RAG/Agent可试试看，但等开源或API后再动手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_aed8bc029fb1",
-      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
-      "url": "https://x.ai/news/grok-automations",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "定时加邮件触发，听着挺美——前提是你记得去配置规则。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方博客宣布功能，无论文无代码无评测，证据不足以采信。"
-        },
-        "pragmatic": {
-          "score": 75,
-          "review": "Grok 用户可搭定时任务，自动化工作流实测有用。"
         }
       }
     }
