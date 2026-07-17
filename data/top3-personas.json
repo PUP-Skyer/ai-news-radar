@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T00:20:12.972581Z",
+  "generated_at": "2026-07-17T03:49:35.440016Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_9b3183996a36",
-      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商 / Expanding Choice in Gemini Enterprise Agent Platform： Introducing Grounding with Parallel Web Search",
-      "url": "https://developers.googleblog.com/expanding-choice-in-gemini-enterprise-agent-platform-introducing-grounding-with-parallel-web-search",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "Parallel搜索听着高级，本质还是调自家API，企业版终于补上基础功能了。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方博客宣布功能，无论文代码或独立评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 92,
-          "review": "Agent能联网搜索了，实时信息获取直接集成，今天就能调API试。"
-        }
-      }
-    },
-    {
       "story_id": "story_17b15ceeb6c5",
       "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
       "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -60,7 +40,7 @@
       "story_id": "story_95e34e657e86",
       "title": "NVIDIA Nemotron 3 Embed 在 RTEB 总排名第一，推动 Agentic Retrieval 进步 / NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
       "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 75,
           "review": "检索模型新SOTA，跑RAG/Agent可试试看，但等开源或API后再动手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_aed8bc029fb1",
+      "title": "Grok 推出 Automations 功能：定时或邮件触发，自动执行任务并汇报结果 / Automations in Grok",
+      "url": "https://x.ai/news/grok-automations",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "定时加邮件触发，听着挺美——前提是你记得去配置规则。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方博客宣布功能，无论文无代码无评测，证据不足以采信。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "Grok 用户可搭定时任务，自动化工作流实测有用。"
         }
       }
     }
