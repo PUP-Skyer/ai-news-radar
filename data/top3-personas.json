@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:12:32.327192Z",
+  "generated_at": "2026-07-17T23:13:50.534972Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_c13975dae097",
-      "title": "Copilot代码审查：定制化与可配置性改进 / Copilot code review: Customization and configurability improvements",
-      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
+      "story_id": "story_39f96da3c40c",
+      "title": "仓库级GitHub Copilot使用指标正式推出 / Repository-level GitHub Copilot usage metrics generally available",
+      "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "定制化可配置性，终于不用被Copilot的默认规则气到摔键盘了。"
+          "score": 75,
+          "review": "统计颗粒度更细了，管理者终于有数据证明谁在摸鱼。"
         },
         "paper-police": {
           "score": 25,
-          "review": "仅官方博客宣称更新，无代码或第三方评测可验证。"
+          "review": "官方公告，无可复现评测，信源单一。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "今天就能配置审查规则，适配自己团队风格，省去手动 review 重复劳动。"
+          "review": "团队可查各仓库Copilot使用量，辅助成本分摊和采纳分析，今天就能开。"
         }
       }
     }
