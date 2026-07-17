@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T17:31:39.889850Z",
+  "generated_at": "2026-07-17T19:33:29.651826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -17,7 +17,7 @@
           "title_zh": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型",
           "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
           "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nTable of contents What is NeMo Automodel? Supported diffusion models What this collaboration unlocks A look at the fine-tuning workflow 1. Pre-encode the dataset 2. Launch training with the existing FLUX YAML 3. Generate from the fine-tuned checkpoint 4. Performance Other Finetuned/LoRA examples Try it today Coming next: Pythonic recipe APIs Resources A joint post from NVIDIA and Hugging Face. Special thanks to Sayak Pau",
+          "summary": null,
           "recommend_reason_zh": "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持FLUX.1-dev、Wan 2.1等模型的无转换分布式微调，兼容全参数与LoRA训练，性能可扩展至数百GPU。",
           "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
           "source": "Hugging Face Blog",
@@ -37,7 +37,7 @@
           "title_zh": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型",
           "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
           "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nTable of contents What is NeMo Automodel? Supported diffusion models What this collaboration unlocks A look at the fine-tuning workflow 1. Pre-encode the dataset 2. Launch training with the existing FLUX YAML 3. Generate from the fine-tuned checkpoint 4. Performance Other Finetuned/LoRA examples Try it today Coming next: Pythonic recipe APIs Resources A joint post from NVIDIA and Hugging Face. Special thanks to Sayak Pau",
+          "summary": null,
           "recommend_reason_zh": "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持FLUX.1-dev、Wan 2.1等模型的无转换分布式微调，兼容全参数与LoRA训练，性能可扩展至数百GPU。",
           "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
           "source": "Hugging Face Blog",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.856,
-      "importance": 0.856,
-      "importance_score": 0.856,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9777,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +73,7 @@
         "title_zh": "使用NVIDIA NeMo Automodel和🤗 Diffusers大规模微调视频和图像模型",
         "title_en": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
         "title_original": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
-        "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nTable of contents What is NeMo Automodel? Supported diffusion models What this collaboration unlocks A look at the fine-tuning workflow 1. Pre-encode the dataset 2. Launch training with the existing FLUX YAML 3. Generate from the fine-tuned checkpoint 4. Performance Other Finetuned/LoRA examples Try it today Coming next: Pythonic recipe APIs Resources A joint post from NVIDIA and Hugging Face. Special thanks to Sayak Pau",
+        "summary": null,
         "recommend_reason_zh": "NVIDIA NeMo Automodel与Hugging Face Diffusers集成，支持FLUX.1-dev、Wan 2.1等模型的无转换分布式微调，兼容全参数与LoRA训练，性能可扩展至数百GPU。",
         "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
         "source": "Hugging Face Blog",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8288,
+      "importance": 0.8288,
+      "importance_score": 0.8288,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.897,
+        "recency": 0.8711,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +170,205 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
-      "story_id": "story_68bcdb6b8621",
-      "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
-      "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_90e9f1d2b782",
+      "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "primary_url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
-          "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
-          "title_zh": "Projects 高级搜索已正式上线",
-          "title_en": "Advanced search for Projects is generally available",
-          "title_original": "Advanced search for Projects is generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Projects 的 filter bar 现已支持高级搜索，可使用逻辑 AND 和 OR 构建精确视图，告别为每个问题维护独立视图的繁琐。",
-          "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:07:14Z"
+          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
+          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "title_en": "Apple's plot to crush OpenAI",
+          "title_original": "Apple's plot to crush OpenAI",
+          "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
+          "recommend_reason_zh": "本期Vergecast解读Apple起诉OpenAI的诉讼内容，分析其动机是担忧竞争还是借机打击，同时评测新Siri AI公测版表现，并讨论OnePlus退出欧美市场等本周科技热点。",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:41:32Z"
+        },
+        {
+          "id": "29df03a4226bc5016b882921fce99b406e25110a",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
+          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "title_en": "Apple’s plot to crush OpenAI",
+          "title_original": "Apple’s plot to crush OpenAI",
+          "summary": "On The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nAlso on The Vergecast: Our thoughts on Apple’s public betas and Siri AI, the latest on the X algorithm, the cracking face emoji, and more.\nOn The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Podcasts\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic wil",
+          "recommend_reason_zh": "The Vergecast解读Apple起诉OpenAI的诉讼细节，专家称部分指控只是行业惯例，同时评析Apple新Siri AI公测版表现及OnePlus退出美欧市场的影响。",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-17T17:41:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
+          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "title_en": "Apple's plot to crush OpenAI",
+          "title_original": "Apple's plot to crush OpenAI",
+          "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
+          "recommend_reason_zh": "本期Vergecast解读Apple起诉OpenAI的诉讼内容，分析其动机是担忧竞争还是借机打击，同时评测新Siri AI公测版表现，并讨论OnePlus退出欧美市场等本周科技热点。",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:41:32Z"
+        },
+        {
+          "id": "29df03a4226bc5016b882921fce99b406e25110a",
+          "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple’s plot to crush OpenAI",
+          "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+          "title_en": "Apple’s plot to crush OpenAI",
+          "title_original": "Apple’s plot to crush OpenAI",
+          "summary": "On The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nAlso on The Vergecast: Our thoughts on Apple’s public betas and Siri AI, the latest on the X algorithm, the cracking face emoji, and more.\nOn The Vergecast: Lawsuits, chatbots, and the cracking face emoji.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All Podcasts\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic wil",
+          "recommend_reason_zh": "The Vergecast解读Apple起诉OpenAI的诉讼细节，专家称部分指控只是行业惯例，同时评析Apple新Siri AI公测版表现及OnePlus退出美欧市场的影响。",
+          "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-17T17:41:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9734,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-17T17:41:32Z",
+      "latest_at": "2026-07-17T17:41:32Z",
+      "primary_item": {
+        "id": "821a7dee5b0d96c5be8f197943ec8615a5c65c76",
+        "title": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？ / Apple's plot to crush OpenAI",
+        "title_zh": "Apple 起诉 OpenAI：诉讼背后是竞争焦虑还是时机博弈？",
+        "title_en": "Apple's plot to crush OpenAI",
+        "title_original": "Apple's plot to crush OpenAI",
+        "summary": "Apple 对 OpenAI 提起诉讼，指控其存在多项不当行为，尽管许多专家认为部分指控属于行业惯例。此举正值 Apple 发布新版软件公测版（以新 Siri AI 为核心）之际，外界猜测 Apple 究竟是担忧 OpenAI 成为潜在竞争对手，还是想利用 OpenAI 的弱势期获利。",
+        "recommend_reason_zh": "本期Vergecast解读Apple起诉OpenAI的诉讼内容，分析其动机是担忧竞争还是借机打击，同时评测新Siri AI公测版表现，并讨论OnePlus退出欧美市场等本周科技热点。",
+        "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "诉讼不关工具的事，等有实际影响再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T19:38:20.679106Z"
+      }
+    },
+    {
+      "story_id": "story_98056171f5d0",
+      "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+      "url": "https://x.com/dotey/status/2078172517085085951",
+      "primary_url": "https://x.com/dotey/status/2078172517085085951",
+      "source": "X：宝玉 (@dotey)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
+          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "title_en": null,
+          "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
+          "recommend_reason_zh": "月之暗面在GTC 2026披露Kimi K2.5，用MuonClip、线性注意力与Agent Swarm分别替换沿用了近十年的Adam优化器（2014）、注意力机制（2017）和残差连接（2015），且全部开源。",
+          "url": "https://x.com/dotey/status/2078172517085085951",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:38:33Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：宝玉 (@dotey)"
       ],
       "items": [
         {
-          "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
-          "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
-          "title_zh": "Projects 高级搜索已正式上线",
-          "title_en": "Advanced search for Projects is generally available",
-          "title_original": "Advanced search for Projects is generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Projects 的 filter bar 现已支持高级搜索，可使用逻辑 AND 和 OR 构建精确视图，告别为每个问题维护独立视图的繁琐。",
-          "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:07:14Z"
+          "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
+          "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "title_en": null,
+          "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+          "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
+          "recommend_reason_zh": "月之暗面在GTC 2026披露Kimi K2.5，用MuonClip、线性注意力与Agent Swarm分别替换沿用了近十年的Adam优化器（2014）、注意力机制（2017）和残差连接（2015），且全部开源。",
+          "url": "https://x.com/dotey/status/2078172517085085951",
+          "source": "X：宝玉 (@dotey)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T17:38:33Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7942,
-      "importance": 0.7942,
-      "importance_score": 0.7942,
-      "importance_label": "官方更新",
+      "score": 0.7897,
+      "importance": 0.7897,
+      "importance_score": 0.7897,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7236,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9727,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-16T19:07:14Z",
-      "latest_at": "2026-07-16T19:07:14Z",
+      "earliest_at": "2026-07-17T17:38:33Z",
+      "latest_at": "2026-07-17T17:38:33Z",
       "primary_item": {
-        "id": "3621b12003ddebd2eebc46a2d84322b51c5b24cd",
-        "title": "Projects 高级搜索已正式上线 / Advanced search for Projects is generally available",
-        "title_zh": "Projects 高级搜索已正式上线",
-        "title_en": "Advanced search for Projects is generally available",
-        "title_original": "Advanced search for Projects is generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Projects 的 filter bar 现已支持高级搜索，可使用逻辑 AND 和 OR 构建精确视图，告别为每个问题维护独立视图的繁琐。",
-        "url": "https://github.blog/changelog/2026-07-16-advanced-search-for-projects-is-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "b9a7fee9978bddd3409b35656836bb8a5bcab19c",
+        "title": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+        "title_zh": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+        "title_en": null,
+        "title_original": "月之暗面在GTC 2026披露Kimi K2.5技术路线：用MuonClip、线性注意力与Agent Swarm重构三大基础组件",
+        "summary": "月之暗面CEO杨植麟在GTC 2026演讲中提出用MuonClip优化器替代Adam，可将数据利用效率提升近一倍。同时推出Kimi Linear线性注意力，在百万Token上下文下全面超越全注意力；Agent Swarm已支持300个Agent并行工作。",
+        "recommend_reason_zh": "月之暗面在GTC 2026披露Kimi K2.5，用MuonClip、线性注意力与Agent Swarm分别替换沿用了近十年的Adam优化器（2014）、注意力机制（2017）和残差连接（2015），且全部开源。",
+        "url": "https://x.com/dotey/status/2078172517085085951",
+        "source": "X：宝玉 (@dotey)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "搜索功能通用，非AI专用，有需要可试。",
+      "persona_score": 35,
+      "persona_review": "技术路线展示，无可用产品，等开放API或开源再关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -332,15 +445,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7865,
+      "importance": 0.7865,
+      "importance_score": 0.7865,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7375,
+        "recency": 0.7162,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -369,7 +482,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -417,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7831,
-      "importance": 0.7831,
-      "importance_score": 0.7831,
+      "score": 0.778,
+      "importance": 0.778,
+      "importance_score": 0.778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9862,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -453,7 +566,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -501,15 +614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7787,
-      "importance": 0.7787,
-      "importance_score": 0.7787,
+      "score": 0.7735,
+      "importance": 0.7735,
+      "importance_score": 0.7735,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9951,
+        "recency": 0.9664,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -537,7 +650,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -585,15 +698,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.768,
-      "importance": 0.768,
-      "importance_score": 0.768,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9523,
+        "recency": 0.9248,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -621,92 +734,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
-      }
-    },
-    {
-      "story_id": "story_17b15ceeb6c5",
-      "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-      "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "primary_url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "title_zh": "仓库管理员可以归档拉取请求",
-          "title_en": "Repository admins can archive pull requests",
-          "title_original": "Repository admins can archive pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-          "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-          "title_zh": "仓库管理员可以归档拉取请求",
-          "title_en": "Repository admins can archive pull requests",
-          "title_original": "Repository admins can archive pull requests",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
-          "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T19:01:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7225,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T19:01:09Z",
-      "latest_at": "2026-07-16T19:01:09Z",
-      "primary_item": {
-        "id": "c6386d05422d9f9710b752c06785a54f7a7a5b43",
-        "title": "仓库管理员可以归档拉取请求 / Repository admins can archive pull requests",
-        "title_zh": "仓库管理员可以归档拉取请求",
-        "title_en": "Repository admins can archive pull requests",
-        "title_original": "Repository admins can archive pull requests",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 的 repository admins 现在可归档 pull requests，批量或单独操作后非管理员访问 URL 返回 404，通过 is:archived 过滤器还能找回历史记录。",
-        "url": "https://github.blog/changelog/2026-07-16-repository-admins-can-archive-pull-requests",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "仓库管理员可直接归档PR，清理旧请求提升协作效率，今天就能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -754,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8803,
+        "recency": 0.8549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -790,7 +818,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -838,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7506,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -874,7 +902,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -922,15 +950,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.8859,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -958,7 +986,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -1006,21 +1034,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7497,
+      "importance": 0.7497,
+      "importance_score": 0.7497,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.893,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T09:41:25Z",
       "latest_at": "2026-07-17T09:41:25Z",
@@ -1042,91 +1069,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
-      }
-    },
-    {
-      "story_id": "story_bc0344ef6635",
-      "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-      "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-      "primary_url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-      "source": "X：ChatGPT (@ChatGPTapp)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "63354309c911c1d6e9d80174e5cc9abb63a80904",
-          "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-          "title_zh": "ChatGPT 工作区支持文档表格幻灯片编辑",
-          "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-          "title_original": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-          "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-          "recommend_reason_zh": "本文展示了如何在ChatGPT Work中创建和编辑文档、电子表格和幻灯片，并由@nickbaumann_亲自演示操作流程，适合希望提升办公效率的用户。",
-          "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-          "source": "X：ChatGPT (@ChatGPTapp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T18:44:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：ChatGPT (@ChatGPTapp)"
-      ],
-      "items": [
-        {
-          "id": "63354309c911c1d6e9d80174e5cc9abb63a80904",
-          "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-          "title_zh": "ChatGPT 工作区支持文档表格幻灯片编辑",
-          "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-          "title_original": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-          "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-          "recommend_reason_zh": "本文展示了如何在ChatGPT Work中创建和编辑文档、电子表格和幻灯片，并由@nickbaumann_亲自演示操作流程，适合希望提升办公效率的用户。",
-          "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-          "source": "X：ChatGPT (@ChatGPTapp)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T18:44:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7197,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T18:44:58Z",
-      "latest_at": "2026-07-16T18:44:58Z",
-      "primary_item": {
-        "id": "63354309c911c1d6e9d80174e5cc9abb63a80904",
-        "title": "ChatGPT 工作区支持文档表格幻灯片编辑 / Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-        "title_zh": "ChatGPT 工作区支持文档表格幻灯片编辑",
-        "title_en": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-        "title_original": "Create and edit polished docs， spreadsheets， and slides in ChatGPT Work. @nickbaumann_ walks you th…",
-        "summary": "在 ChatGPT 工作区中创建和编辑精美的文档、电子表格和幻灯片。\n\n@nickbaumann_ 为你演示操作。",
-        "recommend_reason_zh": "本文展示了如何在ChatGPT Work中创建和编辑文档、电子表格和幻灯片，并由@nickbaumann_亲自演示操作流程，适合希望提升办公效率的用户。",
-        "url": "https://x.com/ChatGPTapp/status/2077826846373380535",
-        "source": "X：ChatGPT (@ChatGPTapp)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "办公套件集成，终端用户利好，但开发者暂不需调整方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -1174,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.834,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1209,7 +1152,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -1257,15 +1200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.8631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1292,7 +1235,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -1340,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9859,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1375,7 +1318,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -1423,15 +1366,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.87,
+        "recency": 0.8449,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1458,205 +1401,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
-      }
-    },
-    {
-      "story_id": "story_835aee216500",
-      "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-      "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "primary_url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-      "source": "VentureBeat：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-          "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-          "title_original": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-          "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
-          "recommend_reason_zh": "54%的企业已遭遇AI agent安全事件，仅32%为每个agent分配独立身份，30%隔离高风险agent。本文揭示企业安全控制滞后于agent激增的现状与风险。",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T19:02:38Z"
-        },
-        {
-          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-          "title_en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "title_original": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "summary": null,
-          "recommend_reason_zh": "根据对107家企业的调查，54%已遭遇AI agent安全事故或未遂事件，仅32%为每个agent分配独立身份，30%隔离高风险agent，安全栈多依赖OpenAI等模型提供商。",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-16T19:02:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "VentureBeat AI",
-        "VentureBeat：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-          "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-          "title_original": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-          "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
-          "recommend_reason_zh": "54%的企业已遭遇AI agent安全事件，仅32%为每个agent分配独立身份，30%隔离高风险agent。本文揭示企业安全控制滞后于agent激增的现状与风险。",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T19:02:38Z"
-        },
-        {
-          "id": "f6494df2dcdac191b954127ec735ab7314bf4be8",
-          "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-          "title_en": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "title_original": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-          "summary": null,
-          "recommend_reason_zh": "根据对107家企业的调查，54%已遭遇AI agent安全事故或未遂事件，仅32%为每个agent分配独立身份，30%隔离高风险agent，安全栈多依赖OpenAI等模型提供商。",
-          "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-          "source": "VentureBeat AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-16T19:02:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7228,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T19:02:38Z",
-      "latest_at": "2026-07-16T19:02:38Z",
-      "primary_item": {
-        "id": "351849145c6b8eab8c7345374b4d6e548dcf571e",
-        "title": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证 / The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-        "title_zh": "54%企业已遭遇AI智能体安全事件，多数仍共享凭证",
-        "title_en": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-        "title_original": "The agent security gap： 54% of enterprises have already had an AI agent incident， and most still let agents share credentials",
-        "summary": "VentureBeat调查107家企业发现，54%已遭遇AI智能体安全事件（18%确认事故，36%险些酿祸）。仅32%为每个智能体分配独立身份凭证，30%将高风险智能体隔离在沙箱中。安全工具主要依赖模型提供商原生方案，专用智能体安全产品渗透率极低。",
-        "recommend_reason_zh": "54%的企业已遭遇AI agent安全事件，仅32%为每个agent分配独立身份，30%隔离高风险agent。本文揭示企业安全控制滞后于agent激增的现状与风险。",
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "source": "VentureBeat：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 52,
-      "persona_review": "提醒你检查agent权限配置，别让API Key裸奔。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
-      }
-    },
-    {
-      "story_id": "story_f2f3dd65eb7e",
-      "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-      "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "primary_url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
-          "title_en": "REST API endpoints for Visual Studio Subscription management",
-          "title_original": "REST API endpoints for Visual Studio Subscription management",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "225611c19971e2c7202b85385fe274bebde738e4",
-          "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-          "title_zh": "Visual Studio 订阅管理的 REST API 端点",
-          "title_en": "REST API endpoints for Visual Studio Subscription management",
-          "title_original": "REST API endpoints for Visual Studio Subscription management",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
-          "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-16T18:06:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7924,
-      "importance": 0.7924,
-      "importance_score": 0.7924,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7131,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T18:06:52Z",
-      "latest_at": "2026-07-16T18:06:52Z",
-      "primary_item": {
-        "id": "225611c19971e2c7202b85385fe274bebde738e4",
-        "title": "Visual Studio 订阅管理的 REST API 端点 / REST API endpoints for Visual Studio Subscription management",
-        "title_zh": "Visual Studio 订阅管理的 REST API 端点",
-        "title_en": "REST API endpoints for Visual Studio Subscription management",
-        "title_original": "REST API endpoints for Visual Studio Subscription management",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Enterprise Cloud管理员可使用REST API端点管理Visual Studio Subscription分配，解决UPN与SCIM身份不匹配问题，支持脚本化批量匹配操作。",
-        "url": "https://github.blog/changelog/2026-07-16-rest-api-endpoints-for-visual-studio-subscription-management",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "除非你管企业VS订阅，否则跟你写代码无关。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     },
     {
@@ -1733,22 +1478,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7466,
+      "importance": 0.7466,
+      "importance_score": 0.7466,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.784,
+        "recency": 0.7613,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-17T00:40:20.333000Z",
       "latest_at": "2026-07-17T00:40:20.333000Z",
@@ -1770,7 +1514,256 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-17T17:40:42.937252Z"
+        "scored_at": "2026-07-17T19:38:20.679106Z"
+      }
+    },
+    {
+      "story_id": "story_d959f7b562f8",
+      "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+      "url": "https://www.aibase.com/news/29689",
+      "primary_url": "https://www.aibase.com/news/29689",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
+          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "title_en": null,
+          "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "summary": null,
+          "recommend_reason_zh": "影视飓风（Film Wind）49元AI课程首日售出10万份，单日营收超490万元，16课时覆盖AI图像生成到电影级技巧，并与TapNow联合推出。",
+          "url": "https://www.aibase.com/news/29689",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T09:21:51.096110Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
+          "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "title_en": null,
+          "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+          "summary": null,
+          "recommend_reason_zh": "影视飓风（Film Wind）49元AI课程首日售出10万份，单日营收超490万元，16课时覆盖AI图像生成到电影级技巧，并与TapNow联合推出。",
+          "url": "https://www.aibase.com/news/29689",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T09:21:51.096110Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8631,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T09:21:51.096110Z",
+      "latest_at": "2026-07-17T09:21:51.096110Z",
+      "primary_item": {
+        "id": "aa9b347178a67e78a1b42b60abe81fb4db47bc89",
+        "title": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+        "title_zh": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+        "title_en": null,
+        "title_original": "影视飓风49元AI课程上线首日售出10万份，单日营收超490万元",
+        "summary": null,
+        "recommend_reason_zh": "影视飓风（Film Wind）49元AI课程首日售出10万份，单日营收超490万元，16课时覆盖AI图像生成到电影级技巧，并与TapNow联合推出。",
+        "url": "https://www.aibase.com/news/29689",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "卖课新闻而已，对写代码没帮助。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T19:38:20.679106Z"
+      }
+    },
+    {
+      "story_id": "story_6ed165bacfd5",
+      "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+      "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "primary_url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c01f6f8afae4dee902984233154ff627c06daced",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_en": null,
+          "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+          "recommend_reason_zh": "通义实验室发布Wan-Streamer v0.2，端到端响应延迟仅550ms，实现实时连麦丝滑互动，是低延迟通信技术的重要突破。",
+          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "c01f6f8afae4dee902984233154ff627c06daced",
+          "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "title_en": null,
+          "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+          "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+          "recommend_reason_zh": "通义实验室发布Wan-Streamer v0.2，端到端响应延迟仅550ms，实现实时连麦丝滑互动，是低延迟通信技术的重要突破。",
+          "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-17T07:14:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.69,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.837,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T07:14:00Z",
+      "latest_at": "2026-07-17T07:14:00Z",
+      "primary_item": {
+        "id": "c01f6f8afae4dee902984233154ff627c06daced",
+        "title": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "title_zh": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "title_en": null,
+        "title_original": "通义实验室发布 Wan-Streamer v0.2，端到端响应延迟仅 550ms",
+        "summary": "通义实验室发布 Wan-Streamer v0.2，这是一款将\"听、看、说、演\"统一进单个 Transformer 的端到端全模态模型。其端到端响应延迟仅 550ms，输出分辨率从 v0.1 的 192×336 提升至 640×368 @ 25FPS，并采用 Thinker-Performer 双通路架构在提升画质的同时维持了极低延迟。",
+        "recommend_reason_zh": "通义实验室发布Wan-Streamer v0.2，端到端响应延迟仅550ms，实现实时连麦丝滑互动，是低延迟通信技术的重要突破。",
+        "url": "https://mp.weixin.qq.com/s/_eaO0wmsiQFGsrE2_zW_Dg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "实时流处理延迟降到550ms，监控或语音场景可直接试，v0.2值得clone。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T19:38:20.679106Z"
+      }
+    },
+    {
+      "story_id": "story_0c4284448485",
+      "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+      "url": "https://www.aibase.com/news/29694",
+      "primary_url": "https://www.aibase.com/news/29694",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
+          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "title_en": null,
+          "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "summary": null,
+          "recommend_reason_zh": "得物App联合千觉机器人在WAIC 2026发布全球首款AI鉴别机器人，基于百亿级检验数据，准确率超99.9999%，覆盖鞋、包、表、服装、化妆品等品类。",
+          "url": "https://www.aibase.com/news/29694",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T09:21:51.096110Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
+          "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "title_en": null,
+          "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+          "summary": null,
+          "recommend_reason_zh": "得物App联合千觉机器人在WAIC 2026发布全球首款AI鉴别机器人，基于百亿级检验数据，准确率超99.9999%，覆盖鞋、包、表、服装、化妆品等品类。",
+          "url": "https://www.aibase.com/news/29694",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-17T09:21:51.096110Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.743,
+      "importance": 0.743,
+      "importance_score": 0.743,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8631,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-17T09:21:51.096110Z",
+      "latest_at": "2026-07-17T09:21:51.096110Z",
+      "primary_item": {
+        "id": "41657b2e7b5b9e157c6a12ab8dcd78a49d08fd3d",
+        "title": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+        "title_zh": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+        "title_en": null,
+        "title_original": "得物App联合千觉机器人发布AI鉴别机器人，亮相WAIC 2026",
+        "summary": null,
+        "recommend_reason_zh": "得物App联合千觉机器人在WAIC 2026发布全球首款AI鉴别机器人，基于百亿级检验数据，准确率超99.9999%，覆盖鞋、包、表、服装、化妆品等品类。",
+        "url": "https://www.aibase.com/news/29694",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "垂直场景方案，非通用工具，有相关业务可以观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-17T19:38:20.679106Z"
       }
     }
   ]
