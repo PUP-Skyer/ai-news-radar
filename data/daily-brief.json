@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-07-18T13:50:15.360041Z",
+  "generated_at": "2026-07-18T15:15:41.817998Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 18,
   "items": [
+    {
+      "story_id": "story_56c5b0ab76c7",
+      "title": "Codex CLI 0.144.6",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "Codex CLI 0.144.6",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.144.6",
+          "title_original": "Codex CLI 0.144.6",
+          "summary": "Latest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nFull Changelog: rust-v0.144.5...rust-v0.144.6\nFull release on Github\nFull Changelog: rust-v0.144.4...rust-v0.144.5\nFull release on Github\nFull Changelog: rust-v0.144.3...rust-v0.144.4\nFull release on Github\nFull Changelog: rust-v0.144.2...rust-v0.144.3\nFull release on Github\nFull Changelog: rust-v0.144.1...rust",
+          "recommend_reason_zh": "Codex CLI 从 v0.142.0 更新至 v0.144.6，现已集成到 ChatGPT 桌面应用（macOS/Windows），用户可保留项目和原有工作流。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "Codex CLI 0.144.6",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.144.6",
+          "title_original": "Codex CLI 0.144.6",
+          "summary": "Latest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nFull Changelog: rust-v0.144.5...rust-v0.144.6\nFull release on Github\nFull Changelog: rust-v0.144.4...rust-v0.144.5\nFull release on Github\nFull Changelog: rust-v0.144.3...rust-v0.144.4\nFull release on Github\nFull Changelog: rust-v0.144.2...rust-v0.144.3\nFull release on Github\nFull Changelog: rust-v0.144.1...rust",
+          "recommend_reason_zh": "Codex CLI 从 v0.142.0 更新至 v0.144.6，现已集成到 ChatGPT 桌面应用（macOS/Windows），用户可保留项目和原有工作流。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8304,
+      "importance": 0.8304,
+      "importance_score": 0.8304,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8022,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T00:00:00Z",
+      "latest_at": "2026-07-18T00:00:00Z",
+      "primary_item": {
+        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+        "title": "Codex CLI 0.144.6",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.144.6",
+        "title_original": "Codex CLI 0.144.6",
+        "summary": "Latest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nLatest updates to Codex, OpenAI’s coding agent\nFull Changelog: rust-v0.144.5...rust-v0.144.6\nFull release on Github\nFull Changelog: rust-v0.144.4...rust-v0.144.5\nFull release on Github\nFull Changelog: rust-v0.144.3...rust-v0.144.4\nFull release on Github\nFull Changelog: rust-v0.144.2...rust-v0.144.3\nFull release on Github\nFull Changelog: rust-v0.144.1...rust",
+        "recommend_reason_zh": "Codex CLI 从 v0.142.0 更新至 v0.144.6，现已集成到 ChatGPT 桌面应用（macOS/Windows），用户可保留项目和原有工作流。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "小版本更新，用Codex CLI的查下changelog看看修了啥bug。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T15:20:43.808227Z"
+      }
+    },
     {
       "story_id": "story_5142a2d0cb41",
       "title": "GitHub Mobile：用Copilot云端代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7706,
+        "recency": 0.755,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8113,
-      "importance": 0.8113,
-      "importance_score": 0.8113,
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7292,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7966,
+        "recency": 0.7803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -332,15 +417,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7534,
+      "importance": 0.7534,
+      "importance_score": 0.7534,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7476,
+        "recency": 0.7324,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -369,7 +454,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -417,15 +502,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8125,
+      "importance": 0.8125,
+      "importance_score": 0.8125,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7966,
+        "recency": 0.7804,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,7 +539,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -502,15 +587,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.747,
+        "recency": 0.7318,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -537,7 +622,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -585,15 +670,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.8597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -620,7 +705,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -668,15 +753,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7355,
+        "recency": 0.7206,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -703,7 +788,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -751,15 +836,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7422,
+        "recency": 0.7271,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -786,90 +871,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
-      }
-    },
-    {
-      "story_id": "story_9a831943d0df",
-      "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-      "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "primary_url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-      "source": "X：美团 LongCat (@Meituan_LongCat)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-          "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-          "recommend_reason_zh": "BrowseComp在10个月内从30%准确率跃升至90%，搜索代理基准趋于饱和。新基准LoHoSearch基于762万实体维基知识图谱自动生成问题，挑战性更高。",
-          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T14:08:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：美团 LongCat (@Meituan_LongCat)"
-      ],
-      "items": [
-        {
-          "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-          "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-          "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-          "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-          "recommend_reason_zh": "BrowseComp在10个月内从30%准确率跃升至90%，搜索代理基准趋于饱和。新基准LoHoSearch基于762万实体维基知识图谱自动生成问题，挑战性更高。",
-          "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-          "source": "X：美团 LongCat (@Meituan_LongCat)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-17T14:08:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7102,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T14:08:29Z",
-      "latest_at": "2026-07-17T14:08:29Z",
-      "primary_item": {
-        "id": "e3baf9a95132849b2c7de586be81eab23bbdb092",
-        "title": "美团LongCat发布LoHoSearch：更难搜索智能体基准 / BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "title_zh": "美团LongCat发布LoHoSearch：更难搜索智能体基准",
-        "title_en": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "title_original": "BrowseComp went from 30% → 90% in 10 months. Search-agent benchmarks are saturating. So we built Lo…",
-        "summary": "美团LongCat推出LoHoSearch，一个基于762万实体维基百科知识图谱自动生成问题的搜索智能体基准，旨在解决BrowseComp等现有基准趋于饱和的问题。在11个前沿模型测试中，最佳得分仅34.74%，远低于当前模型在BrowseComp上约90%的成绩；上下文策略仅带来+6.8个百分点的提升。该基准包含544道问题、11个领域，采用树与图结构，已开源。",
-        "recommend_reason_zh": "BrowseComp在10个月内从30%准确率跃升至90%，搜索代理基准趋于饱和。新基准LoHoSearch基于762万实体维基知识图谱自动生成问题，挑战性更高。",
-        "url": "https://x.com/Meituan_LongCat/status/2078119654632124547",
-        "source": "X：美团 LongCat (@Meituan_LongCat)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "新基准发布，等开放评测接口再动，现有方案不用急改。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -917,15 +919,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7858,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -954,7 +956,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -971,7 +973,7 @@
           "title_zh": "为什么人工智能公司的标志看起来像肛门？",
           "title_en": null,
           "title_original": "为什么人工智能公司的标志看起来像肛门？",
-          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "summary": null,
           "recommend_reason_zh": "原文揭示OpenAI的Blossom logo及Anthropic的Claude logo均使用圆形渐变加中央开口设计，形似肛门，而DeepSeek与Midjourney是仅有的例外（两者都与海相关）。",
           "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
           "source": "velvetshark.com",
@@ -1013,7 +1015,7 @@
           "title_zh": "为什么人工智能公司的标志看起来像肛门？",
           "title_en": "Why do AI company logos look like buttholes? (2025)",
           "title_original": "Why do AI company logos look like buttholes? (2025)",
-          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "summary": null,
           "recommend_reason_zh": "这篇文章幽默揭示了AI公司logo为何普遍采用圆形渐变设计，甚至如Anthropic的Claude logo与Kurt Vonnegut书中插图惊人相似，OpenAI的“Blossom”logo被官方描述为“human-centered thinking”。",
           "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
           "source": "Hacker News (黑客新闻)",
@@ -1036,7 +1038,7 @@
           "title_zh": "为什么人工智能公司的标志看起来像肛门？",
           "title_en": null,
           "title_original": "为什么人工智能公司的标志看起来像肛门？",
-          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "summary": null,
           "recommend_reason_zh": "原文揭示OpenAI的Blossom logo及Anthropic的Claude logo均使用圆形渐变加中央开口设计，形似肛门，而DeepSeek与Midjourney是仅有的例外（两者都与海相关）。",
           "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
           "source": "velvetshark.com",
@@ -1078,7 +1080,7 @@
           "title_zh": "为什么人工智能公司的标志看起来像肛门？",
           "title_en": "Why do AI company logos look like buttholes? (2025)",
           "title_original": "Why do AI company logos look like buttholes? (2025)",
-          "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+          "summary": null,
           "recommend_reason_zh": "这篇文章幽默揭示了AI公司logo为何普遍采用圆形渐变设计，甚至如Anthropic的Claude logo与Kurt Vonnegut书中插图惊人相似，OpenAI的“Blossom”logo被官方描述为“human-centered thinking”。",
           "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
           "source": "Hacker News (黑客新闻)",
@@ -1089,15 +1091,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5915,
-      "importance": 0.5915,
-      "importance_score": 0.5915,
+      "score": 0.5879,
+      "importance": 0.5879,
+      "importance_score": 0.5879,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9761,
+        "recency": 0.9563,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1112,7 +1114,7 @@
         "title_zh": "为什么人工智能公司的标志看起来像肛门？",
         "title_en": null,
         "title_original": "为什么人工智能公司的标志看起来像肛门？",
-        "summary": "A humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncanny resemblance between AI company logos and human anatomy. Discover why circular, gradient-based designs dominate the AI industry, and what this design convergence tells us about branding in tech.\nA humorous exploration of the uncann",
+        "summary": null,
         "recommend_reason_zh": "原文揭示OpenAI的Blossom logo及Anthropic的Claude logo均使用圆形渐变加中央开口设计，形似肛门，而DeepSeek与Midjourney是仅有的例外（两者都与海相关）。",
         "url": "https://velvetshark.com/ai-company-logos-that-look-like-buttholes",
         "source": "velvetshark.com",
@@ -1124,205 +1126,289 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
-      "story_id": "story_c06be1aad3a1",
-      "title": "开源AI模型面临成本与可持续性挑战",
-      "url": "https://news.ycombinator.com/item?id=48947825",
-      "primary_url": "https://news.ycombinator.com/item?id=48947825",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_6e3ae8d4de00",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "source": "charlesazam.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-          "title": "开源AI模型面临成本与可持续性挑战",
-          "title_zh": "开源AI模型面临成本与可持续性挑战",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": "前沿模型训练成本天文数字，中国开源模型为打入西方市场，但长期可持续性存疑——本文探讨开源AI是否将重演Meta的关闭命运。",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T21:08:49.566000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
           "title_en": null,
-          "title_original": "Mozilla：开源人工智能的发展现状",
-          "summary": null,
-          "recommend_reason_zh": "Mozilla报告揭示：79%的开发者使用开源AI，OpenRouter前五模型全开源，Databricks突破54亿美元营收，Mistral一年增长20倍至4亿美元ARR——开源AI正重塑产业格局。",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
+          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
+          "recommend_reason_zh": "本文对比Fable 5和GPT-5.6 Sol在NP-hard光纤网络设计问题上的表现，涉及532个终端和11个分配中心，可能方案数达11^532。Fable 5表现惊人，而/goal虽赢得四分之六试验，但均值显示收益有限，并非通用“更努力”开关。",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "published_at": "2026-07-18T15:05:23.818000Z"
         },
         {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源AI的现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源AI的现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "summary": null,
-          "recommend_reason_zh": "Mozilla报告指出，开源AI推理成本已下降近50倍，且Kimi K3等开源模型正逼近前沿水平，速度超出预期，揭示出封闭与开放模型间未来格局的关键博弈。",
-          "url": "https://news.ycombinator.com/item?id=48947825",
+          "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
+          "url": "https://news.ycombinator.com/item?id=48956879",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
+          "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "summary": null,
-          "recommend_reason_zh": "79%的开发者使用开源模型，Databricks年收入突破54亿美元，Mistral一年增长20倍——Mozilla这份报告用数据揭示了开源AI在商业和开发者中的真实地位。",
-          "url": "https://stateofopensource.ai",
+          "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "b47194ee0332f9490347528350fd805a286d25e0",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": "Mozilla/SlashData 2026开发者调查显示，79%的开发者使用开源AI模型，但只有51%能进入生产阶段——这篇文章深入剖析了开源AI的商业规模、技术栈分层与全球战略博弈。",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "stateofopensource.ai"
+        "charlesazam.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-          "title": "开源AI模型面临成本与可持续性挑战",
-          "title_zh": "开源AI模型面临成本与可持续性挑战",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": "前沿模型训练成本天文数字，中国开源模型为打入西方市场，但长期可持续性存疑——本文探讨开源AI是否将重演Meta的关闭命运。",
-          "url": "https://news.ycombinator.com/item?id=48947825",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T21:08:49.566000Z"
-        },
-        {
-          "id": "5e95fe87caeb35054f2b40c41434afe0c633959c",
-          "title": "Mozilla：开源人工智能的发展现状",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
           "title_en": null,
-          "title_original": "Mozilla：开源人工智能的发展现状",
-          "summary": null,
-          "recommend_reason_zh": "Mozilla报告揭示：79%的开发者使用开源AI，OpenRouter前五模型全开源，Databricks突破54亿美元营收，Mistral一年增长20倍至4亿美元ARR——开源AI正重塑产业格局。",
-          "url": "https://stateofopensource.ai",
-          "source": "stateofopensource.ai",
+          "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
+          "recommend_reason_zh": "本文对比Fable 5和GPT-5.6 Sol在NP-hard光纤网络设计问题上的表现，涉及532个终端和11个分配中心，可能方案数达11^532。Fable 5表现惊人，而/goal虽赢得四分之六试验，但均值显示收益有限，并非通用“更努力”开关。",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-17T15:53:45.162000Z"
+          "published_at": "2026-07-18T15:05:23.818000Z"
         },
         {
-          "id": "c40121cdcae877d7b4adec40d2a0f513a9ea0048",
-          "title": "Mozilla：开源AI的现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源AI的现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "summary": null,
-          "recommend_reason_zh": "Mozilla报告指出，开源AI推理成本已下降近50倍，且Kimi K3等开源模型正逼近前沿水平，速度超出预期，揭示出封闭与开放模型间未来格局的关键博弈。",
-          "url": "https://news.ycombinator.com/item?id=48947825",
+          "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
+          "url": "https://news.ycombinator.com/item?id=48956879",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
+          "published_at": "2026-07-18T13:26:05.437000Z"
         },
         {
-          "id": "c63a38202d5e3b827e2934b3f130e12032d66135",
-          "title": "Mozilla：开源人工智能的发展现状 / Mozilla: The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "Mozilla: The state of open source AI",
-          "title_original": "Mozilla: The state of open source AI",
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
           "summary": null,
-          "recommend_reason_zh": "79%的开发者使用开源模型，Databricks年收入突破54亿美元，Mistral一年增长20倍——Mozilla这份报告用数据揭示了开源AI在商业和开发者中的真实地位。",
-          "url": "https://stateofopensource.ai",
+          "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-17T14:31:10Z"
-        },
-        {
-          "id": "b47194ee0332f9490347528350fd805a286d25e0",
-          "title": "Mozilla：开源人工智能的发展现状 / The state of open source AI",
-          "title_zh": "Mozilla：开源人工智能的发展现状",
-          "title_en": "The state of open source AI",
-          "title_original": "The state of open source AI",
-          "summary": null,
-          "recommend_reason_zh": "Mozilla/SlashData 2026开发者调查显示，79%的开发者使用开源AI模型，但只有51%能进入生产阶段——这篇文章深入剖析了开源AI的商业规模、技术栈分层与全球战略博弈。",
-          "url": "https://stateofopensource.ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T14:31:10Z"
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5822,
-      "importance": 0.5822,
-      "importance_score": 0.5822,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5704,
+      "importance": 0.5704,
+      "importance_score": 0.5704,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7858,
-        "story_heat": 1.0
+        "recency": 0.9975,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T14:31:10Z",
-      "latest_at": "2026-07-17T21:08:49.566000Z",
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:05:23.818000Z",
       "primary_item": {
-        "id": "e5fba765830ede14a8b11f27ae3dc11893bf57eb",
-        "title": "开源AI模型面临成本与可持续性挑战",
-        "title_zh": "开源AI模型面临成本与可持续性挑战",
-        "title_en": "The state of open source AI",
-        "title_original": "The state of open source AI",
-        "summary": null,
-        "recommend_reason_zh": "前沿模型训练成本天文数字，中国开源模型为打入西方市场，但长期可持续性存疑——本文探讨开源AI是否将重演Meta的关闭命运。",
-        "url": "https://news.ycombinator.com/item?id=48947825",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "title_zh": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "title_en": null,
+        "title_original": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
+        "recommend_reason_zh": "本文对比Fable 5和GPT-5.6 Sol在NP-hard光纤网络设计问题上的表现，涉及532个终端和11个分配中心，可能方案数达11^532。Fable 5表现惊人，而/goal虽赢得四分之六试验，但均值显示收益有限，并非通用“更努力”开关。",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+        "source": "charlesazam.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "趋势分析，无立即可用方案，关注后续具体开源项目动向即可。",
+      "persona_score": 55,
+      "persona_review": "研究对比有参考价值，但无实际可用的工具或API，观望即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
+      }
+    },
+    {
+      "story_id": "story_641c7fe4ecc7",
+      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": null,
+          "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
+          "recommend_reason_zh": "GPT-5.6 仅靠一个提示词，便弥合了凸优化领域长达 30 年的研究空白，展示了大模型在数学理论突破上的惊人潜力。",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:26:05.437000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": "GPT-5.6仅凭一个prompt就弥合了凸优化领域长达30年的理论空白，展现了语言模型在数学研究中意料之外的突破性能力。",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": null,
+          "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
+          "recommend_reason_zh": "GPT-5.6 仅靠一个提示词，便弥合了凸优化领域长达 30 年的研究空白，展示了大模型在数学理论突破上的惊人潜力。",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:26:05.437000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "summary": null,
+          "recommend_reason_zh": "GPT-5.6仅凭一个prompt就弥合了凸优化领域长达30年的理论空白，展现了语言模型在数学研究中意料之外的突破性能力。",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5683,
+      "importance": 0.5683,
+      "importance_score": 0.5683,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9862,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T14:17:48.882000Z",
+      "primary_item": {
+        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "title_zh": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "title_en": null,
+        "title_original": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
+        "recommend_reason_zh": "GPT-5.6 仅靠一个提示词，便弥合了凸优化领域长达 30 年的研究空白，展示了大模型在数学理论突破上的惊人潜力。",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 50,
+      "persona_review": "研究突破，暂无可用工具或API，等开源复现再考虑应用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -1339,7 +1425,7 @@
           "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": null,
           "title_original": "图表展示：AI对Stack Overflow的影响",
-          "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
+          "summary": null,
           "recommend_reason_zh": "这篇文章通过Stack Exchange Data Explorer的SQL查询，展示了AI如何影响Stack Overflow的问题数量，查询返回217行数据，执行时间不到1毫秒。",
           "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
           "source": "data.stackexchange.com",
@@ -1389,7 +1475,7 @@
           "title_zh": "图表展示：AI对Stack Overflow的影响",
           "title_en": null,
           "title_original": "图表展示：AI对Stack Overflow的影响",
-          "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
+          "summary": null,
           "recommend_reason_zh": "这篇文章通过Stack Exchange Data Explorer的SQL查询，展示了AI如何影响Stack Overflow的问题数量，查询返回217行数据，执行时间不到1毫秒。",
           "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
           "source": "data.stackexchange.com",
@@ -1428,15 +1514,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5699,
-      "importance": 0.5699,
-      "importance_score": 0.5699,
+      "score": 0.5662,
+      "importance": 0.5662,
+      "importance_score": 0.5662,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.995,
+        "recency": 0.9747,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1451,7 +1537,7 @@
         "title_zh": "图表展示：AI对Stack Overflow的影响",
         "title_en": null,
         "title_original": "图表展示：AI对Stack Overflow的影响",
-        "summary": "Title: Stackoverflow - Stack Exchange Data Explorer\nQ&A for professional and enthusiast programmers\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1) AS [Month],\nCOUNT(*) AS [Questions]\nDATEFROMPARTS(YEAR(CreationDate), MONTH(CreationDate), 1)\nOptions: Text-only results Include execution plan\n*   [![Image 2: Meta Stack Overflow](https://cdn.sstatic.net/Sites/stackoverflowmeta/img/icon-16.png)](https://data.stackexchange.com/meta.stackoverflow/query/1953768/stackoverflow \"View results on ",
+        "summary": null,
         "recommend_reason_zh": "这篇文章通过Stack Exchange Data Explorer的SQL查询，展示了AI如何影响Stack Overflow的问题数量，查询返回217行数据，执行时间不到1毫秒。",
         "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
         "source": "data.stackexchange.com",
@@ -1463,7 +1549,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -1569,15 +1655,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8146,
+        "recency": 0.798,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1604,343 +1690,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
-      }
-    },
-    {
-      "story_id": "story_6e3ae8d4de00",
-      "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://news.ycombinator.com/item?id=48956879",
-      "primary_url": "https://news.ycombinator.com/item?id=48956879",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "summary": "reply\nreply\nreply\nSo for long running tasks I'll do /protect your goal is...\n/protect your goal is...\nreply\nFor some reason, codex compaction is like black magic. I’ve never felt like I can just one one continuous thread with other models, Claude I carefully curate when I compact\nreply\nMuch better to spend tokens breaking the task into chunks, documenting and storing them durably, then executing each one in clean context and just /clear after. It’s a similar concept to compaction, just planned i",
-          "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
-          "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "summary": "reply\nreply\nreply\nSo for long running tasks I'll do /protect your goal is...\n/protect your goal is...\nreply\nFor some reason, codex compaction is like black magic. I’ve never felt like I can just one one continuous thread with other models, Claude I carefully curate when I compact\nreply\nMuch better to spend tokens breaking the task into chunks, documenting and storing them durably, then executing each one in clean context and just /clear after. It’s a similar concept to compaction, just planned i",
-          "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
-          "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "summary": "I gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 is a beast; /goal is not a game changer.\nI gave Claude Fable 5 and GPT-5.6 Sol the same unpublished NP-hard optimization problem, with and without their native /goal mode. Fable 5 i",
-          "recommend_reason_zh": "Fable 5在NP-hard优化问题上表现惊人，面对巴黎532个终端、11^532种可能组合，它产出最佳解；而/goal模式仅带来小收益，非万能开关。",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9942,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:00:29Z",
-      "latest_at": "2026-07-18T13:26:05.437000Z",
-      "primary_item": {
-        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-        "title": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "title_zh": "Fable 5 对比 GPT-5.6 Sol 在 NP 难问题上的表现：/goal 能帮忙吗？",
-        "title_en": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "title_original": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "summary": "reply\nreply\nreply\nSo for long running tasks I'll do /protect your goal is...\n/protect your goal is...\nreply\nFor some reason, codex compaction is like black magic. I’ve never felt like I can just one one continuous thread with other models, Claude I carefully curate when I compact\nreply\nMuch better to spend tokens breaking the task into chunks, documenting and storing them durably, then executing each one in clean context and just /clear after. It’s a similar concept to compaction, just planned i",
-        "recommend_reason_zh": "本文揭示在NP-Hard问题上，使用/goal指令让GPT-5.6 Sol花10分钟写设计文档，比默认计划模式产出更稳健的方案，并节省迭代时间。",
-        "url": "https://news.ycombinator.com/item?id=48956879",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "模型代号不明，无开源或API，只适合论文流。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
-      }
-    },
-    {
-      "story_id": "story_8037081f1773",
-      "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_zh": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_zh": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "New York Times"
-      ],
-      "items": [
-        {
-          "id": "49976faca8943d55cd7337aa020050c79f59b960",
-          "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_zh": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_zh": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元",
-          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4982,
-      "importance": 0.4982,
-      "importance_score": 0.4982,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7355,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T16:17:06Z",
-      "latest_at": "2026-07-17T16:33:48Z",
-      "primary_item": {
-        "id": "49976faca8943d55cd7337aa020050c79f59b960",
-        "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-        "title_zh": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元",
-        "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-        "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "融资谈判，无产品，与开发者无关。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
-      }
-    },
-    {
-      "story_id": "story_641c7fe4ecc7",
-      "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://news.ycombinator.com/item?id=48957779",
-      "primary_url": "https://news.ycombinator.com/item?id=48957779",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": "reply\nIt's not that AI brings equality, but rather that the output varies depending on how much background knowledge you have. You could call it a stratification of input I'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nI'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nreply\nreply\nreply\nreply\nreply\nDebuggers, testing techniques, testing layers Essentially things that could",
-          "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
-          "recommend_reason_zh": "GPT-5.6仅凭一个prompt就弥合了凸优化领域长达30年的理论空白，展现了语言模型在数学研究中意料之外的突破性能力。",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": "reply\nIt's not that AI brings equality, but rather that the output varies depending on how much background knowledge you have. You could call it a stratification of input I'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nI'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nreply\nreply\nreply\nreply\nreply\nDebuggers, testing techniques, testing layers Essentially things that could",
-          "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:26:05.437000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
-          "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "summary": "Title: Blocked\nWarning: Target URL returned error 403: Forbidden\n## whoa there, pardner!\nYour request has been blocked due to a network policy.\nTry logging in or creating an account [here](https://www.reddit.com/login/) to get back to browsing.\nIf you're running a script or application, please register or sign in with your developer credentials [here](https://www.reddit.com/wiki/api/). Additionally make sure your User-Agent is not empty and is something unique and descriptive and try again. if y",
-          "recommend_reason_zh": "GPT-5.6仅凭一个prompt就弥合了凸优化领域长达30年的理论空白，展现了语言模型在数学研究中意料之外的突破性能力。",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9942,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T13:26:05.437000Z",
-      "primary_item": {
-        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-        "title": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "title_zh": "GPT-5.6 用一个提示词填补了凸优化领域30年的空白",
-        "title_en": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "title_original": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "summary": "reply\nIt's not that AI brings equality, but rather that the output varies depending on how much background knowledge you have. You could call it a stratification of input I'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nI'm starting to feel like there's no place left for programmers like me who focus on quickly churning out MVPs.\nreply\nreply\nreply\nreply\nreply\nDebuggers, testing techniques, testing layers Essentially things that could",
-        "recommend_reason_zh": "GPT-5.6用10页高级数学prompt解决了30年未解的凸优化问题，但专家强调这需一年前期研究和深厚领域知识，并非简单问答。",
-        "url": "https://news.ycombinator.com/item?id=48957779",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "研究很亮眼，但暂无开源代码或API可用，等可复现再关注。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
@@ -2017,15 +1767,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5093,
-      "importance": 0.5093,
-      "importance_score": 0.5093,
+      "score": 0.5063,
+      "importance": 0.5063,
+      "importance_score": 0.5063,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.797,
+        "recency": 0.7808,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2052,119 +1802,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     },
     {
-      "story_id": "story_17ffaf56b0fe",
-      "title": "AI与密码学2：AI在OpenVM的ZkVM中的发现 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-      "url": "https://news.ycombinator.com/item?id=48947714",
-      "primary_url": "https://news.ycombinator.com/item?id=48947714",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_8037081f1773",
+      "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+      "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+      "primary_url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
-          "title": "AI与密码学2：AI在OpenVM的ZkVM中的发现 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI与密码学2：AI在OpenVM的ZkVM中的发现",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_zh": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
           "summary": null,
-          "recommend_reason_zh": "AI在OpenVM的ZkVM中找到了什么？本文详细介绍了这一发现，展示了密码学与AI结合的全新研究方向，不容错过。",
-          "url": "https://news.ycombinator.com/item?id=48947714",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "213fe8e61a20db7a4e859a4adf8ff3e88c8b77eb",
-          "title": "AI与密码学2：AI在OpenVM的ZkVM中的发现 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI与密码学2：AI在OpenVM的ZkVM中的发现",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": null,
-          "recommend_reason_zh": "AI审计员zkao在OpenVM zkVM中发现关键声音性漏洞：配对检查接受证明者witness时缺少子域验证，允许恶意证明者伪造任何配对等式（CVE-2026-46669），已在1.6.0修复。",
-          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs",
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-17T14:21:35Z"
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_zh": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "New York Times"
       ],
       "items": [
         {
-          "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
-          "title": "AI与密码学2：AI在OpenVM的ZkVM中的发现 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI与密码学2：AI在OpenVM的ZkVM中的发现",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+          "id": "49976faca8943d55cd7337aa020050c79f59b960",
+          "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_zh": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
           "summary": null,
-          "recommend_reason_zh": "AI在OpenVM的ZkVM中找到了什么？本文详细介绍了这一发现，展示了密码学与AI结合的全新研究方向，不容错过。",
-          "url": "https://news.ycombinator.com/item?id=48947714",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T15:28:14.046000Z"
-        },
-        {
-          "id": "213fe8e61a20db7a4e859a4adf8ff3e88c8b77eb",
-          "title": "AI与密码学2：AI在OpenVM的ZkVM中的发现 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_zh": "AI与密码学2：AI在OpenVM的ZkVM中的发现",
-          "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-          "summary": null,
-          "recommend_reason_zh": "AI审计员zkao在OpenVM zkVM中发现关键声音性漏洞：配对检查接受证明者witness时缺少子域验证，允许恶意证明者伪造任何配对等式（CVE-2026-46669），已在1.6.0修复。",
-          "url": "https://blog.zksecurity.xyz/posts/openvm-bugs",
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-17T14:21:35Z"
+          "published_at": "2026-07-17T16:33:48Z"
+        },
+        {
+          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
+          "title": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_zh": "Meta正洽谈向Anthropic租赁算力，潜在交易额达100亿美元",
+          "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
+      "score": 0.4955,
+      "importance": 0.4955,
+      "importance_score": 0.4955,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.724,
+        "recency": 0.7205,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T14:21:35Z",
-      "latest_at": "2026-07-17T15:28:14.046000Z",
+      "earliest_at": "2026-07-17T16:17:06Z",
+      "latest_at": "2026-07-17T16:33:48Z",
       "primary_item": {
-        "id": "1e4656819f8c1084e94f30e6042f46d6c139331c",
-        "title": "AI与密码学2：AI在OpenVM的ZkVM中的发现 / AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-        "title_zh": "AI与密码学2：AI在OpenVM的ZkVM中的发现",
-        "title_en": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-        "title_original": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+        "id": "49976faca8943d55cd7337aa020050c79f59b960",
+        "title": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+        "title_zh": "Meta正洽谈向Anthropic出租算力，潜在交易额达100亿美元",
+        "title_en": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
+        "title_original": "Meta in Talks to Lease Computing Power to Anthropic in Potential $10B Deal",
         "summary": null,
-        "recommend_reason_zh": "AI在OpenVM的ZkVM中找到了什么？本文详细介绍了这一发现，展示了密码学与AI结合的全新研究方向，不容错过。",
-        "url": "https://news.ycombinator.com/item?id=48947714",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "recommend_reason_zh": null,
+        "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "研究进展，暂无直接可用工具，等开源或API再看。",
+      "persona_score": 20,
+      "persona_review": "融资谈判，无产品，与开发者无关。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-18T13:56:05.277240Z"
+        "scored_at": "2026-07-18T15:20:43.808227Z"
       }
     }
   ]
