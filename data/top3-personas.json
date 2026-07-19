@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T13:58:48.348249Z",
+  "generated_at": "2026-07-19T15:19:46.772720Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_20bda4ade41b",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "开源诚意到了，但机器人走出demo走廊前，先别谈理解与记忆。"
+        },
+        "paper-police": {
+          "score": 55,
+          "review": "开源代码即可验证，但缺论文和独立评测，需自行跑分确认。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "开源模型可直接用于机器人开发，今天就能下载实验。"
+        }
+      }
+    },
+    {
       "story_id": "story_d8b201080948",
       "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
       "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -40,7 +60,7 @@
       "story_id": "story_0addcd6712bf",
       "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
       "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 80,
           "review": "小模型性能领先且适配多芯片，边缘部署首选，今天就能试用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_dad2bbf2a5ce",
-      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-      "url": "https://ykdojo.github.io/claude-controls-mac",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 80,
-          "review": "Mac备用机也有了新用途，不过先得有两台Mac才行。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无benchmark，操作指南不算学术发布。"
-        },
-        "pragmatic": {
-          "score": 70,
-          "review": "能抄的配置教程，有备用Mac的今天就能动手。"
         }
       }
     }
