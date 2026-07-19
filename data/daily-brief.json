@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T15:15:49.350538Z",
+  "generated_at": "2026-07-19T16:13:28.830217Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_e10fb03864e5",
@@ -164,15 +164,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.865,
+        "recency": 0.8531,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -201,7 +201,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -278,15 +278,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.855,
+        "recency": 0.8433,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -315,91 +315,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
-      }
-    },
-    {
-      "story_id": "story_20bda4ade41b",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-          "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
-          "url": "https://x.com/OpenBMB/status/2078839529591759025",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T13:49:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9793,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-19T13:49:01Z",
-      "latest_at": "2026-07-19T13:49:01Z",
-      "primary_item": {
-        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
-        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
-        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
-        "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
-        "url": "https://x.com/OpenBMB/status/2078839529591759025",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "开源模型可直接用于机器人开发，今天就能下载实验。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -447,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7608,
-      "importance": 0.7608,
-      "importance_score": 0.7608,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9622,
+        "recency": 0.949,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -483,7 +399,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
+      }
+    },
+    {
+      "story_id": "story_20bda4ade41b",
+      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "primary_url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+          "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:49:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：面壁智能 OpenBMB (@OpenBMB)"
+      ],
+      "items": [
+        {
+          "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+          "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+          "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+          "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+          "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
+          "url": "https://x.com/OpenBMB/status/2078839529591759025",
+          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-19T13:49:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7584,
+      "importance": 0.7584,
+      "importance_score": 0.7584,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9658,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-19T13:49:01Z",
+      "latest_at": "2026-07-19T13:49:01Z",
+      "primary_item": {
+        "id": "6f350dc8ef4774149467d75b8b11295ab37d5a0c",
+        "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "title_zh": "面壁智能开源 MiniCPM-Robot 具身智能模型系列",
+        "title_en": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "title_original": "🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
+        "summary": "面壁智能开源首个具身AI模型系列 MiniCPM-Robot，包含 1.5B 参数的通用视觉-语言-动作（VLA）模型 MiniCPM-RobotManip 和用于目标跟踪的 MiniCPM-RobotTrack。同时发布高性能推理框架 PhyAI，旨在让机器人实现理解、记忆与行动。",
+        "recommend_reason_zh": "MiniCPM开源首个具身AI模型系列MiniCPM-Robot，其中MiniCPM-RobotManip是1.5B参数的通用视觉-语言-动作模型，让机器人理解、记忆并执行操作。",
+        "url": "https://x.com/OpenBMB/status/2078839529591759025",
+        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 90,
+      "persona_review": "开源模型可直接用于机器人开发，今天就能下载实验。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-v4-flash",
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -531,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9027,
+        "recency": 0.8903,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -567,7 +567,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -615,21 +615,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9708,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T13:12:39Z",
       "latest_at": "2026-07-19T13:12:39Z",
@@ -651,7 +650,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -699,15 +698,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7399,
-      "importance": 0.7399,
-      "importance_score": 0.7399,
+      "score": 0.7378,
+      "importance": 0.7378,
+      "importance_score": 0.7378,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8464,
+        "recency": 0.8347,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,7 +733,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -782,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.756,
-      "importance": 0.756,
-      "importance_score": 0.756,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8355,
+        "recency": 0.824,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -818,7 +817,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -981,15 +980,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6048,
-      "importance": 0.6048,
-      "importance_score": 0.6048,
+      "score": 0.6025,
+      "importance": 0.6025,
+      "importance_score": 0.6025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9109,
+        "recency": 0.8984,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1016,7 +1015,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1093,15 +1092,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5831,
-      "importance": 0.5831,
-      "importance_score": 0.5831,
+      "score": 0.581,
+      "importance": 0.581,
+      "importance_score": 0.581,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.8487,
+        "recency": 0.837,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1128,7 +1127,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1145,7 +1144,7 @@
           "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
           "title_en": null,
           "title_original": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "summary": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...\nSummary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, permissions, and auto-review catalog metadata.\n\nWhy\nThe catalog refresh has propagated to public main, but",
+          "summary": null,
           "recommend_reason_zh": "OpenAI 将 Codex 模型的上下文窗口从 37.2 万缩减至 27.2 万，并同步更新了 GPT-5.6 的模型指令与上下文元数据，以适配稳定版客户端。",
           "url": "https://github.com/openai/codex/pull/33972/files",
           "source": "github.com",
@@ -1195,7 +1194,7 @@
           "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
           "title_en": null,
           "title_original": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-          "summary": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...\nSummary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, permissions, and auto-review catalog metadata.\n\nWhy\nThe catalog refresh has propagated to public main, but",
+          "summary": null,
           "recommend_reason_zh": "OpenAI 将 Codex 模型的上下文窗口从 37.2 万缩减至 27.2 万，并同步更新了 GPT-5.6 的模型指令与上下文元数据，以适配稳定版客户端。",
           "url": "https://github.com/openai/codex/pull/33972/files",
           "source": "github.com",
@@ -1234,15 +1233,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5697,
-      "importance": 0.5697,
-      "importance_score": 0.5697,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9937,
+        "recency": 0.98,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1257,7 +1256,7 @@
         "title_zh": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
         "title_en": null,
         "title_original": "OpenAI 将 Codex 模型的上下文大小从 37.2 万缩减至 27.2 万",
-        "summary": "Summary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, perm...\nSummary\n\nBackport d26a9bf671b1c03aabfc32e1092d137c1feb3962 to the 0.144 release line.\nRefresh bundled GPT-5.6 model instructions and context-window metadata.\nRefresh reasoning-summary, skills, permissions, and auto-review catalog metadata.\n\nWhy\nThe catalog refresh has propagated to public main, but",
+        "summary": null,
         "recommend_reason_zh": "OpenAI 将 Codex 模型的上下文窗口从 37.2 万缩减至 27.2 万，并同步更新了 GPT-5.6 的模型指令与上下文元数据，以适配稳定版客户端。",
         "url": "https://github.com/openai/codex/pull/33972/files",
         "source": "github.com",
@@ -1269,148 +1268,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
-      }
-    },
-    {
-      "story_id": "story_dad2bbf2a5ce",
-      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-      "url": "https://ykdojo.github.io/claude-controls-mac",
-      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
-      "source": "ykdojo.github.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": null,
-          "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "summary": null,
-          "recommend_reason_zh": "利用备用Mac创建独立的Claude Code控制环境，完整步骤包括擦除机器数据、开启SSH，即可从手机Claude app或主Mac安全地远程操作，避免主机的权限风险。",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:51:18.013000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "ykdojo.github.io"
-      ],
-      "items": [
-        {
-          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": null,
-          "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "summary": null,
-          "recommend_reason_zh": "利用备用Mac创建独立的Claude Code控制环境，完整步骤包括擦除机器数据、开启SSH，即可从手机Claude app或主Mac安全地远程操作，避免主机的权限风险。",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "ykdojo.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T19:37:23.960000Z"
-        },
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置闲置Mac让Claude Code控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置闲置Mac让Claude Code控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "这篇指南教你用闲置的Mac设置Claude Code，实现自动扫描日志错误、开issue、创建PR并合并部署的工作流，能显著减轻团队负担。",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:51:18.013000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-          "title_en": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "title_original": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "summary": null,
-          "recommend_reason_zh": "将备用Mac设为Claude Code可全程控制的独立环境，可通过手机Claude app或SSH远程操作，避免在主力机上使用--dangerously-skip-permissions的风险，并保留完整Mac功能而非容器限制。",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7531,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T19:37:23.960000Z",
-      "primary_item": {
-        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
-        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-        "title_zh": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-        "title_en": null,
-        "title_original": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
-        "summary": null,
-        "recommend_reason_zh": "利用备用Mac创建独立的Claude Code控制环境，完整步骤包括擦除机器数据、开启SSH，即可从手机Claude app或主Mac安全地远程操作，避免主机的权限风险。",
-        "url": "https://ykdojo.github.io/claude-controls-mac",
-        "source": "ykdojo.github.io",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "能抄的配置教程，有备用Mac的今天就能动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1487,15 +1345,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8485,
+        "recency": 0.8368,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1522,7 +1380,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1539,7 +1397,7 @@
           "title_zh": "DRIVE – AI加速工程的卓越运营",
           "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
           "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
-          "summary": "There are some sensible ideas in it, but it is not a major new technical concept. It is largely a repackaging of existing DevOps, platform-engineering, FinOps, security, and portfolio-management practices into a Cortex-branded operating model.\nreply\nreply\nreply\nMaybe write a blog post if this wasn't intended as an ad.\nreply\nreply",
+          "summary": null,
           "recommend_reason_zh": "本文分析了Cortex如何将DevOps、平台工程、FinOps、安全和投资组合管理等现有实践整合为品牌运营模型，虽非重大新技术，但值得了解其系统化框架。",
           "url": "https://news.ycombinator.com/item?id=48968067",
           "source": "hackernews",
@@ -1574,7 +1432,7 @@
           "title_zh": "DRIVE – AI加速工程的卓越运营",
           "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
           "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
-          "summary": "There are some sensible ideas in it, but it is not a major new technical concept. It is largely a repackaging of existing DevOps, platform-engineering, FinOps, security, and portfolio-management practices into a Cortex-branded operating model.\nreply\nreply\nreply\nMaybe write a blog post if this wasn't intended as an ad.\nreply\nreply",
+          "summary": null,
           "recommend_reason_zh": "本文分析了Cortex如何将DevOps、平台工程、FinOps、安全和投资组合管理等现有实践整合为品牌运营模型，虽非重大新技术，但值得了解其系统化框架。",
           "url": "https://news.ycombinator.com/item?id=48968067",
           "source": "hackernews",
@@ -1599,15 +1457,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5447,
-      "importance": 0.5447,
-      "importance_score": 0.5447,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9937,
+        "recency": 0.98,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1622,7 +1480,7 @@
         "title_zh": "DRIVE – AI加速工程的卓越运营",
         "title_en": "DRIVE – Operational Excellence for AI-accelerated engineering",
         "title_original": "DRIVE – Operational Excellence for AI-accelerated engineering",
-        "summary": "There are some sensible ideas in it, but it is not a major new technical concept. It is largely a repackaging of existing DevOps, platform-engineering, FinOps, security, and portfolio-management practices into a Cortex-branded operating model.\nreply\nreply\nreply\nMaybe write a blog post if this wasn't intended as an ad.\nreply\nreply",
+        "summary": null,
         "recommend_reason_zh": "本文分析了Cortex如何将DevOps、平台工程、FinOps、安全和投资组合管理等现有实践整合为品牌运营模型，虽非重大新技术，但值得了解其系统化框架。",
         "url": "https://news.ycombinator.com/item?id=48968067",
         "source": "hackernews",
@@ -1634,7 +1492,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1711,15 +1569,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5298,
-      "importance": 0.5298,
-      "importance_score": 0.5298,
+      "score": 0.5275,
+      "importance": 0.5275,
+      "importance_score": 0.5275,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9109,
+        "recency": 0.8984,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1746,7 +1604,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1823,15 +1681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.849,
+        "recency": 0.8373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1858,7 +1716,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -1935,15 +1793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.5059,
+      "importance": 0.5059,
+      "importance_score": 0.5059,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7892,
+        "recency": 0.7783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1970,7 +1828,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     },
     {
@@ -2047,15 +1905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.499,
+      "importance": 0.499,
+      "importance_score": 0.499,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7502,
+        "recency": 0.7399,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2082,7 +1940,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-v4-flash",
-        "scored_at": "2026-07-19T15:19:31.016842Z"
+        "scored_at": "2026-07-19T16:16:50.202686Z"
       }
     }
   ]
