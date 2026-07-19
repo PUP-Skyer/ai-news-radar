@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T12:12:00.400462Z",
+  "generated_at": "2026-07-19T13:58:48.348249Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_0addcd6712bf",
+      "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
+      "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "4B以下第一？那4B以上呢？挑个冷门赛道封王，确实是营销捷径。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "缺论文和开源代码，仅官方宣称，待独立验证。"
+        },
+        "pragmatic": {
+          "score": 80,
+          "review": "小模型性能领先且适配多芯片，边缘部署首选，今天就能试用。"
+        }
+      }
+    },
+    {
       "story_id": "story_dad2bbf2a5ce",
       "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
       "url": "https://ykdojo.github.io/claude-controls-mac",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 80,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 70,
           "review": "能抄的配置教程，有备用Mac的今天就能动手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_e5910e819efb",
-      "title": "OpenAI 重置付费用户 Codex 使用限制",
-      "url": "https://codex-resets.com",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "限制改来改去，玩的是心理战，不是技术战。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "使用限制调整，非模型性能声明，无可验证证据。"
-        },
-        "pragmatic": {
-          "score": 70,
-          "review": "Codex 用户注意查收新的用量限制，可能影响日常编码工作流。"
         }
       }
     }
