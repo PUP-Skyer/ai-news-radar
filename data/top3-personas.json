@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T00:16:17.561903Z",
+  "generated_at": "2026-07-20T04:12:30.496281Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_d8b201080948",
-      "title": "transcribe.cpp 发布：基于 ggml 的跨平台语音转录库，支持 16 个 ASR 模型族 / Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "16个模型族听着唬人，但能离线跑流畅的有几个？"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅项目介绍页，无论文无代码无评测，无法验证真实性能。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "今天就能clone使用，本地离线转录，支持16种模型族，直接省API费用。"
-        }
-      }
-    },
-    {
       "story_id": "story_0addcd6712bf",
       "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
       "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 80,
           "review": "小模型性能领先且适配多芯片，边缘部署首选，今天就能试用。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bf0937a60822",
+      "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
+      "url": "https://www.aibase.com/news/29704",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 25,
+          "review": "三成漏检？原来AI检测器最大的本事是测不出自己。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "测试结果有报道，但无论文和代码支撑，无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 60,
+          "review": "别全信AI检测器，生成内容审核还得加人工兜底。"
         }
       }
     }
