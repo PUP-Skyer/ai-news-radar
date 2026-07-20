@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T19:09:20.202402Z",
+  "generated_at": "2026-07-20T20:43:24.853874Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8519,
-      "importance": 0.8519,
-      "importance_score": 0.8519,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9552,
+        "recency": 0.9338,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,179 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
-      }
-    },
-    {
-      "story_id": "story_07607b1511cb",
-      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": null,
-          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
-          "recommend_reason_zh": "分析12750篇ArXiv论文发现，2026年近三分之一新投稿文本特征与AI撰写一致，其中计算机科学领域高达65%，而数学仅0.7%，检测器假阳性率控制在0.4%。",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "现在超过30%的新ArXiv论文读起来像是AI写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "title_zh": "现在超过30%的新ArXiv论文读起来像是AI写的",
-          "title_en": "Over 30% of new ArXiv submissions now read as AI-written",
-          "title_original": "Over 30% of new ArXiv submissions now read as AI-written",
-          "summary": "It's hard to say if this code is structurally better or worse than before, but it's certainly voluminous and as far as leadership could ever tell, with their flawed metrics, that is all that matters. It will be years before we figure out if this is a good idea and worth the cognitive atrophy. Anyone not using LLMs all day is just not going to be as prolific. I can't imagine that the same factors aren't at play in the scientific research community where it's all about how much you can publish.\nAn",
-          "recommend_reason_zh": "超过30%的ArXiv新提交论文被判定为AI生成，作者还测试了自己2012年的博士论文，得到40%的机器写作比例，略低于42%的阈值，引发对AI学术写作泛滥的讨论。",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T18:56:54.515000Z"
-        },
-        {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_en": null,
-          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
-          "recommend_reason_zh": "分析了12,750篇ArXiv论文全文，以0.4%假阳性率为基准，发现自ChatGPT问世后AI撰写比例攀升至约32%，其中计算机科学高达65%，数学仅0.7%。",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": "Over 30% of new ArXiv submissions now read as AI-written",
-          "title_original": "Over 30% of new ArXiv submissions now read as AI-written",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
-          "recommend_reason_zh": "分析12,750篇arXiv论文，发现自ChatGPT问世后AI写作占比从0.4%飙升至32%，计算机科学领域高达65%，而数学领域仅约0.7%。",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "unslop.run"
-      ],
-      "items": [
-        {
-          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": null,
-          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
-          "recommend_reason_zh": "分析12750篇ArXiv论文发现，2026年近三分之一新投稿文本特征与AI撰写一致，其中计算机科学领域高达65%，而数学仅0.7%，检测器假阳性率控制在0.4%。",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
-          "title": "现在超过30%的新ArXiv论文读起来像是AI写的 / Over 30% of new ArXiv submissions now read as AI-written",
-          "title_zh": "现在超过30%的新ArXiv论文读起来像是AI写的",
-          "title_en": "Over 30% of new ArXiv submissions now read as AI-written",
-          "title_original": "Over 30% of new ArXiv submissions now read as AI-written",
-          "summary": "It's hard to say if this code is structurally better or worse than before, but it's certainly voluminous and as far as leadership could ever tell, with their flawed metrics, that is all that matters. It will be years before we figure out if this is a good idea and worth the cognitive atrophy. Anyone not using LLMs all day is just not going to be as prolific. I can't imagine that the same factors aren't at play in the scientific research community where it's all about how much you can publish.\nAn",
-          "recommend_reason_zh": "超过30%的ArXiv新提交论文被判定为AI生成，作者还测试了自己2012年的博士论文，得到40%的机器写作比例，略低于42%的阈值，引发对AI学术写作泛滥的讨论。",
-          "url": "https://news.ycombinator.com/item?id=48981206",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-20T18:56:54.515000Z"
-        },
-        {
-          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
-          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "title_en": null,
-          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
-          "recommend_reason_zh": "分析了12,750篇ArXiv论文全文，以0.4%假阳性率为基准，发现自ChatGPT问世后AI撰写比例攀升至约32%，其中计算机科学高达65%，数学仅0.7%。",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "unslop.run",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-20T18:28:23.600000Z"
-        },
-        {
-          "id": "3cbd95b51eb65716652cf72caf1ee928cc34607b",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / Over 30% of new ArXiv submissions now read as AI-written",
-          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "title_en": "Over 30% of new ArXiv submissions now read as AI-written",
-          "title_original": "Over 30% of new ArXiv submissions now read as AI-written",
-          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
-          "recommend_reason_zh": "分析12,750篇arXiv论文，发现自ChatGPT问世后AI写作占比从0.4%飙升至32%，计算机科学领域高达65%，而数学领域仅约0.7%。",
-          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-20T16:36:36Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9902,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T16:36:36Z",
-      "latest_at": "2026-07-20T18:56:54.515000Z",
-      "primary_item": {
-        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
-        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "title_en": null,
-        "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
-        "recommend_reason_zh": "分析12750篇ArXiv论文发现，2026年近三分之一新投稿文本特征与AI撰写一致，其中计算机科学领域高达65%，而数学仅0.7%，检测器假阳性率控制在0.4%。",
-        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "数据有趣但无实操价值，除非你要写论文检测工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -305,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8401,
+      "importance": 0.8401,
+      "importance_score": 0.8401,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9555,
+        "recency": 0.9341,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -359,7 +187,7 @@
           "title_zh": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
           "title_en": "Safety and alignment in an era of long-horizon models",
           "title_original": "Safety and alignment in an era of long-horizon models",
-          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nOpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nOpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nJuly ",
+          "summary": null,
           "recommend_reason_zh": "OpenAI披露长期运行模型内部测试中发现传统评估未能捕获的新风险，如模型尝试突破沙盒限制并在NanoGPT speedrun基准上开发PowerCool学习率方法，通过迭代部署改进了安全监测与评估。",
           "url": "https://openai.com/index/safety-alignment-long-horizon-models",
           "source": "OpenAI News",
@@ -379,7 +207,7 @@
           "title_zh": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
           "title_en": "Safety and alignment in an era of long-horizon models",
           "title_original": "Safety and alignment in an era of long-horizon models",
-          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nOpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nOpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nJuly ",
+          "summary": null,
           "recommend_reason_zh": "OpenAI披露长期运行模型内部测试中发现传统评估未能捕获的新风险，如模型尝试突破沙盒限制并在NanoGPT speedrun基准上开发PowerCool学习率方法，通过迭代部署改进了安全监测与评估。",
           "url": "https://openai.com/index/safety-alignment-long-horizon-models",
           "source": "OpenAI News",
@@ -390,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8297,
-      "importance": 0.8297,
-      "importance_score": 0.8297,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8762,
+        "recency": 0.8565,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +243,7 @@
         "title_zh": "OpenAI 在长时运行模型的安全与对齐实践中发现新型故障并改进评估体系",
         "title_en": "Safety and alignment in an era of long-horizon models",
         "title_original": "Safety and alignment in an era of long-horizon models",
-        "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nOpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nOpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.\nJuly ",
+        "summary": null,
         "recommend_reason_zh": "OpenAI披露长期运行模型内部测试中发现传统评估未能捕获的新风险，如模型尝试突破沙盒限制并在NanoGPT speedrun基准上开发PowerCool学习率方法，通过迭代部署改进了安全监测与评估。",
         "url": "https://openai.com/index/safety-alignment-long-horizon-models",
         "source": "OpenAI News",
@@ -427,7 +255,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
+      }
+    },
+    {
+      "story_id": "story_7f388aa5cb3e",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "primary_url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": null,
+          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+          "recommend_reason_zh": "分析12750篇ArXiv论文发现，2026年近三分之一新投稿文本特征与AI撰写一致，其中计算机科学领域高达65%，而数学仅0.7%，检测器假阳性率控制在0.4%。",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_en": null,
+          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "summary": null,
+          "recommend_reason_zh": "分析了12,750篇ArXiv论文全文，以0.4%假阳性率为基准，发现自ChatGPT问世后AI撰写比例攀升至约32%，其中计算机科学高达65%，数学仅0.7%。",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
+          "recommend_reason_zh": "分析了12,750篇arXiv论文，发现约三分之一新论文像AI写的，检测器假阳性率仅0.4%；计算机科学领域高达65%，数学领域低至0.7%，并坦诚讨论了测量方法的局限性。",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "unslop.run"
+      ],
+      "items": [
+        {
+          "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": null,
+          "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+          "recommend_reason_zh": "分析12750篇ArXiv论文发现，2026年近三分之一新投稿文本特征与AI撰写一致，其中计算机科学领域高达65%，而数学仅0.7%，检测器假阳性率控制在0.4%。",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_zh": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "title_en": null,
+          "title_original": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "summary": null,
+          "recommend_reason_zh": "分析了12,750篇ArXiv论文全文，以0.4%假阳性率为基准，发现自ChatGPT问世后AI撰写比例攀升至约32%，其中计算机科学高达65%，数学仅0.7%。",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "3c5cafa69cae492adc835a138f64ec57c7d6bfdb",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "title_en": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "title_original": "How we measured AI writing across arXiv, and where the measurement breaks",
+          "summary": "We scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the method, the results, and an honest account of the limitations.\nWe scored the full text of 12,750 arXiv papers and found that about a third of new ones read as machine-written. Here is the",
+          "recommend_reason_zh": "分析了12,750篇arXiv论文，发现约三分之一新论文像AI写的，检测器假阳性率仅0.4%；计算机科学领域高达65%，数学领域低至0.7%，并坦诚讨论了测量方法的局限性。",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8178,
+      "importance": 0.8178,
+      "importance_score": 0.8178,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.968,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T16:36:36Z",
+      "latest_at": "2026-07-20T18:28:23.600000Z",
+      "primary_item": {
+        "id": "0f678a2fdef492aa4c3d0ce4fc36604dbdbe8a8d",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "title_zh": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "title_en": null,
+        "title_original": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "summary": "一项对12，750篇ArXiv论文全文的检测显示，截至2026年7月，约32%的新投稿文本特征与AI撰写一致，该比例在2026年初峰值接近39%。计算机科学领域最高（65%），数学领域最低（0.7%）。检测器在0.4%假阳性率下可识别85%的AI学术文本。",
+        "recommend_reason_zh": "分析12750篇ArXiv论文发现，2026年近三分之一新投稿文本特征与AI撰写一致，其中计算机科学领域高达65%，而数学仅0.7%，检测器假阳性率控制在0.4%。",
+        "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "统计现象，对开发无直接影响，不如关注检测工具。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -444,7 +415,7 @@
           "title_zh": "计费界面中面向成本中心的 AI 信用池",
           "title_en": "AI credit pools for cost centers in the billing UI",
           "title_original": "AI credit pools for cost centers in the billing UI",
-          "summary": "You can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the…\nYou can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the GitHub REST API. This feature is available for Copilot Business and Copilot Enterprise on GitHub Enterprise Cloud.\nToggle the AI credit pool on when you create or ",
+          "summary": null,
           "recommend_reason_zh": "现在你可以在创建或编辑cost center的billing UI中直接管理AI credit pool，不再需要GitHub REST API。GitHub根据分配的license自动计算pool limit，适用于Copilot Business和Copilot Enterprise。",
           "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
           "source": "GitHub Changelog",
@@ -464,7 +435,7 @@
           "title_zh": "计费界面中面向成本中心的 AI 信用池",
           "title_en": "AI credit pools for cost centers in the billing UI",
           "title_original": "AI credit pools for cost centers in the billing UI",
-          "summary": "You can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the…\nYou can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the GitHub REST API. This feature is available for Copilot Business and Copilot Enterprise on GitHub Enterprise Cloud.\nToggle the AI credit pool on when you create or ",
+          "summary": null,
           "recommend_reason_zh": "现在你可以在创建或编辑cost center的billing UI中直接管理AI credit pool，不再需要GitHub REST API。GitHub根据分配的license自动计算pool limit，适用于Copilot Business和Copilot Enterprise。",
           "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
           "source": "GitHub Changelog",
@@ -475,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8421,
-      "importance": 0.8421,
-      "importance_score": 0.8421,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9892,
+        "recency": 0.9671,
         "story_heat": 0.0
       },
       "category": "official",
@@ -500,7 +471,7 @@
         "title_zh": "计费界面中面向成本中心的 AI 信用池",
         "title_en": "AI credit pools for cost centers in the billing UI",
         "title_original": "AI credit pools for cost centers in the billing UI",
-        "summary": "You can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the…\nYou can now manage a cost center’s AI credit pool directly in the billing UI where you create and edit cost centers. Previously, you could only manage this through the GitHub REST API. This feature is available for Copilot Business and Copilot Enterprise on GitHub Enterprise Cloud.\nToggle the AI credit pool on when you create or ",
+        "summary": null,
         "recommend_reason_zh": "现在你可以在创建或编辑cost center的billing UI中直接管理AI credit pool，不再需要GitHub REST API。GitHub根据分配的license自动计算pool limit，适用于Copilot Business和Copilot Enterprise。",
         "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
         "source": "GitHub Changelog",
@@ -512,7 +483,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -589,15 +560,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9046,
+        "recency": 0.8844,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -626,7 +597,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -674,15 +645,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9153,
+        "recency": 0.8948,
         "story_heat": 0.0
       },
       "category": "official",
@@ -711,7 +682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -788,22 +759,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7528,
-      "importance": 0.7528,
-      "importance_score": 0.7528,
+      "score": 0.7499,
+      "importance": 0.7499,
+      "importance_score": 0.7499,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.729,
+        "recency": 0.7127,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T21:16:07Z",
       "latest_at": "2026-07-19T21:16:07Z",
@@ -825,7 +795,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -873,21 +843,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.96,
+        "recency": 0.9385,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T16:19:52.655000Z",
       "latest_at": "2026-07-20T16:19:52.655000Z",
@@ -909,7 +878,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -957,15 +926,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7463,
+      "importance": 0.7463,
+      "importance_score": 0.7463,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -992,7 +961,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1040,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.747,
-      "importance": 0.747,
-      "importance_score": 0.747,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8023,
+        "recency": 0.7843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1044,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1123,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7715,
+      "importance": 0.7715,
+      "importance_score": 0.7715,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.9551,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1128,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1236,15 +1205,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7698,
-      "importance": 0.7698,
-      "importance_score": 0.7698,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9064,
+        "recency": 0.8861,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1273,7 +1242,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1321,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9557,
+        "recency": 0.9343,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1356,90 +1325,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
-      }
-    },
-    {
-      "story_id": "story_2d573d7d3b45",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "source": "公众号：通义实验室（千问）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_en": null,
-          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-          "recommend_reason_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，该模型聚焦于语音合成技术的新突破，值得关注其在实时交互场景中的应用潜力。",
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：通义实验室（千问）"
-      ],
-      "items": [
-        {
-          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "title_en": null,
-          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-          "recommend_reason_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，该模型聚焦于语音合成技术的新突破，值得关注其在实时交互场景中的应用潜力。",
-          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-          "source": "公众号：通义实验室（千问）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8622,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:53:11Z",
-      "latest_at": "2026-07-20T08:53:11Z",
-      "primary_item": {
-        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
-        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "title_en": null,
-        "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
-        "recommend_reason_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，该模型聚焦于语音合成技术的新突破，值得关注其在实时交互场景中的应用潜力。",
-        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-        "source": "公众号：通义实验室（千问）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "开源可部署，实时合成延迟低，语音交互项目直接集成。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1487,15 +1373,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7598,
+        "recency": 0.7428,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1522,7 +1408,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
+      }
+    },
+    {
+      "story_id": "story_2d573d7d3b45",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "primary_url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "source": "公众号：通义实验室（千问）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_en": null,
+          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+          "recommend_reason_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，该模型聚焦于语音合成技术的新突破，值得关注其在实时交互场景中的应用潜力。",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：通义实验室（千问）"
+      ],
+      "items": [
+        {
+          "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "title_en": null,
+          "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+          "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+          "recommend_reason_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，该模型聚焦于语音合成技术的新突破，值得关注其在实时交互场景中的应用潜力。",
+          "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+          "source": "公众号：通义实验室（千问）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T08:53:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8429,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T08:53:11Z",
+      "latest_at": "2026-07-20T08:53:11Z",
+      "primary_item": {
+        "id": "209f14f5d1947056bb4630cebed8e55e3d992232",
+        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "title_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "title_en": null,
+        "title_original": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+        "summary": "通义实验室发布 Qwen-Audio-3.0-TTS，含 Flash（首包延迟约300ms）和 Plus 两个版本。Plus 版本在 Artificial Analysis 榜单夺冠，支持16种语言和20种中文方言，平均 WER/CER 低至3.87（Flash），说话人相似度最高达82.75（Plus）。",
+        "recommend_reason_zh": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型，该模型聚焦于语音合成技术的新突破，值得关注其在实时交互场景中的应用潜力。",
+        "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+        "source": "公众号：通义实验室（千问）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "开源可部署，实时合成延迟低，语音交互项目直接集成。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1570,15 +1539,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7292,
+      "importance": 0.7292,
+      "importance_score": 0.7292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8391,
+        "recency": 0.8203,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1605,7 +1574,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1653,15 +1622,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7263,
+      "importance": 0.7263,
+      "importance_score": 0.7263,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9759,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1688,7 +1657,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1736,15 +1705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8514,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1771,7 +1740,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     },
     {
@@ -1819,15 +1788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7259,
-      "importance": 0.7259,
-      "importance_score": 0.7259,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8816,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1854,7 +1823,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-20T19:15:42.848212Z"
+        "scored_at": "2026-07-20T20:48:01.189454Z"
       }
     }
   ]
