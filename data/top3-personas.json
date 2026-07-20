@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T16:51:13.298728Z",
+  "generated_at": "2026-07-20T19:15:54.669915Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_36e0334205c9",
+      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "4B参数开源世界模型，实时推理？先看看demo里延迟多少秒吧。"
+        },
+        "paper-police": {
+          "score": 65,
+          "review": "Hugging Face博客有技术细节和模型链接，但缺论文和独立评测，证据中等。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "4B模型可本地跑，机器人/边缘设备实时推理，今天就能clone试玩。"
+        }
+      }
+    },
+    {
       "story_id": "story_f7f39d4701ab",
       "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
       "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 88,
           "review": "微调速度基准开源，想优化训练管线的直接抄方案。"
-        }
-      }
-    },
-    {
-      "story_id": "story_36e0334205c9",
-      "title": "全新 Cosmos 3 Edge 来了 / Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "参数没全公开，只给了个边缘设备跑得动的噱头，等实测吧。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "Hugging Face博客有技术细节，但无论文和代码，需等开源验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "NVIDIA 新边缘模型，可本地跑，适合部署到 IoT 设备，今天就能试。"
         }
       }
     },

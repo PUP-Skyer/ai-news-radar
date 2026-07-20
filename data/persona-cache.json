@@ -1706,10 +1706,10 @@
       "scored_at": "2026-07-20T14:42:47.677323Z"
     },
     "story_36e0334205c9|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "NVIDIA 新边缘模型，可本地跑，适合部署到 IoT 设备，今天就能试。",
-      "title_hash": "a7c3dee6",
-      "scored_at": "2026-07-20T16:51:05.714956Z"
+      "score": 88,
+      "review": "4B模型可本地跑，机器人/边缘设备实时推理，今天就能clone试玩。",
+      "title_hash": "faa039be",
+      "scored_at": "2026-07-20T19:15:44.115004Z"
     },
     "story_c88404f53f8e|pragmatic|0a5c5b24": {
       "score": 85,
@@ -1731,15 +1731,15 @@
     },
     "story_36e0334205c9|cynic|f4237a62": {
       "score": 72,
-      "review": "参数没全公开，只给了个边缘设备跑得动的噱头，等实测吧。",
-      "title_hash": "a7c3dee6",
-      "scored_at": "2026-07-20T16:51:10.154562Z"
+      "review": "4B参数开源世界模型，实时推理？先看看demo里延迟多少秒吧。",
+      "title_hash": "faa039be",
+      "scored_at": "2026-07-20T19:15:53.554666Z"
     },
     "story_36e0334205c9|paper-police|966065bf": {
-      "score": 45,
-      "review": "Hugging Face博客有技术细节，但无论文和代码，需等开源验证。",
-      "title_hash": "a7c3dee6",
-      "scored_at": "2026-07-20T16:51:11.160667Z"
+      "score": 65,
+      "review": "Hugging Face博客有技术细节和模型链接，但缺论文和独立评测，证据中等。",
+      "title_hash": "faa039be",
+      "scored_at": "2026-07-20T19:15:54.669818Z"
     },
     "story_c88404f53f8e|cynic|f4237a62": {
       "score": 45,
@@ -1752,6 +1752,42 @@
       "review": "功能更新公告，无论文无代码无评测，纯产品说明。",
       "title_hash": "9577c17d",
       "scored_at": "2026-07-20T16:51:13.298668Z"
+    },
+    "story_07607b1511cb|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "数据有趣但无实操价值，除非你要写论文检测工具。",
+      "title_hash": "0679d603",
+      "scored_at": "2026-07-20T19:15:45.228982Z"
+    },
+    "story_c56b2648b108|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "研究性报告，无直接可用工具或API，等具体方案落地再关注。",
+      "title_hash": "3d075478",
+      "scored_at": "2026-07-20T19:15:46.644161Z"
+    },
+    "story_28447d453d58|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "GitHub计费新增AI信用池，团队成本分摊更清晰，财务对账直接省事。",
+      "title_hash": "abd4152e",
+      "scored_at": "2026-07-20T19:15:48.016541Z"
+    },
+    "story_51df8a948c29|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "技术演示，非开源工具，对开发者无直接可用性。",
+      "title_hash": "e99e8f92",
+      "scored_at": "2026-07-20T19:15:49.555098Z"
+    },
+    "story_dc254e4c17f9|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "标题党，无具体模型或API可用，等开源仓库再动手。",
+      "title_hash": "a4cfa13c",
+      "scored_at": "2026-07-20T19:15:50.940936Z"
+    },
+    "story_e32ded550c3a|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "多Agent分工方案可复现，想优化SQL任务的团队可以抄作业。",
+      "title_hash": "a1a562b2",
+      "scored_at": "2026-07-20T19:15:52.242106Z"
     }
   }
 }
