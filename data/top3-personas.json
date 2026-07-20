@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T14:42:47.677395Z",
+  "generated_at": "2026-07-20T16:51:13.298728Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_855107c88571",
-      "title": "GitHub代码质量现已正式发布 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "story_id": "story_36e0334205c9",
+      "title": "全新 Cosmos 3 Edge 来了 / Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "GA了，但代码质量不是靠个按钮就能解决的，别指望它替代code review。"
+          "score": 72,
+          "review": "参数没全公开，只给了个边缘设备跑得动的噱头，等实测吧。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有官方公告，无论文无代码无评测，无法验证实际效果。"
+          "score": 45,
+          "review": "Hugging Face博客有技术细节，但无论文和代码，需等开源验证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "GitHub 原生代码质量工具 GA，省去第三方集成，今天就能在仓库里开启。"
+          "review": "NVIDIA 新边缘模型，可本地跑，适合部署到 IoT 设备，今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_2d573d7d3b45",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
+      "story_id": "story_c88404f53f8e",
+      "title": "Copilot 用户现在可以查看每个计费周期内使用的 AI 额度 / Copilot users can now see AI credits used per billing cycle",
+      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "实时合成不新鲜，但敢开源模型和代码，比只发demo的强一截。"
+          "score": 45,
+          "review": "终于能看额度了，下一步是不是该给个充值提醒？"
         },
         "paper-police": {
-          "score": 15,
-          "review": "只有公众号宣称，无论文无代码无评测，无法验证。"
+          "score": 10,
+          "review": "功能更新公告，无论文无代码无评测，纯产品说明。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "开源可部署，实时合成延迟低，语音交互项目直接集成。"
+          "review": "对 Copilot 付费用户有用，方便监控用量避免超支，今天就能查。"
         }
       }
     }
