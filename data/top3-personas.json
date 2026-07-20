@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T12:07:52.093777Z",
+  "generated_at": "2026-07-20T14:42:47.677395Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_f7f39d4701ab",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "6分钟微调？先看看是不是只跑了一个batch就出结果。"
+        },
+        "paper-police": {
+          "score": 85,
+          "review": "GitHub仓库公开，有代码和排行榜，可复现，证据链完整。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "微调速度基准开源，想优化训练管线的直接抄方案。"
+        }
+      }
+    },
+    {
+      "story_id": "story_855107c88571",
+      "title": "GitHub代码质量现已正式发布 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "GA了，但代码质量不是靠个按钮就能解决的，别指望它替代code review。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有官方公告，无论文无代码无评测，无法验证实际效果。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "GitHub 原生代码质量工具 GA，省去第三方集成，今天就能在仓库里开启。"
+        }
+      }
+    },
+    {
       "story_id": "story_2d573d7d3b45",
       "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
       "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "开源可部署，实时合成延迟低，语音交互项目直接集成。"
-        }
-      }
-    },
-    {
-      "story_id": "story_193fb0c41321",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "MoE负载均衡老问题，开源方案总算不藏着掖着，但效果还得看实际部署。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "只有公众号文章，无论文无代码无benchmark，证据不足。"
-        },
-        "pragmatic": {
-          "score": 78,
-          "review": "MoE训推负载均衡有现成方案了，跑大模型的团队可以看看能否直接集成。"
-        }
-      }
-    },
-    {
-      "story_id": "story_6d01539468ee",
-      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
-      "url": "https://www.aibase.com/news/29716",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "从“会说”到“会创作”，这文案比音频生成本身有创意。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有新闻稿，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "音频生成新模型，但未开源或开放API，暂时用不上。"
         }
       }
     }

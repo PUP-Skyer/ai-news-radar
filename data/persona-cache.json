@@ -1656,6 +1656,54 @@
       "review": "只有新闻稿，无论文无代码无评测，无法验证。",
       "title_hash": "8950e1e1",
       "scored_at": "2026-07-20T12:07:52.093722Z"
+    },
+    "story_855107c88571|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "GitHub 原生代码质量工具 GA，省去第三方集成，今天就能在仓库里开启。",
+      "title_hash": "1fc7d724",
+      "scored_at": "2026-07-20T14:42:39.425035Z"
+    },
+    "story_23d7bae1d989|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "安全事件而已，没公开技术细节，对日常开发无直接影响。",
+      "title_hash": "1b260bbb",
+      "scored_at": "2026-07-20T14:42:40.602701Z"
+    },
+    "story_f7f39d4701ab|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "微调速度基准开源，想优化训练管线的直接抄方案。",
+      "title_hash": "c08cbc79",
+      "scored_at": "2026-07-20T14:42:41.831011Z"
+    },
+    "story_1803c49e20ca|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "设备损耗是运维问题，不是技术突破，等具体数据再评估。",
+      "title_hash": "6cfbbeb7",
+      "scored_at": "2026-07-20T14:42:43.078879Z"
+    },
+    "story_f7f39d4701ab|cynic|f4237a62": {
+      "score": 72,
+      "review": "6分钟微调？先看看是不是只跑了一个batch就出结果。",
+      "title_hash": "c08cbc79",
+      "scored_at": "2026-07-20T14:42:44.346079Z"
+    },
+    "story_f7f39d4701ab|paper-police|966065bf": {
+      "score": 85,
+      "review": "GitHub仓库公开，有代码和排行榜，可复现，证据链完整。",
+      "title_hash": "c08cbc79",
+      "scored_at": "2026-07-20T14:42:45.572449Z"
+    },
+    "story_855107c88571|cynic|f4237a62": {
+      "score": 75,
+      "review": "GA了，但代码质量不是靠个按钮就能解决的，别指望它替代code review。",
+      "title_hash": "1fc7d724",
+      "scored_at": "2026-07-20T14:42:46.682309Z"
+    },
+    "story_855107c88571|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有官方公告，无论文无代码无评测，无法验证实际效果。",
+      "title_hash": "1fc7d724",
+      "scored_at": "2026-07-20T14:42:47.677323Z"
     }
   }
 }
