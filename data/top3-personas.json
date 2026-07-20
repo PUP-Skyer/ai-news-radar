@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-20T04:12:30.496281Z",
-  "model": "deepseek-v4-flash",
+  "generated_at": "2026-07-20T12:07:52.093777Z",
+  "model": "deepseek-chat",
   "personas": [
     {
       "id": "cynic",
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_20bda4ade41b",
-      "title": "面壁智能开源 MiniCPM-Robot 具身智能模型系列 / 🚀 MiniCPM enters the physical world - enabling robots to understand， remember， and act. We open-so…",
-      "url": "https://x.com/OpenBMB/status/2078839529591759025",
+      "story_id": "story_2d573d7d3b45",
+      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
+      "url": "https://mp.weixin.qq.com/s/INvrqTrWLMm2WCLIqhqTrg",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "开源诚意到了，但机器人走出demo走廊前，先别谈理解与记忆。"
+          "score": 72,
+          "review": "实时合成不新鲜，但敢开源模型和代码，比只发demo的强一截。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "开源代码即可验证，但缺论文和独立评测，需自行跑分确认。"
+          "score": 15,
+          "review": "只有公众号宣称，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "开源模型可直接用于机器人开发，今天就能下载实验。"
+          "score": 85,
+          "review": "开源可部署，实时合成延迟低，语音交互项目直接集成。"
         }
       }
     },
     {
-      "story_id": "story_0addcd6712bf",
-      "title": "MiniCPM5-2B发布：4B以下全球性能第一，适配9款芯片",
-      "url": "https://mp.weixin.qq.com/s/rjFxrUylyGMqa5QtgypCdw",
+      "story_id": "story_193fb0c41321",
+      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
+      "url": "https://mp.weixin.qq.com/s/rAoF65ywi5trWbI-heJieg",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "4B以下第一？那4B以上呢？挑个冷门赛道封王，确实是营销捷径。"
+          "score": 75,
+          "review": "MoE负载均衡老问题，开源方案总算不藏着掖着，但效果还得看实际部署。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "缺论文和开源代码，仅官方宣称，待独立验证。"
+          "score": 35,
+          "review": "只有公众号文章，无论文无代码无benchmark，证据不足。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "小模型性能领先且适配多芯片，边缘部署首选，今天就能试用。"
+          "score": 78,
+          "review": "MoE训推负载均衡有现成方案了，跑大模型的团队可以看看能否直接集成。"
         }
       }
     },
     {
-      "story_id": "story_bf0937a60822",
-      "title": "Epoch AI测试三大AI文本检测器:模仿人类文风后最高近三成内容漏检",
-      "url": "https://www.aibase.com/news/29704",
+      "story_id": "story_6d01539468ee",
+      "title": "字节跳动发布Seed Audio 1.0：音频生成从“会说”迈向“会创作”",
+      "url": "https://www.aibase.com/news/29716",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "三成漏检？原来AI检测器最大的本事是测不出自己。"
+          "score": 65,
+          "review": "从“会说”到“会创作”，这文案比音频生成本身有创意。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "测试结果有报道，但无论文和代码支撑，无法独立验证。"
+          "score": 10,
+          "review": "只有新闻稿，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
-          "score": 60,
-          "review": "别全信AI检测器，生成内容审核还得加人工兜底。"
+          "score": 55,
+          "review": "音频生成新模型，但未开源或开放API，暂时用不上。"
         }
       }
     }

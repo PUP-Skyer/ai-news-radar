@@ -1536,6 +1536,126 @@
       "review": "测试结果有报道，但无论文和代码支撑，无法独立验证。",
       "title_hash": "431162e9",
       "scored_at": "2026-07-20T04:12:30.496230Z"
+    },
+    "story_b4c0af9f3389|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "工信部数据是宏观统计，对开发者选型或写代码无直接影响。",
+      "title_hash": "3d0a7ea5",
+      "scored_at": "2026-07-20T12:07:28.003855Z"
+    },
+    "story_c1a4355fdb3f|pragmatic|0a5c5b24": {
+      "score": 42,
+      "review": "开源模型但未开放下载，等仓库可clone再评估能否落地。",
+      "title_hash": "d297b490",
+      "scored_at": "2026-07-20T12:07:29.813831Z"
+    },
+    "story_2d573d7d3b45|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "开源可部署，实时合成延迟低，语音交互项目直接集成。",
+      "title_hash": "2acfa050",
+      "scored_at": "2026-07-20T12:07:30.952655Z"
+    },
+    "story_7220f2ac0e38|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "模型开放但未见API或代码，等能下载再评估实用性。",
+      "title_hash": "7db3de0f",
+      "scored_at": "2026-07-20T12:07:32.287920Z"
+    },
+    "story_193fb0c41321|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "MoE训推负载均衡有现成方案了，跑大模型的团队可以看看能否直接集成。",
+      "title_hash": "a2e5e796",
+      "scored_at": "2026-07-20T12:07:33.715429Z"
+    },
+    "story_054bc9507dc3|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "Ollama 跑进 500 强是用户数，不是收入，融资新闻对开发者无直接影响。",
+      "title_hash": "b6229480",
+      "scored_at": "2026-07-20T12:07:35.108146Z"
+    },
+    "story_30dc5804a635|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "未发布的产品，等实测和API上线再议。",
+      "title_hash": "568df984",
+      "scored_at": "2026-07-20T12:07:36.221126Z"
+    },
+    "story_ae64637fe419|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "安全事件通报，无工具或方案可复用，等官方补丁。",
+      "title_hash": "74e35837",
+      "scored_at": "2026-07-20T12:07:37.618464Z"
+    },
+    "story_d18258ee5eba|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "算力多元化是长期趋势，但今天不影响你选型，等正式公告再动。",
+      "title_hash": "c7de0747",
+      "scored_at": "2026-07-20T12:07:38.724741Z"
+    },
+    "story_6d01539468ee|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "音频生成新模型，但未开源或开放API，暂时用不上。",
+      "title_hash": "8950e1e1",
+      "scored_at": "2026-07-20T12:07:39.847392Z"
+    },
+    "story_47477cc0e82b|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "宣传成分多，等实测API和开源再动手。",
+      "title_hash": "953c9ba7",
+      "scored_at": "2026-07-20T12:07:41.200106Z"
+    },
+    "story_dd4999ba5c3d|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "访问量数据不等于产品力，等开放API或降价再关注。",
+      "title_hash": "45226b6b",
+      "scored_at": "2026-07-20T12:07:42.455608Z"
+    },
+    "story_09b4c076085e|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "GPT-5.6 不存在，标题党。漏洞中介价格与你无关。",
+      "title_hash": "f33031d4",
+      "scored_at": "2026-07-20T12:07:43.511684Z"
+    },
+    "story_968bb31d8278|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "数据量大但没开源或API，对开发者暂时没用。",
+      "title_hash": "6afd30e5",
+      "scored_at": "2026-07-20T12:07:44.784396Z"
+    },
+    "story_2d573d7d3b45|cynic|f4237a62": {
+      "score": 72,
+      "review": "实时合成不新鲜，但敢开源模型和代码，比只发demo的强一截。",
+      "title_hash": "2acfa050",
+      "scored_at": "2026-07-20T12:07:46.218827Z"
+    },
+    "story_2d573d7d3b45|paper-police|966065bf": {
+      "score": 15,
+      "review": "只有公众号宣称，无论文无代码无评测，无法验证。",
+      "title_hash": "2acfa050",
+      "scored_at": "2026-07-20T12:07:47.227552Z"
+    },
+    "story_193fb0c41321|cynic|f4237a62": {
+      "score": 75,
+      "review": "MoE负载均衡老问题，开源方案总算不藏着掖着，但效果还得看实际部署。",
+      "title_hash": "a2e5e796",
+      "scored_at": "2026-07-20T12:07:48.806247Z"
+    },
+    "story_193fb0c41321|paper-police|966065bf": {
+      "score": 35,
+      "review": "只有公众号文章，无论文无代码无benchmark，证据不足。",
+      "title_hash": "a2e5e796",
+      "scored_at": "2026-07-20T12:07:50.041457Z"
+    },
+    "story_6d01539468ee|cynic|f4237a62": {
+      "score": 65,
+      "review": "从“会说”到“会创作”，这文案比音频生成本身有创意。",
+      "title_hash": "8950e1e1",
+      "scored_at": "2026-07-20T12:07:51.071509Z"
+    },
+    "story_6d01539468ee|paper-police|966065bf": {
+      "score": 10,
+      "review": "只有新闻稿，无论文无代码无评测，无法验证。",
+      "title_hash": "8950e1e1",
+      "scored_at": "2026-07-20T12:07:52.093722Z"
     }
   }
 }
