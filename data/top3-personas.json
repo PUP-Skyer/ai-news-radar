@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T14:29:03.278535Z",
+  "generated_at": "2026-07-21T16:50:17.351547Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_36e0334205c9",
-      "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成 / Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "story_id": "story_7e78ee445fab",
+      "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "4B参数开源世界模型，实时推理？先看看demo里延迟多少秒吧。"
+          "score": 55,
+          "review": "版本号跳得比兔子快，但Flash-Lite和Cyber到底比上一代强在哪？"
         },
         "paper-police": {
-          "score": 65,
-          "review": "Hugging Face博客有技术细节和模型链接，但缺论文和独立评测，证据中等。"
+          "score": 12,
+          "review": "只有官方博客宣称，无论文无代码无第三方评测，等开源再议。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "4B模型可本地跑，机器人/边缘设备实时推理，今天就能clone试玩。"
+          "review": "新模型已上线，API可调用，Flash-Lite更便宜，适合成本敏感场景。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_dca03783a107",
-      "title": "Grabette：一个记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette",
+      "story_id": "story_d35a8a618528",
+      "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中可用 / Gemini 3.6 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "开源记录系统，诚意有但没解决数据标注的脏活累活。"
+          "score": 60,
+          "review": "Copilot又添一个模型选项，但没提和现有模型比到底快了多少。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "博客给了系统细节，但无论文无代码，等开源再验证。"
+          "score": 15,
+          "review": "只有官方博客宣称可用，无论文无代码无评测，无法验证性能。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "开源机器人数据记录系统，做机器人项目的今天就能用上。"
+          "review": "Copilot 多一个模型选择，写代码时可直接切换试用，今天就能体验。"
         }
       }
     }
