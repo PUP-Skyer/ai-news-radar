@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T06:46:30.626590Z",
+  "generated_at": "2026-07-21T09:47:53.876609Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_dca03783a107",
+      "title": "Grabette：一个记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
+      "url": "https://huggingface.co/blog/grabette",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开源记录系统，诚意有但没解决数据标注的脏活累活。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了系统细节，但无论文无代码，等开源再验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "开源机器人数据记录系统，做机器人项目的今天就能用上。"
+        }
+      }
+    },
+    {
       "story_id": "story_c88404f53f8e",
       "title": "Copilot 用户现在可以查看每个计费周期内使用的 AI 额度 / Copilot users can now see AI credits used per billing cycle",
       "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "对 Copilot 付费用户有用，方便监控用量避免超支，今天就能查。"
-        }
-      }
-    },
-    {
-      "story_id": "story_855107c88571",
-      "title": "GitHub代码质量现已正式发布 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "GA了，但代码质量不是靠个按钮就能解决的，别指望它替代code review。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "只有官方公告，无论文无代码无评测，无法验证实际效果。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GitHub 原生代码质量工具 GA，省去第三方集成，今天就能在仓库里开启。"
         }
       }
     }
