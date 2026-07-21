@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T03:53:29.823351Z",
+  "generated_at": "2026-07-21T06:46:30.626590Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_f7f39d4701ab",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "6分钟微调？先看看是不是只跑了一个batch就出结果。"
-        },
-        "paper-police": {
-          "score": 85,
-          "review": "GitHub仓库公开，有代码和排行榜，可复现，证据链完整。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "微调速度基准开源，想优化训练管线的直接抄方案。"
-        }
-      }
-    },
-    {
       "story_id": "story_c88404f53f8e",
       "title": "Copilot 用户现在可以查看每个计费周期内使用的 AI 额度 / Copilot users can now see AI credits used per billing cycle",
       "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "对 Copilot 付费用户有用，方便监控用量避免超支，今天就能查。"
+        }
+      }
+    },
+    {
+      "story_id": "story_855107c88571",
+      "title": "GitHub代码质量现已正式发布 / GitHub Code Quality is now generally available",
+      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "GA了，但代码质量不是靠个按钮就能解决的，别指望它替代code review。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有官方公告，无论文无代码无评测，无法验证实际效果。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "GitHub 原生代码质量工具 GA，省去第三方集成，今天就能在仓库里开启。"
         }
       }
     }
