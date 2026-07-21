@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:47:53.876609Z",
+  "generated_at": "2026-07-21T12:07:57.690303Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_f7f39d4701ab",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "6分钟微调？先看看是不是只跑了一个batch就出结果。"
+        },
+        "paper-police": {
+          "score": 85,
+          "review": "GitHub仓库公开，有代码和排行榜，可复现，证据链完整。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "微调速度基准开源，想优化训练管线的直接抄方案。"
+        }
+      }
+    },
+    {
       "story_id": "story_dca03783a107",
       "title": "Grabette：一个记录机器人操作数据的开放系统 / Grabette: an open system to record robot-manipulation data",
       "url": "https://huggingface.co/blog/grabette",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "开源机器人数据记录系统，做机器人项目的今天就能用上。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c88404f53f8e",
-      "title": "Copilot 用户现在可以查看每个计费周期内使用的 AI 额度 / Copilot users can now see AI credits used per billing cycle",
-      "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "终于能看额度了，下一步是不是该给个充值提醒？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "功能更新公告，无论文无代码无评测，纯产品说明。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "对 Copilot 付费用户有用，方便监控用量避免超支，今天就能查。"
         }
       }
     }
