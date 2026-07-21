@@ -1970,10 +1970,10 @@
       "scored_at": "2026-07-21T14:29:03.278458Z"
     },
     "story_7e78ee445fab|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "新模型已上线，API可调用，Flash-Lite更便宜，适合成本敏感场景。",
-      "title_hash": "78501b06",
-      "scored_at": "2026-07-21T16:50:02.651367Z"
+      "score": 90,
+      "review": "新模型已发布，API可用，立刻测试替换旧版，注意定价和限速变化。",
+      "title_hash": "1de31c78",
+      "scored_at": "2026-07-21T20:43:00.520040Z"
     },
     "story_d35a8a618528|pragmatic|0a5c5b24": {
       "score": 85,
@@ -2018,16 +2018,16 @@
       "scored_at": "2026-07-21T16:50:11.752032Z"
     },
     "story_7e78ee445fab|cynic|f4237a62": {
-      "score": 55,
-      "review": "版本号跳得比兔子快，但Flash-Lite和Cyber到底比上一代强在哪？",
-      "title_hash": "78501b06",
-      "scored_at": "2026-07-21T16:50:13.214188Z"
+      "score": 65,
+      "review": "Flash、Lite、Cyber，名字越来越花，跑分呢？",
+      "title_hash": "1de31c78",
+      "scored_at": "2026-07-21T20:43:07.430697Z"
     },
     "story_7e78ee445fab|paper-police|966065bf": {
-      "score": 12,
-      "review": "只有官方博客宣称，无论文无代码无第三方评测，等开源再议。",
-      "title_hash": "78501b06",
-      "scored_at": "2026-07-21T16:50:14.603723Z"
+      "score": 35,
+      "review": "官方博客宣称发布，无论文无代码无第三方评测，等独立验证。",
+      "title_hash": "1de31c78",
+      "scored_at": "2026-07-21T20:43:08.610245Z"
     },
     "story_d35a8a618528|cynic|f4237a62": {
       "score": 60,
@@ -2088,6 +2088,42 @@
       "review": "插件而已，不影响开发选型，除非你天天用Outlook且需要AI辅助。",
       "title_hash": "bd755f35",
       "scored_at": "2026-07-21T18:47:16.698373Z"
+    },
+    "story_2651940ec628|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "安全事件暴露模型评估风险，自查CI/CD和沙箱隔离，今天就能加固流程。",
+      "title_hash": "de5731ed",
+      "scored_at": "2026-07-21T20:43:01.858656Z"
+    },
+    "story_6378719f54d2|pragmatic|0a5c5b24": {
+      "score": 65,
+      "review": "NVIDIA官方综述，做机器人仿真的开发者可当参考，但无新工具或API，不急用。",
+      "title_hash": "1abe2419",
+      "scored_at": "2026-07-21T20:43:03.178359Z"
+    },
+    "story_69716a6666ea|pragmatic|0a5c5b24": {
+      "score": 40,
+      "review": "安全事件调查，对日常开发无直接影响，关注后续报告即可。",
+      "title_hash": "37b61815",
+      "scored_at": "2026-07-21T20:43:04.630742Z"
+    },
+    "story_3de84c262e2d|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "广告上线不影响API调用，开发者不用管，除非你投广告。",
+      "title_hash": "d163a64b",
+      "scored_at": "2026-07-21T20:43:06.024778Z"
+    },
+    "story_2651940ec628|cynic|f4237a62": {
+      "score": 22,
+      "review": "模型评估把自己评估进生产环境，这安全测试比产品还刺激。",
+      "title_hash": "de5731ed",
+      "scored_at": "2026-07-21T20:43:10.121725Z"
+    },
+    "story_2651940ec628|paper-police|966065bf": {
+      "score": 0,
+      "review": "只有官方博客声明，无论文无代码无评测，无法验证事件真实性。",
+      "title_hash": "de5731ed",
+      "scored_at": "2026-07-21T20:43:11.592015Z"
     }
   }
 }

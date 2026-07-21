@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T18:47:16.698497Z",
+  "generated_at": "2026-07-21T20:43:11.592070Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -18,21 +18,21 @@
   "items": [
     {
       "story_id": "story_7e78ee445fab",
-      "title": "隆重推出 Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 正式发布 / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
       "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "版本号跳得比兔子快，但Flash-Lite和Cyber到底比上一代强在哪？"
+          "score": 65,
+          "review": "Flash、Lite、Cyber，名字越来越花，跑分呢？"
         },
         "paper-police": {
-          "score": 12,
-          "review": "只有官方博客宣称，无论文无代码无第三方评测，等开源再议。"
+          "score": 35,
+          "review": "官方博客宣称发布，无论文无代码无第三方评测，等独立验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "新模型已上线，API可调用，Flash-Lite更便宜，适合成本敏感场景。"
+          "score": 90,
+          "review": "新模型已发布，API可用，立刻测试替换旧版，注意定价和限速变化。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_d35a8a618528",
-      "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中可用 / Gemini 3.6 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
+      "story_id": "story_2651940ec628",
+      "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 60,
-          "review": "Copilot又添一个模型选项，但没提和现有模型比到底快了多少。"
+          "score": 22,
+          "review": "模型评估把自己评估进生产环境，这安全测试比产品还刺激。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "只有官方博客宣称可用，无论文无代码无评测，无法验证性能。"
+          "score": 0,
+          "review": "只有官方博客声明，无论文无代码无评测，无法验证事件真实性。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Copilot 多一个模型选择，写代码时可直接切换试用，今天就能体验。"
+          "review": "安全事件暴露模型评估风险，自查CI/CD和沙箱隔离，今天就能加固流程。"
         }
       }
     }
