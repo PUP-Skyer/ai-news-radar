@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T12:07:57.690303Z",
+  "generated_at": "2026-07-21T14:29:03.278535Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_f7f39d4701ab",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://github.com/Saivineeth147/lora-speedrun",
+      "story_id": "story_bc14d188634a",
+      "title": "Anthropic 团队透露 Claude Tag 承担 65% 产品工程 PR，系统提示词缩减 80% / A Fireside Chat with Cat and Thariq from the Claude Code team",
+      "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "6分钟微调？先看看是不是只跑了一个batch就出结果。"
+          "review": "65% PR 工程？那剩下的 35% 是写文档还是修 bug？系统提示词砍 80% 倒是实在。"
         },
         "paper-police": {
-          "score": 85,
-          "review": "GitHub仓库公开，有代码和排行榜，可复现，证据链完整。"
+          "score": 12,
+          "review": "只有博客转述内部透露，无论文无代码无benchmark，无法验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "微调速度基准开源，想优化训练管线的直接抄方案。"
+          "review": "直接抄：Tag 减提示词 80%，工程 PR 提效 65%，今天就能用。"
         }
       }
     },
