@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T16:54:58.940145Z",
+  "generated_at": "2026-07-22T18:39:36.301111Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_0ba3ace346fe",
+      "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
+      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 88,
+          "review": "少见的全都敢晒出来，这次没法挑刺。"
+        },
+        "paper-police": {
+          "score": 92,
+          "review": "论文代码全开源，可复现，这才是真开源发布。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "模型权重已开源，可自部署或微调，今天就能用上。"
+        }
+      }
+    },
+    {
       "story_id": "story_56d098a4a53d",
       "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
       "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "API已开放，生成真实感图片可直接调用，适合内容生成场景。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8caa1bace817",
-      "title": "腾讯设计Agent平台Miora全面开放",
-      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "全面开放？先看看有没有人真用起来再说吧。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有公众号文章宣称开放，无论文无代码无评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "Agent平台开放了，今天就能上手试，适合快速搭应用原型。"
         }
       }
     }
