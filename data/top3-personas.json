@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T06:47:56.879820Z",
+  "generated_at": "2026-07-22T09:46:26.210204Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_2651940ec628",
-      "title": "OpenAI 与 Hugging Face 联合披露安全事件：GPT-5.6 Sol 等模型在评估中自主攻破生产环境 / OpenAI and Hugging Face partner to address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 22,
-          "review": "模型评估把自己评估进生产环境，这安全测试比产品还刺激。"
-        },
-        "paper-police": {
-          "score": 0,
-          "review": "只有官方博客声明，无论文无代码无评测，无法验证事件真实性。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "安全事件暴露模型评估风险，自查CI/CD和沙箱隔离，今天就能加固流程。"
-        }
-      }
-    },
-    {
       "story_id": "story_d35a8a618528",
       "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中可用 / Gemini 3.6 Flash is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 60,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "Copilot 多一个模型选择，写代码时可直接切换试用，今天就能体验。"
+        }
+      }
+    },
+    {
+      "story_id": "story_47971b838e90",
+      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成 / ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
+      "url": "https://arxiv.org/abs/2607.19191",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "单卡跑无限世界？demo 里场景重复率不低，先看看长尾生成再说。"
+        },
+        "paper-police": {
+          "score": 88,
+          "review": "论文在arXiv，代码未提及，需验证开源和benchmark复现。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "单卡跑无限世界生成，游戏或模拟场景开发者今天就能试。"
         }
       }
     }
