@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T18:39:36.301111Z",
+  "generated_at": "2026-07-22T20:36:31.692764Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_e7155e77e138",
+      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
+      "url": "https://github.com/marcelroed/gigatoken",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "1000倍？先看看是不是只对超长文本有效，短句怕是没这好事。"
+        },
+        "paper-police": {
+          "score": 85,
+          "review": "GitHub 仓库有代码和性能对比，但缺论文和独立 benchmark 复现。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "分词速度提升1000倍，直接替换HuggingFace Tokenizers，今天就能用。"
+        }
+      }
+    },
+    {
       "story_id": "story_96cb9eaf08f7",
       "title": "OpenAI Presence 正式登场 / Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -40,7 +60,7 @@
       "story_id": "story_0ba3ace346fe",
       "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
       "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 88,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "模型权重已开源，可自部署或微调，今天就能用上。"
-        }
-      }
-    },
-    {
-      "story_id": "story_56d098a4a53d",
-      "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
-      "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "号称‘真实’，但样本里手指还是数不对，进步有，别吹太满。"
-        },
-        "paper-police": {
-          "score": 12,
-          "review": "只有X帖子宣称，无论文无代码无评测，证据为零。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "API已开放，生成真实感图片可直接调用，适合内容生成场景。"
         }
       }
     }
