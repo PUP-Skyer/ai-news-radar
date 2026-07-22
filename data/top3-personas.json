@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:30:16.169964Z",
+  "generated_at": "2026-07-22T16:54:58.940145Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_7e78ee445fab",
-      "title": "Gemini 3.6 Flash、3.5 Flash-Lite 和 3.5 Flash Cyber 正式发布 / Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "Flash、Lite、Cyber，名字越来越花，跑分呢？"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称发布，无论文无代码无第三方评测，等独立验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "新模型已发布，API可用，立刻测试替换旧版，注意定价和限速变化。"
-        }
-      }
-    },
-    {
       "story_id": "story_96cb9eaf08f7",
       "title": "OpenAI Presence 正式登场 / Introducing OpenAI Presence",
       "url": "https://openai.com/index/introducing-openai-presence",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -57,22 +37,42 @@
       }
     },
     {
-      "story_id": "story_d35a8a618528",
-      "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中可用 / Gemini 3.6 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "rank": 3,
+      "story_id": "story_56d098a4a53d",
+      "title": "通义千问发布Qwen-Image-3.0：主打\"真实\"的第三代图像生成模型 / 🎨 Meet Qwen-Image-3.0 - the third generation of our foundational image generation model. If 1.0 wa…",
+      "url": "https://x.com/Alibaba_Qwen/status/2079906336381509659",
+      "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 60,
-          "review": "Copilot又添一个模型选项，但没提和现有模型比到底快了多少。"
+          "score": 72,
+          "review": "号称‘真实’，但样本里手指还是数不对，进步有，别吹太满。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "只有官方博客宣称可用，无论文无代码无评测，无法验证性能。"
+          "score": 12,
+          "review": "只有X帖子宣称，无论文无代码无评测，证据为零。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Copilot 多一个模型选择，写代码时可直接切换试用，今天就能体验。"
+          "review": "API已开放，生成真实感图片可直接调用，适合内容生成场景。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8caa1bace817",
+      "title": "腾讯设计Agent平台Miora全面开放",
+      "url": "https://mp.weixin.qq.com/s/qQhq9nxoeCD68iMwQoEVFQ",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "全面开放？先看看有没有人真用起来再说吧。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有公众号文章宣称开放，无论文无代码无评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Agent平台开放了，今天就能上手试，适合快速搭应用原型。"
         }
       }
     }
