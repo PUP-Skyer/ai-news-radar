@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T12:11:01.887365Z",
+  "generated_at": "2026-07-22T14:30:16.169964Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_96cb9eaf08f7",
+      "title": "OpenAI Presence 正式登场 / Introducing OpenAI Presence",
+      "url": "https://openai.com/index/introducing-openai-presence",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "Presence？不就是把上下文窗口改了个营销名，真当用户没读过文档？"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有官方博客宣称，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "新API已上线，可控制模型重复度，今天就能接入调参。"
+        }
+      }
+    },
+    {
       "story_id": "story_d35a8a618528",
       "title": "Gemini 3.6 Flash 现已在 GitHub Copilot 中可用 / Gemini 3.6 Flash is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-21-gemini-3-6-flash-is-now-available-in-github-copilot",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 60,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "Copilot 多一个模型选择，写代码时可直接切换试用，今天就能体验。"
-        }
-      }
-    },
-    {
-      "story_id": "story_47971b838e90",
-      "title": "ABot-World-0：单张桌面级GPU实现无限交互式世界生成 / ABot-World-0： Infinite Interactive World Rollout on a Single Desktop GPU",
-      "url": "https://arxiv.org/abs/2607.19191",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "单卡跑无限世界？demo 里场景重复率不低，先看看长尾生成再说。"
-        },
-        "paper-police": {
-          "score": 88,
-          "review": "论文在arXiv，代码未提及，需验证开源和benchmark复现。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "单卡跑无限世界生成，游戏或模拟场景开发者今天就能试。"
         }
       }
     }
