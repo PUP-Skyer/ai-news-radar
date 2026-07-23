@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T20:39:21.650724Z",
+  "generated_at": "2026-07-23T22:23:37.832527Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_1950d49db06a",
+      "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "支持新规范是好事，但别指望开发者们会立刻抛弃旧版。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有官方博客宣称支持，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "MCP 规范升级，GitHub 工具链直接适配，集成开发环境可立即利用新特性。"
+        }
+      }
+    },
+    {
       "story_id": "story_1650bfbff40b",
       "title": "GitHub Issues 中的 Agent 自动化控制现已公开预览 / Agent automation controls in GitHub Issues in public preview",
       "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "GitHub Issues 原生支持 Agent 自动化，可直接在 issue 工作流中集成 AI 操作，今天就能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b7a2b487977e",
-      "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "4位推理省显存，但速度损失和画质衰减你们demo里可没提。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客有技术细节但无论文代码，等开源验证再定论。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "4位扩散推理集成到Diffusers，显存占用大降，低配卡也能跑图了。"
         }
       }
     }
