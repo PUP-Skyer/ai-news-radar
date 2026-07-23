@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:46:52.373643Z",
+  "generated_at": "2026-07-23T20:39:21.650724Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_e7155e77e138",
-      "title": "GigaToken 发布：语言模型分词速度最高提升约 1000 倍，可无缝替代 HuggingFace Tokenizers",
-      "url": "https://github.com/marcelroed/gigatoken",
+      "story_id": "story_11ed83f3e906",
+      "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "1000倍？先看看是不是只对超长文本有效，短句怕是没这好事。"
+          "review": "Copilot修Actions失败？先看看它会不会把CI/CD搞得更乱。"
         },
         "paper-police": {
-          "score": 85,
-          "review": "GitHub 仓库有代码和性能对比，但缺论文和独立 benchmark 复现。"
+          "score": 20,
+          "review": "只有官方博客宣称，无论文无代码无评测，无法验证Copilot实际修复能力。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "分词速度提升1000倍，直接替换HuggingFace Tokenizers，今天就能用。"
+          "score": 85,
+          "review": "手机端修CI失败，Copilot直接改代码，移动办公党今天就能用。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1650bfbff40b",
+      "title": "GitHub Issues 中的 Agent 自动化控制现已公开预览 / Agent automation controls in GitHub Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "Issues 加了个自动化开关，但预览期能跑通几个真实工作流？"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有官方博客宣称，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "GitHub Issues 原生支持 Agent 自动化，可直接在 issue 工作流中集成 AI 操作，今天就能试。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_b7a2b487977e",
       "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
       "url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "4位扩散推理集成到Diffusers，显存占用大降，低配卡也能跑图了。"
-        }
-      }
-    },
-    {
-      "story_id": "story_92dd58586306",
-      "title": "通义千问发布Qwen-Audio-3.0-TTS，登顶TTS排行榜 / Introducing the Qwen-Audio-3.0-TTS. Our latest text-to-speech model， in two flavors： • Flash： real-…",
-      "url": "https://x.com/Alibaba_Qwen/status/2080270065547809133",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "登顶TTS榜？先看看评测集是不是自己挑的，别又是个自嗨榜。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "只有X帖宣称登顶，无论文无代码无评测细节，无法验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "TTS新模型已登顶排行榜，Flash版实时可用，直接接入试试效果。"
         }
       }
     }
