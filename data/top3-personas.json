@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T22:23:37.832527Z",
+  "generated_at": "2026-07-23T23:22:37.755808Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_542d81ae471d",
+      "title": "Copilot 云代理现已在 Linear 上正式可用 / Copilot cloud agent for Linear is now generally available",
+      "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "GA了，但Copilot代理在Linear上能干的事，和Jira插件有啥本质区别？"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有官方博客宣称可用，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Linear 用户可直接用 Copilot 代理管理任务，省去手动同步，今天就能集成。"
+        }
+      }
+    },
+    {
       "story_id": "story_11ed83f3e906",
       "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
       "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_1950d49db06a",
       "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
       "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "MCP 规范升级，GitHub 工具链直接适配，集成开发环境可立即利用新特性。"
-        }
-      }
-    },
-    {
-      "story_id": "story_1650bfbff40b",
-      "title": "GitHub Issues 中的 Agent 自动化控制现已公开预览 / Agent automation controls in GitHub Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-agent-automation-controls-in-github-issues-in-public-preview",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "Issues 加了个自动化开关，但预览期能跑通几个真实工作流？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有官方博客宣称，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GitHub Issues 原生支持 Agent 自动化，可直接在 issue 工作流中集成 AI 操作，今天就能试。"
         }
       }
     }
