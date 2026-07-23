@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T03:55:05.720329Z",
+  "generated_at": "2026-07-23T06:46:28.027114Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_96cb9eaf08f7",
-      "title": "OpenAI Presence 正式登场 / Introducing OpenAI Presence",
-      "url": "https://openai.com/index/introducing-openai-presence",
+      "story_id": "story_737071755d64",
+      "title": "GHES即将变更，影响支持包上传 / Upcoming GHES change impacting uploading support bundles",
+      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "Presence？不就是把上下文窗口改了个营销名，真当用户没读过文档？"
+          "score": 70,
+          "review": "改个上传流程也值得发 changelog？好歹是官方通知，比画饼强点。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "只有官方博客宣称，无论文无代码无评测，无法验证。"
+          "score": 0,
+          "review": "无论文无代码无评测，只有官方公告，无法验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "新API已上线，可控制模型重复度，今天就能接入调参。"
+          "score": 70,
+          "review": "GHES运维注意，支持包上传流程将变，需提前适配新API。"
         }
       }
     },
     {
-      "story_id": "story_0ba3ace346fe",
-      "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
+      "story_id": "story_f1c63e292752",
+      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
+      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 88,
-          "review": "少见的全都敢晒出来，这次没法挑刺。"
+          "score": 55,
+          "review": "全闪存省90%成本？怕不是跟机械硬盘比，那我也能省99%。"
         },
         "paper-police": {
-          "score": 92,
-          "review": "论文代码全开源，可复现，这才是真开源发布。"
+          "score": 25,
+          "review": "仅有公众号文章，无论文无代码无benchmark，成本节省90%无从验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "模型权重已开源，可自部署或微调，今天就能用上。"
+          "score": 70,
+          "review": "全闪存方案省90%硬件成本，做向量检索的团队可参考架构，但需自建或改造。"
         }
       }
     }
