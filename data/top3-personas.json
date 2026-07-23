@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:46:36.188282Z",
+  "generated_at": "2026-07-23T12:11:29.340893Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_737071755d64",
-      "title": "GHES即将变更，影响支持包上传 / Upcoming GHES change impacting uploading support bundles",
-      "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
+      "story_id": "story_389dbf0b1f6b",
+      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+      "url": "https://www.aibase.com/news/29844",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "改个上传流程也值得发 changelog？好歹是官方通知，比画饼强点。"
+          "score": 72,
+          "review": "装进三星就叫全球旗舰？先看看推理速度和功耗再说。"
         },
         "paper-police": {
-          "score": 0,
-          "review": "无论文无代码无评测，只有官方公告，无法验证。"
+          "score": 10,
+          "review": "只有新闻稿，无论文、代码或评测数据，无法验证性能。"
         },
         "pragmatic": {
-          "score": 70,
-          "review": "GHES运维注意，支持包上传流程将变，需提前适配新API。"
+          "score": 85,
+          "review": "端侧模型落地旗舰机，做移动端AI的可以直接参考其量化部署方案。"
         }
       }
     }

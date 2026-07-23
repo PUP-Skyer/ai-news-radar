@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T09:38:55.937142Z",
+  "generated_at": "2026-07-23T12:04:14.430571Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -193,15 +193,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8619,
-      "importance": 0.8619,
-      "importance_score": 0.8619,
+      "score": 0.8565,
+      "importance": 0.8565,
+      "importance_score": 0.8565,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8682,
+        "recency": 0.8383,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -230,7 +230,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -247,7 +247,7 @@
           "title_zh": "将Nunchaku 4位扩散推理引入Diffusers",
           "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
           "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents Getting started with Nunchaku Lite Background: SVDQuant and Nunchaku Introducing Nunchaku Lite Native loading in Diffusers Hardware support Getting more speed and lower memory Benchmarks End-to-end latency and memory Image quality Quantizing your own model 1. Inspec",
+          "summary": null,
           "recommend_reason_zh": "Diffusers 现在原生支持 Nunchaku 的 4-bit 推理，在 RTX 5090 上生成 1024x1024 图像仅需 1.7 秒，峰值内存从 BF16 的 24GB 降至约 12GB。",
           "url": "https://huggingface.co/blog/nunchaku-diffusers",
           "source": "Hugging Face Blog",
@@ -267,7 +267,7 @@
           "title_zh": "将Nunchaku 4位扩散推理引入Diffusers",
           "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
           "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents Getting started with Nunchaku Lite Background: SVDQuant and Nunchaku Introducing Nunchaku Lite Native loading in Diffusers Hardware support Getting more speed and lower memory Benchmarks End-to-end latency and memory Image quality Quantizing your own model 1. Inspec",
+          "summary": null,
           "recommend_reason_zh": "Diffusers 现在原生支持 Nunchaku 的 4-bit 推理，在 RTX 5090 上生成 1024x1024 图像仅需 1.7 秒，峰值内存从 BF16 的 24GB 降至约 12GB。",
           "url": "https://huggingface.co/blog/nunchaku-diffusers",
           "source": "Hugging Face Blog",
@@ -278,15 +278,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8446,
-      "importance": 0.8446,
-      "importance_score": 0.8446,
+      "score": 0.8392,
+      "importance": 0.8392,
+      "importance_score": 0.8392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8699,
+        "recency": 0.84,
         "story_heat": 0.0
       },
       "category": "official",
@@ -303,7 +303,7 @@
         "title_zh": "将Nunchaku 4位扩散推理引入Diffusers",
         "title_en": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
         "title_original": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents Getting started with Nunchaku Lite Background: SVDQuant and Nunchaku Introducing Nunchaku Lite Native loading in Diffusers Hardware support Getting more speed and lower memory Benchmarks End-to-end latency and memory Image quality Quantizing your own model 1. Inspec",
+        "summary": null,
         "recommend_reason_zh": "Diffusers 现在原生支持 Nunchaku 的 4-bit 推理，在 RTX 5090 上生成 1024x1024 图像仅需 1.7 秒，峰值内存从 BF16 的 24GB 降至约 12GB。",
         "url": "https://huggingface.co/blog/nunchaku-diffusers",
         "source": "Hugging Face Blog",
@@ -315,7 +315,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8093,
+        "recency": 0.7815,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,7 +400,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -448,15 +448,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7791,
+        "recency": 0.7523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,7 +485,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -533,15 +533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7422,
+        "recency": 0.7167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,7 +570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -618,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7491,
+        "recency": 0.7234,
         "story_heat": 0.0
       },
       "category": "official",
@@ -655,7 +655,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -703,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
+      "score": 0.793,
+      "importance": 0.793,
+      "importance_score": 0.793,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7422,
+        "recency": 0.7167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -740,7 +740,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -817,15 +817,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8116,
+        "recency": 0.7837,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -854,7 +854,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -902,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7765,
-      "importance": 0.7765,
-      "importance_score": 0.7765,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8159,
+        "recency": 0.7879,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -938,7 +938,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -986,15 +986,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.801,
+      "importance": 0.801,
+      "importance_score": 0.801,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7422,
+        "recency": 0.7167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1023,7 +1023,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
+      }
+    },
+    {
+      "story_id": "story_389dbf0b1f6b",
+      "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+      "url": "https://www.aibase.com/news/29844",
+      "primary_url": "https://www.aibase.com/news/29844",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_en": null,
+          "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "summary": "Samsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nExplore AI Fronti",
+          "recommend_reason_zh": "MinaCPM 首次进入国际旗舰产品线，深度赋能 Samsung Galaxy AI，覆盖文本理解与多模态感知；Galaxy Z Fold8 采用 8 英寸 4:3 宽折叠屏、双 50MP 后摄及 4800mAh 电池。",
+          "url": "https://www.aibase.com/news/29844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T12:04:14.430571Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+          "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "title_en": null,
+          "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+          "summary": "Samsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nExplore AI Fronti",
+          "recommend_reason_zh": "MinaCPM 首次进入国际旗舰产品线，深度赋能 Samsung Galaxy AI，覆盖文本理解与多模态感知；Galaxy Z Fold8 采用 8 英寸 4:3 宽折叠屏、双 50MP 后摄及 4800mAh 电池。",
+          "url": "https://www.aibase.com/news/29844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T12:04:14.430571Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T12:04:14.430571Z",
+      "latest_at": "2026-07-23T12:04:14.430571Z",
+      "primary_item": {
+        "id": "394446beb0b832f19dee86d9e4cb6f54e4dbd9fb",
+        "title": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "title_zh": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "title_en": null,
+        "title_original": "国产端侧大模型第一次登上全球旗舰：面壁 MiniCPM 装进三星 Galaxy Z Fold8 系列",
+        "summary": "Samsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nSamsung unveiled the Galaxy Z Fold8, Galaxy Z Fold8 Ultra, and Galaxy Z Flip8 at the Galaxy Unpacked event in London last night. Just today, MinaCPM, a series o\nExplore AI Fronti",
+        "recommend_reason_zh": "MinaCPM 首次进入国际旗舰产品线，深度赋能 Samsung Galaxy AI，覆盖文本理解与多模态感知；Galaxy Z Fold8 采用 8 英寸 4:3 宽折叠屏、双 50MP 后摄及 4800mAh 电池。",
+        "url": "https://www.aibase.com/news/29844",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "端侧模型落地旗舰机，做移动端AI的可以直接参考其量化部署方案。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1071,15 +1155,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7908,
+        "recency": 0.7636,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1107,7 +1191,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1155,15 +1239,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7649,
+        "recency": 0.7386,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1192,7 +1276,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1269,15 +1353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.77,
-      "importance": 0.77,
-      "importance_score": 0.77,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8077,
+        "recency": 0.7799,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1306,7 +1390,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1354,15 +1438,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
+        "recency": 0.89,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1390,91 +1474,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
-      "story_id": "story_1022d965cfc1",
-      "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-      "url": "https://www.aibase.com/news/29843",
-      "primary_url": "https://www.aibase.com/news/29843",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_395bc92ba522",
+      "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+      "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
+      "primary_url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
+      "source": "公众号：昆仑万维（天工）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "id": "cb3c37d8b55836c6cd51ebbd1972317ec22be3a5",
+          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+          "title_zh": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
           "title_en": null,
-          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "summary": "According to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nAccording to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nAccording to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nExplore AI Fronti",
-          "recommend_reason_zh": "Claude语音模式本周升级，新增Opus和Sonnet模型选择，告别仅用Haiku 4.5的单一局面，用户可自由切换三个模型并控制“思考”水平。",
-          "url": "https://www.aibase.com/news/29843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T09:38:55.937142Z"
+          "title_original": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+          "summary": "昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。",
+          "recommend_reason_zh": "昆仑万维方汉指出，盲目堆砌Token无法形成AI原生组织，强调模型能力才是长期竞争壁垒，为行业技术路线选择提供了关键视角。",
+          "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T11:20:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "公众号：昆仑万维（天工）"
       ],
       "items": [
         {
-          "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-          "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+          "id": "cb3c37d8b55836c6cd51ebbd1972317ec22be3a5",
+          "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+          "title_zh": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
           "title_en": null,
-          "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-          "summary": "According to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nAccording to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nAccording to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nExplore AI Fronti",
-          "recommend_reason_zh": "Claude语音模式本周升级，新增Opus和Sonnet模型选择，告别仅用Haiku 4.5的单一局面，用户可自由切换三个模型并控制“思考”水平。",
-          "url": "https://www.aibase.com/news/29843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T09:38:55.937142Z"
+          "title_original": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+          "summary": "昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。",
+          "recommend_reason_zh": "昆仑万维方汉指出，盲目堆砌Token无法形成AI原生组织，强调模型能力才是长期竞争壁垒，为行业技术路线选择提供了关键视角。",
+          "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
+          "source": "公众号：昆仑万维（天工）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T11:20:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9894,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T09:38:55.937142Z",
-      "latest_at": "2026-07-23T09:38:55.937142Z",
+      "earliest_at": "2026-07-23T11:20:00Z",
+      "latest_at": "2026-07-23T11:20:00Z",
       "primary_item": {
-        "id": "420603b00466b3ff6c446be97d305bf8f5cf9cb0",
-        "title": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-        "title_zh": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
+        "id": "cb3c37d8b55836c6cd51ebbd1972317ec22be3a5",
+        "title": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+        "title_zh": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
         "title_en": null,
-        "title_original": "Claude语音模式即将升级：支持切换Opus和Sonnet更强模型，告别Haiku独撑局面",
-        "summary": "According to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nAccording to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nAccording to technology media testingcatalog, Anthropic is expected to upgrade Claude's voice mode this week, supporting the use of stronger models Opus and Son\nExplore AI Fronti",
-        "recommend_reason_zh": "Claude语音模式本周升级，新增Opus和Sonnet模型选择，告别仅用Haiku 4.5的单一局面，用户可自由切换三个模型并控制“思考”水平。",
-        "url": "https://www.aibase.com/news/29843",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "昆仑万维方汉：Token堆不出AI原生组织，模型才是长期立足之本",
+        "summary": "昆仑万维CEO方汉在WAIC圆桌上指出，单纯堆砌Token消耗量无法衡量AI价值，模型能力需依赖Claude Code等Coding Agent建立的工程框架才能转化为生产力。他透露昆仑万维仍在持续训练模型，并将发布音乐、具身世界和游戏世界模型，认为模型与算力是AI公司长期立足的基础。方汉同时警示，AI编程带来的技术债可能导致生产事故增幅达数倍，代码审查与责任机制必须同步加强。",
+        "recommend_reason_zh": "昆仑万维方汉指出，盲目堆砌Token无法形成AI原生组织，强调模型能力才是长期竞争壁垒，为行业技术路线选择提供了关键视角。",
+        "url": "https://mp.weixin.qq.com/s/TEAuv29LPgmjQG_rO3b_Ag",
+        "source": "公众号：昆仑万维（天工）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "语音模式选更强模型，对API调用者有用，但等正式上线再动手。",
+      "persona_score": 20,
+      "persona_review": "观点输出，无代码无工具，对开发者今天没任何影响。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1522,15 +1605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7422,
+      "importance": 0.7422,
+      "importance_score": 0.7422,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9067,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1557,92 +1640,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
-      }
-    },
-    {
-      "story_id": "story_5ae29a6d42bc",
-      "title": "推动国家科学进入新纪元 / Advancing the next era of national science",
-      "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "primary_url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-          "title": "推动国家科学进入新纪元 / Advancing the next era of national science",
-          "title_zh": "推动国家科学进入新纪元",
-          "title_en": "Advancing the next era of national science",
-          "title_original": "Advancing the next era of national science",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与U.S. Department of Energy及国家实验室合作部署前沿AI于Venado超算，超1000名科学家参与测试，目标将科学发现周期从数十年压缩为几年。",
-          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-          "title": "推动国家科学进入新纪元 / Advancing the next era of national science",
-          "title_zh": "推动国家科学进入新纪元",
-          "title_en": "Advancing the next era of national science",
-          "title_original": "Advancing the next era of national science",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI与U.S. Department of Energy及国家实验室合作部署前沿AI于Venado超算，超1000名科学家参与测试，目标将科学发现周期从数十年压缩为几年。",
-          "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-22T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7315,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T12:00:00Z",
-      "latest_at": "2026-07-22T12:00:00Z",
-      "primary_item": {
-        "id": "010dceb15564775c57509eec82ea52e633bcdae4",
-        "title": "推动国家科学进入新纪元 / Advancing the next era of national science",
-        "title_zh": "推动国家科学进入新纪元",
-        "title_en": "Advancing the next era of national science",
-        "title_original": "Advancing the next era of national science",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI与U.S. Department of Energy及国家实验室合作部署前沿AI于Venado超算，超1000名科学家参与测试，目标将科学发现周期从数十年压缩为几年。",
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "官样文章，无具体工具或API，等有干货再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1690,15 +1688,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8331,
+        "recency": 0.8045,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1725,7 +1723,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1773,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7343,
+      "importance": 0.7343,
+      "importance_score": 0.7343,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7921,
+        "recency": 0.7649,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1808,7 +1806,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     },
     {
@@ -1856,15 +1854,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
+      "score": 0.7327,
+      "importance": 0.7327,
+      "importance_score": 0.7327,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9381,
+        "recency": 0.9059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1891,7 +1889,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T09:46:30.693456Z"
+        "scored_at": "2026-07-23T12:11:24.241502Z"
       }
     }
   ]
