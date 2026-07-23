@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T06:46:28.027114Z",
+  "generated_at": "2026-07-23T09:46:36.188282Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_b7a2b487977e",
+      "title": "将Nunchaku 4位扩散推理引入Diffusers / Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+      "url": "https://huggingface.co/blog/nunchaku-diffusers",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "4位推理省显存，但速度损失和画质衰减你们demo里可没提。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客有技术细节但无论文代码，等开源验证再定论。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "4位扩散推理集成到Diffusers，显存占用大降，低配卡也能跑图了。"
+        }
+      }
+    },
+    {
       "story_id": "story_737071755d64",
       "title": "GHES即将变更，影响支持包上传 / Upcoming GHES change impacting uploading support bundles",
       "url": "https://github.blog/changelog/2026-07-22-upcoming-ghes-change-impacting-uploading-support-bundles",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 70,
           "review": "GHES运维注意，支持包上传流程将变，需提前适配新API。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f1c63e292752",
-      "title": "小红书HELMSMAN：全闪存服务器实现高性能向量检索，硬件成本节省超90%",
-      "url": "https://mp.weixin.qq.com/s/WCYE6itbTBPU0Q_3BfQxkA",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "全闪存省90%成本？怕不是跟机械硬盘比，那我也能省99%。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅有公众号文章，无论文无代码无benchmark，成本节省90%无从验证。"
-        },
-        "pragmatic": {
-          "score": 70,
-          "review": "全闪存方案省90%硬件成本，做向量检索的团队可参考架构，但需自建或改造。"
         }
       }
     }
