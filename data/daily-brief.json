@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T16:48:52.365245Z",
+  "generated_at": "2026-07-23T18:39:08.242689Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -45,7 +45,7 @@
           "title_zh": "OpenAI意外攻击Hugging Face，科幻小说成真了",
           "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
           "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "summary": "All the attention has been on software security, of extracting the next marginal vulnerability out of heavily-scrutinized large codebases. In the actual professional field of infosec, that's a speciality; another specialty is network pentests and red-teaming, which exploits misconfigurations and seeks out weakest-link software (rather than exhaustively fishing for the next kernel LPE or whatever). Red teaming and netpen work is probably substantially easier for models than software security; it ",
+          "summary": null,
           "recommend_reason_zh": "文章引用信息安全专家观点指出，用正确框架去年就能用开源模型复现OpenAI对Hugging Face的攻击——因为自动化利用工具已存在数十年，将目标列表从192.168.1.0/24换成0.0.0.0/0并不令人惊讶。",
           "url": "https://news.ycombinator.com/item?id=49015639",
           "source": "hackernews",
@@ -154,7 +154,7 @@
           "title_zh": "OpenAI意外攻击Hugging Face，科幻小说成真了",
           "title_en": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
           "title_original": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
-          "summary": "All the attention has been on software security, of extracting the next marginal vulnerability out of heavily-scrutinized large codebases. In the actual professional field of infosec, that's a speciality; another specialty is network pentests and red-teaming, which exploits misconfigurations and seeks out weakest-link software (rather than exhaustively fishing for the next kernel LPE or whatever). Red teaming and netpen work is probably substantially easier for models than software security; it ",
+          "summary": null,
           "recommend_reason_zh": "文章引用信息安全专家观点指出，用正确框架去年就能用开源模型复现OpenAI对Hugging Face的攻击——因为自动化利用工具已存在数十年，将目标列表从192.168.1.0/24换成0.0.0.0/0并不令人惊讶。",
           "url": "https://news.ycombinator.com/item?id=49015639",
           "source": "hackernews",
@@ -221,15 +221,15 @@
       ],
       "item_count": 7,
       "duplicate_count": 7,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7828,
+        "recency": 0.7623,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -258,7 +258,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -306,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8255,
+      "importance": 0.8255,
+      "importance_score": 0.8255,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7844,
+        "recency": 0.7639,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,7 +343,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
+      }
+    },
+    {
+      "story_id": "story_4f34c54c72e5",
+      "title": "在ChatGPT中推出健康功能 / Launching Health in ChatGPT",
+      "url": "https://openai.com/index/health-in-chatgpt",
+      "primary_url": "https://openai.com/index/health-in-chatgpt",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+          "title": "在ChatGPT中推出健康功能 / Launching Health in ChatGPT",
+          "title_zh": "在ChatGPT中推出健康功能",
+          "title_en": "Launching Health in ChatGPT",
+          "title_original": "Launching Health in ChatGPT",
+          "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.\nHealth in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.\nHealth in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+          "recommend_reason_zh": "每周超3亿人向ChatGPT提问健康问题，新功能Health允许符合条件的美国用户安全连接医疗记录和Apple Health，获取个性化洞察并更好地理解自身健康。",
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+          "title": "在ChatGPT中推出健康功能 / Launching Health in ChatGPT",
+          "title_zh": "在ChatGPT中推出健康功能",
+          "title_en": "Launching Health in ChatGPT",
+          "title_original": "Launching Health in ChatGPT",
+          "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.\nHealth in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.\nHealth in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+          "recommend_reason_zh": "每周超3亿人向ChatGPT提问健康问题，新功能Health允许符合条件的美国用户安全连接医疗记录和Apple Health，获取个性化洞察并更好地理解自身健康。",
+          "url": "https://openai.com/index/health-in-chatgpt",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7639,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T00:00:00Z",
+      "latest_at": "2026-07-23T00:00:00Z",
+      "primary_item": {
+        "id": "3d971c1b779fe596db260d78ff129a5151f66d31",
+        "title": "在ChatGPT中推出健康功能 / Launching Health in ChatGPT",
+        "title_zh": "在ChatGPT中推出健康功能",
+        "title_en": "Launching Health in ChatGPT",
+        "title_original": "Launching Health in ChatGPT",
+        "summary": "Health in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.\nHealth in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.\nHealth in ChatGPT now lets eligible U.S. users securely connect medical records and Apple Health to get more personalized insights and better understand their health.",
+        "recommend_reason_zh": "每周超3亿人向ChatGPT提问健康问题，新功能Health允许符合条件的美国用户安全连接医疗记录和Apple Health，获取个性化洞察并更好地理解自身健康。",
+        "url": "https://openai.com/index/health-in-chatgpt",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "ChatGPT新增健康功能，做健康类应用可关注API变化，但功能细节待实测。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -391,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7298,
+        "recency": 0.7107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,7 +513,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -459,7 +544,7 @@
           "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
           "title_en": "Google’s Gemini nears billion-user milestone",
           "title_original": "Google’s Gemini nears billion-user milestone",
-          "summary": "Gemini had over 750 million monthly users in February.\nGemini had over 750 million monthly users in February.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportation\nVenture\nStaff\nEvents\nStartup Battlefield\nStrictlyVC\nNewsletters\nPodcasts\nVideos\nPartner Content",
+          "summary": null,
           "recommend_reason_zh": "Google Gemini月活用户已超7.5亿，正逼近十亿大关，本文详解其增长势头与挑战。",
           "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
           "source": "TechCrunch AI",
@@ -494,7 +579,7 @@
           "title_zh": "Google Gemini 月活用户逼近 9.5 亿，有望成为下一个十亿级产品",
           "title_en": "Google’s Gemini nears billion-user milestone",
           "title_original": "Google’s Gemini nears billion-user milestone",
-          "summary": "Gemini had over 750 million monthly users in February.\nGemini had over 750 million monthly users in February.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportation\nVenture\nStaff\nEvents\nStartup Battlefield\nStrictlyVC\nNewsletters\nPodcasts\nVideos\nPartner Content",
+          "summary": null,
           "recommend_reason_zh": "Google Gemini月活用户已超7.5亿，正逼近十亿大关，本文详解其增长势头与挑战。",
           "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
           "source": "TechCrunch AI",
@@ -505,15 +590,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7831,
+      "importance": 0.7831,
+      "importance_score": 0.7831,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9724,
+        "recency": 0.947,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -542,7 +627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -619,15 +704,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7809,
+      "importance": 0.7809,
+      "importance_score": 0.7809,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9602,
+        "recency": 0.935,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -656,7 +741,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -704,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7734,
+      "importance": 0.7734,
+      "importance_score": 0.7734,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9404,
+        "recency": 0.9157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -740,7 +825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -788,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.762,
-      "importance": 0.762,
-      "importance_score": 0.762,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7357,
+        "recency": 0.7165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -824,91 +909,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
-      }
-    },
-    {
-      "story_id": "story_1a563dab923e",
-      "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "primary_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-          "title_zh": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "title_en": "Ask Claude about the Anthropic Economic Index",
-          "title_original": "Ask Claude about the Anthropic Economic Index",
-          "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-          "recommend_reason_zh": "Anthropic发布Anthropic Economic Index connector for Claude，用户可直接用自然语言查询AI对工作和行业的影响数据，启动只需一分钟，无需安装即可在任何对话中获取数据驱动的答案。",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-          "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-          "title_zh": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-          "title_en": "Ask Claude about the Anthropic Economic Index",
-          "title_original": "Ask Claude about the Anthropic Economic Index",
-          "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-          "recommend_reason_zh": "Anthropic发布Anthropic Economic Index connector for Claude，用户可直接用自然语言查询AI对工作和行业的影响数据，启动只需一分钟，无需安装即可在任何对话中获取数据驱动的答案。",
-          "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:23:31.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7583,
-      "importance": 0.7583,
-      "importance_score": 0.7583,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T17:23:31.324000Z",
-      "latest_at": "2026-07-22T17:23:31.324000Z",
-      "primary_item": {
-        "id": "821bdadd86b732e41232f06399db46b8b3aace9f",
-        "title": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据 / Ask Claude about the Anthropic Economic Index",
-        "title_zh": "Claude 新增 Anthropic Economic Index 连接器，可直接查询 AI 对经济与职业的影响数据",
-        "title_en": "Ask Claude about the Anthropic Economic Index",
-        "title_original": "Ask Claude about the Anthropic Economic Index",
-        "summary": "Anthropic 为 Claude 推出 Anthropic Economic Index 连接器，用户可在 claude.ai 中直接向 Claude 提问\"哪些职业使用 AI 最多\"等问题，答案基于 Index 的真实数据。该连接器无需安装，适用于任何 Claude 模型，并会引导用户查看原始数据及其局限性。完整数据集仍免费开放。",
-        "recommend_reason_zh": "Anthropic发布Anthropic Economic Index connector for Claude，用户可直接用自然语言查询AI对工作和行业的影响数据，启动只需一分钟，无需安装即可在任何对话中获取数据驱动的答案。",
-        "url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "数据查询工具，对多数开发者非刚需，除非你在做经济影响分析。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -985,15 +986,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7283,
+        "recency": 0.7092,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1022,7 +1023,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1070,15 +1071,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7513,
+      "importance": 0.7513,
+      "importance_score": 0.7513,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9338,
+        "recency": 0.9093,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1106,7 +1107,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1154,21 +1155,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7522,
-      "importance": 0.7522,
-      "importance_score": 0.7522,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8311,
+        "recency": 0.8093,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T04:00:00Z",
       "latest_at": "2026-07-23T04:00:00Z",
@@ -1190,7 +1190,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
+      }
+    },
+    {
+      "story_id": "story_b17e627022e6",
+      "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+      "url": "https://x.com/satyanadella/status/2080329851127669104",
+      "primary_url": "https://x.com/satyanadella/status/2080329851127669104",
+      "source": "X：Satya Nadella (@satyanadella)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+          "title_zh": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "title_en": "http://x.com/i/article/2080328073724260352",
+          "title_original": "http://x.com/i/article/2080328073724260352",
+          "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+          "recommend_reason_zh": "由于正文仅包含三个相同链接和注册提示，未提供任何文章内容的具体事实、数字或细节，无法按要求撰写推荐语。",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Satya Nadella (@satyanadella)"
+      ],
+      "items": [
+        {
+          "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+          "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+          "title_zh": "微软MAI模型：以更低成本实现前沿能力规模化",
+          "title_en": "http://x.com/i/article/2080328073724260352",
+          "title_original": "http://x.com/i/article/2080328073724260352",
+          "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+          "recommend_reason_zh": "由于正文仅包含三个相同链接和注册提示，未提供任何文章内容的具体事实、数字或细节，无法按要求撰写推荐语。",
+          "url": "https://x.com/satyanadella/status/2080329851127669104",
+          "source": "X：Satya Nadella (@satyanadella)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T16:31:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T16:31:01Z",
+      "latest_at": "2026-07-23T16:31:01Z",
+      "primary_item": {
+        "id": "d72daa2e5b7b6321ccd98fbe31c3a75f08bef8e2",
+        "title": "微软MAI模型：以更低成本实现前沿能力规模化 / http://x.com/i/article/2080328073724260352",
+        "title_zh": "微软MAI模型：以更低成本实现前沿能力规模化",
+        "title_en": "http://x.com/i/article/2080328073724260352",
+        "title_original": "http://x.com/i/article/2080328073724260352",
+        "summary": "微软CEO Satya Nadella详解MAI模型家族战略：通过优化成本-效果前沿，MAI模型在GitHub Copilot、Excel等产品中已用更少token超越通用前沿模型。核心是构建独立于模型的评估系统，让模型在产品真实环境中学习并完成用户关心的任务。微软正将这一模板通过Foundry平台开放给企业客户。",
+        "recommend_reason_zh": "由于正文仅包含三个相同链接和注册提示，未提供任何文章内容的具体事实、数字或细节，无法按要求撰写推荐语。",
+        "url": "https://x.com/satyanadella/status/2080329851127669104",
+        "source": "X：Satya Nadella (@satyanadella)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "微软新模型成本更低，API用户可关注定价更新，但需等具体性能对比。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1267,15 +1350,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7318,
+        "recency": 0.7127,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1304,7 +1387,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1352,15 +1435,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9239,
+        "recency": 0.8997,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,7 +1470,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1435,15 +1518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.7962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1470,7 +1553,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
+      }
+    },
+    {
+      "story_id": "story_79c2ff005240",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+          "recommend_reason_zh": "Zenity Labs发现的\"AgentForger\"漏洞显示，一个被篡改的ChatGPT链接就能创建继承用户身份与权限的自主代理，每五分钟从攻击者收件箱获取新指令。",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ca60e336078bc560f5427e1deef672799be840",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+          "recommend_reason_zh": "Zenity Labs发现的\"AgentForger\"漏洞显示，一个被篡改的ChatGPT链接就能创建继承用户身份与权限的自主代理，每五分钟从攻击者收件箱获取新指令。",
+          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9768,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:01:30Z",
+      "latest_at": "2026-07-23T17:01:30Z",
+      "primary_item": {
+        "id": "39ca60e336078bc560f5427e1deef672799be840",
+        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+        "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
+        "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
+        "recommend_reason_zh": "Zenity Labs发现的\"AgentForger\"漏洞显示，一个被篡改的ChatGPT链接就能创建继承用户身份与权限的自主代理，每五分钟从攻击者收件箱获取新指令。",
+        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "安全漏洞需关注，但非今天能用的工具，等官方补丁和修复指南。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1518,15 +1685,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7223,
+      "importance": 0.7223,
+      "importance_score": 0.7223,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7512,
+        "recency": 0.7315,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1553,256 +1720,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
-      }
-    },
-    {
-      "story_id": "story_97b950f64bc4",
-      "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-      "url": "https://x.com/omarsar0/status/2079982491578827214",
-      "primary_url": "https://x.com/omarsar0/status/2079982491578827214",
-      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-          "title_zh": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "title_en": "http://x.com/i/article/2079981292108582912",
-          "title_original": "http://x.com/i/article/2079981292108582912",
-          "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-          "recommend_reason_zh": "抱歉，原文内容仅为重复的链接和通用注册提示，没有提供任何具体事实、数字或细节，无法撰写符合要求的推荐语。请提供包含实质内容的文章。",
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
-      ],
-      "items": [
-        {
-          "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-          "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-          "title_zh": "从提示词到任务：多模态交互单元提升AI智能体效率",
-          "title_en": "http://x.com/i/article/2079981292108582912",
-          "title_original": "http://x.com/i/article/2079981292108582912",
-          "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-          "recommend_reason_zh": "抱歉，原文内容仅为重复的链接和通用注册提示，没有提供任何具体事实、数字或细节，无法撰写符合要求的推荐语。请提供包含实质内容的文章。",
-          "url": "https://x.com/omarsar0/status/2079982491578827214",
-          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:30:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7143,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T17:30:44Z",
-      "latest_at": "2026-07-22T17:30:44Z",
-      "primary_item": {
-        "id": "9dc2eb3a235e7b783dc43780757ca4067639001e",
-        "title": "从提示词到任务：多模态交互单元提升AI智能体效率 / http://x.com/i/article/2079981292108582912",
-        "title_zh": "从提示词到任务：多模态交互单元提升AI智能体效率",
-        "title_en": "http://x.com/i/article/2079981292108582912",
-        "title_original": "http://x.com/i/article/2079981292108582912",
-        "summary": "DAIR.AI的Elvis Saravia提出以\"任务\"作为超越提示词的交互单元，通过整合语音、屏幕、文本、标注等多模态信息，让智能体一次性获得完整上下文。该方法受Karpathy关于长语音会话作为提示的启发，通过前端加载上下文减少反复修正，使智能体在单次交互中完成更复杂的工作。",
-        "recommend_reason_zh": "抱歉，原文内容仅为重复的链接和通用注册提示，没有提供任何具体事实、数字或细节，无法撰写符合要求的推荐语。请提供包含实质内容的文章。",
-        "url": "https://x.com/omarsar0/status/2079982491578827214",
-        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "概念探讨阶段，无开源或API，等有代码再评估。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
-      }
-    },
-    {
-      "story_id": "story_87d814e4f245",
-      "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-      "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "primary_url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_en": null,
-          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-          "recommend_reason_zh": "北京智能体新政首度将Harness Engineering、Token经济、OPC等前沿概念写入政策文件，为行业发展提供明确方向。",
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-          "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "title_en": null,
-          "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-          "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-          "recommend_reason_zh": "北京智能体新政首度将Harness Engineering、Token经济、OPC等前沿概念写入政策文件，为行业发展提供明确方向。",
-          "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T05:13:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8459,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T05:13:37Z",
-      "latest_at": "2026-07-23T05:13:37Z",
-      "primary_item": {
-        "id": "98ee80e744f7c39cfb79a06cb355896cf1b0750b",
-        "title": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "title_zh": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "title_en": null,
-        "title_original": "北京发布智能体新政，首次将Harness Engineering、Token经济、OPC等写入政策",
-        "summary": "北京市发布《关于加快智能体引领发展的若干措施》，共十条，首次将Harness Engineering（驾驭层工程）、Token经济、OPC（一人公司）等前沿概念写入正式政策。文件提出从Token消耗量计费转向价值计费，鼓励发展TaaS、AaaS、RaaS模式，并推动智能体嵌入手机、眼镜、汽车等终端。",
-        "recommend_reason_zh": "北京智能体新政首度将Harness Engineering、Token经济、OPC等前沿概念写入政策文件，为行业发展提供明确方向。",
-        "url": "https://mp.weixin.qq.com/s/CYB7v1e5D4m-btgosjmLgA",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "政策文件，对写代码没直接影响，等具体细则和补贴再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
-      }
-    },
-    {
-      "story_id": "story_0ba3ace346fe",
-      "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-      "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "primary_url": "https://x.com/MSFTResearch/status/2079989338994069511",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_zh": "微软 MagenticLite 模型全面开源",
-          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-          "recommend_reason_zh": "MagenticLite将此前仅限Microsoft Foundry的MagenticBrain和Fara 1.5模型权重在Hugging Face完全开源，包含应用与工具链，实现全栈开放。",
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
-      ],
-      "items": [
-        {
-          "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-          "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_zh": "微软 MagenticLite 模型全面开源",
-          "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-          "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-          "recommend_reason_zh": "MagenticLite将此前仅限Microsoft Foundry的MagenticBrain和Fara 1.5模型权重在Hugging Face完全开源，包含应用与工具链，实现全栈开放。",
-          "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-22T17:57:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.719,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-22T17:57:57Z",
-      "latest_at": "2026-07-22T17:57:57Z",
-      "primary_item": {
-        "id": "dd8a7f2203b3cc45de551a806933da55cd93ec16",
-        "title": "微软 MagenticLite 模型全面开源 / MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "title_zh": "微软 MagenticLite 模型全面开源",
-        "title_en": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "title_original": "MagenticLite's models are now fully open source. MagenticBrain and Fara 1.5， previously available …",
-        "summary": "MagenticLite 的模型现已完全开源。\n\n此前在 Microsoft Foundry 上提供的 MagenticBrain 和 Fara 1.5，现已在 Hugging Face 上开放权重。\n\n该应用、测试工具以及堆栈中的每个模型现已全部开放。",
-        "recommend_reason_zh": "MagenticLite将此前仅限Microsoft Foundry的MagenticBrain和Fara 1.5模型权重在Hugging Face完全开源，包含应用与工具链，实现全栈开放。",
-        "url": "https://x.com/MSFTResearch/status/2079989338994069511",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "模型权重已开源，可自部署或微调，今天就能用上。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1850,15 +1768,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9017,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1885,7 +1803,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     },
     {
@@ -1933,15 +1851,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8528,
+        "recency": 0.8305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1968,7 +1886,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-23T16:56:05.362451Z"
+        "scored_at": "2026-07-23T18:46:47.192880Z"
+      }
+    },
+    {
+      "story_id": "story_79be99194271",
+      "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+      "url": "https://www.aibase.com/news/29837",
+      "primary_url": "https://www.aibase.com/news/29837",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_en": null,
+          "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI为乔治亚州567公顷数据中心项目推出Project Camellia，承诺投资至少20亿美元、电力需求3.2吉瓦，并强调不推高电费、用水量极低，以争取社区支持。",
+          "url": "https://www.aibase.com/news/29837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:38:55.937142Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+          "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "title_en": null,
+          "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI为乔治亚州567公顷数据中心项目推出Project Camellia，承诺投资至少20亿美元、电力需求3.2吉瓦，并强调不推高电费、用水量极低，以争取社区支持。",
+          "url": "https://www.aibase.com/news/29837",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T09:38:55.937142Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8781,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T09:38:55.937142Z",
+      "latest_at": "2026-07-23T09:38:55.937142Z",
+      "primary_item": {
+        "id": "10c7d59372a959e3110026780f55fe41a56ebb65",
+        "title": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "title_zh": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "title_en": null,
+        "title_original": "OpenAI 为数据中心争取社区支持：承诺不推高电费、用水量极低",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI为乔治亚州567公顷数据中心项目推出Project Camellia，承诺投资至少20亿美元、电力需求3.2吉瓦，并强调不推高电费、用水量极低，以争取社区支持。",
+        "url": "https://www.aibase.com/news/29837",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "公关文，对开发者无直接影响，等建好再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-23T18:46:47.192880Z"
       }
     }
   ]
