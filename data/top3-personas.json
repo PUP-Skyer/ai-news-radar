@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:56:07.782600Z",
+  "generated_at": "2026-07-24T18:02:47.424395Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_ce28d04e10f8",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "给Claude套个保温杯，省的是钱，暴露的是API定价的离谱。"
-        },
-        "paper-police": {
-          "score": 85,
-          "review": "GitHub 仓库有代码和文档，但无论文或 benchmark，功能可验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "省缓存费的工具，API调用频繁的团队今天就能用上。"
-        }
-      }
-    },
-    {
       "story_id": "story_542d81ae471d",
       "title": "Copilot 云代理现已在 Linear 上正式可用 / Copilot cloud agent for Linear is now generally available",
       "url": "https://github.blog/changelog/2026-07-23-copilot-cloud-agent-for-linear-is-now-generally-available",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 65,
@@ -60,7 +40,7 @@
       "story_id": "story_11ed83f3e906",
       "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
       "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "手机端修CI失败，Copilot直接改代码，移动办公党今天就能用。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1950d49db06a",
+      "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "支持新规范是好事，但别指望开发者们会立刻抛弃旧版。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "只有官方博客宣称支持，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "MCP 规范升级，GitHub 工具链直接适配，集成开发环境可立即利用新特性。"
         }
       }
     }
