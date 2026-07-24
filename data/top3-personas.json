@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T18:02:47.424395Z",
+  "generated_at": "2026-07-24T19:55:10.685556Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_11ed83f3e906",
-      "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "Copilot修Actions失败？先看看它会不会把CI/CD搞得更乱。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有官方博客宣称，无论文无代码无评测，无法验证Copilot实际修复能力。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "手机端修CI失败，Copilot直接改代码，移动办公党今天就能用。"
-        }
-      }
-    },
-    {
       "story_id": "story_1950d49db06a",
       "title": "GitHub MCP Server 支持下一代 MCP 规范 / GitHub MCP Server supports the next MCP specification",
       "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -73,6 +53,18 @@
         "pragmatic": {
           "score": 85,
           "review": "MCP 规范升级，GitHub 工具链直接适配，集成开发环境可立即利用新特性。"
+        }
+      }
+    },
+    {
+      "story_id": "story_31e9766f60d4",
+      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
+      "url": "https://www.ithome.com/0/981/137.htm",
+      "rank": 3,
+      "reviews": {
+        "pragmatic": {
+          "score": 85,
+          "review": "多模态模型直接出20秒视频+音频，做内容生成的今天就能试API。"
         }
       }
     }
