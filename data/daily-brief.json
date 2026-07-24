@@ -1,8 +1,209 @@
 {
-  "generated_at": "2026-07-24T09:36:22.965741Z",
+  "generated_at": "2026-07-24T11:56:50.381837Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_ce28d04e10f8",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "url": "https://github.com/izeigerman/claude-thermos",
+      "primary_url": "https://github.com/izeigerman/claude-thermos",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": "Claude Code 的 prompt cache 有 5 分钟 TTL，子代理超过 5 分钟导致主代理缓存过期、重新编码，占总账单约 22%。claude-thermos 用 0.1x 的缓存读成本避免 1.25x 的重写开销。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": "Keeps your Claude session warm for you. Contribute to izeigerman/claude-thermos development by creating an account on GitHub.\nKeeps your Claude session warm for you. Contribute to izeigerman/claude-thermos development by creating an account on GitHub.\nKeeps your Claude session warm for you. Contribute to izeigerman/claude-thermos development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentatio",
+          "recommend_reason_zh": "提到子代理超过5分钟会导致主代理缓存过期，每次重写200K-500K tokens，测试发现这些重建占总账单的22%——这个开源工具通过后台保温来消除这笔开销。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "7a521493088ae324b98f515f600855b1e0c43814",
+          "title": "Show HN: Claude-thermos – 让你的Claude会话保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Show HN: Claude-thermos – 让你的Claude会话保持温暖",
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "recommend_reason_zh": "想延长Claude会话缓存？这个工具让API key用户默认5分钟、订阅用户1小时的缓存时间更灵活，但作者坦言1小时缓存已够用，其他场景价值有限。",
+          "url": "https://news.ycombinator.com/item?id=49024882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T18:20:12.130000Z"
+        },
+        {
+          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "summary": null,
+          "recommend_reason_zh": "Claude-thermos通过子agent等待超5分钟时自动保持主agent缓存活跃，避免每次全量重编码200K-500K tokens，在185次本地会话中节省约22%的API账单。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T17:06:22Z"
+        },
+        {
+          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "recommend_reason_zh": "Claude-thermos用0.1x读取成本防止因子代理等待超5分钟导致的缓存过期（每次重编码200K-500K tokens，约占账单22%），在185次本地会话中验证了显著节省。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T17:06:22Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": null,
+          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+          "recommend_reason_zh": "Claude Code 的 prompt cache 有 5 分钟 TTL，子代理超过 5 分钟导致主代理缓存过期、重新编码，占总账单约 22%。claude-thermos 用 0.1x 的缓存读成本避免 1.25x 的重写开销。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
+          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "title_en": null,
+          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
+          "summary": "Keeps your Claude session warm for you. Contribute to izeigerman/claude-thermos development by creating an account on GitHub.\nKeeps your Claude session warm for you. Contribute to izeigerman/claude-thermos development by creating an account on GitHub.\nKeeps your Claude session warm for you. Contribute to izeigerman/claude-thermos development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentatio",
+          "recommend_reason_zh": "提到子代理超过5分钟会导致主代理缓存过期，每次重写200K-500K tokens，测试发现这些重建占总账单的22%——这个开源工具通过后台保温来消除这笔开销。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-24T09:47:29.601000Z"
+        },
+        {
+          "id": "7a521493088ae324b98f515f600855b1e0c43814",
+          "title": "Show HN: Claude-thermos – 让你的Claude会话保持温暖 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Show HN: Claude-thermos – 让你的Claude会话保持温暖",
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "recommend_reason_zh": "想延长Claude会话缓存？这个工具让API key用户默认5分钟、订阅用户1小时的缓存时间更灵活，但作者坦言1小时缓存已够用，其他场景价值有限。",
+          "url": "https://news.ycombinator.com/item?id=49024882",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T18:20:12.130000Z"
+        },
+        {
+          "id": "86dc4382a1ab15f6da95288b51b80fc774cf6689",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos keeps your Claude session warm for you",
+          "summary": null,
+          "recommend_reason_zh": "Claude-thermos通过子agent等待超5分钟时自动保持主agent缓存活跃，避免每次全量重编码200K-500K tokens，在185次本地会话中节省约22%的API账单。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T17:06:22Z"
+        },
+        {
+          "id": "e841a661bcc2dcc49d0a9913428ea0c0737b204d",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用 / Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "title_en": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "title_original": "Show HN: Claude-thermos – keeps your Claude session warm for you",
+          "summary": null,
+          "recommend_reason_zh": "Claude-thermos用0.1x读取成本防止因子代理等待超5分钟导致的缓存过期（每次重编码200K-500K tokens，约占账单22%），在185次本地会话中验证了显著节省。",
+          "url": "https://github.com/izeigerman/claude-thermos",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T17:06:22Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.8831,
+      "importance": 0.8831,
+      "importance_score": 0.8831,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9693,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:06:22Z",
+      "latest_at": "2026-07-24T09:47:29.601000Z",
+      "primary_item": {
+        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "title_en": null,
+        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
+        "recommend_reason_zh": "Claude Code 的 prompt cache 有 5 分钟 TTL，子代理超过 5 分钟导致主代理缓存过期、重新编码，占总账单约 22%。claude-thermos 用 0.1x 的缓存读成本避免 1.25x 的重写开销。",
+        "url": "https://github.com/izeigerman/claude-thermos",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "省缓存费的工具，API调用频繁的团队今天就能用上。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-24T12:05:10.071618Z"
+      }
+    },
     {
       "story_id": "story_542d81ae471d",
       "title": "Copilot 云代理现已在 Linear 上正式可用 / Copilot cloud agent for Linear is now generally available",
@@ -48,15 +249,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8263,
+      "importance": 0.8263,
+      "importance_score": 0.8263,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8523,
+        "recency": 0.824,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +286,206 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
+      }
+    },
+    {
+      "story_id": "story_11ed83f3e906",
+      "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：用Copilot云代理修复失败的Actions检查",
+          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": "现在你可以在GitHub Mobile上，对失败的GitHub Actions检查一键选择Fix with Copilot，让Copilot coding agent自动创建新PR并分析修复，再标记你审查——iOS和Android最新版已支持。",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_zh": "GitHub Mobile：用Copilot云代理修复失败的Actions检查",
+          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": "现在你可以在GitHub Mobile上，对失败的GitHub Actions检查一键选择Fix with Copilot，让Copilot coding agent自动创建新PR并分析修复，再标记你审查——iOS和Android最新版已支持。",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8206,
+      "importance": 0.8206,
+      "importance_score": 0.8206,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.792,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "title_zh": "GitHub Mobile：用Copilot云代理修复失败的Actions检查",
+        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": "现在你可以在GitHub Mobile上，对失败的GitHub Actions检查一键选择Fix with Copilot，让Copilot coding agent自动创建新PR并分析修复，再标记你审查——iOS和Android最新版已支持。",
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "手机端修CI失败，Copilot直接改代码，移动办公党今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-24T12:05:10.071618Z"
+      }
+    },
+    {
+      "story_id": "story_c64ef4eed3f2",
+      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "primary_url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+          "recommend_reason_zh": "美英联合测试显示，Kimi K3在ExploitBench仅得32%，远低于美国模型的76%；TLO攻击模拟中平均17步，仅一次完整路径，安全机制形同虚设，与其高分基准形成反差。",
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:48:32Z"
+        },
+        {
+          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 percent on ExploitBench, compared with 76 percent for leading U.S. models, while its safeguards failed to block exploit development or simulated attacks. The gap between its strong general benchmark scores and weaker cyber performance also fits allegations that Moonshot AI distilled Anthropic's models.\nThe British AI Security Institute and",
+          "recommend_reason_zh": "Kimi K3在ExploitBench上仅获32%，远低于美国顶级模型的76%，且安全防护未能阻止漏洞利用开发，其通用基准高分与网络能力低下也吻合蒸馏Anthropic模型的指控。",
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T09:48:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Decoder AI News",
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+          "recommend_reason_zh": "美英联合测试显示，Kimi K3在ExploitBench仅得32%，远低于美国模型的76%；TLO攻击模拟中平均17步，仅一次完整路径，安全机制形同虚设，与其高分基准形成反差。",
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:48:32Z"
+        },
+        {
+          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
+          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
+          "summary": "The British AI Security Institute and the U.S. Center for AI Standards and Innovation tested Moonshot AI's Kimi K3 on offensive cyber tasks. Kimi K3 scored 32 percent on ExploitBench, compared with 76 percent for leading U.S. models, while its safeguards failed to block exploit development or simulated attacks. The gap between its strong general benchmark scores and weaker cyber performance also fits allegations that Moonshot AI distilled Anthropic's models.\nThe British AI Security Institute and",
+          "recommend_reason_zh": "Kimi K3在ExploitBench上仅获32%，远低于美国顶级模型的76%，且安全防护未能阻止漏洞利用开发，其通用基准高分与网络能力低下也吻合蒸馏Anthropic模型的指控。",
+          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T09:48:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9696,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:48:32Z",
+      "latest_at": "2026-07-24T09:48:32Z",
+      "primary_item": {
+        "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
+        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
+        "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
+        "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
+        "recommend_reason_zh": "美英联合测试显示，Kimi K3在ExploitBench仅得32%，远低于美国模型的76%；TLO攻击模拟中平均17步，仅一次完整路径，安全机制形同虚设，与其高分基准形成反差。",
+        "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 40,
+      "persona_review": "benchmark差距不代表实际能力，等开源或API再评估是否影响你的安全方案。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -220,15 +620,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8239,
+        "recency": 0.7965,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,115 +657,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
-      "story_id": "story_11ed83f3e906",
-      "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：用Copilot云代理修复失败的Actions检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": "现在你可以在GitHub Mobile上，对失败的GitHub Actions检查一键选择Fix with Copilot，让Copilot coding agent自动创建新PR并分析修复，再标记你审查——iOS和Android最新版已支持。",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_zh": "GitHub Mobile：用Copilot云代理修复失败的Actions检查",
-          "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "summary": null,
-          "recommend_reason_zh": "现在你可以在GitHub Mobile上，对失败的GitHub Actions检查一键选择Fix with Copilot，让Copilot coding agent自动创建新PR并分析修复，再标记你审查——iOS和Android最新版已支持。",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8192,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
-      "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：用Copilot云代理修复失败的Actions检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_zh": "GitHub Mobile：用Copilot云代理修复失败的Actions检查",
-        "title_en": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "title_original": "GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "summary": null,
-        "recommend_reason_zh": "现在你可以在GitHub Mobile上，对失败的GitHub Actions检查一键选择Fix with Copilot，让Copilot coding agent自动创建新PR并分析修复，再标记你审查——iOS和Android最新版已支持。",
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "手机端修CI失败，Copilot直接改代码，移动办公党今天就能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
-      }
-    },
-    {
-      "story_id": "story_e8f0a452a534",
-      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-      "url": "https://www.aibase.com/news/29870",
-      "primary_url": "https://www.aibase.com/news/29870",
+      "story_id": "story_29cdb0f6765b",
+      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+      "url": "https://www.aibase.com/news/29881",
+      "primary_url": "https://www.aibase.com/news/29881",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "summary": "Google's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nGoogle's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nGoogle's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nExplore AI Fronti",
-          "recommend_reason_zh": "Alphabet Q2资本开支同比翻番至449亿美元，Google Cloud收入猛增82%达248亿美元，利润率近乎翻倍至35.6%，Gemini月活9.5亿，每分钟处理220亿tokens——这篇拆解了AI基建烧钱背后的盈利逻辑。",
-          "url": "https://www.aibase.com/news/29870",
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "summary": "A joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nA joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nA joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nExplore AI Frontiers",
+          "recommend_reason_zh": "英美AI安全机构联合测评显示，Kimi K3在ExploitBench漏洞利用测试中仅得32.2%，远低于美国前沿模型平均76.2%，安全屏障几乎无效。",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:36:22.965741Z"
+          "published_at": "2026-07-24T11:56:50.381837Z"
         }
       ],
       "source_count": 1,
@@ -374,18 +689,18 @@
       ],
       "items": [
         {
-          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
           "title_en": null,
-          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-          "summary": "Google's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nGoogle's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nGoogle's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nExplore AI Fronti",
-          "recommend_reason_zh": "Alphabet Q2资本开支同比翻番至449亿美元，Google Cloud收入猛增82%达248亿美元，利润率近乎翻倍至35.6%，Gemini月活9.5亿，每分钟处理220亿tokens——这篇拆解了AI基建烧钱背后的盈利逻辑。",
-          "url": "https://www.aibase.com/news/29870",
+          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "summary": "A joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nA joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nA joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nExplore AI Frontiers",
+          "recommend_reason_zh": "英美AI安全机构联合测评显示，Kimi K3在ExploitBench漏洞利用测试中仅得32.2%，远低于美国前沿模型平均76.2%，安全屏障几乎无效。",
+          "url": "https://www.aibase.com/news/29881",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:36:22.965741Z"
+          "published_at": "2026-07-24T11:56:50.381837Z"
         }
       ],
       "item_count": 1,
@@ -406,27 +721,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T09:36:22.965741Z",
-      "latest_at": "2026-07-24T09:36:22.965741Z",
+      "earliest_at": "2026-07-24T11:56:50.381837Z",
+      "latest_at": "2026-07-24T11:56:50.381837Z",
       "primary_item": {
-        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
-        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
+        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
         "title_en": null,
-        "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
-        "summary": "Google's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nGoogle's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nGoogle's computing power bill is rising at an alarming rate. Alphabet's second-quarter financial report shows that capital expenditures jumped 100% year-over-ye\nExplore AI Fronti",
-        "recommend_reason_zh": "Alphabet Q2资本开支同比翻番至449亿美元，Google Cloud收入猛增82%达248亿美元，利润率近乎翻倍至35.6%，Gemini月活9.5亿，每分钟处理220亿tokens——这篇拆解了AI基建烧钱背后的盈利逻辑。",
-        "url": "https://www.aibase.com/news/29870",
+        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+        "summary": "A joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nA joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nA joint evaluation by two major AI safety institutions in the UK and the US has exposed the \"other side\" of Moonshot's latest model, Kimi K3. The UK Artificial\nExplore AI Frontiers",
+        "recommend_reason_zh": "英美AI安全机构联合测评显示，Kimi K3在ExploitBench漏洞利用测试中仅得32.2%，远低于美国前沿模型平均76.2%，安全屏障几乎无效。",
+        "url": "https://www.aibase.com/news/29881",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "大厂花钱新闻，不写代码的不用管，等产品降价再说。",
+      "persona_score": 30,
+      "persona_review": "安全评测翻车不直接影响开发，等官方回应和修复方案再动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -474,15 +789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9603,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -510,7 +825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -558,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8163,
+      "importance": 0.8163,
+      "importance_score": 0.8163,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8292,
+        "recency": 0.8017,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +910,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -643,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.751,
+      "importance": 0.751,
+      "importance_score": 0.751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8183,
+        "recency": 0.7911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,7 +994,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -756,15 +1071,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7454,
+      "importance": 0.7454,
+      "importance_score": 0.7454,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.763,
+        "recency": 0.7377,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -792,7 +1107,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -869,15 +1184,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7534,
+        "recency": 0.7284,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -905,7 +1220,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -953,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8207,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,7 +1303,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
+      }
+    },
+    {
+      "story_id": "story_8f786c0e22cb",
+      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+      "url": "https://www.aibase.com/news/29879",
+      "primary_url": "https://www.aibase.com/news/29879",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_en": null,
+          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "summary": "On July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nOn July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nOn July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nExplore AI Fronti",
+          "recommend_reason_zh": "7月24日，红果短剧发布AI角色规范，要求单剧主要角色必须高度可辨识，禁止跨剧复用相似角色，并设三条版权红线，专项整治“高频AI脸”与素材侵权。",
+          "url": "https://www.aibase.com/news/29879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T11:56:50.381837Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "title_en": null,
+          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "summary": "On July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nOn July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nOn July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nExplore AI Fronti",
+          "recommend_reason_zh": "7月24日，红果短剧发布AI角色规范，要求单剧主要角色必须高度可辨识，禁止跨剧复用相似角色，并设三条版权红线，专项整治“高频AI脸”与素材侵权。",
+          "url": "https://www.aibase.com/news/29879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T11:56:50.381837Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T11:56:50.381837Z",
+      "latest_at": "2026-07-24T11:56:50.381837Z",
+      "primary_item": {
+        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "title_en": null,
+        "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "summary": "On July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nOn July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nOn July 24, Hongguo Short Drama released an announcement titled \"Announcement on Standardizing AI Drama Character Creation,\" clearly defining creation standards\nExplore AI Fronti",
+        "recommend_reason_zh": "7月24日，红果短剧发布AI角色规范，要求单剧主要角色必须高度可辨识，禁止跨剧复用相似角色，并设三条版权红线，专项整治“高频AI脸”与素材侵权。",
+        "url": "https://www.aibase.com/news/29879",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "平台内容审核规则，对开发者无直接影响，不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -1036,15 +1435,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7414,
-      "importance": 0.7414,
-      "importance_score": 0.7414,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7379,
+        "recency": 0.7134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1071,91 +1470,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
-      }
-    },
-    {
-      "story_id": "story_d7d984c2df20",
-      "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-      "url": "https://www.aibase.com/news/29877",
-      "primary_url": "https://www.aibase.com/news/29877",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-          "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_zh": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_en": null,
-          "title_original": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "summary": "Runway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nRunway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nRunway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nExplore AI Frontiers",
-          "recommend_reason_zh": "Runway推出Media Router，可根据创意验证、最终制作、日常生产三种场景自动切换AI模型，并按照质量、速度、成本优先级分配，帮助开发者省去手动比较模型的负担。",
-          "url": "https://www.aibase.com/news/29877",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:36:22.965741Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-          "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_zh": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "title_en": null,
-          "title_original": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-          "summary": "Runway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nRunway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nRunway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nExplore AI Frontiers",
-          "recommend_reason_zh": "Runway推出Media Router，可根据创意验证、最终制作、日常生产三种场景自动切换AI模型，并按照质量、速度、成本优先级分配，帮助开发者省去手动比较模型的负担。",
-          "url": "https://www.aibase.com/news/29877",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:36:22.965741Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:36:22.965741Z",
-      "latest_at": "2026-07-24T09:36:22.965741Z",
-      "primary_item": {
-        "id": "59cda7b7c747964fd514cc6ab0465d0d8a39c572",
-        "title": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-        "title_zh": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-        "title_en": null,
-        "title_original": "Runway推出Media Router：自动切换AI模型帮你省Token，创意验证到成片一条龙搞定",
-        "summary": "Runway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nRunway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nRunway announced the launch of Runway Media Router, which allows flexible switching between AI models for generating images, videos, and audio based on the use\nExplore AI Frontiers",
-        "recommend_reason_zh": "Runway推出Media Router，可根据创意验证、最终制作、日常生产三种场景自动切换AI模型，并按照质量、速度、成本优先级分配，帮助开发者省去手动比较模型的负担。",
-        "url": "https://www.aibase.com/news/29877",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "省Token的调度工具，适合多模型工作流，但需看实际兼容性和成本。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -1203,15 +1518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8644,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,173 +1554,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
-      }
-    },
-    {
-      "story_id": "story_79c2ff005240",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-      "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "primary_url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-          "recommend_reason_zh": "Zenity Labs发现的\"AgentForger\"漏洞显示，一个被篡改的ChatGPT链接就能创建继承用户身份与权限的自主代理，每五分钟从攻击者收件箱获取新指令。",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ca60e336078bc560f5427e1deef672799be840",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-          "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-          "recommend_reason_zh": "Zenity Labs发现的\"AgentForger\"漏洞显示，一个被篡改的ChatGPT链接就能创建继承用户身份与权限的自主代理，每五分钟从攻击者收件箱获取新指令。",
-          "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7233,
-      "importance": 0.7233,
-      "importance_score": 0.7233,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:01:30Z",
-      "latest_at": "2026-07-23T17:01:30Z",
-      "primary_item": {
-        "id": "39ca60e336078bc560f5427e1deef672799be840",
-        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体 / One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "title_zh": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-        "title_en": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "title_original": "One tampered ChatGPT link could spawn a rogue AI agent that took orders from an attacker every five minutes",
-        "summary": "安全公司 Zenity Labs 发现 OpenAI Workspace Agents 存在\"AgentForger\"漏洞，攻击者发送一个含恶意提示词的 ChatGPT 链接，即可在受害者账户下创建自主 AI 智能体。该智能体继承受害者身份和已授权应用权限，绕过安全审批，并设置每五分钟运行一次的定时任务，从攻击者邮箱获取指令执行。OpenAI 在四天内修复了该漏洞。",
-        "recommend_reason_zh": "Zenity Labs发现的\"AgentForger\"漏洞显示，一个被篡改的ChatGPT链接就能创建继承用户身份与权限的自主代理，每五分钟从攻击者收件箱获取新指令。",
-        "url": "https://the-decoder.com/one-tampered-chatgpt-link-could-spawn-a-rogue-ai-agent-that-took-orders-from-an-attacker-every-five-minutes",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "安全漏洞需关注，但非今天能用的工具，等官方补丁和修复指南。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
-      }
-    },
-    {
-      "story_id": "story_8e78ef3b778a",
-      "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-      "url": "https://x.com/gdb/status/2080351159638704615",
-      "primary_url": "https://x.com/gdb/status/2080351159638704615",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_zh": "ChatGPT 向美国用户推出健康功能",
-          "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-          "recommend_reason_zh": "ChatGPT向美国用户推出Health功能，每周有3亿人用它进行健康查询，现在可安全连接支持的医疗记录，让AI理解个人健康背景。",
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-          "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_zh": "ChatGPT 向美国用户推出健康功能",
-          "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-          "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-          "recommend_reason_zh": "ChatGPT向美国用户推出Health功能，每周有3亿人用它进行健康查询，现在可安全连接支持的医疗记录，让AI理解个人健康背景。",
-          "url": "https://x.com/gdb/status/2080351159638704615",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7974,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:55:42Z",
-      "latest_at": "2026-07-23T17:55:42Z",
-      "primary_item": {
-        "id": "1e12c1d4ffe597b0ee121de37cd70ccb28dd59ef",
-        "title": "ChatGPT 向美国用户推出健康功能 / Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "title_zh": "ChatGPT 向美国用户推出健康功能",
-        "title_en": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "title_original": "Launching Health in ChatGPT to U.S. users. 300 million people use ChatGPT each week for health quer…",
-        "summary": "OpenAI 宣布向美国用户推出 ChatGPT 健康功能，支持安全连接 Apple Health 及受支持的医疗记录。每周有 3 亿用户使用 ChatGPT 进行健康咨询，新功能可让 ChatGPT 理解个人健康上下文，追踪变化并提供更个性化的帮助。",
-        "recommend_reason_zh": "ChatGPT向美国用户推出Health功能，每周有3亿人用它进行健康查询，现在可安全连接支持的医疗记录，让AI理解个人健康背景。",
-        "url": "https://x.com/gdb/status/2080351159638704615",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "美国限定功能，国内开发者暂时用不上，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -1453,15 +1602,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8019,
+        "recency": 0.7753,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1490,113 +1639,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
-      "story_id": "story_5024eb5536d2",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "recommend_reason_zh": "TheNumbers.com因AI爬虫与安全攻击在2026年3月崩溃重建，创始人Bruce Nash的网站曾追踪超过78,000部电影和236,000人，年访问量800万，如今被迫重来。",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "title_en": null,
-          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-          "recommend_reason_zh": "TheNumbers.com因AI爬虫与安全攻击在2026年3月崩溃重建，创始人Bruce Nash的网站曾追踪超过78,000部电影和236,000人，年访问量800万，如今被迫重来。",
-          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29.016000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8051,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T18:35:29.016000Z",
-      "latest_at": "2026-07-23T18:35:29.016000Z",
-      "primary_item": {
-        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "title_en": null,
-        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
-        "recommend_reason_zh": "TheNumbers.com因AI爬虫与安全攻击在2026年3月崩溃重建，创始人Bruce Nash的网站曾追踪超过78,000部电影和236,000人，年访问量800万，如今被迫重来。",
-        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "网站被爬崩了，但这是运维问题，对AI从业者没直接参考价值。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
-      }
-    },
-    {
-      "story_id": "story_9555ff43cca1",
-      "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-      "url": "https://www.aibase.com/news/29875",
-      "primary_url": "https://www.aibase.com/news/29875",
+      "story_id": "story_84ccf0281166",
+      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+      "url": "https://www.aibase.com/news/29880",
+      "primary_url": "https://www.aibase.com/news/29880",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "title_zh": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
           "title_en": null,
-          "title_original": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "summary": "Xiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nXiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nXiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nExplore AI Fronti",
-          "recommend_reason_zh": "小鹏人形机器人在广州工厂启动小批量试生产，CEO何小鹏亲自挂帅机器人业务，计划2026年量产、2027年起部署到线下门店承担引导解说等职责。",
-          "url": "https://www.aibase.com/news/29875",
+          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "summary": "Black Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nBlack Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nBlack Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nExplore AI Fronti",
+          "recommend_reason_zh": "Black Forest Labs推出FLUX3多模态模型，单次可生成20秒音视频，在10秒720p测试中胜率69%碾压Grok Imagine Video、52%领先Seedance 2.0。",
+          "url": "https://www.aibase.com/news/29880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:36:22.965741Z"
+          "published_at": "2026-07-24T11:56:50.381837Z"
         }
       ],
       "source_count": 1,
@@ -1605,18 +1671,18 @@
       ],
       "items": [
         {
-          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "title_zh": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
           "title_en": null,
-          "title_original": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "summary": "Xiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nXiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nXiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nExplore AI Fronti",
-          "recommend_reason_zh": "小鹏人形机器人在广州工厂启动小批量试生产，CEO何小鹏亲自挂帅机器人业务，计划2026年量产、2027年起部署到线下门店承担引导解说等职责。",
-          "url": "https://www.aibase.com/news/29875",
+          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+          "summary": "Black Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nBlack Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nBlack Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nExplore AI Fronti",
+          "recommend_reason_zh": "Black Forest Labs推出FLUX3多模态模型，单次可生成20秒音视频，在10秒720p测试中胜率69%碾压Grok Imagine Video、52%领先Seedance 2.0。",
+          "url": "https://www.aibase.com/news/29880",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T09:36:22.965741Z"
+          "published_at": "2026-07-24T11:56:50.381837Z"
         }
       ],
       "item_count": 1,
@@ -1637,27 +1703,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T09:36:22.965741Z",
-      "latest_at": "2026-07-24T09:36:22.965741Z",
+      "earliest_at": "2026-07-24T11:56:50.381837Z",
+      "latest_at": "2026-07-24T11:56:50.381837Z",
       "primary_item": {
-        "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-        "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-        "title_zh": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
+        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
+        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
         "title_en": null,
-        "title_original": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-        "summary": "Xiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nXiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nXiaopeng's humanoid robot has officially started small-scale trial production at its Guangzhou factory. The mass production line is now in the final integration\nExplore AI Fronti",
-        "recommend_reason_zh": "小鹏人形机器人在广州工厂启动小批量试生产，CEO何小鹏亲自挂帅机器人业务，计划2026年量产、2027年起部署到线下门店承担引导解说等职责。",
-        "url": "https://www.aibase.com/news/29875",
+        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+        "summary": "Black Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nBlack Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nBlack Forest Labs announced the launch of FLUX3, a multi-modal foundation model, in Early Access mode. The model adopts a unified architecture for joint learnin\nExplore AI Fronti",
+        "recommend_reason_zh": "Black Forest Labs推出FLUX3多模态模型，单次可生成20秒音视频，在10秒720p测试中胜率69%碾压Grok Imagine Video、52%领先Seedance 2.0。",
+        "url": "https://www.aibase.com/news/29880",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "量产时间在2026年，今天对开发者无影响，等API或开源再关注。",
+      "persona_score": 65,
+      "persona_review": "多模态生成新选择，但需实测API可用性和价格，暂不急于切换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
@@ -1705,15 +1771,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.798,
+      "importance": 0.798,
+      "importance_score": 0.798,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.77,
+        "recency": 0.7444,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1742,26 +1808,109 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     },
     {
-      "story_id": "story_b28aca9a9053",
-      "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-      "url": "https://www.aibase.com/news/29872",
-      "primary_url": "https://www.aibase.com/news/29872",
+      "story_id": "story_5024eb5536d2",
+      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "primary_url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_en": null,
+          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+          "recommend_reason_zh": "TheNumbers.com因AI爬虫与安全攻击在2026年3月崩溃重建，创始人Bruce Nash的网站曾追踪超过78,000部电影和236,000人，年访问量800万，如今被迫重来。",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "title_en": null,
+          "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+          "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+          "recommend_reason_zh": "TheNumbers.com因AI爬虫与安全攻击在2026年3月崩溃重建，创始人Bruce Nash的网站曾追踪超过78,000部电影和236,000人，年访问量800万，如今被迫重来。",
+          "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T18:35:29.016000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7367,
+      "importance": 0.7367,
+      "importance_score": 0.7367,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7783,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T18:35:29.016000Z",
+      "latest_at": "2026-07-23T18:35:29.016000Z",
+      "primary_item": {
+        "id": "d5cf8ad28a2fb89768aef8293251d6cb6142fa2f",
+        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "title_zh": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "title_en": null,
+        "title_original": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
+        "summary": "电影数据权威网站 The Numbers 于 2026 年 3 月 5 日突然下线，一周后仅以精简版恢复上线，历史图表、电影页面和 Report Builder 均被移除。创始人 Bruce Nash 透露，AI 爬虫和智能体流量占其总流量的 90%，服务器在持续重压下崩溃，日志还显示存在针对后门的恶意攻击。团队被迫放弃运行 30 年、包含 16 万源文件的旧系统，在新基础设施上重建网站。",
+        "recommend_reason_zh": "TheNumbers.com因AI爬虫与安全攻击在2026年3月崩溃重建，创始人Bruce Nash的网站曾追踪超过78,000部电影和236,000人，年访问量800万，如今被迫重来。",
+        "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "网站被爬崩了，但这是运维问题，对AI从业者没直接参考价值。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-24T12:05:10.071618Z"
+      }
+    },
+    {
+      "story_id": "story_e8f0a452a534",
+      "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+      "url": "https://www.aibase.com/news/29870",
+      "primary_url": "https://www.aibase.com/news/29870",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "584922469d7218571f7a6a04bc7fcbf21ac24ffe",
-          "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-          "title_zh": "快手入局AI互动内容赛道，开放首批创作者招募",
+          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
           "title_en": null,
-          "title_original": "快手入局AI互动内容赛道，开放首批创作者招募",
-          "summary": "After TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nAfter TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nAfter TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nExplore AI Fronti",
-          "recommend_reason_zh": "快手正式上线AI互动内容创作功能并开放首批创作者招募，目标锁定有AI互动剧情和角色对话兴趣的创作者，提供早期工具访问和平台协作机会。",
-          "url": "https://www.aibase.com/news/29872",
+          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "summary": null,
+          "recommend_reason_zh": "Alphabet Q2资本开支同比翻番至449亿美元，Google Cloud收入猛增82%达248亿美元，利润率近乎翻倍至35.6%，Gemini月活9.5亿，每分钟处理220亿tokens——这篇拆解了AI基建烧钱背后的盈利逻辑。",
+          "url": "https://www.aibase.com/news/29870",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1774,14 +1923,14 @@
       ],
       "items": [
         {
-          "id": "584922469d7218571f7a6a04bc7fcbf21ac24ffe",
-          "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-          "title_zh": "快手入局AI互动内容赛道，开放首批创作者招募",
+          "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+          "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
           "title_en": null,
-          "title_original": "快手入局AI互动内容赛道，开放首批创作者招募",
-          "summary": "After TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nAfter TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nAfter TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nExplore AI Fronti",
-          "recommend_reason_zh": "快手正式上线AI互动内容创作功能并开放首批创作者招募，目标锁定有AI互动剧情和角色对话兴趣的创作者，提供早期工具访问和平台协作机会。",
-          "url": "https://www.aibase.com/news/29872",
+          "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+          "summary": null,
+          "recommend_reason_zh": "Alphabet Q2资本开支同比翻番至449亿美元，Google Cloud收入猛增82%达248亿美元，利润率近乎翻倍至35.6%，Gemini月活9.5亿，每分钟处理220亿tokens——这篇拆解了AI基建烧钱背后的盈利逻辑。",
+          "url": "https://www.aibase.com/news/29870",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1790,15 +1939,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1809,24 +1958,24 @@
       "earliest_at": "2026-07-24T09:36:22.965741Z",
       "latest_at": "2026-07-24T09:36:22.965741Z",
       "primary_item": {
-        "id": "584922469d7218571f7a6a04bc7fcbf21ac24ffe",
-        "title": "快手入局AI互动内容赛道，开放首批创作者招募",
-        "title_zh": "快手入局AI互动内容赛道，开放首批创作者招募",
+        "id": "c585b7b5321a3a10cca7de27bbd36f5e698ce3af",
+        "title": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "title_zh": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
         "title_en": null,
-        "title_original": "快手入局AI互动内容赛道，开放首批创作者招募",
-        "summary": "After TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nAfter TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nAfter TikTok's internal testing of the \"AI Interactive Space,\" Kuaishou has officially announced the launch of an \"AI Interactive Content\" creation feature, whi\nExplore AI Fronti",
-        "recommend_reason_zh": "快手正式上线AI互动内容创作功能并开放首批创作者招募，目标锁定有AI互动剧情和角色对话兴趣的创作者，提供早期工具访问和平台协作机会。",
-        "url": "https://www.aibase.com/news/29872",
+        "title_original": "Google Q2 资本开支翻番破纪录：449 亿美元砸向 AI 基建，云业务利润率几乎翻倍",
+        "summary": null,
+        "recommend_reason_zh": "Alphabet Q2资本开支同比翻番至449亿美元，Google Cloud收入猛增82%达248亿美元，利润率近乎翻倍至35.6%，Gemini月活9.5亿，每分钟处理220亿tokens——这篇拆解了AI基建烧钱背后的盈利逻辑。",
+        "url": "https://www.aibase.com/news/29870",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "平台招募创作者，对开发者暂无直接工具或接口可用，观望即可。",
+      "persona_score": 20,
+      "persona_review": "大厂花钱新闻，不写代码的不用管，等产品降价再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-24T09:44:57.530837Z"
+        "scored_at": "2026-07-24T12:05:10.071618Z"
       }
     }
   ]
