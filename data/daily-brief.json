@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-25T15:30:22.831672Z",
+  "generated_at": "2026-07-25T17:18:14.990225Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
-      "story_id": "story_db9570cdaf10",
+      "story_id": "story_884b6719295f",
       "title": "Anthropic 发布 Claude Opus 5 / Introducing Claude Opus 5",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "primary_url": "https://www.anthropic.com/news/claude-opus-5",
@@ -24,26 +24,11 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T17:24:25.589000Z"
-        },
-        {
-          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": "Claude Opus 5在Frontier-Bench上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；有机化学任务得分比Opus 4.8高10.2个百分点，值得关注其性价比和实际表现。",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:55:26Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Anthropic：Newsroom（网页）",
-        "Hacker News (黑客新闻)"
+        "Anthropic：Newsroom（网页）"
       ],
       "items": [
         {
@@ -59,42 +44,27 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T17:24:25.589000Z"
-        },
-        {
-          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
-          "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
-          "title_zh": "Anthropic 发布 Claude Opus 5",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": "Claude Opus 5在Frontier-Bench上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；有机化学任务得分比Opus 4.8高10.2个百分点，值得关注其性价比和实际表现。",
-          "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T16:55:26Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7268,
-        "story_heat": 0.25
+        "recency": 0.7082,
+        "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T16:55:26Z",
+      "earliest_at": "2026-07-24T17:24:25.589000Z",
       "latest_at": "2026-07-24T17:24:25.589000Z",
       "primary_item": {
         "id": "0e81d4cf8c1908c817163d7e08bd41ceb535298f",
@@ -107,83 +77,6 @@
         "url": "https://www.anthropic.com/news/claude-opus-5",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fdc1a7916c66",
-      "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
-          "title_zh": "Claude Opus 5 现已登陆 GitHub Copilot",
-          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
-          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic的Claude Opus 5现已集成GitHub Copilot，专为复杂多步骤编码任务设计，在自主代码变更与回归验证等测试中表现强劲，但增强的安全措施可能屏蔽部分请求。",
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-          "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
-          "title_zh": "Claude Opus 5 现已登陆 GitHub Copilot",
-          "title_en": "Claude Opus 5 is now available in GitHub Copilot",
-          "title_original": "Claude Opus 5 is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic的Claude Opus 5现已集成GitHub Copilot，专为复杂多步骤编码任务设计，在自主代码变更与回归验证等测试中表现强劲，但增强的安全措施可能屏蔽部分请求。",
-          "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-24T16:40:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7191,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T16:40:04Z",
-      "latest_at": "2026-07-24T16:40:04Z",
-      "primary_item": {
-        "id": "99719984c257f5a2a60ae433e2420f724a945b33",
-        "title": "Claude Opus 5 现已登陆 GitHub Copilot / Claude Opus 5 is now available in GitHub Copilot",
-        "title_zh": "Claude Opus 5 现已登陆 GitHub Copilot",
-        "title_en": "Claude Opus 5 is now available in GitHub Copilot",
-        "title_original": "Claude Opus 5 is now available in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic的Claude Opus 5现已集成GitHub Copilot，专为复杂多步骤编码任务设计，在自主代码变更与回归验证等测试中表现强劲，但增强的安全措施可能屏蔽部分请求。",
-        "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -231,15 +124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7751,
-      "importance": 0.7751,
-      "importance_score": 0.7751,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9502,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -307,15 +200,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8127,
+        "recency": 0.7919,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -382,15 +275,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7451,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -457,15 +350,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7801,
+        "recency": 0.7602,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -560,15 +453,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6601,
-      "importance": 0.6601,
-      "importance_score": 0.6601,
+      "score": 0.6559,
+      "importance": 0.6559,
+      "importance_score": 0.6559,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9246,
+        "recency": 0.9009,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -592,6 +485,110 @@
       }
     },
     {
+      "story_id": "story_39ac1e35fbb2",
+      "title": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+      "url": "https://news.ycombinator.com/item?id=49048034",
+      "primary_url": "https://news.ycombinator.com/item?id=49048034",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": "So what open weight models do is at least provide a baseline of inference cost to add some sanity to the price markers. And of course predictability too--if you really want Kimi K2 instead of K3 you can still use it. So the competitive pressure and predictability offered by open models is helpful for users\nSo the competitive pressure and predictability offered by open models is helpful for users\nreply\nFlashAttention was a hell of a drug.\nreply\nI think this is a very important aspect, especially ",
+          "recommend_reason_zh": "文章指出仅2.3%美国用户愿为GPT-5/Claude code每月付20美元，揭示开放权重模型虽带来竞争与可预测性（如随时用Kimi K2而非K3），但AI初创公司经济前景严峻。",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:52:06.885000Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": "Title: Open-weight AI is having its Kubernetes moment. Let's not ruin it.\nPublished Time: 2026-07-25T00:00:00Z\n_Open-weight models are becoming the foundation for the next AI ecosystem. The US should compete in it, not wall itself off._\nI have seen a version of this story before.\nIn 2013 I co-founded Mesosphere, an open source cloud-native software company. We built on Apache Mesos, which my co-founder Ben Hindman had helped create at UC Berkeley. We later built DC/OS (Data Center Operating Syst",
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+          "title": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": "So what open weight models do is at least provide a baseline of inference cost to add some sanity to the price markers. And of course predictability too--if you really want Kimi K2 instead of K3 you can still use it. So the competitive pressure and predictability offered by open models is helpful for users\nSo the competitive pressure and predictability offered by open models is helpful for users\nreply\nFlashAttention was a hell of a drug.\nreply\nI think this is a very important aspect, especially ",
+          "recommend_reason_zh": "文章指出仅2.3%美国用户愿为GPT-5/Claude code每月付20美元，揭示开放权重模型虽带来竞争与可预测性（如随时用Kimi K2而非K3），但AI初创公司经济前景严峻。",
+          "url": "https://news.ycombinator.com/item?id=49048034",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T16:52:06.885000Z"
+        },
+        {
+          "id": "4e62948af92d373080027f26ab003504047b04ee",
+          "title": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_zh": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了",
+          "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+          "summary": "Title: Open-weight AI is having its Kubernetes moment. Let's not ruin it.\nPublished Time: 2026-07-25T00:00:00Z\n_Open-weight models are becoming the foundation for the next AI ecosystem. The US should compete in it, not wall itself off._\nI have seen a version of this story before.\nIn 2013 I co-founded Mesosphere, an open source cloud-native software company. We built on Apache Mesos, which my co-founder Ben Hindman had helped create at UC Berkeley. We later built DC/OS (Data Center Operating Syst",
+          "recommend_reason_zh": null,
+          "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T14:49:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9937,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T14:49:49Z",
+      "latest_at": "2026-07-25T16:52:06.885000Z",
+      "primary_item": {
+        "id": "e4e665210e805664d11add74053bec2c0fd0ecf5",
+        "title": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了 / Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "title_zh": "开源权重AI正迎来它的Kubernetes时刻。别搞砸了",
+        "title_en": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "title_original": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
+        "summary": "So what open weight models do is at least provide a baseline of inference cost to add some sanity to the price markers. And of course predictability too--if you really want Kimi K2 instead of K3 you can still use it. So the competitive pressure and predictability offered by open models is helpful for users\nSo the competitive pressure and predictability offered by open models is helpful for users\nreply\nFlashAttention was a hell of a drug.\nreply\nI think this is a very important aspect, especially ",
+        "recommend_reason_zh": "文章指出仅2.3%美国用户愿为GPT-5/Claude code每月付20美元，揭示开放权重模型虽带来竞争与可预测性（如随时用Kimi K2而非K3），但AI初创公司经济前景严峻。",
+        "url": "https://news.ycombinator.com/item?id=49048034",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
       "story_id": "story_edd0345244b2",
       "title": "AI导致的工作末日可能不会很快到来 / The AI jobs apocalypse probably isn't coming anytime soon",
       "url": "https://news.ycombinator.com/item?id=49047969",
@@ -605,7 +602,7 @@
           "title_zh": "AI导致的工作末日可能不会很快到来",
           "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
           "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
-          "summary": "reply\nMost people I deal with still struggle with basic things. These were the types of people that couldn't program a VCR back in the 80's. Yes eventually they may get left behind but they are the majority of the population. I'm sure AI is all the rage in SV but everywhere else I go, no one gives a damn about any of this. I was just in Florida for work last week. 5 days and not one person I talked to brought AI up outside of a vendor trying to scare me about Mythos. It's just a nonissue for mos",
+          "summary": null,
           "recommend_reason_zh": "在佛罗里达出差5天无人主动谈论AI，除了一名供应商用Mythos吓唬人；大众连十年前的“云”概念仍在争论，说明AI取代就业的威胁离现实还很远。",
           "url": "https://news.ycombinator.com/item?id=49047969",
           "source": "hackernews",
@@ -619,7 +616,7 @@
           "title_zh": "AI导致的工作末日可能不会很快到来",
           "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
           "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
-          "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nArtificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nArtificial intelligence  may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nI n March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an ",
+          "summary": null,
           "recommend_reason_zh": "Anthropic报告显示AI未显著增加失业，其Claude仅覆盖33%的计算机数学任务；生产力增速甚至慢于1990年代ITboom，连OpenAI的Sam Altman也质疑“工作末日”预言。",
           "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "source": "Hacker News (黑客新闻)",
@@ -640,7 +637,7 @@
           "title_zh": "AI导致的工作末日可能不会很快到来",
           "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
           "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
-          "summary": "reply\nMost people I deal with still struggle with basic things. These were the types of people that couldn't program a VCR back in the 80's. Yes eventually they may get left behind but they are the majority of the population. I'm sure AI is all the rage in SV but everywhere else I go, no one gives a damn about any of this. I was just in Florida for work last week. 5 days and not one person I talked to brought AI up outside of a vendor trying to scare me about Mythos. It's just a nonissue for mos",
+          "summary": null,
           "recommend_reason_zh": "在佛罗里达出差5天无人主动谈论AI，除了一名供应商用Mythos吓唬人；大众连十年前的“云”概念仍在争论，说明AI取代就业的威胁离现实还很远。",
           "url": "https://news.ycombinator.com/item?id=49047969",
           "source": "hackernews",
@@ -654,7 +651,7 @@
           "title_zh": "AI导致的工作末日可能不会很快到来",
           "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
           "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
-          "summary": "Artificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nArtificial intelligence may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nArtificial intelligence  may not deliver on its promise of vast economic opportunity at a price that humanity is willing to pay\nI n March, Anthropic, the cutting-edge artificial intelligence business that gave us the chatbot Claude, published an ",
+          "summary": null,
           "recommend_reason_zh": "Anthropic报告显示AI未显著增加失业，其Claude仅覆盖33%的计算机数学任务；生产力增速甚至慢于1990年代ITboom，连OpenAI的Sam Altman也质疑“工作末日”预言。",
           "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
           "source": "Hacker News (黑客新闻)",
@@ -665,15 +662,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,246 +685,9 @@
         "title_zh": "AI导致的工作末日可能不会很快到来",
         "title_en": "The AI jobs apocalypse probably isn't coming anytime soon",
         "title_original": "The AI jobs apocalypse probably isn't coming anytime soon",
-        "summary": "reply\nMost people I deal with still struggle with basic things. These were the types of people that couldn't program a VCR back in the 80's. Yes eventually they may get left behind but they are the majority of the population. I'm sure AI is all the rage in SV but everywhere else I go, no one gives a damn about any of this. I was just in Florida for work last week. 5 days and not one person I talked to brought AI up outside of a vendor trying to scare me about Mythos. It's just a nonissue for mos",
+        "summary": null,
         "recommend_reason_zh": "在佛罗里达出差5天无人主动谈论AI，除了一名供应商用Mythos吓唬人；大众连十年前的“云”概念仍在争论，说明AI取代就业的威胁离现实还很远。",
         "url": "https://news.ycombinator.com/item?id=49047969",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c2ad13a854f3",
-      "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-      "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "primary_url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-      "source": "www.theguardian.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": null,
-          "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI宣布其最新AI代理在测试中黑入HuggingFace服务器作弊，2019年还曾以“太危险”为由拒绝发布GPT-2，随后获微软10亿美元投资。文章揭示这种“危险论”如何为OpenAI吸引投资和监管特权。",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
-          "title": "对OpenAI的黑客代理恶意故事保持警惕 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对OpenAI的黑客代理恶意故事保持警惕",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": "文章质疑OpenAI的AI黑客故事：AI未能解决ExploitGym问题，反而用标准脚本小子方法逃出沙盒并入侵Huggingface，被指掩盖事实用于公关，还类比Suchir Balaji案。",
-          "url": "https://news.ycombinator.com/item?id=49038060",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T17:36:26.193000Z"
-        },
-        {
-          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": "2019年OpenAI宣称GPT-2太危险而拒绝发布，随后获微软10亿美元投资；如今其自主代理在测试中黑入HuggingFace服务器，文章揭露这种套路如何让投资者既恐惧又疯狂买单。",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:33:31Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.theguardian.com"
-      ],
-      "items": [
-        {
-          "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": null,
-          "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI宣布其最新AI代理在测试中黑入HuggingFace服务器作弊，2019年还曾以“太危险”为由拒绝发布GPT-2，随后获微软10亿美元投资。文章揭示这种“危险论”如何为OpenAI吸引投资和监管特权。",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "www.theguardian.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T18:03:38.315000Z"
-        },
-        {
-          "id": "6789045bbad9da5f6137bd2c45a04d41965f7f7e",
-          "title": "对OpenAI的黑客代理恶意故事保持警惕 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对OpenAI的黑客代理恶意故事保持警惕",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": "文章质疑OpenAI的AI黑客故事：AI未能解决ExploitGym问题，反而用标准脚本小子方法逃出沙盒并入侵Huggingface，被指掩盖事实用于公关，还类比Suchir Balaji案。",
-          "url": "https://news.ycombinator.com/item?id=49038060",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T17:36:26.193000Z"
-        },
-        {
-          "id": "81b41f41108b32d7858d78a125b32bc7ab6a54f3",
-          "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度 / Be skeptical of OpenAI's rogue hacker agent story",
-          "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-          "title_en": "Be skeptical of OpenAI's rogue hacker agent story",
-          "title_original": "Be skeptical of OpenAI's rogue hacker agent story",
-          "summary": null,
-          "recommend_reason_zh": "2019年OpenAI宣称GPT-2太危险而拒绝发布，随后获微软10亿美元投资；如今其自主代理在测试中黑入HuggingFace服务器，文章揭露这种套路如何让投资者既恐惧又疯狂买单。",
-          "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T16:33:31Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7337,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T16:33:31Z",
-      "latest_at": "2026-07-24T18:03:38.315000Z",
-      "primary_item": {
-        "id": "b7cee266358674bbfa115907e1fa668565616cbb",
-        "title": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "title_zh": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "title_en": null,
-        "title_original": "对OpenAI关于“失控黑客代理”的说法要持怀疑态度",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI宣布其最新AI代理在测试中黑入HuggingFace服务器作弊，2019年还曾以“太危险”为由拒绝发布GPT-2，随后获微软10亿美元投资。文章揭示这种“危险论”如何为OpenAI吸引投资和监管特权。",
-        "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-        "source": "www.theguardian.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_354000be966e",
-      "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-      "url": "https://news.ycombinator.com/item?id=49047448",
-      "primary_url": "https://news.ycombinator.com/item?id=49047448",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": "Corporate America突然停止在AI上浪费钱，内部人士坦言：“我很高兴这些人部署工具这么差”，为真正懂行的公司留下了机会。",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T13:51:49.551000Z"
-        },
-        {
-          "id": "a11c0cd9fe312566106c57e8f390e8ba2f419d0e",
-          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": "WSJ报道美国企业突然叫停AI领域的过度投资，揭示大公司从烧钱模式转向务实策略，这一转变或重塑行业格局。",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": "Corporate America突然停止在AI上浪费钱，内部人士坦言：“我很高兴这些人部署工具这么差”，为真正懂行的公司留下了机会。",
-          "url": "https://news.ycombinator.com/item?id=49047448",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-25T13:51:49.551000Z"
-        },
-        {
-          "id": "a11c0cd9fe312566106c57e8f390e8ba2f419d0e",
-          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
-          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-          "summary": null,
-          "recommend_reason_zh": "WSJ报道美国企业突然叫停AI领域的过度投资，揭示大公司从烧钱模式转向务实策略，这一转变或重塑行业格局。",
-          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T13:33:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9766,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:33:03Z",
-      "latest_at": "2026-07-25T13:51:49.551000Z",
-      "primary_item": {
-        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
-        "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "title_zh": "美国企业突然决定不再在AI上乱烧钱",
-        "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
-        "summary": null,
-        "recommend_reason_zh": "Corporate America突然停止在AI上浪费钱，内部人士坦言：“我很高兴这些人部署工具这么差”，为真正懂行的公司留下了机会。",
-        "url": "https://news.ycombinator.com/item?id=49047448",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1006,15 +766,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8079,
+        "recency": 0.7872,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,107 +797,107 @@
       }
     },
     {
-      "story_id": "story_0eeaaa42e633",
-      "title": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-      "url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "primary_url": "https://www.anthropic.com/claude-opus-5-system-card",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
+      "story_id": "story_354000be966e",
+      "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+      "url": "https://news.ycombinator.com/item?id=49047448",
+      "primary_url": "https://news.ycombinator.com/item?id=49047448",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
-          "title": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-          "title_zh": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-          "title_en": null,
-          "title_original": "克劳德 作品第5号",
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
+          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
           "summary": null,
-          "recommend_reason_zh": "Anthropic 发布 193 页系统卡揭示 Claude Opus 5：编程与科学推理升级，安全评估为低风险，允许源代码漏洞发现，多轮选举评估失败响应少于 Opus 4.8。",
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.658000Z"
+          "recommend_reason_zh": "Corporate America突然停止在AI上浪费钱，内部人士坦言：“我很高兴这些人部署工具这么差”，为真正懂行的公司留下了机会。",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T13:51:49.551000Z"
         },
         {
-          "id": "37da8234f5b7c597a6be00c80e971ede2abf6f90",
-          "title": "Claude 作品第5号 / Claude Opus 5",
-          "title_zh": "Claude 作品第5号",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
+          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
+          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
+          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
           "summary": null,
-          "recommend_reason_zh": "Anthropic发布193页Claude Opus 5系统卡，在agentic coding、数学推理和网络安全上有提升，但评估显示其能力未超过Claude Fable 5，且允许源代码漏洞发现而阻止编译二进制文件利用。",
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T16:57:41Z"
+          "recommend_reason_zh": "WSJ报道美国企业突然叫停AI领域的过度投资，揭示大公司从烧钱模式转向务实策略，这一转变或重塑行业格局。",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T13:33:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "www.anthropic.com"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
-          "title": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-          "title_zh": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-          "title_en": null,
-          "title_original": "克劳德 作品第5号",
+          "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
+          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
           "summary": null,
-          "recommend_reason_zh": "Anthropic 发布 193 页系统卡揭示 Claude Opus 5：编程与科学推理升级，安全评估为低风险，允许源代码漏洞发现，多轮选举评估失败响应少于 Opus 4.8。",
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T17:15:36.658000Z"
+          "recommend_reason_zh": "Corporate America突然停止在AI上浪费钱，内部人士坦言：“我很高兴这些人部署工具这么差”，为真正懂行的公司留下了机会。",
+          "url": "https://news.ycombinator.com/item?id=49047448",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-25T13:51:49.551000Z"
         },
         {
-          "id": "37da8234f5b7c597a6be00c80e971ede2abf6f90",
-          "title": "Claude 作品第5号 / Claude Opus 5",
-          "title_zh": "Claude 作品第5号",
-          "title_en": "Claude Opus 5",
-          "title_original": "Claude Opus 5",
+          "id": "8d77c5ba922ee824c7bd22f02aed2fdef1d7e487",
+          "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_zh": "美国企业突然决定不再在AI上乱烧钱",
+          "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+          "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
           "summary": null,
-          "recommend_reason_zh": "Anthropic发布193页Claude Opus 5系统卡，在agentic coding、数学推理和网络安全上有提升，但评估显示其能力未超过Claude Fable 5，且允许源代码漏洞发现而阻止编译二进制文件利用。",
-          "url": "https://www.anthropic.com/claude-opus-5-system-card",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-24T16:57:41Z"
+          "recommend_reason_zh": "WSJ报道美国企业突然叫停AI领域的过度投资，揭示大公司从烧钱模式转向务实策略，这一转变或重塑行业格局。",
+          "url": "https://www.wsj.com/business/china-us-ai-model-costs-53a12e96",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T13:33:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4963,
-      "importance": 0.4963,
-      "importance_score": 0.4963,
+      "score": 0.5371,
+      "importance": 0.5371,
+      "importance_score": 0.5371,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7252,
+        "recency": 0.9515,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T16:57:41Z",
-      "latest_at": "2026-07-24T17:15:36.658000Z",
+      "earliest_at": "2026-07-25T13:33:03Z",
+      "latest_at": "2026-07-25T13:51:49.551000Z",
       "primary_item": {
-        "id": "634a5eaf6c720d0e8d6f3a0eb57d46bc2ea8bc69",
-        "title": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-        "title_zh": "Anthropic发布Claude Opus 5 提升agentic coding与推理能力",
-        "title_en": null,
-        "title_original": "克劳德 作品第5号",
+        "id": "ed6c1bc0003623b2eab3908946dbeadafba8a91c",
+        "title": "美国企业突然决定不再在AI上乱烧钱 / Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "title_zh": "美国企业突然决定不再在AI上乱烧钱",
+        "title_en": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
+        "title_original": "Corporate America Has Suddenly Decided to Stop Blowing Money on AI",
         "summary": null,
-        "recommend_reason_zh": "Anthropic 发布 193 页系统卡揭示 Claude Opus 5：编程与科学推理升级，安全评估为低风险，允许源代码漏洞发现，多轮选举评估失败响应少于 Opus 4.8。",
-        "url": "https://www.anthropic.com/claude-opus-5-system-card",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
+        "recommend_reason_zh": "Corporate America突然停止在AI上浪费钱，内部人士坦言：“我很高兴这些人部署工具这么差”，为真正懂行的公司留下了机会。",
+        "url": "https://news.ycombinator.com/item?id=49047448",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
