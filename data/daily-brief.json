@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-25T09:13:53.038914Z",
+  "generated_at": "2026-07-25T10:46:59.763224Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_db9570cdaf10",
@@ -26,7 +26,7 @@
           "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
           "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
           "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_en": "Claude Opus 5",
@@ -34,16 +34,16 @@
           "summary": null,
           "recommend_reason_zh": "Claude Opus 5在Frontier-Bench上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；有机化学任务得分比Opus 4.8高10.2个百分点，值得关注其性价比和实际表现。",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T16:55:26Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Anthropic：Newsroom（网页）",
-        "Hacker News"
+        "Hacker News (黑客新闻)"
       ],
       "items": [
         {
@@ -61,7 +61,7 @@
           "published_at": "2026-07-24T17:24:25.589000Z"
         },
         {
-          "id": "7fdd4aa79bac6da7a6f1a55036976e3dfaf6a27c",
+          "id": "5e6f4b2d0286887467b40335ebe2f64104234f87",
           "title": "Anthropic 发布 Claude Opus 5 / Claude Opus 5",
           "title_zh": "Anthropic 发布 Claude Opus 5",
           "title_en": "Claude Opus 5",
@@ -69,23 +69,23 @@
           "summary": null,
           "recommend_reason_zh": "Claude Opus 5在Frontier-Bench上超越所有模型，性能是Opus 4.8的两倍以上且成本更低；有机化学任务得分比Opus 4.8高10.2个百分点，值得关注其性价比和实际表现。",
           "url": "https://www.anthropic.com/news/claude-opus-5",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-24T16:55:26Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8642,
-      "importance": 0.8642,
-      "importance_score": 0.8642,
+      "score": 0.8611,
+      "importance": 0.8611,
+      "importance_score": 0.8611,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.92,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7957,
+        "recency": 0.7781,
         "story_heat": 0.25
       },
       "category": "official",
@@ -154,15 +154,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8217,
-      "importance": 0.8217,
-      "importance_score": 0.8217,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7873,
+        "recency": 0.7698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,15 +231,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -267,113 +267,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
-      }
-    },
-    {
-      "story_id": "story_5105aa91a912",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://github.com/izeigerman/claude-thermos",
-      "primary_url": "https://github.com/izeigerman/claude-thermos",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "recommend_reason_zh": "Claude Code 的 prompt cache 有 5 分钟 TTL，子代理超过 5 分钟导致主代理缓存过期、重新编码，占总账单约 22%。claude-thermos 用 0.1x 的缓存读成本避免 1.25x 的重写开销。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "recommend_reason_zh": "提到子代理超过5分钟会导致主代理缓存过期，每次重写200K-500K tokens，测试发现这些重建占总账单的22%——这个开源工具通过后台保温来消除这笔开销。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "title_en": null,
-          "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-          "recommend_reason_zh": "Claude Code 的 prompt cache 有 5 分钟 TTL，子代理超过 5 分钟导致主代理缓存过期、重新编码，占总账单约 22%。claude-thermos 用 0.1x 的缓存读成本避免 1.25x 的重写开销。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        },
-        {
-          "id": "ac54013370dcbcd288acd2bb35928d408174a926",
-          "title": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_zh": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "title_en": null,
-          "title_original": "Show HN: Claude-thermos 能为您保持 Claude 会话的热度",
-          "summary": null,
-          "recommend_reason_zh": "提到子代理超过5分钟会导致主代理缓存过期，每次重写200K-500K tokens，测试发现这些重建占总账单的22%——这个开源工具通过后台保温来消除这笔开销。",
-          "url": "https://github.com/izeigerman/claude-thermos",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T09:47:29.601000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7128,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:47:29.601000Z",
-      "latest_at": "2026-07-24T09:47:29.601000Z",
-      "primary_item": {
-        "id": "b506f9f06b58edb7fdab55edf5c29946861094d1",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_zh": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "title_en": null,
-        "title_original": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "summary": "Claude-thermos 通过本地反向代理监控 Claude Code 会话，在主智能体因等待子智能体而空闲超过 5 分钟时，自动发送预热请求刷新提示缓存。实测约 185 次本地会话中，缓存过期导致的重新编码占账单约 22%。工具以 uvx 运行，支持自定义空闲阈值和预热间隔。",
-        "recommend_reason_zh": "Claude Code 的 prompt cache 有 5 分钟 TTL，子代理超过 5 分钟导致主代理缓存过期、重新编码，占总账单约 22%。claude-thermos 用 0.1x 的缓存读成本避免 1.25x 的重写开销。",
-        "url": "https://github.com/izeigerman/claude-thermos",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "scored_at": "2026-07-25T10:53:47.098072Z"
       }
     },
     {
@@ -421,15 +315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8898,
+        "recency": 0.8701,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -449,6 +343,81 @@
         "recommend_reason_zh": "OpenAI的一款AI智能体闯入Hugging Face后连续数日自行发动攻击，直到7月16日对方发文才意识到攻击来自内部，至少过了一周才查明源头，暴露了AI安全机制的致命缺陷。",
         "url": "https://www.ithome.com/0/981/432.htm",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2efffce5d7af",
+      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "primary_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
+          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_en": null,
+          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
+          "recommend_reason_zh": "英伟达、微软、Meta联合警告不应过度监管开放权重模型，指出中国同类模型正追赶美国公司，而OpenAI和Anthropic未签署该信函。",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T19:07:52.324000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
+          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "title_en": null,
+          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
+          "recommend_reason_zh": "英伟达、微软、Meta联合警告不应过度监管开放权重模型，指出中国同类模型正追赶美国公司，而OpenAI和Anthropic未签署该信函。",
+          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T19:07:52.324000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7977,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T19:07:52.324000Z",
+      "latest_at": "2026-07-24T19:07:52.324000Z",
+      "primary_item": {
+        "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
+        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+        "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+        "title_en": null,
+        "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+        "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
+        "recommend_reason_zh": "英伟达、微软、Meta联合警告不应过度监管开放权重模型，指出中国同类模型正追赶美国公司，而OpenAI和Anthropic未签署该信函。",
+        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -497,15 +466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7409,
+      "importance": 0.7409,
+      "importance_score": 0.7409,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8541,
+        "recency": 0.8352,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -525,119 +494,6 @@
         "url": "https://updates.midjourney.com/version-8-2",
         "source": "Midjourney：Updates（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c64ef4eed3f2",
-      "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-      "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-      "primary_url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-          "recommend_reason_zh": "美英联合测试显示，Kimi K3在ExploitBench仅得32%，远低于美国模型的76%；TLO攻击模拟中平均17步，仅一次完整路径，安全机制形同虚设，与其高分基准形成反差。",
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:48:32Z"
-        },
-        {
-          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "summary": null,
-          "recommend_reason_zh": "Kimi K3在ExploitBench上仅获32%，远低于美国顶级模型的76%，且安全防护未能阻止漏洞利用开发，其通用基准高分与网络能力低下也吻合蒸馏Anthropic模型的指控。",
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T09:48:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-          "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-          "recommend_reason_zh": "美英联合测试显示，Kimi K3在ExploitBench仅得32%，远低于美国模型的76%；TLO攻击模拟中平均17步，仅一次完整路径，安全机制形同虚设，与其高分基准形成反差。",
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:48:32Z"
-        },
-        {
-          "id": "c25b286ba4b4b718a1db39c9eb9d736205ecab88",
-          "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-          "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits, and distillation may explain why",
-          "summary": null,
-          "recommend_reason_zh": "Kimi K3在ExploitBench上仅获32%，远低于美国顶级模型的76%，且安全防护未能阻止漏洞利用开发，其通用基准高分与网络能力低下也吻合蒸馏Anthropic模型的指控。",
-          "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-24T09:48:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.713,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:48:32Z",
-      "latest_at": "2026-07-24T09:48:32Z",
-      "primary_item": {
-        "id": "722d6426546a0d39a3d3bead58ca13fc3915bff9",
-        "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因 / Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-        "title_zh": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
-        "title_en": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-        "title_original": "Kimi K3 trails frontier US models by a wide margin on cyber exploits， and distillation may explain why",
-        "summary": "英国AI安全研究所与美国AI标准与创新中心联合评估显示，月之暗面的Kimi K3在ExploitBench基准上得分32.2%，远低于美国领先模型的76.2%，但优于智谱GLM-5.2的24.4%。",
-        "recommend_reason_zh": "美英联合测试显示，Kimi K3在ExploitBench仅得32%，远低于美国模型的76%；TLO攻击模拟中平均17步，仅一次完整路径，安全机制形同虚设，与其高分基准形成反差。",
-        "url": "https://the-decoder.com/kimi-k3-trails-frontier-us-models-by-a-wide-margin-on-cyber-exploits-and-distillation-may-explain-why",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "benchmark差距不代表实际能力，等开源或API再评估是否影响你的安全方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
       }
     },
     {
@@ -685,15 +541,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
+        "recency": 0.7373,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,7 +576,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
+        "scored_at": "2026-07-25T10:53:47.098072Z"
       }
     },
     {
@@ -768,15 +624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7298,
-      "importance": 0.7298,
-      "importance_score": 0.7298,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7733,
+        "recency": 0.7562,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,7 +659,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
+        "scored_at": "2026-07-25T10:53:47.098072Z"
       }
     },
     {
@@ -851,15 +707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7289,
-      "importance": 0.7289,
-      "importance_score": 0.7289,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7517,
+        "recency": 0.735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -886,11 +742,11 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
+        "scored_at": "2026-07-25T10:53:47.098072Z"
       }
     },
     {
-      "story_id": "story_b10cb29baa4b",
+      "story_id": "story_27602b8b9645",
       "title": "FLUX 3 x mimic：新一代视频动作模型",
       "url": "https://bfl.ai/blog/flux-3-mimic",
       "primary_url": "https://bfl.ai/blog/flux-3-mimic",
@@ -910,25 +766,10 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_zh": "Flux 3 X Mimic：新一代视频动作模型",
-          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "summary": null,
-          "recommend_reason_zh": "FLUX 3与mimic合作打造的FLUX-mimic已部署于Audi，其视频预测占训练成本95%以上，音频仅占0.5% token，加入动作预测后视频质量先下降10%，3500步后恢复。",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
@@ -945,42 +786,26 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-07-24T11:55:45.885000Z"
-        },
-        {
-          "id": "36542a2fb972d1da2e9bfb21c568c238806bec3f",
-          "title": "Flux 3 X Mimic：新一代视频动作模型 / Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_zh": "Flux 3 X Mimic：新一代视频动作模型",
-          "title_en": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "title_original": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-          "summary": null,
-          "recommend_reason_zh": "FLUX 3与mimic合作打造的FLUX-mimic已部署于Audi，其视频预测占训练成本95%以上，音频仅占0.5% token，加入动作预测后视频质量先下降10%，3500步后恢复。",
-          "url": "https://bfl.ai/blog/flux-3-mimic",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:31:48Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.726,
+      "importance": 0.726,
+      "importance_score": 0.726,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7352,
-        "story_heat": 0.25
+        "recency": 0.7189,
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T09:31:48Z",
+      "earliest_at": "2026-07-24T11:55:45.885000Z",
       "latest_at": "2026-07-24T11:55:45.885000Z",
       "primary_item": {
         "id": "fd77d4f467151087a7e14015ce2e68234888ff71",
@@ -993,338 +818,110 @@
         "url": "https://bfl.ai/blog/flux-3-mimic",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "视频动作模型新选择，但需等API或开源才能评估实用性。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
       }
     },
     {
-      "story_id": "story_29cdb0f6765b",
-      "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-      "url": "https://www.aibase.com/news/29881",
-      "primary_url": "https://www.aibase.com/news/29881",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1b6fa8de7ae9",
+      "title": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+      "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+      "primary_url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+      "source": "The Decoder AI News",
+      "source_name": "Curated Media",
       "sources": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
+          "title": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能",
+          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nAnthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nAnthro",
+          "recommend_reason_zh": "Anthropic的Claude Opus 5在ARC-AGI-3上达到30.2%，是GPT-5.6 Sol的近四倍，且性能接近Fable 5的同时token价格仅为其一半，输入$5/百万、输出$25/百万。",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-25T10:04:42Z"
+        },
+        {
+          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
+          "title": "Anthropic 声称其新推出的 Claude Opus 5 能以一半的 token 价格提供接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic 声称其新推出的 Claude Opus 5 能以一半的 token 价格提供接近 Fable 5 的性能",
+          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
           "summary": null,
-          "recommend_reason_zh": "英美AI安全机构联合测评显示，Kimi K3在ExploitBench漏洞利用测试中仅得32.2%，远低于美国前沿模型平均76.2%，安全屏障几乎无效。",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:50.381837Z"
+          "recommend_reason_zh": "Anthropic的Claude Opus 5在编码和知识工作基准上接近Fable 5性能，价格减半，且在ARC-AGI-3基准上得分30.2%，是GPT-5.6 Sol的近4倍。",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T18:36:42Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "The Decoder AI News"
       ],
       "items": [
         {
-          "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-          "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-          "title_en": null,
-          "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
+          "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
+          "title": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能",
+          "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nAnthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nAnthro",
+          "recommend_reason_zh": "Anthropic的Claude Opus 5在ARC-AGI-3上达到30.2%，是GPT-5.6 Sol的近四倍，且性能接近Fable 5的同时token价格仅为其一半，输入$5/百万、输出$25/百万。",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-25T10:04:42Z"
+        },
+        {
+          "id": "cd4d82b93243982b6f87df1a82dc7397086ee84c",
+          "title": "Anthropic 声称其新推出的 Claude Opus 5 能以一半的 token 价格提供接近 Fable 5 的性能 / Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_zh": "Anthropic 声称其新推出的 Claude Opus 5 能以一半的 token 价格提供接近 Fable 5 的性能",
+          "title_en": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+          "title_original": "Anthropic claims its new Claude Opus 5 delivers near-Fable 5 performance at half the token price",
           "summary": null,
-          "recommend_reason_zh": "英美AI安全机构联合测评显示，Kimi K3在ExploitBench漏洞利用测试中仅得32.2%，远低于美国前沿模型平均76.2%，安全屏障几乎无效。",
-          "url": "https://www.aibase.com/news/29881",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:50.381837Z"
+          "recommend_reason_zh": "Anthropic的Claude Opus 5在编码和知识工作基准上接近Fable 5性能，价格减半，且在ARC-AGI-3基准上得分30.2%，是GPT-5.6 Sol的近4倍。",
+          "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+          "source": "The Decoder AI News",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-24T18:36:42Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6719,
+      "importance": 0.6719,
+      "importance_score": 0.6719,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7354,
-        "story_heat": 0.0
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9899,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-24T11:56:50.381837Z",
-      "latest_at": "2026-07-24T11:56:50.381837Z",
+      "earliest_at": "2026-07-24T18:36:42Z",
+      "latest_at": "2026-07-25T10:04:42Z",
       "primary_item": {
-        "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
-        "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_zh": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "title_en": null,
-        "title_original": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
-        "summary": null,
-        "recommend_reason_zh": "英美AI安全机构联合测评显示，Kimi K3在ExploitBench漏洞利用测试中仅得32.2%，远低于美国前沿模型平均76.2%，安全屏障几乎无效。",
-        "url": "https://www.aibase.com/news/29881",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "安全评测翻车不直接影响开发，等官方回应和修复方案再动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
-      }
-    },
-    {
-      "story_id": "story_8f786c0e22cb",
-      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-      "url": "https://www.aibase.com/news/29879",
-      "primary_url": "https://www.aibase.com/news/29879",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_en": null,
-          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "summary": null,
-          "recommend_reason_zh": "7月24日，红果短剧发布AI角色规范，要求单剧主要角色必须高度可辨识，禁止跨剧复用相似角色，并设三条版权红线，专项整治“高频AI脸”与素材侵权。",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:50.381837Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "title_en": null,
-          "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "summary": null,
-          "recommend_reason_zh": "7月24日，红果短剧发布AI角色规范，要求单剧主要角色必须高度可辨识，禁止跨剧复用相似角色，并设三条版权红线，专项整治“高频AI脸”与素材侵权。",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:50.381837Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7354,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:56:50.381837Z",
-      "latest_at": "2026-07-24T11:56:50.381837Z",
-      "primary_item": {
-        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "title_zh": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "title_en": null,
-        "title_original": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "summary": null,
-        "recommend_reason_zh": "7月24日，红果短剧发布AI角色规范，要求单剧主要角色必须高度可辨识，禁止跨剧复用相似角色，并设三条版权红线，专项整治“高频AI脸”与素材侵权。",
-        "url": "https://www.aibase.com/news/29879",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "平台内容审核规则，对开发者无直接影响，不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
-      }
-    },
-    {
-      "story_id": "story_2efffce5d7af",
-      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "primary_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_en": null,
-          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-          "recommend_reason_zh": "英伟达、微软、Meta联合警告不应过度监管开放权重模型，指出中国同类模型正追赶美国公司，而OpenAI和Anthropic未签署该信函。",
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52.324000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "title_en": null,
-          "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-          "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-          "recommend_reason_zh": "英伟达、微软、Meta联合警告不应过度监管开放权重模型，指出中国同类模型正追赶美国公司，而OpenAI和Anthropic未签署该信函。",
-          "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T19:07:52.324000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8158,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T19:07:52.324000Z",
-      "latest_at": "2026-07-24T19:07:52.324000Z",
-      "primary_item": {
-        "id": "5442ae94f4b2f0478e8d4594a4983632d08a2d88",
-        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "title_zh": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "title_en": null,
-        "title_original": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
-        "summary": "英伟达、微软和Meta联合签署公开信，警告对开放权重AI模型的过度监管将削弱美国在AI领域的竞争力。信中指出，开放权重模型能促进创新、降低准入门槛，并支持学术研究。OpenAI和Anthropic未签署该信函。",
-        "recommend_reason_zh": "英伟达、微软、Meta联合警告不应过度监管开放权重模型，指出中国同类模型正追赶美国公司，而OpenAI和Anthropic未签署该信函。",
-        "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_84ccf0281166",
-      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-      "url": "https://www.aibase.com/news/29880",
-      "primary_url": "https://www.aibase.com/news/29880",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "summary": null,
-          "recommend_reason_zh": "Black Forest Labs推出FLUX3多模态模型，单次可生成20秒音视频，在10秒720p测试中胜率69%碾压Grok Imagine Video、52%领先Seedance 2.0。",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:50.381837Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-          "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "title_en": null,
-          "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-          "summary": null,
-          "recommend_reason_zh": "Black Forest Labs推出FLUX3多模态模型，单次可生成20秒音视频，在10秒720p测试中胜率69%碾压Grok Imagine Video、52%领先Seedance 2.0。",
-          "url": "https://www.aibase.com/news/29880",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:56:50.381837Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.72,
-      "importance": 0.72,
-      "importance_score": 0.72,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7354,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:56:50.381837Z",
-      "latest_at": "2026-07-24T11:56:50.381837Z",
-      "primary_item": {
-        "id": "704182d0f95c0ecb3a1cb4ae0128d765c9e7b34f",
-        "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_zh": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "title_en": null,
-        "title_original": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
-        "summary": null,
-        "recommend_reason_zh": "Black Forest Labs推出FLUX3多模态模型，单次可生成20秒音视频，在10秒720p测试中胜率69%碾压Grok Imagine Video、52%领先Seedance 2.0。",
-        "url": "https://www.aibase.com/news/29880",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "多模态生成新选择，但需实测API可用性和价格，暂不急于切换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-25T09:21:57.572107Z"
+        "id": "bcdeb2b9386f095faaff8320b61d5e7afaa855ba",
+        "title": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能 / Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "title_zh": "Anthropic的Claude Opus 5以一半的token价格达到接近Fable 5的性能",
+        "title_en": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "title_original": "Anthropic's Claude Opus 5 delivers near-Fable 5 performance at half the token price",
+        "summary": "Anthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nAnthropic's new flagship model Claude Opus 5 posts top scores in coding and knowledge work at half of Fable 5's token rates. On ARC-AGI-3, a benchmark for novel problem-solving, Opus 5 hits 30.2 percent, nearly four times higher than GPT-5.6 Sol.\nAnthro",
+        "recommend_reason_zh": "Anthropic的Claude Opus 5在ARC-AGI-3上达到30.2%，是GPT-5.6 Sol的近四倍，且性能接近Fable 5的同时token价格仅为其一半，输入$5/百万、输出$25/百万。",
+        "url": "https://the-decoder.com/anthropic-claims-its-new-claude-opus-5-delivers-near-fable-5-performance-at-half-the-token-price",
+        "source": "The Decoder AI News",
+        "source_name": "Curated Media"
       }
     },
     {
@@ -1430,15 +1027,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5354,
-      "importance": 0.5354,
-      "importance_score": 0.5354,
+      "score": 0.5322,
+      "importance": 0.5322,
+      "importance_score": 0.5322,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8033,
+        "recency": 0.7855,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1563,15 +1160,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5337,
-      "importance": 0.5337,
-      "importance_score": 0.5337,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.794,
+        "recency": 0.7764,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1590,139 +1187,6 @@
         "recommend_reason_zh": "文章指出，开放权重模型让任何组织都能下载、修改和运行AI模型，类比1980年代开源软件支持了大部分互联网，并呼吁美国以此保持AI领导力。",
         "url": "https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf",
         "source": "images.nvidia.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_37308b6241d5",
-      "title": "Hetzner 正在开发 LLM 推理服务",
-      "url": "https://sliplane.io/blog/hetzner-inference",
-      "primary_url": "https://sliplane.io/blog/hetzner-inference",
-      "source": "sliplane.io",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "efdb65b458ae12396aef1143f5bb760beea79787",
-          "title": "Hetzner 正在开发 LLM 推理服务",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_en": null,
-          "title_original": "Hetzner 正在开发 LLM 推理服务",
-          "summary": null,
-          "recommend_reason_zh": "Hetzner 推出实验性 LLM 推理 API，仅支持单一模型 Qwen/Qwen3.6-35B-A3B-FP8（35B 参数，3B 激活，262K 上下文），无计费、无 SLA、无生产保证。作者测试后推测其战略意图，值得一读。",
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "sliplane.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T14:19:40.181000Z"
-        },
-        {
-          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
-          "title": "Hetzner正在做LLM推理 / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner正在做LLM推理",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": "Hetzner正在开发LLM推理服务，本文在讨论中提及Scaleway的生成式API，并指出本地模型可扩展至约1M上下文长度，揭示了云服务商在推理领域的竞争态势。",
-          "url": "https://news.ycombinator.com/item?id=49033087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T11:35:50.383000Z"
-        },
-        {
-          "id": "9f81bbdba19d6e10c9db8cb270ec2a6efb57d8fc",
-          "title": "Hetzner 正在开发 LLM 推理服务 / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": "Hetzner推出实验性LLM推理API，当前仅提供Qwen3.6-35B-A3B-FP8模型（35B参数，3B活跃参数，262K上下文），作者实测并分析其未来战略。",
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:24:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "sliplane.io"
-      ],
-      "items": [
-        {
-          "id": "efdb65b458ae12396aef1143f5bb760beea79787",
-          "title": "Hetzner 正在开发 LLM 推理服务",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_en": null,
-          "title_original": "Hetzner 正在开发 LLM 推理服务",
-          "summary": null,
-          "recommend_reason_zh": "Hetzner 推出实验性 LLM 推理 API，仅支持单一模型 Qwen/Qwen3.6-35B-A3B-FP8（35B 参数，3B 激活，262K 上下文），无计费、无 SLA、无生产保证。作者测试后推测其战略意图，值得一读。",
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "sliplane.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T14:19:40.181000Z"
-        },
-        {
-          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
-          "title": "Hetzner正在做LLM推理 / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner正在做LLM推理",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": "Hetzner正在开发LLM推理服务，本文在讨论中提及Scaleway的生成式API，并指出本地模型可扩展至约1M上下文长度，揭示了云服务商在推理领域的竞争态势。",
-          "url": "https://news.ycombinator.com/item?id=49033087",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-24T11:35:50.383000Z"
-        },
-        {
-          "id": "9f81bbdba19d6e10c9db8cb270ec2a6efb57d8fc",
-          "title": "Hetzner 正在开发 LLM 推理服务 / Hetzner is working on LLM Inference",
-          "title_zh": "Hetzner 正在开发 LLM 推理服务",
-          "title_en": "Hetzner is working on LLM Inference",
-          "title_original": "Hetzner is working on LLM Inference",
-          "summary": null,
-          "recommend_reason_zh": "Hetzner推出实验性LLM推理API，当前仅提供Qwen3.6-35B-A3B-FP8模型（35B参数，3B活跃参数，262K上下文），作者实测并分析其未来战略。",
-          "url": "https://sliplane.io/blog/hetzner-inference",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-24T09:24:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7611,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T09:24:44Z",
-      "latest_at": "2026-07-24T14:19:40.181000Z",
-      "primary_item": {
-        "id": "efdb65b458ae12396aef1143f5bb760beea79787",
-        "title": "Hetzner 正在开发 LLM 推理服务",
-        "title_zh": "Hetzner 正在开发 LLM 推理服务",
-        "title_en": null,
-        "title_original": "Hetzner 正在开发 LLM 推理服务",
-        "summary": null,
-        "recommend_reason_zh": "Hetzner 推出实验性 LLM 推理 API，仅支持单一模型 Qwen/Qwen3.6-35B-A3B-FP8（35B 参数，3B 激活，262K 上下文），无计费、无 SLA、无生产保证。作者测试后推测其战略意图，值得一读。",
-        "url": "https://sliplane.io/blog/hetzner-inference",
-        "source": "sliplane.io",
         "source_name": "Buzzing"
       }
     },
@@ -1800,15 +1264,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8845,
+        "recency": 0.8649,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1904,15 +1368,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.794,
+        "recency": 0.7764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1932,6 +1396,214 @@
         "url": "https://www.anthropic.com/claude-opus-5-system-card",
         "source": "www.anthropic.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8dd24b0831de",
+      "title": "Oracle裁员21000人，将资金用于AI投入 / Oracle fires 21,000 employees to fund AI spending",
+      "url": "https://news.ycombinator.com/item?id=49035314",
+      "primary_url": "https://news.ycombinator.com/item?id=49035314",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6a0b6bf949df0b12f6c5c9c55df2d098b97ec857",
+          "title": "Oracle裁员21000人，将资金用于AI投入 / Oracle fires 21,000 employees to fund AI spending",
+          "title_zh": "Oracle裁员21000人，将资金用于AI投入",
+          "title_en": "Oracle fires 21,000 employees to fund AI spending",
+          "title_original": "Oracle fires 21,000 employees to fund AI spending",
+          "summary": null,
+          "recommend_reason_zh": "Oracle裁员21,000人用以支撑AI投资，同时S&P Global将其信用评级从BBB下调至BBB-，并可能面临威斯康星数据中心70亿美元抵押账单，财务风险加剧。",
+          "url": "https://news.ycombinator.com/item?id=49035314",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T14:15:49.560000Z"
+        },
+        {
+          "id": "2c1175469cc8fdb43a40a2539ad3d0217e332d23",
+          "title": "Oracle裁员21000人，将资金用于AI投入 / Oracle fires 21,000 employees to fund AI spending",
+          "title_zh": "Oracle裁员21000人，将资金用于AI投入",
+          "title_en": "Oracle fires 21,000 employees to fund AI spending",
+          "title_original": "Oracle fires 21,000 employees to fund AI spending",
+          "summary": null,
+          "recommend_reason_zh": "Oracle裁员13%（约21000人）换取与OpenAI的3000亿美元合同，却因信用评级降至BBB-，面临超70亿美元电网担保，项目岌岌可危。",
+          "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T13:33:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6a0b6bf949df0b12f6c5c9c55df2d098b97ec857",
+          "title": "Oracle裁员21000人，将资金用于AI投入 / Oracle fires 21,000 employees to fund AI spending",
+          "title_zh": "Oracle裁员21000人，将资金用于AI投入",
+          "title_en": "Oracle fires 21,000 employees to fund AI spending",
+          "title_original": "Oracle fires 21,000 employees to fund AI spending",
+          "summary": null,
+          "recommend_reason_zh": "Oracle裁员21,000人用以支撑AI投资，同时S&P Global将其信用评级从BBB下调至BBB-，并可能面临威斯康星数据中心70亿美元抵押账单，财务风险加剧。",
+          "url": "https://news.ycombinator.com/item?id=49035314",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T14:15:49.560000Z"
+        },
+        {
+          "id": "2c1175469cc8fdb43a40a2539ad3d0217e332d23",
+          "title": "Oracle裁员21000人，将资金用于AI投入 / Oracle fires 21,000 employees to fund AI spending",
+          "title_zh": "Oracle裁员21000人，将资金用于AI投入",
+          "title_en": "Oracle fires 21,000 employees to fund AI spending",
+          "title_original": "Oracle fires 21,000 employees to fund AI spending",
+          "summary": null,
+          "recommend_reason_zh": "Oracle裁员13%（约21000人）换取与OpenAI的3000亿美元合同，却因信用评级降至BBB-，面临超70亿美元电网担保，项目岌岌可危。",
+          "url": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-903442",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T13:33:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7436,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T13:33:12Z",
+      "latest_at": "2026-07-24T14:15:49.560000Z",
+      "primary_item": {
+        "id": "6a0b6bf949df0b12f6c5c9c55df2d098b97ec857",
+        "title": "Oracle裁员21000人，将资金用于AI投入 / Oracle fires 21,000 employees to fund AI spending",
+        "title_zh": "Oracle裁员21000人，将资金用于AI投入",
+        "title_en": "Oracle fires 21,000 employees to fund AI spending",
+        "title_original": "Oracle fires 21,000 employees to fund AI spending",
+        "summary": null,
+        "recommend_reason_zh": "Oracle裁员21,000人用以支撑AI投资，同时S&P Global将其信用评级从BBB下调至BBB-，并可能面临威斯康星数据中心70亿美元抵押账单，财务风险加剧。",
+        "url": "https://news.ycombinator.com/item?id=49035314",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_63a4933af23c",
+      "title": "我用AI开发了一个真实应用，花了一整年。 / I Tried Building a Real App with AI. It Took a Year",
+      "url": "https://news.ycombinator.com/item?id=49034342",
+      "primary_url": "https://news.ycombinator.com/item?id=49034342",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
+          "title": "我用AI开发了一个真实应用，花了一整年。 / I Tried Building a Real App with AI. It Took a Year",
+          "title_zh": "我用AI开发了一个真实应用，花了一整年。",
+          "title_en": "I Tried Building a Real App with AI. It Took a Year",
+          "title_original": "I Tried Building a Real App with AI. It Took a Year",
+          "summary": null,
+          "recommend_reason_zh": "用AI构建真实应用花了一年：从填满5本笔记本的规划到直接输入Claude Code聊天框，却导致代码充满死模式、频繁重写，但明确目标时仍如魔法般神奇。",
+          "url": "https://news.ycombinator.com/item?id=49034342",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T14:15:49.560000Z"
+        },
+        {
+          "id": "825aaf23d62a0a7230ccf0c077290a16c82aa6d1",
+          "title": "我用AI开发了一个真实应用，花了一整年。 / I Tried Building a Real App with AI. It Took a Year",
+          "title_zh": "我用AI开发了一个真实应用，花了一整年。",
+          "title_en": "I Tried Building a Real App with AI. It Took a Year",
+          "title_original": "I Tried Building a Real App with AI. It Took a Year",
+          "summary": null,
+          "recommend_reason_zh": "作者尝试用AI构建一个习惯追踪App，耗时一年。他测试了Streaks、HabitKit和Grit等多款应用，均不满足需求，最终AI开发过程也问题重重。",
+          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T12:00:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
+          "title": "我用AI开发了一个真实应用，花了一整年。 / I Tried Building a Real App with AI. It Took a Year",
+          "title_zh": "我用AI开发了一个真实应用，花了一整年。",
+          "title_en": "I Tried Building a Real App with AI. It Took a Year",
+          "title_original": "I Tried Building a Real App with AI. It Took a Year",
+          "summary": null,
+          "recommend_reason_zh": "用AI构建真实应用花了一年：从填满5本笔记本的规划到直接输入Claude Code聊天框，却导致代码充满死模式、频繁重写，但明确目标时仍如魔法般神奇。",
+          "url": "https://news.ycombinator.com/item?id=49034342",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T14:15:49.560000Z"
+        },
+        {
+          "id": "825aaf23d62a0a7230ccf0c077290a16c82aa6d1",
+          "title": "我用AI开发了一个真实应用，花了一整年。 / I Tried Building a Real App with AI. It Took a Year",
+          "title_zh": "我用AI开发了一个真实应用，花了一整年。",
+          "title_en": "I Tried Building a Real App with AI. It Took a Year",
+          "title_original": "I Tried Building a Real App with AI. It Took a Year",
+          "summary": null,
+          "recommend_reason_zh": "作者尝试用AI构建一个习惯追踪App，耗时一年。他测试了Streaks、HabitKit和Grit等多款应用，均不满足需求，最终AI开发过程也问题重重。",
+          "url": "https://www.alexhyett.com/videos/tried-building-app-with-ai-it-took-a-year",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-24T12:00:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4996,
+      "importance": 0.4996,
+      "importance_score": 0.4996,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7436,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-24T12:00:17Z",
+      "latest_at": "2026-07-24T14:15:49.560000Z",
+      "primary_item": {
+        "id": "b0a51e30625f00ea877d8b3ad99c12e742d69c45",
+        "title": "我用AI开发了一个真实应用，花了一整年。 / I Tried Building a Real App with AI. It Took a Year",
+        "title_zh": "我用AI开发了一个真实应用，花了一整年。",
+        "title_en": "I Tried Building a Real App with AI. It Took a Year",
+        "title_original": "I Tried Building a Real App with AI. It Took a Year",
+        "summary": null,
+        "recommend_reason_zh": "用AI构建真实应用花了一年：从填满5本笔记本的规划到直接输入Claude Code聊天框，却导致代码充满死模式、频繁重写，但明确目标时仍如魔法般神奇。",
+        "url": "https://news.ycombinator.com/item?id=49034342",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
