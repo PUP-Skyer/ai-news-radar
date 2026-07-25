@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T03:47:39.435668Z",
+  "generated_at": "2026-07-25T06:36:05.923884Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_31e9766f60d4",
-      "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
-      "url": "https://www.ithome.com/0/981/137.htm",
-      "rank": 1,
-      "reviews": {
-        "pragmatic": {
-          "score": 85,
-          "review": "多模态模型直接出20秒视频+音频，做内容生成的今天就能试API。"
-        }
-      }
-    },
-    {
       "story_id": "story_a69b2a307509",
       "title": "Runway Agent 推出自然语言工作流功能 / Introducing Workflows in Runway Agent. Now you can build， run or edit your node-based workflows thro…",
       "url": "https://x.com/runwayml/status/2080649234672439389",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "pragmatic": {
           "score": 75,
@@ -44,11 +32,23 @@
       "story_id": "story_b10cb29baa4b",
       "title": "FLUX 3 x mimic：新一代视频动作模型",
       "url": "https://bfl.ai/blog/flux-3-mimic",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "pragmatic": {
           "score": 65,
           "review": "视频动作模型新选择，但需等API或开源才能评估实用性。"
+        }
+      }
+    },
+    {
+      "story_id": "story_84ccf0281166",
+      "title": "黑森林实验室FLUX3 多模态模型登场：单次生成 20 秒音视频，胜率碾压Grok与Seedance",
+      "url": "https://www.aibase.com/news/29880",
+      "rank": 3,
+      "reviews": {
+        "pragmatic": {
+          "score": 65,
+          "review": "多模态生成新选择，但需实测API可用性和价格，暂不急于切换。"
         }
       }
     }
