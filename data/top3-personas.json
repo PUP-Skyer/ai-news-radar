@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T09:32:24.465668Z",
+  "generated_at": "2026-07-26T11:44:44.010167Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -15,5 +15,66 @@
       "name": "实用派"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "story_id": "story_fd83d61e5894",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "28.9M参数跑在8刀芯片上，demo挺唬人，但推理速度够干啥？"
+        },
+        "paper-police": {
+          "score": 85,
+          "review": "GitHub仓库有代码和说明，但缺论文和标准benchmark，可复现性待验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "8美元跑28M参数模型，边缘部署神器，今天就能在ESP32上试跑。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a3ff96779b04",
+      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
+      "url": "https://www.ithome.com/0/981/688.htm",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 25,
+          "review": "泄露的是提示词，不是模型权重，这也能叫完整？"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "无论文无代码无评测，只有匿名泄露文本，无法验证真伪。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "提示词工程参考价值高，直接抄来优化自己项目的系统提示。"
+        }
+      }
+    },
+    {
+      "story_id": "story_56214f7f40b3",
+      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
+      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "936万参数做语音模型，demo听着还行，但离'完整'还差个噪声环境测试。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "HuggingFace模型页无论文无代码无评测，仅凭参数数量宣称性能，证据为零。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "936万参数语音模型，内存敏感场景可直接部署，今天就能试。"
+        }
+      }
+    }
+  ]
 }
