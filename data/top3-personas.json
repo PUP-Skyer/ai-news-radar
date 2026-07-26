@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:22:20.397300Z",
+  "generated_at": "2026-07-26T19:40:13.802577Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_fd83d61e5894",
+      "story_id": "story_12116ef69e35",
       "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
       "url": "https://github.com/slvDev/esp32-ai",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "28.9M参数跑在8刀芯片上，demo挺唬人，但推理速度够干啥？"
+          "review": "跑是能跑，但每秒几个token的推理速度，你管这叫‘运行’？"
         },
         "paper-police": {
-          "score": 85,
-          "review": "GitHub仓库有代码和说明，但缺论文和标准benchmark，可复现性待验证。"
+          "score": 75,
+          "review": "GitHub仓库有代码和说明，但缺论文和独立benchmark，效果待验证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "8美元跑28M参数模型，边缘部署神器，今天就能在ESP32上试跑。"
+          "review": "开源仓库可克隆，低功耗边缘推理方案今天就能上手测试。"
         }
       }
     },
