@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T00:19:38.373164Z",
+  "generated_at": "2026-07-27T04:14:24.750756Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_12116ef69e35",
-      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
-      "url": "https://github.com/slvDev/esp32-ai",
+      "story_id": "story_fa2638a762aa",
+      "title": "Cursor新一代AI智能体集群完成SQLite重建测试，全部配置实现100%通过率",
+      "url": "https://www.aibase.com/news/29897",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "跑是能跑，但每秒几个token的推理速度，你管这叫‘运行’？"
+          "score": 55,
+          "review": "SQLite重建测试通过率100%？样本量和测试用例复杂度敢晒吗？"
         },
         "paper-police": {
-          "score": 75,
-          "review": "GitHub仓库有代码和说明，但缺论文和独立benchmark，效果待验证。"
+          "score": 10,
+          "review": "仅AIbase报道，无论文无代码无评测细节，无法验证100%通过率。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "开源仓库可克隆，低功耗边缘推理方案今天就能上手测试。"
+          "review": "AI写SQL配置全通过，测试流程可直接复用，省人工调试时间。"
         }
       }
     },
     {
-      "story_id": "story_56214f7f40b3",
-      "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
-      "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "story_id": "story_8c2285d406e4",
+      "title": "​Midjourney 推出 V8.2 图像模型：审美更锋利、废片大减，个性化更懂你的口味",
+      "url": "https://www.aibase.com/news/29896",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "936万参数做语音模型，demo听着还行，但离'完整'还差个噪声环境测试。"
+          "review": "审美更锋利？怕不是把用户偏好调教得更偏了，废片少是因为你不敢放原图对比。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "HuggingFace模型页无论文无代码无评测，仅凭参数数量宣称性能，证据为零。"
+          "score": 12,
+          "review": "只有新闻稿，无论文无代码无评测，审美锋利无法量化。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "936万参数语音模型，内存敏感场景可直接部署，今天就能试。"
+          "review": "废片率降低直接省时间，做图多的今天就能更新试试。"
         }
       }
     },
