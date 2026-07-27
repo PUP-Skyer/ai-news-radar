@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:45:36.302752Z",
+  "generated_at": "2026-07-27T22:28:32.189997Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.865,
-      "importance": 0.865,
-      "importance_score": 0.865,
+      "score": 0.8609,
+      "importance": 0.8609,
+      "importance_score": 0.8609,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9336,
+        "recency": 0.9107,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
+      }
+    },
+    {
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "summary": "The GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels. Until now, access to the Copilot…\nThe GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels.\nUntil now, access to the Copilot app depended on your GitHub Copilot CLI policy being enabled. From several conversations with customers, we understand that many of you want to manage each client independen",
+          "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+          "summary": "The GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels. Until now, access to the Copilot…\nThe GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels.\nUntil now, access to the Copilot app depended on your GitHub Copilot CLI policy being enabled. From several conversations with customers, we understand that many of you want to manage each client independen",
+          "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T20:43:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8475,
+      "importance": 0.8475,
+      "importance_score": 0.8475,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9751,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
+      "primary_item": {
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
+        "summary": "The GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels. Until now, access to the Copilot…\nThe GitHub Copilot app now has its own policy, so you can control who has access to it at the enterprise and organization levels.\nUntil now, access to the Copilot app depended on your GitHub Copilot CLI policy being enabled. From several conversations with customers, we understand that many of you want to manage each client independen",
+        "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "企业Copilot管理更细了，权限控制今天就能配。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -163,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8504,
+        "recency": 0.8296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -217,7 +302,7 @@
           "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
           "title_en": "The harness is all you need (mostly)",
           "title_original": "The harness is all you need (mostly)",
-          "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nA practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nA practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nIf you’re feeling overwhelmed by AI right now, you’re not alone.\nEvery day it seems there is a ",
+          "summary": null,
           "recommend_reason_zh": "作者分享一个仅用GitHub Copilot现有功能就能显著提升效率的工作流，并建议新手从它的CLI终端开始，因为“只有文本，没什么UI要学”，避免追逐每款新AI工具。",
           "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
           "source": "GitHub AI & ML",
@@ -252,7 +337,7 @@
           "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
           "title_en": "The harness is all you need (mostly)",
           "title_original": "The harness is all you need (mostly)",
-          "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nA practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nA practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nIf you’re feeling overwhelmed by AI right now, you’re not alone.\nEvery day it seems there is a ",
+          "summary": null,
           "recommend_reason_zh": "作者分享一个仅用GitHub Copilot现有功能就能显著提升效率的工作流，并建议新手从它的CLI终端开始，因为“只有文本，没什么UI要学”，避免追逐每款新AI工具。",
           "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
           "source": "GitHub AI & ML",
@@ -277,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.8577,
+      "importance": 0.8577,
+      "importance_score": 0.8577,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9609,
+        "recency": 0.9374,
         "story_heat": 0.25
       },
       "category": "official",
@@ -303,7 +388,7 @@
         "title_zh": "GitHub Copilot 发布\"Harness\"工作流：用单一工具完成原型、规划、实现与代码审查",
         "title_en": "The harness is all you need (mostly)",
         "title_original": "The harness is all you need (mostly)",
-        "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nA practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nA practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool.\nIf you’re feeling overwhelmed by AI right now, you’re not alone.\nEvery day it seems there is a ",
+        "summary": null,
         "recommend_reason_zh": "作者分享一个仅用GitHub Copilot现有功能就能显著提升效率的工作流，并建议新手从它的CLI终端开始，因为“只有文本，没什么UI要学”，避免追逐每款新AI工具。",
         "url": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly",
         "source": "GitHub AI & ML",
@@ -315,7 +400,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
+      }
+    },
+    {
+      "story_id": "story_7284fe0b61a4",
+      "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": "You can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With…\nYou can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With a managed-settings.json file, enterprise owners define one set of guardrails, such as which plugins and marketplace",
+          "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": "You can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With…\nYou can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With a managed-settings.json file, enterprise owners define one set of guardrails, such as which plugins and marketplace",
+          "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9241,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
+        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "summary": "You can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With…\nYou can now govern the GitHub Copilot app and Copilot cloud agent with enterprise managed settings, the same centrally managed policies you use to control Copilot across your enterprise. With a managed-settings.json file, enterprise owners define one set of guardrails, such as which plugins and marketplace",
+        "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "企业管理员可统一管控Copilot设置，适合团队合规部署，今天就能配置。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -363,15 +533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.8089,
+      "importance": 0.8089,
+      "importance_score": 0.8089,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7794,
+        "recency": 0.7603,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,7 +570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -477,15 +647,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7925,
-      "importance": 0.7925,
-      "importance_score": 0.7925,
+      "score": 0.7884,
+      "importance": 0.7884,
+      "importance_score": 0.7884,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9329,
+        "recency": 0.9101,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -514,7 +684,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
+      }
+    },
+    {
+      "story_id": "story_f4def218d9f8",
+      "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "primary_url": "https://www.anthropic.com/news/position-open-weights-models",
+      "source": "Anthropic：Newsroom（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c59039e4b5041b6c295f648239b3d03a0d1597e9",
+          "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+          "title_zh": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+          "title_en": "Our position on open-weights models",
+          "title_original": "Our position on open-weights models",
+          "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+          "recommend_reason_zh": "Anthropic CEO Dario Amodei明确反对全面禁止开源模型，但支持限制强大芯片流向威权国家、打击工业级蒸馏，并要求所有足够强大的模型（包括开源）进行安全测试。",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T22:26:00.307000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Newsroom（网页）"
+      ],
+      "items": [
+        {
+          "id": "c59039e4b5041b6c295f648239b3d03a0d1597e9",
+          "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+          "title_zh": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+          "title_en": "Our position on open-weights models",
+          "title_original": "Our position on open-weights models",
+          "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+          "recommend_reason_zh": "Anthropic CEO Dario Amodei明确反对全面禁止开源模型，但支持限制强大芯片流向威权国家、打击工业级蒸馏，并要求所有足够强大的模型（包括开源）进行安全测试。",
+          "url": "https://www.anthropic.com/news/position-open-weights-models",
+          "source": "Anthropic：Newsroom（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T22:26:00.307000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.9994,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T22:26:00.307000Z",
+      "latest_at": "2026-07-27T22:26:00.307000Z",
+      "primary_item": {
+        "id": "c59039e4b5041b6c295f648239b3d03a0d1597e9",
+        "title": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试 / Our position on open-weights models",
+        "title_zh": "Anthropic 澄清立场：从未主张全面禁止开源权重模型，支持芯片出口管制与安全测试",
+        "title_en": "Our position on open-weights models",
+        "title_original": "Our position on open-weights models",
+        "summary": "Anthropic CEO Dario Amodei 明确表示公司从未主张禁止开源权重模型，并认为不具备危险能力的开源权重模型是公共产品。他提出三项实际措施：对华芯片出口管制、打击工业级知识蒸馏、对所有足够强大的模型进行强制性安全测试。Amodei 指出，保护主义禁令无法解决其最担忧的国家安全威胁，包括威权政府利用更强大 AI 实现军事优势或深度监控。",
+        "recommend_reason_zh": "Anthropic CEO Dario Amodei明确反对全面禁止开源模型，但支持限制强大芯片流向威权国家、打击工业级蒸馏，并要求所有足够强大的模型（包括开源）进行安全测试。",
+        "url": "https://www.anthropic.com/news/position-open-weights-models",
+        "source": "Anthropic：Newsroom（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "立场声明不写代码，等有具体政策再议。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -591,15 +845,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.7817,
+      "importance": 0.7817,
+      "importance_score": 0.7817,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9629,
+        "recency": 0.9393,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -628,7 +882,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -676,15 +930,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7808,
-      "importance": 0.7808,
-      "importance_score": 0.7808,
+      "score": 0.7768,
+      "importance": 0.7768,
+      "importance_score": 0.7768,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9234,
+        "recency": 0.9008,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -712,7 +966,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -760,15 +1014,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.9352,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -796,7 +1050,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -844,15 +1098,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7532,
+      "importance": 0.7532,
+      "importance_score": 0.7532,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.977,
+        "recency": 0.9531,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -880,7 +1134,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -928,15 +1182,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -963,7 +1217,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1011,15 +1265,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.738,
-      "importance": 0.738,
-      "importance_score": 0.738,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1046,7 +1300,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1094,15 +1348,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9477,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,7 +1384,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1178,15 +1432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,7 +1467,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1261,15 +1515,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9072,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,7 +1550,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1344,15 +1598,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1633,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1427,15 +1681,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8775,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1462,7 +1716,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     },
     {
@@ -1510,15 +1764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.9033,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1545,284 +1799,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
-      }
-    },
-    {
-      "story_id": "story_0736bf3e9f9b",
-      "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-      "url": "https://www.aibase.com/news/29918",
-      "primary_url": "https://www.aibase.com/news/29918",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
-          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-          "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-          "title_en": null,
-          "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-          "summary": null,
-          "recommend_reason_zh": "抖音升级未成年人模式，引入多模态大语言模型（MLLM）处理文本、图像、音频，结合认知复杂度与价值取向为每个视频划定适龄范围，实现更精准的内容推荐。",
-          "url": "https://www.aibase.com/news/29918",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
-          "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-          "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-          "title_en": null,
-          "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-          "summary": null,
-          "recommend_reason_zh": "抖音升级未成年人模式，引入多模态大语言模型（MLLM）处理文本、图像、音频，结合认知复杂度与价值取向为每个视频划定适龄范围，实现更精准的内容推荐。",
-          "url": "https://www.aibase.com/news/29918",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8775,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T11:42:37.600093Z",
-      "latest_at": "2026-07-27T11:42:37.600093Z",
-      "primary_item": {
-        "id": "d9f235aecfe2f0fbe740936f9acf2fd8b8430cd1",
-        "title": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-        "title_zh": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-        "title_en": null,
-        "title_original": "抖音升级未成年人模式引擎，把多模态大语言模型请进了适龄推荐",
-        "summary": null,
-        "recommend_reason_zh": "抖音升级未成年人模式，引入多模态大语言模型（MLLM）处理文本、图像、音频，结合认知复杂度与价值取向为每个视频划定适龄范围，实现更精准的内容推荐。",
-        "url": "https://www.aibase.com/news/29918",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "对开发者无直接API或工具可用，仅是产品功能升级，观望即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
-      }
-    },
-    {
-      "story_id": "story_230e970f2c05",
-      "title": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "1f403c53ab212801d3d96815c58a5f11421cfc48",
-          "title": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_zh": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等联合成立Open Secure AI Alliance，却不包括OpenAI、Google和Anthropic，此前Hugging Face曾用中国开源AI防御失控的OpenAI agent，值得关注。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T12:06:22Z"
-        },
-        {
-          "id": "3c4948022c9298b15305a233810cd8b9511c2d9d",
-          "title": "Nvidia和Microsoft发起开放AI安全联盟——OpenAI、Google和Anthropic未加入 / Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_zh": "Nvidia和Microsoft发起开放AI安全联盟——OpenAI、Google和Anthropic未加入",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等成立Open Secure AI Alliance，但OpenAI、Google、Anthropic缺席，此前Hugging Face曾用中国开源模型Kimi K3抵御OpenAI失控agent。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:06:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "1f403c53ab212801d3d96815c58a5f11421cfc48",
-          "title": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_zh": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等联合成立Open Secure AI Alliance，却不包括OpenAI、Google和Anthropic，此前Hugging Face曾用中国开源AI防御失控的OpenAI agent，值得关注。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T12:06:22Z"
-        },
-        {
-          "id": "3c4948022c9298b15305a233810cd8b9511c2d9d",
-          "title": "Nvidia和Microsoft发起开放AI安全联盟——OpenAI、Google和Anthropic未加入 / Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_zh": "Nvidia和Microsoft发起开放AI安全联盟——OpenAI、Google和Anthropic未加入",
-          "title_en": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "title_original": "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
-          "summary": null,
-          "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等成立Open Secure AI Alliance，但OpenAI、Google、Anthropic缺席，此前Hugging Face曾用中国开源模型Kimi K3抵御OpenAI失控agent。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:06:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6193,
-      "importance": 0.6193,
-      "importance_score": 0.6193,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5328,
-        "source_tier": 0.58,
-        "ai_relevance": 0.74,
-        "recency": 0.8825,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T12:06:22Z",
-      "latest_at": "2026-07-27T12:06:22Z",
-      "primary_item": {
-        "id": "1f403c53ab212801d3d96815c58a5f11421cfc48",
-        "title": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic / Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "title_zh": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic",
-        "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "summary": null,
-        "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等联合成立Open Secure AI Alliance，却不包括OpenAI、Google和Anthropic，此前Hugging Face曾用中国开源AI防御失控的OpenAI agent，值得关注。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "大厂站队新闻，对写代码没影响，等具体安全工具出来再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
-      }
-    },
-    {
-      "story_id": "story_71876d6c1e78",
-      "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-      "url": "https://www.aibase.com/news/29912",
-      "primary_url": "https://www.aibase.com/news/29912",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
-          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "title_en": null,
-          "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "summary": null,
-          "recommend_reason_zh": "灵光App发布\"一键部署\"功能，支持Codex、Claude Code、Cursor等AI工具创建的应用直接发布为闪应用，并开放超30个免费API（大模型、搜索、LBS等），用户从概念到上线只需几步认证即可完成。",
-          "url": "https://www.aibase.com/news/29912",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
-          "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "title_en": null,
-          "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-          "summary": null,
-          "recommend_reason_zh": "灵光App发布\"一键部署\"功能，支持Codex、Claude Code、Cursor等AI工具创建的应用直接发布为闪应用，并开放超30个免费API（大模型、搜索、LBS等），用户从概念到上线只需几步认证即可完成。",
-          "url": "https://www.aibase.com/news/29912",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8775,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T11:42:37.600093Z",
-      "latest_at": "2026-07-27T11:42:37.600093Z",
-      "primary_item": {
-        "id": "ba749cfd41c0c42c77e279abb3c4ee9fe2672cd4",
-        "title": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-        "title_zh": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-        "title_en": null,
-        "title_original": "灵光APP上线“一键部署”:支持Codex、Claude Code、Cursor等AI应用直接发布",
-        "summary": null,
-        "recommend_reason_zh": "灵光App发布\"一键部署\"功能，支持Codex、Claude Code、Cursor等AI工具创建的应用直接发布为闪应用，并开放超30个免费API（大模型、搜索、LBS等），用户从概念到上线只需几步认证即可完成。",
-        "url": "https://www.aibase.com/news/29912",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "部署门槛降低，适合快速验证原型，但注意平台锁定风险。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T20:51:29.326162Z"
+        "scored_at": "2026-07-27T22:33:57.791915Z"
       }
     }
   ]
