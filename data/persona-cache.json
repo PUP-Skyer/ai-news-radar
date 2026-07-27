@@ -3236,10 +3236,10 @@
       "scored_at": "2026-07-27T08:00:45.380237Z"
     },
     "story_2d4e47d50fc6|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "开源模型可直接下载部署，今天就能在HuggingFace上试用。",
-      "title_hash": "884bbe65",
-      "scored_at": "2026-07-27T11:51:05.366409Z"
+      "score": 60,
+      "review": "开源模型安全有进步但不如闭源，做安全对齐的可以看看，生产环境慎用。",
+      "title_hash": "47fdb458",
+      "scored_at": "2026-07-27T18:55:29.420058Z"
     },
     "story_0ba9f6334b31|pragmatic|0a5c5b24": {
       "score": 20,
@@ -3426,6 +3426,36 @@
       "review": "模型权重和技术报告已公开，但缺少独立benchmark复现结果。",
       "title_hash": "d960df7b",
       "scored_at": "2026-07-27T17:19:40.555164Z"
+    },
+    "story_ebe3ddd20f67|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "MCP连接器+Claude做金融分析，有代码可抄，适合快速搭原型。",
+      "title_hash": "114ead3d",
+      "scored_at": "2026-07-27T18:55:27.180966Z"
+    },
+    "story_6a580af5bd08|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。",
+      "title_hash": "65df3a1a",
+      "scored_at": "2026-07-27T18:55:28.295746Z"
+    },
+    "story_eb7b6b649c03|pragmatic|0a5c5b24": {
+      "score": 15,
+      "review": "泡沫预言不写代码，等真烧了再关心。",
+      "title_hash": "1d347c17",
+      "scored_at": "2026-07-27T18:55:30.344995Z"
+    },
+    "story_6a580af5bd08|cynic|f4237a62": {
+      "score": 82,
+      "review": "2.8T参数开源，SGLang当天适配，诚意比那些只发PPT的强多了。",
+      "title_hash": "65df3a1a",
+      "scored_at": "2026-07-27T18:55:31.466532Z"
+    },
+    "story_6a580af5bd08|paper-police|966065bf": {
+      "score": 40,
+      "review": "博客宣称支持，但无论文无代码无评测，证据链缺失。",
+      "title_hash": "65df3a1a",
+      "scored_at": "2026-07-27T18:55:32.467350Z"
     }
   }
 }

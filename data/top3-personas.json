@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T17:19:40.555310Z",
+  "generated_at": "2026-07-27T18:55:32.467440Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_6a580af5bd08",
+      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "2.8T参数开源，SGLang当天适配，诚意比那些只发PPT的强多了。"
+        },
+        "paper-police": {
+          "score": 40,
+          "review": "博客宣称支持，但无论文无代码无评测，证据链缺失。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。"
+        }
+      }
+    },
+    {
       "story_id": "story_1ea579ee44b6",
       "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
       "url": "https://www.aibase.com/news/29917",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "检查你的Claude分享链接是否泄露了私钥，立刻撤销并轮换密钥。"
-        }
-      }
-    },
-    {
-      "story_id": "story_2d4e47d50fc6",
-      "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
-      "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "开源模型，权重和配置都给了，但没提训练细节和成本，留了点悬念。"
-        },
-        "paper-police": {
-          "score": 85,
-          "review": "HuggingFace 有模型权重和论文链接，代码开源，可复现，证据链完整。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开源模型可直接下载部署，今天就能在HuggingFace上试用。"
         }
       }
     }
