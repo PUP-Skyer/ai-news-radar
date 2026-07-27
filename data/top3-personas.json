@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T15:24:10.285981Z",
+  "generated_at": "2026-07-27T17:19:40.555310Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_112bcb1d3a8b",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "2.8T MoE 全开源，技术报告也给了，比那些只放个 demo 的强太多。"
+        },
+        "paper-police": {
+          "score": 88,
+          "review": "模型权重和技术报告已公开，但缺少独立benchmark复现结果。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。"
+        }
+      }
+    },
+    {
       "story_id": "story_1ea579ee44b6",
       "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
       "url": "https://www.aibase.com/news/29917",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -40,7 +60,7 @@
       "story_id": "story_2d4e47d50fc6",
       "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
       "url": "https://huggingface.co/moonshotai/Kimi-K3",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 78,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "开源模型可直接下载部署，今天就能在HuggingFace上试用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b6a9a859e99e",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "url": "https://www.aibase.com/news/29910",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "分享功能默认公开，还怪搜索引擎？隐私设计像筛子。"
-        },
-        "paper-police": {
-          "score": 0,
-          "review": "仅一篇新闻报道，无官方声明或技术分析，无法验证真实性。"
-        },
-        "pragmatic": {
-          "score": 75,
-          "review": "检查你的Claude分享设置，关闭公开链接或加密码，今天就能防泄露。"
         }
       }
     }

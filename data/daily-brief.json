@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-07-27T15:16:52.033634Z",
+  "generated_at": "2026-07-27T17:13:24.611912Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2a8e05bf7e66",
+      "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners: Getting started",
+          "title_original": "GitHub Copilot app for Beginners: Getting started",
+          "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nNew to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nNew to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nAI coding tools often begin with a chat window. While that works for quick qu",
+          "recommend_reason_zh": "这篇教程手把手教你在Copilot app中管理多个agent sessions、用Quick Chat同时处理不同任务，还展示了如何通过浏览器canvas实时预览UI更改，适合想提升开发效率的初学者。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        },
+        {
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners： Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners： Getting started",
+          "title_original": "GitHub Copilot app for Beginners： Getting started",
+          "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+          "recommend_reason_zh": "想快速上手GitHub Copilot app？本文教你如何用多个代理会话同时处理不同任务，并通过浏览器画布预览UI变更，还可使用Quick Chat询问Copilot工作树功能。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners: Getting started",
+          "title_original": "GitHub Copilot app for Beginners: Getting started",
+          "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nNew to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nNew to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nAI coding tools often begin with a chat window. While that works for quick qu",
+          "recommend_reason_zh": "这篇教程手把手教你在Copilot app中管理多个agent sessions、用Quick Chat同时处理不同任务，还展示了如何通过浏览器canvas实时预览UI更改，适合想提升开发效率的初学者。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T16:00:00Z"
+        },
+        {
+          "id": "512978bfc570bbb869cc1e3f95711e04bbd058f8",
+          "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners： Getting started",
+          "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+          "title_en": "GitHub Copilot app for Beginners： Getting started",
+          "title_original": "GitHub Copilot app for Beginners： Getting started",
+          "summary": "GitHub Copilot app 将 AI 编码工具升级为多 Agent 会话工作区，支持同时管理多个任务线程而不丢失进度。用户可为每个会话绑定项目上下文，通过 `/create-canvas` 命令在浏览器 Canvas 中预览 UI 并直接点选修改，还能启用 Agent Merge 自动处理 PR 审查反馈和合并冲突。",
+          "recommend_reason_zh": "想快速上手GitHub Copilot app？本文教你如何用多个代理会话同时处理不同任务，并通过浏览器画布预览UI变更，还可使用Quick Chat询问Copilot工作树功能。",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T16:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8738,
+      "importance": 0.8738,
+      "importance_score": 0.8738,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9825,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T16:00:00Z",
+      "latest_at": "2026-07-27T16:00:00Z",
+      "primary_item": {
+        "id": "d823933ba16aa5f18e1fafbdf52dc56a0b12e41e",
+        "title": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览 / GitHub Copilot app for Beginners: Getting started",
+        "title_zh": "GitHub Copilot app 入门指南：多 Agent 会话工作区与 Canvas 预览",
+        "title_en": "GitHub Copilot app for Beginners: Getting started",
+        "title_original": "GitHub Copilot app for Beginners: Getting started",
+        "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nNew to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nNew to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow.\nAI coding tools often begin with a chat window. While that works for quick qu",
+        "recommend_reason_zh": "这篇教程手把手教你在Copilot app中管理多个agent sessions、用Quick Chat同时处理不同任务，还展示了如何通过浏览器canvas实时预览UI更改，适合想提升开发效率的初学者。",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "Copilot新功能上线，多Agent协作和Canvas预览能提升开发效率，值得今天试试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T17:19:30.817917Z"
+      }
+    },
     {
       "story_id": "story_eb297d743217",
       "title": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
@@ -48,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8557,
-      "importance": 0.8557,
-      "importance_score": 0.8557,
+      "score": 0.8511,
+      "importance": 0.8511,
+      "importance_score": 0.8511,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9204,
+        "recency": 0.895,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -133,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8436,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +285,205 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
+      }
+    },
+    {
+      "story_id": "story_5dcea5dd076a",
+      "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+      "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+      "primary_url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+          "title_original": "Google's AI search is rapidly becoming the default， new data shows",
+          "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+          "recommend_reason_zh": "Google 的 AI Overviews 现已出现在 43% 的搜索中，新数据揭示了 AI 生成的答案正迅速成为人们在线获取信息的默认方式。",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:57:12Z"
+        },
+        {
+          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google’s AI search is rapidly becoming the default, new data shows",
+          "title_original": "Google’s AI search is rapidly becoming the default, new data shows",
+          "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.\nGoogle’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagr",
+          "recommend_reason_zh": "Google的AI Overviews已出现在43%的搜索中，揭示AI生成答案正快速成为默认的信息发现方式，这一数据来自最新分析。",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T15:57:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+          "title_original": "Google's AI search is rapidly becoming the default， new data shows",
+          "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+          "recommend_reason_zh": "Google 的 AI Overviews 现已出现在 43% 的搜索中，新数据揭示了 AI 生成的答案正迅速成为人们在线获取信息的默认方式。",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:57:12Z"
+        },
+        {
+          "id": "b813ebb1e1c0e4f2b03a93ced98dc08b8f4c9895",
+          "title": "Google AI Overviews 搜索结果出现率升至43% / Google’s AI search is rapidly becoming the default, new data shows",
+          "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+          "title_en": "Google’s AI search is rapidly becoming the default, new data shows",
+          "title_original": "Google’s AI search is rapidly becoming the default, new data shows",
+          "summary": "Google’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.\nGoogle’s AI Overviews now appear in 43% of searches, underscoring how quickly AI-generated answers are becoming the default way people discover information online.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagr",
+          "recommend_reason_zh": "Google的AI Overviews已出现在43%的搜索中，揭示AI生成答案正快速成为默认的信息发现方式，这一数据来自最新分析。",
+          "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-27T15:57:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8013,
+      "importance": 0.8013,
+      "importance_score": 0.8013,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9818,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:57:12Z",
+      "latest_at": "2026-07-27T15:57:12Z",
+      "primary_item": {
+        "id": "f0b0e234074846eebeb679fea43e290ada2e72c5",
+        "title": "Google AI Overviews 搜索结果出现率升至43% / Google's AI search is rapidly becoming the default， new data shows",
+        "title_zh": "Google AI Overviews 搜索结果出现率升至43%",
+        "title_en": "Google's AI search is rapidly becoming the default， new data shows",
+        "title_original": "Google's AI search is rapidly becoming the default， new data shows",
+        "summary": "Google AI Overviews 在搜索结果中的出现率一年内从15%升至43%，AI Mode月访问量从1.26亿增至2.79亿。用户搜索长度增加，正从短关键词转向更长的自然对话式查询。",
+        "recommend_reason_zh": "Google 的 AI Overviews 现已出现在 43% 的搜索中，新数据揭示了 AI 生成的答案正迅速成为人们在线获取信息的默认方式。",
+        "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "SEO从业者需关注，但开发者暂时不用改代码，等流量数据出来再动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T17:19:30.817917Z"
+      }
+    },
+    {
+      "story_id": "story_112bcb1d3a8b",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+          "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+          "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9718,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:14:40Z",
+      "latest_at": "2026-07-27T15:14:40Z",
+      "primary_item": {
+        "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+        "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+        "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+        "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
+        "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -218,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -254,7 +567,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -302,15 +615,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8324,
+        "recency": 0.8094,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -337,7 +650,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
+      }
+    },
+    {
+      "story_id": "story_e85da4d1892f",
+      "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+          "recommend_reason_zh": "@modal 为 Kimi K3 架构训练了自定义 DFlash 推测器，实现更快推理且无质量损失。这篇文章详解了如何通过 Day 0 合作优化推理性能。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:44:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+          "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+          "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+          "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+          "recommend_reason_zh": "@modal 为 Kimi K3 架构训练了自定义 DFlash 推测器，实现更快推理且无质量损失。这篇文章详解了如何通过 Day 0 合作优化推理性能。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:44:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7578,
+      "importance": 0.7578,
+      "importance_score": 0.7578,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9787,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:44:05Z",
+      "latest_at": "2026-07-27T15:44:05Z",
+      "primary_item": {
+        "id": "14d8f002e79998e9a73dc837936adbea88eaff79",
+        "title": "Kimi K3 上线 Modal，支持无损加速推理 / Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "title_zh": "Kimi K3 上线 Modal，支持无损加速推理",
+        "title_en": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "title_original": "Excited to have @modal as Day 0 launch partner for Kimi K3！ They trained a custom DFlash speculator…",
+        "summary": "很高兴 @modal 成为 Kimi K3 的 Day 0 发布合作伙伴！\n\n他们为 K3 的架构训练了自定义 DFlash 投机器，实现更快推理且无质量损失。",
+        "recommend_reason_zh": "@modal 为 Kimi K3 架构训练了自定义 DFlash 推测器，实现更快推理且无质量损失。这篇文章详解了如何通过 Day 0 合作优化推理性能。",
+        "url": "https://x.com/Kimi_Moonshot/status/2081767591887122564",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "K3上线Modal，无损加速推理，跑推理的可以试试看效果。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -385,15 +782,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -421,7 +818,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -469,15 +866,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7208,
+      "importance": 0.7208,
+      "importance_score": 0.7208,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.64,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8983,
+        "recency": 0.8735,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -504,90 +901,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
-      "story_id": "story_87f4abb6708f",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "primary_url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-      "source": "公众号：数字生命卡兹克",
+      "story_id": "story_45205b48cfd8",
+      "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+      "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_en": null,
-          "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
-          "recommend_reason_zh": "作者在浪费20亿Token后，开源了帮助Agent定义目标的Leader.skill，分享如何通过明确目标提升AI任务执行效率，避免资源浪费。",
-          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-          "source": "公众号：数字生命卡兹克",
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+          "recommend_reason_zh": "与kvcache-ai合作开源了AgentENV，一个分布式系统，其快照、恢复和分支功能支撑了Kimi K3的agentic强化学习训练，实现大规模并行agent工作流。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
+          "published_at": "2026-07-27T15:25:45Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：数字生命卡兹克"
+        "X：Kimi.ai (@Kimi_Moonshot)"
       ],
       "items": [
         {
-          "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-          "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "title_en": null,
-          "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-          "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
-          "recommend_reason_zh": "作者在浪费20亿Token后，开源了帮助Agent定义目标的Leader.skill，分享如何通过明确目标提升AI任务执行效率，避免资源浪费。",
-          "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-          "source": "公众号：数字生命卡兹克",
+          "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+          "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+          "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+          "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+          "recommend_reason_zh": "与kvcache-ai合作开源了AgentENV，一个分布式系统，其快照、恢复和分支功能支撑了Kimi K3的agentic强化学习训练，实现大规模并行agent工作流。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T00:12:00Z"
+          "published_at": "2026-07-27T15:25:45Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.68,
+        "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8043,
+        "recency": 0.9744,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T00:12:00Z",
-      "latest_at": "2026-07-27T00:12:00Z",
+      "earliest_at": "2026-07-27T15:25:45Z",
+      "latest_at": "2026-07-27T15:25:45Z",
       "primary_item": {
-        "id": "0f2e7fb1dbe93ed3aa7faa7e5f2aa6ad50744917",
-        "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "title_zh": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "title_en": null,
-        "title_original": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-        "summary": "作者开源了Leader.skill，用于将模糊的人类需求转化为Agent可独立执行数小时的目标任务书。该Skill基于\"目标七问\"方法论，涵盖目的、完成态、反作弊、边界等维度，并推荐用Claude Fable 5或Kimi K3规划目标，再交由GPT-5.6 Sol或GLM-5.2等模型长程执行。项目已开源。",
-        "recommend_reason_zh": "作者在浪费20亿Token后，开源了帮助Agent定义目标的Leader.skill，分享如何通过明确目标提升AI任务执行效率，避免资源浪费。",
-        "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
-        "source": "公众号：数字生命卡兹克",
+        "id": "e2dbc0537143b6d40bc7c79ae597ccd9dde5823c",
+        "title": "Kimi K3 开源分布式智能体环境 AgentENV / We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "title_zh": "Kimi K3 开源分布式智能体环境 AgentENV",
+        "title_en": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "title_original": "We've open-sourced AgentENV in collaboration with kvcache-ai. AgentENV is a distributed system for …",
+        "summary": "我们与 kvcache-ai 合作开源了 AgentENV。\n\nAgentENV 是一个用于大规模运行智能体环境的分布式系统。其组件为 Kimi K3 的智能体强化学习训练提供支持，具备快速快照、恢复和分支功能，适用于大规模并行智能体工作流。\n\n在 GitHub 上探索：http://github.com/kvcache-ai/AgentEnv",
+        "recommend_reason_zh": "与kvcache-ai合作开源了AgentENV，一个分布式系统，其快照、恢复和分支功能支撑了Kimi K3的agentic强化学习训练，实现大规模并行agent工作流。",
+        "url": "https://x.com/Kimi_Moonshot/status/2081762978391843020",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "开源技能可复用，省自己造轮子，但需验证实际效果。",
+      "persona_review": "分布式Agent环境开源，做多智能体可参考架构，但需看文档评估上手成本。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -635,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -671,7 +1069,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -719,15 +1117,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -755,7 +1153,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -803,15 +1201,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -839,7 +1237,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -856,7 +1254,7 @@
           "title_zh": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic",
           "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
           "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "summary": "It comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee",
+          "summary": null,
           "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等联合成立Open Secure AI Alliance，却不包括OpenAI、Google和Anthropic，此前Hugging Face曾用中国开源AI防御失控的OpenAI agent，值得关注。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
           "source": "The Verge",
@@ -890,7 +1288,7 @@
           "title_zh": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic",
           "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
           "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-          "summary": "It comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee",
+          "summary": null,
           "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等联合成立Open Secure AI Alliance，却不包括OpenAI、Google和Anthropic，此前Hugging Face曾用中国开源AI防御失控的OpenAI agent，值得关注。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
           "source": "The Verge",
@@ -915,15 +1313,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6324,
-      "importance": 0.6324,
-      "importance_score": 0.6324,
+      "score": 0.6276,
+      "importance": 0.6276,
+      "importance_score": 0.6276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.9552,
+        "recency": 0.9288,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -938,7 +1336,7 @@
         "title_zh": "英伟达和微软发起开放AI安全联盟——但不包括OpenAI、谷歌和Anthropic",
         "title_en": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "title_original": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
-        "summary": "It comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nIt comes after Hugging Face used a Chinese open-weight AI to defend itself against rogue OpenAI agents.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee",
+        "summary": null,
         "recommend_reason_zh": "Nvidia与Microsoft、SpaceX等联合成立Open Secure AI Alliance，却不包括OpenAI、Google和Anthropic，此前Hugging Face曾用中国开源AI防御失控的OpenAI agent，值得关注。",
         "url": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
         "source": "The Verge",
@@ -950,7 +1348,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -998,15 +1396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,7 +1432,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -1082,15 +1480,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1118,148 +1516,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
-      "story_id": "story_999d3b049e00",
-      "title": "AI公司正在销毁珍稀书籍 / AI companies are shredding rare books",
-      "url": "https://news.ycombinator.com/item?id=49068738",
-      "primary_url": "https://news.ycombinator.com/item?id=49068738",
+      "story_id": "story_36a4cddafb16",
+      "title": "AI公司在华盛顿游说支出创历史新高 / AI companies spend record sums on Washington lobbying",
+      "url": "https://news.ycombinator.com/item?id=49069939",
+      "primary_url": "https://news.ycombinator.com/item?id=49069939",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-          "title": "AI公司正在销毁珍稀书籍 / AI companies are shredding rare books",
-          "title_zh": "AI公司正在销毁珍稀书籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": "It pisses me off to reflect that they can sit on works until copyright expires, keeping them out of print. There's no real need for any of these so-called rare books to be rare while they're under copyright. And related to this, the books that are in print are mostly only in print in the shittiest way. I often see well-made books from the 17th or 18th centuries which are still in good nick. It's ridiculous that in the 21st century, publication standards have fallen to the point where for most wo",
-          "recommend_reason_zh": "本文批评现代出版业标准下降，指出17-18世纪的精装书至今完好，而21世纪大多数作品只提供一次性格式，并提议修改版权法让其他出版商能重印绝版书。",
-          "url": "https://news.ycombinator.com/item?id=49068738",
+          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
+          "title": "AI公司在华盛顿游说支出创历史新高 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "AI公司在华盛顿游说支出创历史新高",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
+          "summary": "https://techcongress.io/ https://horizonpublicservice.org/\nreply\nNever ceases to amaze me how cheap lobbying is. That's pocket change for these companies.\nreply\nThis should be a basic fact. If those who spend a good portion of time being angry at lobbyists yet intelligent enough to make mid-six figures conflate bribery with lobbying, it should be no surprise the corporations have captured the government. The general public has essentially zero civic understanding while corporations are able to h",
+          "recommend_reason_zh": "AI公司今年在华盛顿游说支出创下新高，但评论指出仅需约200万美元就能入门，相比其数百亿营收是“零花钱”，同时对比了National Association of Realtors年游说支出5400万美元却只有150万会员。",
+          "url": "https://news.ycombinator.com/item?id=49069939",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-27T14:47:36.992000Z"
+          "published_at": "2026-07-27T16:48:04.167000Z"
         },
         {
-          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
-          "title": "人工智能公司正在销毁珍本古籍",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
+          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
           "title_en": null,
-          "title_original": "人工智能公司正在销毁珍本古籍",
-          "summary": "🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're free of AI-generated text. A federal judge ruled the practice is fair use because eliminating the original means only one copy exists at a time. Anthropic hired the former head of Google Books partnerships to obtain \"all th",
-          "recommend_reason_zh": "AI公司批量购入珍本后切脊高速扫描并销毁，ISBNdb能匿名订购百万本书，Anthropic甚至雇用前Google Books负责人以获取“世界上所有的书”。18世纪植物学文本的最后三本也被送去粉碎。",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "xcancel.com",
+          "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "summary": "Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy\nGet 2 months free with an annual subscription at was $59.88 now $49 .\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel or change your plan anytime during your trial.\nEssential ",
+          "recommend_reason_zh": "揭示OpenAI、Anthropic、Google和Microsoft等AI巨头在华盛顿的游说支出创下历史新高，反映联邦政策博弈日益激烈。",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "www.ft.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T13:13:18.076000Z"
+          "published_at": "2026-07-27T16:41:20.960000Z"
         },
         {
-          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
-          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": "🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're free of AI-generated text. A federal judge ruled the practice is fair use because eliminating the original means only one copy exists at a time. Anthropic hired the former head of Google Books partnerships to obtain \"all th",
-          "recommend_reason_zh": "AI公司通过ISBNdb匿名批量购买稀有书籍，用高速机器切掉书脊扫描后销毁原版，联邦法官裁定此举为合理使用。Anthropic甚至雇佣前Google Books负责人获取“世界上所有的书”。",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:32:12Z"
+          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
+          "summary": null,
+          "recommend_reason_zh": "AI公司OpenAI、Anthropic、Google和Microsoft在华盛顿游说支出创纪录，折射出联邦政策争夺日益激烈。",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:07:48Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "xcancel.com"
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-          "title": "AI公司正在销毁珍稀书籍 / AI companies are shredding rare books",
-          "title_zh": "AI公司正在销毁珍稀书籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": "It pisses me off to reflect that they can sit on works until copyright expires, keeping them out of print. There's no real need for any of these so-called rare books to be rare while they're under copyright. And related to this, the books that are in print are mostly only in print in the shittiest way. I often see well-made books from the 17th or 18th centuries which are still in good nick. It's ridiculous that in the 21st century, publication standards have fallen to the point where for most wo",
-          "recommend_reason_zh": "本文批评现代出版业标准下降，指出17-18世纪的精装书至今完好，而21世纪大多数作品只提供一次性格式，并提议修改版权法让其他出版商能重印绝版书。",
-          "url": "https://news.ycombinator.com/item?id=49068738",
+          "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
+          "title": "AI公司在华盛顿游说支出创历史新高 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "AI公司在华盛顿游说支出创历史新高",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
+          "summary": "https://techcongress.io/ https://horizonpublicservice.org/\nreply\nNever ceases to amaze me how cheap lobbying is. That's pocket change for these companies.\nreply\nThis should be a basic fact. If those who spend a good portion of time being angry at lobbyists yet intelligent enough to make mid-six figures conflate bribery with lobbying, it should be no surprise the corporations have captured the government. The general public has essentially zero civic understanding while corporations are able to h",
+          "recommend_reason_zh": "AI公司今年在华盛顿游说支出创下新高，但评论指出仅需约200万美元就能入门，相比其数百亿营收是“零花钱”，同时对比了National Association of Realtors年游说支出5400万美元却只有150万会员。",
+          "url": "https://news.ycombinator.com/item?id=49069939",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-27T14:47:36.992000Z"
+          "published_at": "2026-07-27T16:48:04.167000Z"
         },
         {
-          "id": "656cc9dca182ad075423f09c171670ad90d55eff",
-          "title": "人工智能公司正在销毁珍本古籍",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
+          "id": "a3d57fd2ba820329313f98a8b1985d6075472428",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
           "title_en": null,
-          "title_original": "人工智能公司正在销毁珍本古籍",
-          "summary": "🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're free of AI-generated text. A federal judge ruled the practice is fair use because eliminating the original means only one copy exists at a time. Anthropic hired the former head of Google Books partnerships to obtain \"all th",
-          "recommend_reason_zh": "AI公司批量购入珍本后切脊高速扫描并销毁，ISBNdb能匿名订购百万本书，Anthropic甚至雇用前Google Books负责人以获取“世界上所有的书”。18世纪植物学文本的最后三本也被送去粉碎。",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "xcancel.com",
+          "title_original": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "summary": "Rising expenditure from OpenAI, Anthropic, Google and Microsoft reflects growing battle over federal policy\nGet 2 months free with an annual subscription at was $59.88 now $49 .\nAccess to eight surprising articles a day, hand-picked by FT editors. For seamless reading, access content via the FT Edit page on FT.com and receive the FT Edit newsletter.\nThen $75 per month. Complete digital access to quality FT journalism on any device. Cancel or change your plan anytime during your trial.\nEssential ",
+          "recommend_reason_zh": "揭示OpenAI、Anthropic、Google和Microsoft等AI巨头在华盛顿的游说支出创下历史新高，反映联邦政策博弈日益激烈。",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "www.ft.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-27T13:13:18.076000Z"
+          "published_at": "2026-07-27T16:41:20.960000Z"
         },
         {
-          "id": "0b147b85e4634799b17b31382da70f2cac8468c0",
-          "title": "人工智能公司正在销毁珍本古籍 / AI companies are shredding rare books",
-          "title_zh": "人工智能公司正在销毁珍本古籍",
-          "title_en": "AI companies are shredding rare books",
-          "title_original": "AI companies are shredding rare books",
-          "summary": "🦔AI companies are bulk-buying rare books, scanning them through high-speed machines that cut the spines off, and shredding the originals. A service called ISBNdb facilitates orders of up to a million books and keeps buyers anonymous. Pre-2022 books are premium because they're free of AI-generated text. A federal judge ruled the practice is fair use because eliminating the original means only one copy exists at a time. Anthropic hired the former head of Google Books partnerships to obtain \"all th",
-          "recommend_reason_zh": "AI公司通过ISBNdb匿名批量购买稀有书籍，用高速机器切掉书脊扫描后销毁原版，联邦法官裁定此举为合理使用。Anthropic甚至雇佣前Google Books负责人获取“世界上所有的书”。",
-          "url": "https://xcancel.com/HedgieMarkets/status/2081534588485296565",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T12:32:12Z"
+          "id": "848d454f510776a8cfc7996c17409b6afbb0bad1",
+          "title": "人工智能企业在华盛顿的游说支出创下历史新高 / AI companies spend record sums on Washington lobbying",
+          "title_zh": "人工智能企业在华盛顿的游说支出创下历史新高",
+          "title_en": "AI companies spend record sums on Washington lobbying",
+          "title_original": "AI companies spend record sums on Washington lobbying",
+          "summary": null,
+          "recommend_reason_zh": "AI公司OpenAI、Anthropic、Google和Microsoft在华盛顿游说支出创纪录，折射出联邦政策争夺日益激烈。",
+          "url": "https://www.ft.com/content/d8a5f95e-3b6d-463a-a848-c9ef8e2394db",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-27T14:07:48Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5697,
+      "importance": 0.5697,
+      "importance_score": 0.5697,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9939,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-27T12:32:12Z",
-      "latest_at": "2026-07-27T14:47:36.992000Z",
+      "earliest_at": "2026-07-27T14:07:48Z",
+      "latest_at": "2026-07-27T16:48:04.167000Z",
       "primary_item": {
-        "id": "f116a00aca0e2e07bc85f7960b6d6348c1cc2f5b",
-        "title": "AI公司正在销毁珍稀书籍 / AI companies are shredding rare books",
-        "title_zh": "AI公司正在销毁珍稀书籍",
-        "title_en": "AI companies are shredding rare books",
-        "title_original": "AI companies are shredding rare books",
-        "summary": "It pisses me off to reflect that they can sit on works until copyright expires, keeping them out of print. There's no real need for any of these so-called rare books to be rare while they're under copyright. And related to this, the books that are in print are mostly only in print in the shittiest way. I often see well-made books from the 17th or 18th centuries which are still in good nick. It's ridiculous that in the 21st century, publication standards have fallen to the point where for most wo",
-        "recommend_reason_zh": "本文批评现代出版业标准下降，指出17-18世纪的精装书至今完好，而21世纪大多数作品只提供一次性格式，并提议修改版权法让其他出版商能重印绝版书。",
-        "url": "https://news.ycombinator.com/item?id=49068738",
+        "id": "b73590aa9ac485ea9f25fbcece51b40e31204e3c",
+        "title": "AI公司在华盛顿游说支出创历史新高 / AI companies spend record sums on Washington lobbying",
+        "title_zh": "AI公司在华盛顿游说支出创历史新高",
+        "title_en": "AI companies spend record sums on Washington lobbying",
+        "title_original": "AI companies spend record sums on Washington lobbying",
+        "summary": "https://techcongress.io/ https://horizonpublicservice.org/\nreply\nNever ceases to amaze me how cheap lobbying is. That's pocket change for these companies.\nreply\nThis should be a basic fact. If those who spend a good portion of time being angry at lobbyists yet intelligent enough to make mid-six figures conflate bribery with lobbying, it should be no surprise the corporations have captured the government. The general public has essentially zero civic understanding while corporations are able to h",
+        "recommend_reason_zh": "AI公司今年在华盛顿游说支出创下新高，但评论指出仅需约200万美元就能入门，相比其数百亿营收是“零花钱”，同时对比了National Association of Realtors年游说支出5400万美元却只有150万会员。",
+        "url": "https://news.ycombinator.com/item?id=49069939",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "与开发无关，纯社会新闻，不写代码不碰书。",
+      "persona_score": 20,
+      "persona_review": "游说花钱不写代码，对开发者今天没影响。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -1299,7 +1697,7 @@
           "published_at": "2026-07-27T07:55:21.252000Z"
         },
         {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
+          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
           "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
           "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
           "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
@@ -1307,15 +1705,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-27T06:18:10Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews",
         "huggingface.co"
       ],
@@ -1349,7 +1747,7 @@
           "published_at": "2026-07-27T07:55:21.252000Z"
         },
         {
-          "id": "436d18c01c7bae7b2d15ac94ed347b9d8b1a0a29",
+          "id": "b20dcb7861c5981e7b7d57cf87deb7524e6be6a3",
           "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布 / Kimi-K3 Releases on HuggingFace 7/27",
           "title_zh": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
           "title_en": "Kimi-K3 Releases on HuggingFace 7/27",
@@ -1357,23 +1755,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/moonshotai/Kimi-K3",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-07-27T06:18:10Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5532,
-      "importance": 0.5532,
-      "importance_score": 0.5532,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9022,
+        "recency": 0.8773,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1400,7 +1798,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     },
     {
@@ -1448,15 +1846,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.9235,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1484,426 +1882,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
-      }
-    },
-    {
-      "story_id": "story_6086e14c411f",
-      "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-      "url": "https://news.ycombinator.com/item?id=49066591",
-      "primary_url": "https://news.ycombinator.com/item?id=49066591",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
-          "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-          "title_zh": "Claude Opus 5 出现大量错误",
-          "title_en": "Elevated errors on Claude Opus 5",
-          "title_original": "Elevated errors on Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": "本文记录了Claude Opus 5从11:22 UTC起出现529 Overloaded错误，即使status页面仍显示绿色；同时揭示Sonnet 5在解释git merge-base时自相矛盾，暴露模型在高负载下可能静默降级的问题。",
-          "url": "https://news.ycombinator.com/item?id=49066591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T11:32:40.096000Z"
-        },
-        {
-          "id": "2e0871910d45b41616fd920f79d0fa6e4698ed76",
-          "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-          "title_zh": "Claude Opus 5 出现大量错误",
-          "title_en": "Elevated errors on Claude Opus 5",
-          "title_original": "Elevated errors on Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T11:32:32Z"
-        },
-        {
-          "id": "23c7e9eb8d07cf929dccefeea082c5aed8a10813",
-          "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-          "title_zh": "Claude Opus 5 出现大量错误",
-          "title_en": "Elevated errors on Claude Opus 5",
-          "title_original": "Elevated errors on Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T08:20:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
-          "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-          "title_zh": "Claude Opus 5 出现大量错误",
-          "title_en": "Elevated errors on Claude Opus 5",
-          "title_original": "Elevated errors on Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": "本文记录了Claude Opus 5从11:22 UTC起出现529 Overloaded错误，即使status页面仍显示绿色；同时揭示Sonnet 5在解释git merge-base时自相矛盾，暴露模型在高负载下可能静默降级的问题。",
-          "url": "https://news.ycombinator.com/item?id=49066591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T11:32:40.096000Z"
-        },
-        {
-          "id": "2e0871910d45b41616fd920f79d0fa6e4698ed76",
-          "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-          "title_zh": "Claude Opus 5 出现大量错误",
-          "title_en": "Elevated errors on Claude Opus 5",
-          "title_original": "Elevated errors on Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/mfdtrknpxghq",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-27T11:32:32Z"
-        },
-        {
-          "id": "23c7e9eb8d07cf929dccefeea082c5aed8a10813",
-          "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-          "title_zh": "Claude Opus 5 出现大量错误",
-          "title_en": "Elevated errors on Claude Opus 5",
-          "title_original": "Elevated errors on Claude Opus 5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://status.claude.com/incidents/lhqp09kxq7pb",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-27T08:20:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9475,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T08:20:06Z",
-      "latest_at": "2026-07-27T11:32:40.096000Z",
-      "primary_item": {
-        "id": "664b72220941b9396422ffc521c0d95bd1e01de2",
-        "title": "Claude Opus 5 出现大量错误 / Elevated errors on Claude Opus 5",
-        "title_zh": "Claude Opus 5 出现大量错误",
-        "title_en": "Elevated errors on Claude Opus 5",
-        "title_original": "Elevated errors on Claude Opus 5",
-        "summary": null,
-        "recommend_reason_zh": "本文记录了Claude Opus 5从11:22 UTC起出现529 Overloaded错误，即使status页面仍显示绿色；同时揭示Sonnet 5在解释git merge-base时自相矛盾，暴露模型在高负载下可能静默降级的问题。",
-        "url": "https://news.ycombinator.com/item?id=49066591",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "服务不稳定是常态，等官方修复公告再评估影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
-      }
-    },
-    {
-      "story_id": "story_830e0635b3bc",
-      "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-      "url": "https://www.aibase.com/news/29903",
-      "primary_url": "https://www.aibase.com/news/29903",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_en": null,
-          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "summary": null,
-          "recommend_reason_zh": "Midjourney收购社交占星应用Co-Star，后者月活430万，约24人团队全员并入，这是Midjourney首次收购消费级应用团队，或为推出独立App铺路。",
-          "url": "https://www.aibase.com/news/29903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T07:54:58.525109Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-          "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "title_en": null,
-          "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-          "summary": null,
-          "recommend_reason_zh": "Midjourney收购社交占星应用Co-Star，后者月活430万，约24人团队全员并入，这是Midjourney首次收购消费级应用团队，或为推出独立App铺路。",
-          "url": "https://www.aibase.com/news/29903",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T07:54:58.525109Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8991,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T07:54:58.525109Z",
-      "latest_at": "2026-07-27T07:54:58.525109Z",
-      "primary_item": {
-        "id": "44bd3d43620c0a2b33b64b16619085a3d9bf8aa2",
-        "title": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "title_zh": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "title_en": null,
-        "title_original": "Midjourney 收购星座社交应用 Co-Star，月活 430 万，团队全员并入",
-        "summary": null,
-        "recommend_reason_zh": "Midjourney收购社交占星应用Co-Star，后者月活430万，约24人团队全员并入，这是Midjourney首次收购消费级应用团队，或为推出独立App铺路。",
-        "url": "https://www.aibase.com/news/29903",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "收购社交应用跟开发者无关，等看产品整合再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
-      }
-    },
-    {
-      "story_id": "story_b1ab2dbdc211",
-      "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-      "url": "https://www.aibase.com/news/29904",
-      "primary_url": "https://www.aibase.com/news/29904",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "summary": null,
-          "recommend_reason_zh": "Monday.com以AI转型为由裁员20%约600人，预计花费4500-5500万美元，身后还有20家同行也以此为由裁员。",
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T07:54:58.525109Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-          "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "title_en": null,
-          "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-          "summary": null,
-          "recommend_reason_zh": "Monday.com以AI转型为由裁员20%约600人，预计花费4500-5500万美元，身后还有20家同行也以此为由裁员。",
-          "url": "https://www.aibase.com/news/29904",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T07:54:58.525109Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7494,
-      "importance": 0.7494,
-      "importance_score": 0.7494,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8991,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T07:54:58.525109Z",
-      "latest_at": "2026-07-27T07:54:58.525109Z",
-      "primary_item": {
-        "id": "08ac480394c087bd6350d94ed811c8cef1893b1b",
-        "title": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_zh": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "title_en": null,
-        "title_original": "Monday.com 成最新一家把裁员甩给 AI 的公司，身后还站着 20 个同行",
-        "summary": null,
-        "recommend_reason_zh": "Monday.com以AI转型为由裁员20%约600人，预计花费4500-5500万美元，身后还有20家同行也以此为由裁员。",
-        "url": "https://www.aibase.com/news/29904",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "裁员甩锅AI是公关话术，对开发者选型无影响，别浪费时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
-      }
-    },
-    {
-      "story_id": "story_68c90fc1b6d7",
-      "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-      "url": "https://news.ycombinator.com/item?id=49063186",
-      "primary_url": "https://news.ycombinator.com/item?id=49063186",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
-          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "recommend_reason_zh": "Cursor Bridge是一个轻量工具，一条命令零配置即可让Claude Code调用Cursor的订阅额度，绕过Claude Code的计费，实现“无限”使用。",
-          "url": "https://news.ycombinator.com/item?id=49063186",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T00:17:17.046000Z"
-        },
-        {
-          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
-          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "recommend_reason_zh": "用Rust写的单个二进制文件cursor-bridge，能让你用Cursor订阅免费无限运行Claude Code CLI，无需配置代理或额外付费。",
-          "url": "https://github.com/hkc5/cursor-bridge",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T22:48:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
-          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "recommend_reason_zh": "Cursor Bridge是一个轻量工具，一条命令零配置即可让Claude Code调用Cursor的订阅额度，绕过Claude Code的计费，实现“无限”使用。",
-          "url": "https://news.ycombinator.com/item?id=49063186",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-27T00:17:17.046000Z"
-        },
-        {
-          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
-          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
-          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-          "summary": null,
-          "recommend_reason_zh": "用Rust写的单个二进制文件cursor-bridge，能让你用Cursor订阅免费无限运行Claude Code CLI，无需配置代理或额外付费。",
-          "url": "https://github.com/hkc5/cursor-bridge",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-26T22:48:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5108,
-      "importance": 0.5108,
-      "importance_score": 0.5108,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8053,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-26T22:48:09Z",
-      "latest_at": "2026-07-27T00:17:17.046000Z",
-      "primary_item": {
-        "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
-        "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-        "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
-        "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-        "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-        "summary": null,
-        "recommend_reason_zh": "Cursor Bridge是一个轻量工具，一条命令零配置即可让Claude Code调用Cursor的订阅额度，绕过Claude Code的计费，实现“无限”使用。",
-        "url": "https://news.ycombinator.com/item?id=49063186",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "能白嫖Claude Code额度，但小心违反ToS封号，小项目可试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-27T15:24:07.766207Z"
+        "scored_at": "2026-07-27T17:19:30.817917Z"
       }
     }
   ]
