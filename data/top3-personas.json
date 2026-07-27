@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T23:18:03.579416Z",
+  "generated_at": "2026-07-27T00:19:38.373164Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_a3ff96779b04",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://www.ithome.com/0/981/688.htm",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "泄露的是提示词，不是模型权重，这也能叫完整？"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无评测，只有匿名泄露文本，无法验证真伪。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "提示词工程参考价值高，直接抄来优化自己项目的系统提示。"
-        }
-      }
-    },
-    {
       "story_id": "story_56214f7f40b3",
       "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
       "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "936万参数语音模型，内存敏感场景可直接部署，今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_68c90fc1b6d7",
+      "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://news.ycombinator.com/item?id=49063186",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "把订阅当API用，Cursor法务部还没上班吧？"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "无论文无代码无评测，只有HN帖子，等于什么都没发生。"
+        },
+        "pragmatic": {
+          "score": 75,
+          "review": "能白嫖Claude Code额度，但小心违反ToS封号，小项目可试。"
         }
       }
     }

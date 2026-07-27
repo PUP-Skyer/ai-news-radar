@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T23:15:59.481346Z",
+  "generated_at": "2026-07-27T00:16:57.896271Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_12116ef69e35",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7607,
-      "importance": 0.7607,
-      "importance_score": 0.7607,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7562,
+        "recency": 0.7452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.93,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -197,7 +197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -245,15 +245,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8611,
+        "recency": 0.8485,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -280,7 +280,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -328,15 +328,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.7341,
+      "importance": 0.7341,
+      "importance_score": 0.7341,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8091,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -363,90 +363,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
-      }
-    },
-    {
-      "story_id": "story_a3ff96779b04",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://www.ithome.com/0/981/688.htm",
-      "primary_url": "https://www.ithome.com/0/981/688.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-          "recommend_reason_zh": "这篇披露了Claude Opus 5长达3.4万token的系统提示词全文，包含30个工具、64章内容，详细展示了Anthropic如何通过记忆标签[stated]和隐私黑名单等规则，为AI设定严格的行为边界。",
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "title_en": null,
-          "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-          "recommend_reason_zh": "这篇披露了Claude Opus 5长达3.4万token的系统提示词全文，包含30个工具、64章内容，详细展示了Anthropic如何通过记忆标签[stated]和隐私黑名单等规则，为AI设定严格的行为边界。",
-          "url": "https://www.ithome.com/0/981/688.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.721,
-      "importance": 0.721,
-      "importance_score": 0.721,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7744,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T05:33:44Z",
-      "latest_at": "2026-07-26T05:33:44Z",
-      "primary_item": {
-        "id": "6aec6c207a5ec8b5404742ad23e136ffd3a979a1",
-        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "title_zh": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "title_en": null,
-        "title_original": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "summary": "开发者 Eversmile1 在 GitHub 上公开了 Claude Opus 5 的完整系统提示词，包含 30 个工具的 JSON schema、严格的版权合规规则（单次引用不超过 15 词）和跨会话记忆系统。泄露后 24 小时内，已有开发者用 Opus 5 成功生成 3D 射击游戏和《火箭联盟》克隆版等复杂 Demo。",
-        "recommend_reason_zh": "这篇披露了Claude Opus 5长达3.4万token的系统提示词全文，包含30个工具、64章内容，详细展示了Anthropic如何通过记忆标签[stated]和隐私黑名单等规则，为AI设定严格的行为边界。",
-        "url": "https://www.ithome.com/0/981/688.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "提示词工程参考价值高，直接抄来优化自己项目的系统提示。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -552,15 +469,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9786,
+        "recency": 0.9643,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -587,7 +504,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -693,15 +610,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9097,
+        "recency": 0.8965,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -728,44 +645,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
-      "story_id": "story_ac9556f6e6f5",
-      "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
-      "url": "https://news.ycombinator.com/item?id=49062259",
-      "primary_url": "https://news.ycombinator.com/item?id=49062259",
+      "story_id": "story_68c90fc1b6d7",
+      "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+      "url": "https://news.ycombinator.com/item?id=49063186",
+      "primary_url": "https://news.ycombinator.com/item?id=49063186",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
-          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
-          "title_zh": "多路图灵机（2021，前AI时代）",
-          "title_en": "Multiway Turing Machines (2021 pre-ai)",
-          "title_original": "Multiway Turing Machines (2021 pre-ai)",
-          "summary": null,
-          "recommend_reason_zh": "这篇2021年的预AI文章探讨了Multiway Turing Machines的概念，通过引入多路径计算分支，扩展了经典图灵机的理论框架。",
-          "url": "https://news.ycombinator.com/item?id=49062259",
+          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
+          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
+          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "summary": "Things sold as \"unlimited\" are always done so within some scope that makes it hard to abuse, on purpose. Unlimited free refills, but you can't bring a bucket to take home. Unlimited home bandwidth, but you can't use it to run servers. Yes you can technically do this, but the result is that Cursor will just change their subscription model. Because they rely on the \"unlimited\" access being within a scope they control that gives them tools to manage volume.\nYes you can technically do this, but the ",
+          "recommend_reason_zh": "Cursor Bridge是一个轻量工具，一条命令零配置即可让Claude Code调用Cursor的订阅额度，绕过Claude Code的计费，实现“无限”使用。",
+          "url": "https://news.ycombinator.com/item?id=49063186",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T21:56:32.989000Z"
+          "published_at": "2026-07-27T00:17:17.046000Z"
         },
         {
-          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
-          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
-          "title_zh": "多路图灵机（2021，前AI时代）",
-          "title_en": "Multiway Turing Machines (2021 pre-ai)",
-          "title_original": "Multiway Turing Machines (2021 pre-ai)",
-          "summary": null,
-          "recommend_reason_zh": "Stephen Wolfram在本文中探索了作为量子力学模型的multiway Turing machines（NDTMs），发现即使最简单的规则也会产生复杂的多路图结构，并对比了4096种普通图灵机的简单行为。",
-          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
+          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
+          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "summary": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config. - hkc5/cursor-bridge\nClaude Code that runs on your Cursor subscription. One Rust binary, zero config. - hkc5/cursor-bridge\nClaude Code that runs on your Cursor subscription. One Rust binary, zero config. - hkc5/cursor-bridge\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nOne binary. Claude Code on Cursor's backend. Zero config.\nYou have a",
+          "recommend_reason_zh": "用Rust写的单个二进制文件cursor-bridge，能让你用Cursor订阅免费无限运行Claude Code CLI，无需配置代理或额外付费。",
+          "url": "https://github.com/hkc5/cursor-bridge",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-26T20:49:43Z"
+          "published_at": "2026-07-26T22:48:09Z"
         }
       ],
       "source_count": 2,
@@ -775,213 +692,296 @@
       ],
       "items": [
         {
-          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
-          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
-          "title_zh": "多路图灵机（2021，前AI时代）",
-          "title_en": "Multiway Turing Machines (2021 pre-ai)",
-          "title_original": "Multiway Turing Machines (2021 pre-ai)",
-          "summary": null,
-          "recommend_reason_zh": "这篇2021年的预AI文章探讨了Multiway Turing Machines的概念，通过引入多路径计算分支，扩展了经典图灵机的理论框架。",
-          "url": "https://news.ycombinator.com/item?id=49062259",
+          "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
+          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
+          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "summary": "Things sold as \"unlimited\" are always done so within some scope that makes it hard to abuse, on purpose. Unlimited free refills, but you can't bring a bucket to take home. Unlimited home bandwidth, but you can't use it to run servers. Yes you can technically do this, but the result is that Cursor will just change their subscription model. Because they rely on the \"unlimited\" access being within a scope they control that gives them tools to manage volume.\nYes you can technically do this, but the ",
+          "recommend_reason_zh": "Cursor Bridge是一个轻量工具，一条命令零配置即可让Claude Code调用Cursor的订阅额度，绕过Claude Code的计费，实现“无限”使用。",
+          "url": "https://news.ycombinator.com/item?id=49063186",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T21:56:32.989000Z"
+          "published_at": "2026-07-27T00:17:17.046000Z"
         },
         {
-          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
-          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
-          "title_zh": "多路图灵机（2021，前AI时代）",
-          "title_en": "Multiway Turing Machines (2021 pre-ai)",
-          "title_original": "Multiway Turing Machines (2021 pre-ai)",
-          "summary": null,
-          "recommend_reason_zh": "Stephen Wolfram在本文中探索了作为量子力学模型的multiway Turing machines（NDTMs），发现即使最简单的规则也会产生复杂的多路图结构，并对比了4096种普通图灵机的简单行为。",
-          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "id": "eaea27e174e2abad1fcc93a6b0b39e8892b1924f",
+          "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
+          "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+          "summary": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config. - hkc5/cursor-bridge\nClaude Code that runs on your Cursor subscription. One Rust binary, zero config. - hkc5/cursor-bridge\nClaude Code that runs on your Cursor subscription. One Rust binary, zero config. - hkc5/cursor-bridge\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nOne binary. Claude Code on Cursor's backend. Zero config.\nYou have a",
+          "recommend_reason_zh": "用Rust写的单个二进制文件cursor-bridge，能让你用Cursor订阅免费无限运行Claude Code CLI，无需配置代理或额外付费。",
+          "url": "https://github.com/hkc5/cursor-bridge",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-26T20:49:43Z"
+          "published_at": "2026-07-26T22:48:09Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9811,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T20:49:43Z",
-      "latest_at": "2026-07-26T21:56:32.989000Z",
+      "earliest_at": "2026-07-26T22:48:09Z",
+      "latest_at": "2026-07-27T00:17:17.046000Z",
       "primary_item": {
-        "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
-        "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
-        "title_zh": "多路图灵机（2021，前AI时代）",
-        "title_en": "Multiway Turing Machines (2021 pre-ai)",
-        "title_original": "Multiway Turing Machines (2021 pre-ai)",
-        "summary": null,
-        "recommend_reason_zh": "这篇2021年的预AI文章探讨了Multiway Turing Machines的概念，通过引入多路径计算分支，扩展了经典图灵机的理论框架。",
-        "url": "https://news.ycombinator.com/item?id=49062259",
+        "id": "41ca00ed72303fffe5ca0fe42561a20965906002",
+        "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "title_zh": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code",
+        "title_en": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "title_original": "Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
+        "summary": "Things sold as \"unlimited\" are always done so within some scope that makes it hard to abuse, on purpose. Unlimited free refills, but you can't bring a bucket to take home. Unlimited home bandwidth, but you can't use it to run servers. Yes you can technically do this, but the result is that Cursor will just change their subscription model. Because they rely on the \"unlimited\" access being within a scope they control that gives them tools to manage volume.\nYes you can technically do this, but the ",
+        "recommend_reason_zh": "Cursor Bridge是一个轻量工具，一条命令零配置即可让Claude Code调用Cursor的订阅额度，绕过Claude Code的计费，实现“无限”使用。",
+        "url": "https://news.ycombinator.com/item?id=49063186",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "2021年的理论文章，对今天写代码毫无帮助，别浪费时间。",
+      "persona_score": 75,
+      "persona_review": "能白嫖Claude Code额度，但小心违反ToS封号，小项目可试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
-      "story_id": "story_213f8ad1a1a3",
-      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-      "source": "github.com",
+      "story_id": "story_5cac93a795bf",
+      "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "primary_url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+      "source": "teorth.github.io",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "id": "bba9241410da43921be24d1c061427b354a3cb81",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
           "title_en": null,
-          "title_original": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资，原文为梁文锋投资者交流会文字记录，揭示了内部对中美AI算力竞争的真实评估。",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "github.com",
+          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "summary": "Title: Mathematics in the age of AI - Public lecture, International Congress of Mathematicians 2026\nPublished Time: Sat, 25 Jul 2026 00:55:22 GMT\n## Mathematics in the age of AI\nPublic lecture, International Congress of Mathematicians 2026 Terence Tao\nUniversity of California, Los Angeles\n> Terence Tao Mathematics in the age of AI\n## Historical prologue: the crisis in foundations\nFor centuries, mathematics successfully operated using “naive” foundations, with some fundamental questions largely d",
+          "recommend_reason_zh": "陶哲轩在2026年国际数学家大会演讲中，以Russell's paradox (1901)和Gödel incompleteness theorems (1931)为引，提出AI Capability Conjecture，探讨数学界应如何应对AI做研究级数学任务。",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "teorth.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
+          "published_at": "2026-07-26T23:38:23.200000Z"
         },
         {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "DeepSeek暂停融资，此前关于中美算力差距的评论遭泄露（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_zh": "DeepSeek暂停融资，此前关于中美算力差距的评论遭泄露（文字记录）[pdf]",
-          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek 暂停第二轮融资，因创始人 Liang Wenfeng 直言需要 200,000 块华为 950 芯片却只拿到 16,000 块，并称芯片短缺至少持续三年，但可用少量算力将差距缩至三到六个月。",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T00:06:10.298000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek在梁文锋长达四小时的投资人会议中，因谈及中美计算能力差距的评论遭泄露，随后暂停了融资进程。",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "recommend_reason_zh": "陶哲轩将AI对数学的影响比作20世纪初的数学基础危机，引用Russell悖论(1901)和Gödel不完备定理(1931)，并提出了一个关于AI未来数学能力的AI Capability Conjecture模板。",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
+          "published_at": "2026-07-26T10:32:35Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News · 24h最热",
-        "github.com",
-        "hackernews"
+        "teorth.github.io"
       ],
       "items": [
         {
-          "id": "6701328e205a2b0fa38156d13c431358070662ea",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "id": "bba9241410da43921be24d1c061427b354a3cb81",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
           "title_en": null,
-          "title_original": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资，原文为梁文锋投资者交流会文字记录，揭示了内部对中美AI算力竞争的真实评估。",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "github.com",
+          "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "summary": "Title: Mathematics in the age of AI - Public lecture, International Congress of Mathematicians 2026\nPublished Time: Sat, 25 Jul 2026 00:55:22 GMT\n## Mathematics in the age of AI\nPublic lecture, International Congress of Mathematicians 2026 Terence Tao\nUniversity of California, Los Angeles\n> Terence Tao Mathematics in the age of AI\n## Historical prologue: the crisis in foundations\nFor centuries, mathematics successfully operated using “naive” foundations, with some fundamental questions largely d",
+          "recommend_reason_zh": "陶哲轩在2026年国际数学家大会演讲中，以Russell's paradox (1901)和Gödel incompleteness theorems (1931)为引，提出AI Capability Conjecture，探讨数学界应如何应对AI做研究级数学任务。",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+          "source": "teorth.github.io",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.690000Z"
+          "published_at": "2026-07-26T23:38:23.200000Z"
         },
         {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "DeepSeek暂停融资，此前关于中美算力差距的评论遭泄露（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_zh": "DeepSeek暂停融资，此前关于中美算力差距的评论遭泄露（文字记录）[pdf]",
-          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "id": "b172522f57a10069cdd6e20ecc07c2ea9b0c68a8",
+          "title": "陶哲轩：《人工智能时代的数学》[pdf] / Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
+          "title_en": "Terence Tao: Mathematics in the Age of AI [pdf]",
+          "title_original": "Terence Tao: Mathematics in the Age of AI [pdf]",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek 暂停第二轮融资，因创始人 Liang Wenfeng 直言需要 200,000 块华为 950 芯片却只拿到 16,000 块，并称芯片短缺至少持续三年，但可用少量算力将差距缩至三到六个月。",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T00:06:10.298000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-          "title_en": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "title_original": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek在梁文锋长达四小时的投资人会议中，因谈及中美计算能力差距的评论遭泄露，随后暂停了融资进程。",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "recommend_reason_zh": "陶哲轩将AI对数学的影响比作20世纪初的数学基础危机，引用Russell悖论(1901)和Gödel不完备定理(1931)，并提出了一个关于AI未来数学能力的AI Capability Conjecture模板。",
+          "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
+          "published_at": "2026-07-26T10:32:35Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5441,
+      "importance": 0.5441,
+      "importance_score": 0.5441,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7562,
-        "story_heat": 0.5
+        "recency": 0.9908,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T23:32:50Z",
-      "latest_at": "2026-07-26T03:54:52.690000Z",
+      "earliest_at": "2026-07-26T10:32:35Z",
+      "latest_at": "2026-07-26T23:38:23.200000Z",
       "primary_item": {
-        "id": "6701328e205a2b0fa38156d13c431358070662ea",
-        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "title_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+        "id": "bba9241410da43921be24d1c061427b354a3cb81",
+        "title": "陶哲轩：《人工智能时代的数学》[pdf]",
+        "title_zh": "陶哲轩：《人工智能时代的数学》[pdf]",
         "title_en": null,
-        "title_original": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
-        "summary": null,
-        "recommend_reason_zh": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资，原文为梁文锋投资者交流会文字记录，揭示了内部对中美AI算力竞争的真实评估。",
-        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-        "source": "github.com",
+        "title_original": "陶哲轩：《人工智能时代的数学》[pdf]",
+        "summary": "Title: Mathematics in the age of AI - Public lecture, International Congress of Mathematicians 2026\nPublished Time: Sat, 25 Jul 2026 00:55:22 GMT\n## Mathematics in the age of AI\nPublic lecture, International Congress of Mathematicians 2026 Terence Tao\nUniversity of California, Los Angeles\n> Terence Tao Mathematics in the age of AI\n## Historical prologue: the crisis in foundations\nFor centuries, mathematics successfully operated using “naive” foundations, with some fundamental questions largely d",
+        "recommend_reason_zh": "陶哲轩在2026年国际数学家大会演讲中，以Russell's paradox (1901)和Gödel incompleteness theorems (1931)为引，提出AI Capability Conjecture，探讨数学界应如何应对AI做研究级数学任务。",
+        "url": "https://teorth.github.io/tao-web/slides/age-of-ai-icm-2026.pdf",
+        "source": "teorth.github.io",
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 20,
-      "persona_review": "融资八卦和内部言论，对写代码没任何用。",
+      "persona_review": "数学家的PPT，不是代码库或API，等有工具再关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
+      }
+    },
+    {
+      "story_id": "story_bf8f6caea65b",
+      "title": "Wattage：面向AI agent的代币花费分析器与成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+      "url": "https://news.ycombinator.com/item?id=49063397",
+      "primary_url": "https://news.ycombinator.com/item?id=49063397",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "49f345475ac4c2ea1773984f0c0be879436bd89f",
+          "title": "Wattage：面向AI agent的代币花费分析器与成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "Wattage：面向AI agent的代币花费分析器与成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": "Title: Wattage: A token-spend profiler and cost-regression gate for AI agents\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https",
+          "recommend_reason_zh": "Wattage为AI agents提供token花费分析和成本回归门，帮助开发者精确预测并控制模型推理的边际成本。",
+          "url": "https://news.ycombinator.com/item?id=49063397",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T00:17:17.046000Z"
+        },
+        {
+          "id": "774a7d45ef5a3d0d400092c0981b0c8197ff4f35",
+          "title": "Wattage：面向AI agent的代币花费分析器与成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "Wattage：面向AI agent的代币花费分析器与成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": "A token-spend profiler and cost-regression gate for AI agents. - faizannraza/wattage\nA token-spend profiler and cost-regression gate for AI agents. - faizannraza/wattage\nA token-spend profiler and cost-regression gate for AI agents. - faizannraza/wattage\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nA Kill-A-Watt meter for your AI agents. Point it at a trace and it tells\nyou exactly where your tokens are being burned",
+          "recommend_reason_zh": "Wattage通过分析AI agent的OTLP追踪，检测到prompt缓存未命中可节省44.7%成本（$0.000199→$0.000110），其非收敛检测器还能识别出朴素重复检测无法发现的策略振荡循环。",
+          "url": "https://github.com/faizannraza/wattage",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T23:27:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "49f345475ac4c2ea1773984f0c0be879436bd89f",
+          "title": "Wattage：面向AI agent的代币花费分析器与成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "Wattage：面向AI agent的代币花费分析器与成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": "Title: Wattage: A token-spend profiler and cost-regression gate for AI agents\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https",
+          "recommend_reason_zh": "Wattage为AI agents提供token花费分析和成本回归门，帮助开发者精确预测并控制模型推理的边际成本。",
+          "url": "https://news.ycombinator.com/item?id=49063397",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-27T00:17:17.046000Z"
+        },
+        {
+          "id": "774a7d45ef5a3d0d400092c0981b0c8197ff4f35",
+          "title": "Wattage：面向AI agent的代币花费分析器与成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_zh": "Wattage：面向AI agent的代币花费分析器与成本回归门",
+          "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+          "summary": "A token-spend profiler and cost-regression gate for AI agents. - faizannraza/wattage\nA token-spend profiler and cost-regression gate for AI agents. - faizannraza/wattage\nA token-spend profiler and cost-regression gate for AI agents. - faizannraza/wattage\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nA Kill-A-Watt meter for your AI agents. Point it at a trace and it tells\nyou exactly where your tokens are being burned",
+          "recommend_reason_zh": "Wattage通过分析AI agent的OTLP追踪，检测到prompt缓存未命中可节省44.7%成本（$0.000199→$0.000110），其非收敛检测器还能识别出朴素重复检测无法发现的策略振荡循环。",
+          "url": "https://github.com/faizannraza/wattage",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T23:27:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T23:27:35Z",
+      "latest_at": "2026-07-27T00:17:17.046000Z",
+      "primary_item": {
+        "id": "49f345475ac4c2ea1773984f0c0be879436bd89f",
+        "title": "Wattage：面向AI agent的代币花费分析器与成本回归门 / Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "title_zh": "Wattage：面向AI agent的代币花费分析器与成本回归门",
+        "title_en": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "title_original": "Wattage: A token-spend profiler and cost-regression gate for AI agents",
+        "summary": "Title: Wattage: A token-spend profiler and cost-regression gate for AI agents\n[![Image 1](https://news.ycombinator.com/y18.svg)](https://news.ycombinator.com/)**[Hacker News](https://news.ycombinator.com/news)**[new](https://news.ycombinator.com/newest) | [past](https://news.ycombinator.com/front) | [comments](https://news.ycombinator.com/newcomments) | [ask](https://news.ycombinator.com/ask) | [show](https://news.ycombinator.com/show) | [jobs](https://news.ycombinator.com/jobs) | [submit](https",
+        "recommend_reason_zh": "Wattage为AI agents提供token花费分析和成本回归门，帮助开发者精确预测并控制模型推理的边际成本。",
+        "url": "https://news.ycombinator.com/item?id=49063397",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "开源工具，能直接接入agent监控token消耗，适合做成本优化。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -1058,15 +1058,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5095,
-      "importance": 0.5095,
-      "importance_score": 0.5095,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7981,
+        "recency": 0.7865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1093,7 +1093,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
+      }
+    },
+    {
+      "story_id": "story_ac9556f6e6f5",
+      "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+      "url": "https://news.ycombinator.com/item?id=49062259",
+      "primary_url": "https://news.ycombinator.com/item?id=49062259",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+          "title_zh": "多路图灵机（2021，前AI时代）",
+          "title_en": "Multiway Turing Machines (2021 pre-ai)",
+          "title_original": "Multiway Turing Machines (2021 pre-ai)",
+          "summary": null,
+          "recommend_reason_zh": "这篇2021年的预AI文章探讨了Multiway Turing Machines的概念，通过引入多路径计算分支，扩展了经典图灵机的理论框架。",
+          "url": "https://news.ycombinator.com/item?id=49062259",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T21:56:32.989000Z"
+        },
+        {
+          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+          "title_zh": "多路图灵机（2021，前AI时代）",
+          "title_en": "Multiway Turing Machines (2021 pre-ai)",
+          "title_original": "Multiway Turing Machines (2021 pre-ai)",
+          "summary": null,
+          "recommend_reason_zh": "Stephen Wolfram在本文中探索了作为量子力学模型的multiway Turing machines（NDTMs），发现即使最简单的规则也会产生复杂的多路图结构，并对比了4096种普通图灵机的简单行为。",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T20:49:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+          "title_zh": "多路图灵机（2021，前AI时代）",
+          "title_en": "Multiway Turing Machines (2021 pre-ai)",
+          "title_original": "Multiway Turing Machines (2021 pre-ai)",
+          "summary": null,
+          "recommend_reason_zh": "这篇2021年的预AI文章探讨了Multiway Turing Machines的概念，通过引入多路径计算分支，扩展了经典图灵机的理论框架。",
+          "url": "https://news.ycombinator.com/item?id=49062259",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T21:56:32.989000Z"
+        },
+        {
+          "id": "eadbf580624ac28b901c336fc8849fca2574b374",
+          "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+          "title_zh": "多路图灵机（2021，前AI时代）",
+          "title_en": "Multiway Turing Machines (2021 pre-ai)",
+          "title_original": "Multiway Turing Machines (2021 pre-ai)",
+          "summary": null,
+          "recommend_reason_zh": "Stephen Wolfram在本文中探索了作为量子力学模型的multiway Turing machines（NDTMs），发现即使最简单的规则也会产生复杂的多路图结构，并对比了4096种普通图灵机的简单行为。",
+          "url": "https://bulletins.wolframphysics.org/2021/02/multiway-turing-machines",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-26T20:49:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9668,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T20:49:43Z",
+      "latest_at": "2026-07-26T21:56:32.989000Z",
+      "primary_item": {
+        "id": "41fa66a79125f584268c7e53a0b7c6079f8c3f69",
+        "title": "多路图灵机（2021，前AI时代） / Multiway Turing Machines (2021 pre-ai)",
+        "title_zh": "多路图灵机（2021，前AI时代）",
+        "title_en": "Multiway Turing Machines (2021 pre-ai)",
+        "title_original": "Multiway Turing Machines (2021 pre-ai)",
+        "summary": null,
+        "recommend_reason_zh": "这篇2021年的预AI文章探讨了Multiway Turing Machines的概念，通过引入多路径计算分支，扩展了经典图灵机的理论框架。",
+        "url": "https://news.ycombinator.com/item?id=49062259",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 15,
+      "persona_review": "2021年的理论文章，对今天写代码毫无帮助，别浪费时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     },
     {
@@ -1170,15 +1282,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9462,
+        "recency": 0.9324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1205,7 +1317,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-26T23:18:02.526744Z"
+        "scored_at": "2026-07-27T00:19:31.721939Z"
       }
     }
   ]
