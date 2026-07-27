@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:00:53.821543Z",
+  "generated_at": "2026-07-27T11:51:16.126478Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_2d4e47d50fc6",
-      "title": "Kimi-K3 7月27日登陆 HuggingFace / Kimi-K3 Releases on HuggingFace 7/27",
-      "url": "https://news.ycombinator.com/item?id=49065752",
+      "story_id": "story_1ea579ee44b6",
+      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+      "url": "https://www.aibase.com/news/29917",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 65,
-          "review": "HuggingFace 上又多了一个模型，但除了日期和名字，啥细节都没给。"
+          "score": 25,
+          "review": "连基础权限都没搞明白就敢上线，这波数据泄露教学很生动。"
         },
         "paper-police": {
-          "score": 5,
-          "review": "只有发布日期，无论文无代码无评测，等于什么都没说。"
+          "score": 0,
+          "review": "只有新闻报道，无官方公告或技术细节，无法验证真实性。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "模型已上线HuggingFace，今天就能下载测试，直接省去自己训练成本。"
+          "review": "检查你的Claude分享链接是否泄露了私钥，立刻撤销并轮换密钥。"
         }
       }
     },
     {
-      "story_id": "story_68c90fc1b6d7",
-      "title": "Cursor Bridge – 在你的 Cursor Subscription 上无限运行 Claude Code / Cursor Bridge – Run Unlimited Claude Code on Your Cursor Subscription",
-      "url": "https://news.ycombinator.com/item?id=49063186",
+      "story_id": "story_2d4e47d50fc6",
+      "title": "Kimi-K3 于 7 月 27 日在 HuggingFace 上发布",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "把订阅当API用，Cursor法务部还没上班吧？"
+          "score": 78,
+          "review": "开源模型，权重和配置都给了，但没提训练细节和成本，留了点悬念。"
         },
         "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无评测，只有HN帖子，等于什么都没发生。"
+          "score": 85,
+          "review": "HuggingFace 有模型权重和论文链接，代码开源，可复现，证据链完整。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "能白嫖Claude Code额度，但小心违反ToS封号，小项目可试。"
+          "score": 85,
+          "review": "开源模型可直接下载部署，今天就能在HuggingFace上试用。"
         }
       }
     },
     {
-      "story_id": "story_87f4abb6708f",
-      "title": "浪费20亿Token后，我开源了帮Agent定义目标的Leader.skill",
-      "url": "https://mp.weixin.qq.com/s/AwOk3di8m6eVeIUjzNftgg",
+      "story_id": "story_b6a9a859e99e",
+      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+      "url": "https://www.aibase.com/news/29910",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "20亿Token换一个skill？这成本够买几块H100了，开源倒是省了PR费。"
+          "score": 35,
+          "review": "分享功能默认公开，还怪搜索引擎？隐私设计像筛子。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "只有公众号文章，无论文无代码无benchmark，无法验证。"
+          "score": 0,
+          "review": "仅一篇新闻报道，无官方声明或技术分析，无法验证真实性。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "开源技能可复用，省自己造轮子，但需验证实际效果。"
+          "score": 75,
+          "review": "检查你的Claude分享设置，关闭公开链接或加密码，今天就能防泄露。"
         }
       }
     }

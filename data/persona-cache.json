@@ -3237,9 +3237,9 @@
     },
     "story_2d4e47d50fc6|pragmatic|0a5c5b24": {
       "score": 85,
-      "review": "模型已上线HuggingFace，今天就能下载测试，直接省去自己训练成本。",
-      "title_hash": "41cd6b95",
-      "scored_at": "2026-07-27T08:00:46.705859Z"
+      "review": "开源模型可直接下载部署，今天就能在HuggingFace上试用。",
+      "title_hash": "884bbe65",
+      "scored_at": "2026-07-27T11:51:05.366409Z"
     },
     "story_0ba9f6334b31|pragmatic|0a5c5b24": {
       "score": 20,
@@ -3254,16 +3254,16 @@
       "scored_at": "2026-07-27T08:00:49.193687Z"
     },
     "story_2d4e47d50fc6|cynic|f4237a62": {
-      "score": 65,
-      "review": "HuggingFace 上又多了一个模型，但除了日期和名字，啥细节都没给。",
-      "title_hash": "41cd6b95",
-      "scored_at": "2026-07-27T08:00:50.343389Z"
+      "score": 78,
+      "review": "开源模型，权重和配置都给了，但没提训练细节和成本，留了点悬念。",
+      "title_hash": "884bbe65",
+      "scored_at": "2026-07-27T11:51:12.192303Z"
     },
     "story_2d4e47d50fc6|paper-police|966065bf": {
-      "score": 5,
-      "review": "只有发布日期，无论文无代码无评测，等于什么都没说。",
-      "title_hash": "41cd6b95",
-      "scored_at": "2026-07-27T08:00:51.431046Z"
+      "score": 85,
+      "review": "HuggingFace 有模型权重和论文链接，代码开源，可复现，证据链完整。",
+      "title_hash": "884bbe65",
+      "scored_at": "2026-07-27T11:51:13.560415Z"
     },
     "story_87f4abb6708f|cynic|f4237a62": {
       "score": 55,
@@ -3276,6 +3276,96 @@
       "review": "只有公众号文章，无论文无代码无benchmark，无法验证。",
       "title_hash": "f631c321",
       "scored_at": "2026-07-27T08:00:53.821473Z"
+    },
+    "story_eb297d743217|pragmatic|0a5c5b24": {
+      "score": 65,
+      "review": "手术机器人模拟开源，搞医疗AI的可以试，但离临床落地还远。",
+      "title_hash": "c92d55dc",
+      "scored_at": "2026-07-27T11:50:52.301407Z"
+    },
+    "story_2c891351a310|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "官方博客讲理念，没工具没API，对开发无实际帮助。",
+      "title_hash": "f5b27af0",
+      "scored_at": "2026-07-27T11:50:53.888719Z"
+    },
+    "story_b6a9a859e99e|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "检查你的Claude分享设置，关闭公开链接或加密码，今天就能防泄露。",
+      "title_hash": "80ca886c",
+      "scored_at": "2026-07-27T11:50:55.320060Z"
+    },
+    "story_1ea579ee44b6|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "检查你的Claude分享链接是否泄露了私钥，立刻撤销并轮换密钥。",
+      "title_hash": "7aecaa96",
+      "scored_at": "2026-07-27T11:50:56.781702Z"
+    },
+    "story_78c20dc62353|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "SaaS平台宣传文，无具体技术细节或开源方案，对开发者无直接用处。",
+      "title_hash": "57aafc1c",
+      "scored_at": "2026-07-27T11:50:58.085197Z"
+    },
+    "story_620ebb8c9c5b|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "防作弊小技巧，对开发者无实际价值，看看就好。",
+      "title_hash": "d953619d",
+      "scored_at": "2026-07-27T11:50:59.491787Z"
+    },
+    "story_0736bf3e9f9b|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "对开发者无直接API或工具可用，仅是产品功能升级，观望即可。",
+      "title_hash": "59f86019",
+      "scored_at": "2026-07-27T11:51:01.062746Z"
+    },
+    "story_71876d6c1e78|pragmatic|0a5c5b24": {
+      "score": 75,
+      "review": "部署门槛降低，适合快速验证原型，但注意平台锁定风险。",
+      "title_hash": "16e7b4d1",
+      "scored_at": "2026-07-27T11:51:02.444568Z"
+    },
+    "story_7cc955d7d08a|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "平台和模型都没开放，等能下载或调用再关注。",
+      "title_hash": "7f4aa1e0",
+      "scored_at": "2026-07-27T11:51:03.937044Z"
+    },
+    "story_7e59c4ca7c4e|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "融资分食的新闻，跟开发者写代码没关系，等钱变成降价再说。",
+      "title_hash": "0b89d551",
+      "scored_at": "2026-07-27T11:51:06.719820Z"
+    },
+    "story_6086e14c411f|pragmatic|0a5c5b24": {
+      "score": 15,
+      "review": "服务不稳定是常态，等官方修复公告再评估影响。",
+      "title_hash": "60cb31e9",
+      "scored_at": "2026-07-27T11:51:07.987419Z"
+    },
+    "story_1ea579ee44b6|cynic|f4237a62": {
+      "score": 25,
+      "review": "连基础权限都没搞明白就敢上线，这波数据泄露教学很生动。",
+      "title_hash": "7aecaa96",
+      "scored_at": "2026-07-27T11:51:09.442754Z"
+    },
+    "story_1ea579ee44b6|paper-police|966065bf": {
+      "score": 0,
+      "review": "只有新闻报道，无官方公告或技术细节，无法验证真实性。",
+      "title_hash": "7aecaa96",
+      "scored_at": "2026-07-27T11:51:10.667323Z"
+    },
+    "story_b6a9a859e99e|cynic|f4237a62": {
+      "score": 35,
+      "review": "分享功能默认公开，还怪搜索引擎？隐私设计像筛子。",
+      "title_hash": "80ca886c",
+      "scored_at": "2026-07-27T11:51:14.906635Z"
+    },
+    "story_b6a9a859e99e|paper-police|966065bf": {
+      "score": 0,
+      "review": "仅一篇新闻报道，无官方声明或技术分析，无法验证真实性。",
+      "title_hash": "80ca886c",
+      "scored_at": "2026-07-27T11:51:16.126427Z"
     }
   }
 }
