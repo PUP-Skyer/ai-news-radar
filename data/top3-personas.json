@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:54:37.806323Z",
+  "generated_at": "2026-07-28T20:42:47.550957Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_6f0358447e62",
-      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-      "url": "https://usefeyn.com/blog/feynobg",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源是好事，但SOTA要看基线选了谁，别又是个精心挑选的榜单。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客宣称SOTA但无论文无代码，四项基准未公开，无法独立验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "开源 SOTA 背景去除模型已发布，可立即 clone 部署，替代付费 API。"
-        }
-      }
-    },
-    {
       "story_id": "story_f3ef249ddb56",
       "title": "LFM2.5-Encoders：在CPU上实现快速长上下文推理 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "CPU上跑长上下文推理，部署成本直降，今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_dab11bf31a39",
+      "title": "Dependabot 恶意软件包警报覆盖更多生态系统 / Dependabot alerts on malicious packages across more ecosystems",
+      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "覆盖多了几个生态就叫警报升级？先看看漏报率再说。"
+        },
+        "paper-police": {
+          "score": 0,
+          "review": "只有官方博客宣称，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "CI/CD安全加固，Dependabot扩生态，今天就能配置启用。"
         }
       }
     }
