@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T12:23:18.790517Z",
+  "generated_at": "2026-07-28T14:52:22.247811Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_96b3ba176dcd",
+      "title": "GitHub Actions 暂存潜在恶意工作流等待审批 / GitHub Actions holds potentially malicious workflows for approval",
+      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "早该这么干了，但只拦‘暂存’不拦已签名的恶意工作流？"
+        },
+        "paper-police": {
+          "score": 0,
+          "review": "官方博客公告，无技术细节、论文或代码，无法验证机制有效性。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "CI/CD安全加固，今天起外部PR触发的工作流默认暂停，需手动审批。"
+        }
+      }
+    },
+    {
       "story_id": "story_f76284dbfab9",
       "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
       "url": "https://www.aibase.com/news/29952",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "Agent开发直接集成联网搜索，省去自建检索模块，今天就能调API试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c3c7b4228b8c",
-      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
-      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "权重报告全公开，诚意够；但Infra细节藏着掖着，别急着封神。"
-        },
-        "paper-police": {
-          "score": 85,
-          "review": "模型权重、技术报告和Infra技术同步开放，三件套齐全，可复现验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "权重和技术报告已开放，可复现和微调，今天就能跑起来。"
         }
       }
     }
