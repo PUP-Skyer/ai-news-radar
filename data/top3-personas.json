@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:42:47.550957Z",
+  "generated_at": "2026-07-28T22:24:30.418771Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_f3ef249ddb56",
-      "title": "LFM2.5-Encoders：在CPU上实现快速长上下文推理 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "story_id": "story_bc76c2ce852e",
+      "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "CPU上跑长上下文，思路不错，但速度对比基线选的是啥？别是跟十年前的比。"
+          "score": 75,
+          "review": "Copilot里塞个新模型，但没说比4.0强在哪，先观望下评测。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "博客给了细节和数字，但无论文无代码，等独立验证。"
+          "score": 30,
+          "review": "只有官方博客宣称上线，无论文无代码无评测，无法验证性能。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "CPU上跑长上下文推理，部署成本直降，今天就能试。"
+          "score": 88,
+          "review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_dab11bf31a39",
-      "title": "Dependabot 恶意软件包警报覆盖更多生态系统 / Dependabot alerts on malicious packages across more ecosystems",
-      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
+      "story_id": "story_877f0f256fb6",
+      "title": "OpenAI 推出两款新转录模型 API / We're introducing two new transcription models in the API： • GPT-Live-Transcribe： built for low-lat…",
+      "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "覆盖多了几个生态就叫警报升级？先看看漏报率再说。"
+          "review": "低延迟转录是刚需，但没说比 Whisper 强多少，先跑个盲测再说。"
         },
         "paper-police": {
-          "score": 0,
-          "review": "只有官方博客宣称，无论文无代码无评测，无法验证。"
+          "score": 5,
+          "review": "只有推文宣称，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "CI/CD安全加固，Dependabot扩生态，今天就能配置启用。"
+          "score": 88,
+          "review": "转录API已上线，低延迟和低成本两个选择，语音应用今天就能集成。"
         }
       }
     }
