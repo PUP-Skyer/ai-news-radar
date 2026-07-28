@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T03:46:13.588394Z",
+  "generated_at": "2026-07-28T06:46:25.046040Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_6f0358447e62",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://usefeyn.com/blog/feynobg",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开源是好事，但SOTA要看基线选了谁，别又是个精心挑选的榜单。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客宣称SOTA但无论文无代码，四项基准未公开，无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源 SOTA 背景去除模型已发布，可立即 clone 部署，替代付费 API。"
+        }
+      }
+    },
+    {
+      "story_id": "story_c3c7b4228b8c",
+      "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
+      "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "权重报告全公开，诚意够；但Infra细节藏着掖着，别急着封神。"
+        },
+        "paper-police": {
+          "score": 85,
+          "review": "模型权重、技术报告和Infra技术同步开放，三件套齐全，可复现验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "权重和技术报告已开放，可复现和微调，今天就能跑起来。"
+        }
+      }
+    },
+    {
       "story_id": "story_d1e2d40dd895",
       "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
       "url": "https://www.aibase.com/news/29934",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 25,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "Mac用户立即更新Claude，漏洞可读写任意文件，今天就得修。"
-        }
-      }
-    },
-    {
-      "story_id": "story_112bcb1d3a8b",
-      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "2.8T MoE 全开源，技术报告也给了，比那些只放个 demo 的强太多。"
-        },
-        "paper-police": {
-          "score": 88,
-          "review": "模型权重和技术报告已公开，但缺少独立benchmark复现结果。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_6a580af5bd08",
-      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "2.8T参数开源，SGLang当天适配，诚意比那些只发PPT的强多了。"
-        },
-        "paper-police": {
-          "score": 40,
-          "review": "博客宣称支持，但无论文无代码无评测，证据链缺失。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。"
         }
       }
     }
