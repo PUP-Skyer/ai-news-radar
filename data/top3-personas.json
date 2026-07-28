@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T06:46:25.046040Z",
+  "generated_at": "2026-07-28T10:02:53.346727Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_d1e2d40dd895",
-      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-      "url": "https://www.aibase.com/news/29934",
+      "story_id": "story_112bcb1d3a8b",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 25,
-          "review": "沙箱逃逸不新鲜，但拿Mac用户当标题党，漏洞细节呢？"
+          "score": 82,
+          "review": "2.8T MoE 全开源，技术报告也给了，比那些只放个 demo 的强太多。"
         },
         "paper-police": {
-          "score": 5,
-          "review": "无论文无代码无评测，仅媒体宣称漏洞，证据为零。"
+          "score": 88,
+          "review": "模型权重和技术报告已公开，但缺少独立benchmark复现结果。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Mac用户立即更新Claude，漏洞可读写任意文件，今天就得修。"
+          "review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。"
         }
       }
     }

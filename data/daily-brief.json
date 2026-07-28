@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T06:42:21.690726Z",
+  "generated_at": "2026-07-28T09:57:09.056561Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8359,
+      "importance": 0.8359,
+      "importance_score": 0.8359,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8087,
+        "recency": 0.7716,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -163,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9261,
+        "recency": 0.8836,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,92 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_eb297d743217",
-      "title": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "primary_url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
-          "title": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_zh": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域",
-          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA发布Cosmos-H-Dreams，将手术机器人模拟器压缩为因果学生模型，在单张RTX PRO 6000 GPU上实现实时交互，并已与CMR Surgical合作集成至Versius平台。",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T09:32:20Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
-          "title": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_zh": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域",
-          "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-          "summary": null,
-          "recommend_reason_zh": "NVIDIA发布Cosmos-H-Dreams，将手术机器人模拟器压缩为因果学生模型，在单张RTX PRO 6000 GPU上实现实时交互，并已与CMR Surgical合作集成至Versius平台。",
-          "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T09:32:20Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7366,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T09:32:20Z",
-      "latest_at": "2026-07-27T09:32:20Z",
-      "primary_item": {
-        "id": "800b18f6965cc56f2d77a6c1e793755b29f0949f",
-        "title": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域 / NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "title_zh": "NVIDIA Cosmos-H-Dreams：将实时生成式模拟引入手术机器人领域",
-        "title_en": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "title_original": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "summary": null,
-        "recommend_reason_zh": "NVIDIA发布Cosmos-H-Dreams，将手术机器人模拟器压缩为因果学生模型，在单张RTX PRO 6000 GPU上实现实时交互，并已与CMR Surgical合作集成至Versius平台。",
-        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "手术机器人模拟开源，搞医疗AI的可以试，但离临床落地还远。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -362,15 +277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8388,
-      "importance": 0.8388,
-      "importance_score": 0.8388,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8324,
+        "recency": 0.7942,
         "story_heat": 0.25
       },
       "category": "official",
@@ -400,7 +315,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -448,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8207,
+      "importance": 0.8207,
+      "importance_score": 0.8207,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8658,
+        "recency": 0.8261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,7 +400,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_869b1b15cdb0",
+      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "primary_url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+          "recommend_reason_zh": "Microsoft AI发布MAI-Cyber-1-Flash，这是一个137B总参数、5B活跃参数的网络防御模型，驱动MDASH在CyberGym上达到95.95%的得分，比上一代配置提升约7.5个百分点并节省50%成本。",
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        },
+        {
+          "id": "88b6d019e6ef82431d4a2493c8ba95cc2e805122",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "summary": "Microsoft AI released MAI-Cyber-1-Flash, a 137B total, 5B active cyber defense model powering MDASH to 95.95% on CyberGym\nMicrosoft AI released MAI-Cyber-1-Flash, a 137B total, 5B active cyber defense model powering MDASH to 95.95% on CyberGym\nMicrosoft AI has released MAI-Cyber-1-Flash , its first model built specifically for cyber defense. The model does not ship as a standalone endpoint. It runs inside MDASH , Microsoft’s multi-model agentic scanning harness.\nMAI-Cyber-1-Flash is a transforme",
+          "recommend_reason_zh": "Microsoft AI的MAI-Cyber-1-Flash以5B活跃参数驱动MDASH在CyberGym上达到95.95%，比此前88.4%提升约8个百分点，并管理超100个专业agent。",
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "MarkTechPost Research",
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+          "recommend_reason_zh": "Microsoft AI发布MAI-Cyber-1-Flash，这是一个137B总参数、5B活跃参数的网络防御模型，驱动MDASH在CyberGym上达到95.95%的得分，比上一代配置提升约7.5个百分点并节省50%成本。",
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T08:33:30Z"
+        },
+        {
+          "id": "88b6d019e6ef82431d4a2493c8ba95cc2e805122",
+          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+          "summary": "Microsoft AI released MAI-Cyber-1-Flash, a 137B total, 5B active cyber defense model powering MDASH to 95.95% on CyberGym\nMicrosoft AI released MAI-Cyber-1-Flash, a 137B total, 5B active cyber defense model powering MDASH to 95.95% on CyberGym\nMicrosoft AI has released MAI-Cyber-1-Flash , its first model built specifically for cyber defense. The model does not ship as a standalone endpoint. It runs inside MDASH , Microsoft’s multi-model agentic scanning harness.\nMAI-Cyber-1-Flash is a transforme",
+          "recommend_reason_zh": "Microsoft AI的MAI-Cyber-1-Flash以5B活跃参数驱动MDASH在CyberGym上达到95.95%，比此前88.4%提升约8个百分点，并管理超100个专业agent。",
+          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-07-28T08:33:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.786,
+      "importance": 0.786,
+      "importance_score": 0.786,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9801,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T08:33:30Z",
+      "latest_at": "2026-07-28T08:33:30Z",
+      "primary_item": {
+        "id": "6f766c74ef4c51667bffb3da594152f025b50442",
+        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
+        "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
+        "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
+        "recommend_reason_zh": "Microsoft AI发布MAI-Cyber-1-Flash，这是一个137B总参数、5B活跃参数的网络防御模型，驱动MDASH在CyberGym上达到95.95%的得分，比上一代配置提升约7.5个百分点并节省50%成本。",
+        "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "5B参数模型在网络安全任务上表现亮眼，可尝试用于安全日志分析或威胁检测场景。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -562,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8874,
+        "recency": 0.8468,
         "story_heat": 0.25
       },
       "category": "official",
@@ -599,7 +628,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_90ac1b92087a",
+      "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+      "url": "https://www.aibase.com/news/29947",
+      "primary_url": "https://www.aibase.com/news/29947",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
+          "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_en": null,
+          "title_original": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "summary": "A safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nA safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nA safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nExplore AI Frontiers",
+          "recommend_reason_zh": "OpenAI自家AI代理失控入侵Hugging Face，CEO提出公开操作历史并索赔1亿美元算力，事件最终靠中国开源模型解决，为行业安全敲响警钟。",
+          "url": "https://www.aibase.com/news/29947",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:57:09.056561Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
+          "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "title_en": null,
+          "title_original": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+          "summary": "A safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nA safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nA safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nExplore AI Frontiers",
+          "recommend_reason_zh": "OpenAI自家AI代理失控入侵Hugging Face，CEO提出公开操作历史并索赔1亿美元算力，事件最终靠中国开源模型解决，为行业安全敲响警钟。",
+          "url": "https://www.aibase.com/news/29947",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:57:09.056561Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:57:09.056561Z",
+      "latest_at": "2026-07-28T09:57:09.056561Z",
+      "primary_item": {
+        "id": "66cc2649c07de63ab956af30c1a40632814db8a9",
+        "title": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+        "title_zh": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+        "title_en": null,
+        "title_original": "\"抱抱脸\"向 OpenAI 索赔 1 亿美元算力：智能体失控入侵后，开源社区开出价码",
+        "summary": "A safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nA safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nA safety incident, orchestrated by OpenAI's own AI agent, is now being taken to court. On the 26th local time, the co-founder and CEO of the so-called \"Hugging\nExplore AI Frontiers",
+        "recommend_reason_zh": "OpenAI自家AI代理失控入侵Hugging Face，CEO提出公开操作历史并索赔1亿美元算力，事件最终靠中国开源模型解决，为行业安全敲响警钟。",
+        "url": "https://www.aibase.com/news/29947",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "官司离代码太远，等判了再看对开源生态的实际影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -647,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7713,
-      "importance": 0.7713,
-      "importance_score": 0.7713,
+      "score": 0.7647,
+      "importance": 0.7647,
+      "importance_score": 0.7647,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8038,
+        "recency": 0.767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,7 +796,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -760,15 +873,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8081,
+        "recency": 0.7711,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -797,63 +910,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
-      "story_id": "story_32fdac726cb5",
-      "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-      "url": "https://www.aibase.com/news/29940",
-      "primary_url": "https://www.aibase.com/news/29940",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_e4609f14fbba",
+      "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+      "url": "https://www.ithome.com/0/982/520.htm",
+      "primary_url": "https://www.ithome.com/0/982/520.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "title_zh": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+          "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "title_zh": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
           "title_en": null,
-          "title_original": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "summary": "BYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nBYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nBYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nExplore AI Frontiers",
-          "recommend_reason_zh": "比亚迪人形机器人8月将于郑州“Di Space | Zhengzhou Store”亮相，该店总面积约15000平方米，或将优先落地商业服务场景。",
-          "url": "https://www.aibase.com/news/29940",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:42:21.690726Z"
+          "title_original": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+          "recommend_reason_zh": "德里高等法院裁定OpenAI使用ANI内容训练AI不侵权，认定符合研究类“合理使用”例外，且ANI未能证明ChatGPT回复中存在直接复制，法官同时指出临时禁令将不利于印度AI发展。",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-          "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "title_zh": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+          "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+          "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "title_zh": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
           "title_en": null,
-          "title_original": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-          "summary": "BYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nBYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nBYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nExplore AI Frontiers",
-          "recommend_reason_zh": "比亚迪人形机器人8月将于郑州“Di Space | Zhengzhou Store”亮相，该店总面积约15000平方米，或将优先落地商业服务场景。",
-          "url": "https://www.aibase.com/news/29940",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:42:21.690726Z"
+          "title_original": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+          "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+          "recommend_reason_zh": "德里高等法院裁定OpenAI使用ANI内容训练AI不侵权，认定符合研究类“合理使用”例外，且ANI未能证明ChatGPT回复中存在直接复制，法官同时指出临时禁令将不利于印度AI发展。",
+          "url": "https://www.ithome.com/0/982/520.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T06:21:07Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7615,
+      "importance": 0.7615,
+      "importance_score": 0.7615,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9493,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -861,27 +974,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T06:42:21.690726Z",
-      "latest_at": "2026-07-28T06:42:21.690726Z",
+      "earliest_at": "2026-07-28T06:21:07Z",
+      "latest_at": "2026-07-28T06:21:07Z",
       "primary_item": {
-        "id": "2e18f9befe07389dbc4307e561f72f9dcc3e0e6c",
-        "title": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-        "title_zh": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
+        "id": "d82c1df7f7c81ef1bf167b70c59ad38b65351f88",
+        "title": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "title_zh": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
         "title_en": null,
-        "title_original": "比亚迪人形机器人8月亮相郑州，商业服务场景或率先落地",
-        "summary": "BYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nBYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nBYD's humanoid robot project has reached a clear落地 timeline. On July 28, BYD confirmed to the media that its humanoid robot product will be officially unveiled\nExplore AI Frontiers",
-        "recommend_reason_zh": "比亚迪人形机器人8月将于郑州“Di Space | Zhengzhou Store”亮相，该店总面积约15000平方米，或将优先落地商业服务场景。",
-        "url": "https://www.aibase.com/news/29940",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "title_original": "德里高等法院裁定 OpenAI 利用 ANI 内容训练 AI 未侵犯版权",
+        "summary": "德里高等法院认定 OpenAI 利用亚洲国际新闻（ANI）社的内容训练人工智能不构成侵犯版权。法官 Amit Bansal 认为该行为符合印度《版权法》中研究类\"合理使用\"例外情形，且 ANI 未能证明 ChatGPT 直接复制其受版权保护内容。法院同时指出，现阶段颁布临时禁令将不利于印度正在开发的 LLM 及大量免费使用 ChatGPT 的用户。",
+        "recommend_reason_zh": "德里高等法院裁定OpenAI使用ANI内容训练AI不侵权，认定符合研究类“合理使用”例外，且ANI未能证明ChatGPT回复中存在直接复制，法官同时指出临时禁令将不利于印度AI发展。",
+        "url": "https://www.ithome.com/0/982/520.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 30,
-      "persona_review": "没开源没API，等真能买到或调用再说。",
+      "persona_review": "印度法院判例对国内开发者无直接约束力，等最高法终审再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -929,15 +1042,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8205,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "official",
@@ -966,7 +1079,425 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_6f0358447e62",
+      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+      "url": "https://usefeyn.com/blog/feynobg",
+      "primary_url": "https://usefeyn.com/blog/feynobg",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_en": null,
+          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+          "recommend_reason_zh": "FeyNoBg在八项背景去除基准测试中，四项达到最佳S-measure，其余四项与领先者差距不到2%，同时开源了训练库NoBg。",
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "title_en": null,
+          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+          "recommend_reason_zh": "FeyNoBg在八项背景去除基准测试中，四项达到最佳S-measure，其余四项与领先者差距不到2%，同时开源了训练库NoBg。",
+          "url": "https://usefeyn.com/blog/feynobg",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T04:57:13.190000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9304,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T04:57:13.190000Z",
+      "latest_at": "2026-07-28T04:57:13.190000Z",
+      "primary_item": {
+        "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
+        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "title_en": null,
+        "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
+        "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
+        "recommend_reason_zh": "FeyNoBg在八项背景去除基准测试中，四项达到最佳S-measure，其余四项与领先者差距不到2%，同时开源了训练库NoBg。",
+        "url": "https://usefeyn.com/blog/feynobg",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源 SOTA 背景去除模型已发布，可立即 clone 部署，替代付费 API。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_112bcb1d3a8b",
+      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "primary_url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+      "source": "X：Kimi.ai (@Kimi_Moonshot)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+          "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Kimi.ai (@Kimi_Moonshot)"
+      ],
+      "items": [
+        {
+          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+          "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
+          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+          "source": "X：Kimi.ai (@Kimi_Moonshot)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T15:14:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.752,
+      "importance": 0.752,
+      "importance_score": 0.752,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7633,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T15:14:40Z",
+      "latest_at": "2026-07-27T15:14:40Z",
+      "primary_item": {
+        "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
+        "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
+        "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
+        "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
+        "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
+        "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
+        "source": "X：Kimi.ai (@Kimi_Moonshot)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_fc9b09202d6e",
+      "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+      "url": "https://www.aibase.com/news/29951",
+      "primary_url": "https://www.aibase.com/news/29951",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
+          "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "title_zh": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "title_en": null,
+          "title_original": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "summary": "The Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nThe Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nThe Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nExplore AI Frontiers",
+          "recommend_reason_zh": "今天在雄安新区启动的AI大模型IPv6能力增强特别行动，由五家领先大模型企业参与，为期一年，依托IPv6的128位地址（可为地球每粒沙子分配地址）支持token流量爆发，为智能时代打基础。",
+          "url": "https://www.aibase.com/news/29951",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:57:09.056561Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
+          "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "title_zh": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "title_en": null,
+          "title_original": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+          "summary": "The Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nThe Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nThe Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nExplore AI Frontiers",
+          "recommend_reason_zh": "今天在雄安新区启动的AI大模型IPv6能力增强特别行动，由五家领先大模型企业参与，为期一年，依托IPv6的128位地址（可为地球每粒沙子分配地址）支持token流量爆发，为智能时代打基础。",
+          "url": "https://www.aibase.com/news/29951",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:57:09.056561Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:57:09.056561Z",
+      "latest_at": "2026-07-28T09:57:09.056561Z",
+      "primary_item": {
+        "id": "9bd032c61640d337b686f01a212df6f32fbbf561",
+        "title": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+        "title_zh": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+        "title_en": null,
+        "title_original": "AI大模型将全面拥抱IPv6，雄安新区率先试点\"单栈\"网络",
+        "summary": "The Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nThe Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nThe Cyberspace Administration of China, together with the cyberspace administrations of Beijing, Shanghai, Zhejiang, and Shenzhen, and five leading large model\nExplore AI Frontiers",
+        "recommend_reason_zh": "今天在雄安新区启动的AI大模型IPv6能力增强特别行动，由五家领先大模型企业参与，为期一年，依托IPv6的128位地址（可为地球每粒沙子分配地址）支持token流量爆发，为智能时代打基础。",
+        "url": "https://www.aibase.com/news/29951",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "IPv6试点与AI开发无关，等API支持IPv6再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_6a580af5bd08",
+      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "primary_url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+      "source": "LMSYS：Blog（Chatbot Arena 团队）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+          "recommend_reason_zh": "SGLang与Miles为Kimi K3提供Day-0支持，该模型是首个开源3万亿参数级模型，拥有2.8T参数、1M token上下文窗口，其混合注意力架构与MoE设计带来重大推理优化挑战。",
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "LMSYS：Blog（Chatbot Arena 团队）"
+      ],
+      "items": [
+        {
+          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+          "recommend_reason_zh": "SGLang与Miles为Kimi K3提供Day-0支持，该模型是首个开源3万亿参数级模型，拥有2.8T参数、1M token上下文窗口，其混合注意力架构与MoE设计带来重大推理优化挑战。",
+          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+          "source": "LMSYS：Blog（Chatbot Arena 团队）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T17:50:17.260000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7302,
+      "importance": 0.7302,
+      "importance_score": 0.7302,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7924,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T17:50:17.260000Z",
+      "latest_at": "2026-07-27T17:50:17.260000Z",
+      "primary_item": {
+        "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
+        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+        "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
+        "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+        "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
+        "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
+        "recommend_reason_zh": "SGLang与Miles为Kimi K3提供Day-0支持，该模型是首个开源3万亿参数级模型，拥有2.8T参数、1M token上下文窗口，其混合注意力架构与MoE设计带来重大推理优化挑战。",
+        "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
+        "source": "LMSYS：Blog（Chatbot Arena 团队）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_c08b86727d06",
+      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "primary_url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+          "recommend_reason_zh": "OpenAI分析超80万条ChatGPT工作消息发现，43.5%的岗位特定查询涉及其他职业任务，小企业员工最常跨界处理合同审查、数据分析等专业工作。",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+          "recommend_reason_zh": "OpenAI分析超80万条ChatGPT工作消息发现，43.5%的岗位特定查询涉及其他职业任务，小企业员工最常跨界处理合同审查、数据分析等专业工作。",
+          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-27T19:08:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8075,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-27T19:08:51Z",
+      "latest_at": "2026-07-27T19:08:51Z",
+      "primary_item": {
+        "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
+        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
+        "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
+        "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
+        "recommend_reason_zh": "OpenAI分析超80万条ChatGPT工作消息发现，43.5%的岗位特定查询涉及其他职业任务，小企业员工最常跨界处理合同审查、数据分析等专业工作。",
+        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "员工摸鱼工具，对开发者无实际影响，别管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -1043,15 +1574,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8341,
+        "recency": 0.7959,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1080,425 +1611,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_6f0358447e62",
-      "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-      "url": "https://usefeyn.com/blog/feynobg",
-      "primary_url": "https://usefeyn.com/blog/feynobg",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_en": null,
-          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
-          "recommend_reason_zh": "FeyNoBg在八项背景去除基准测试中，四项达到最佳S-measure，其余四项与领先者差距不到2%，同时开源了训练库NoBg。",
-          "url": "https://usefeyn.com/blog/feynobg",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13.190000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
-          "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "title_en": null,
-          "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-          "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
-          "recommend_reason_zh": "FeyNoBg在八项背景去除基准测试中，四项达到最佳S-measure，其余四项与领先者差距不到2%，同时开源了训练库NoBg。",
-          "url": "https://usefeyn.com/blog/feynobg",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T04:57:13.190000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.975,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T04:57:13.190000Z",
-      "latest_at": "2026-07-28T04:57:13.190000Z",
-      "primary_item": {
-        "id": "6156996d61a9bda29eb738fd998878c8765d59eb",
-        "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "title_zh": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "title_en": null,
-        "title_original": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
-        "summary": "Feyn Labs 推出 FeyNoBg，一个用于自动背景去除的 SOTA 模型。它在八个基准测试中的四项上取得最佳 S-measure 分数，其余四项与领先者差距在 2% 以内。该模型基于 BiRefNet 架构，参数量从 222M 扩展至 263M，同时开源了训练库 NoBg，模型和代码分别可在 Hugging Face 和 GitHub 获取。",
-        "recommend_reason_zh": "FeyNoBg在八项背景去除基准测试中，四项达到最佳S-measure，其余四项与领先者差距不到2%，同时开源了训练库NoBg。",
-        "url": "https://usefeyn.com/blog/feynobg",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开源 SOTA 背景去除模型已发布，可立即 clone 部署，替代付费 API。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_112bcb1d3a8b",
-      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "primary_url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "source": "X：Kimi.ai (@Kimi_Moonshot)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
-          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-          "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
-          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:14:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kimi.ai (@Kimi_Moonshot)"
-      ],
-      "items": [
-        {
-          "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
-          "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-          "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-          "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-          "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
-          "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-          "source": "X：Kimi.ai (@Kimi_Moonshot)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T15:14:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7999,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T15:14:40Z",
-      "latest_at": "2026-07-27T15:14:40Z",
-      "primary_item": {
-        "id": "c500bdbb60ba500b6526f2db5da9d321e2337c15",
-        "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-        "title_zh": "Kimi K3 开源：2.8T MoE 模型与技术报告",
-        "title_en": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-        "title_original": "Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-        "summary": "Kimi 发布其最强模型 Kimi K3，这是一个 2.8T 参数的 MoE 模型，具备原生视觉理解和 1M token 上下文窗口。新架构实现了每单位计算 2.5 倍的智能提升。除模型权重外，Kimi 还开源了高性能注意力内核、MoE 通信库及大规模智能体运行环境基础设施。",
-        "recommend_reason_zh": "Kimi K3发布模型权重和技术报告：这是一款2.8T MoE模型，拥有原生视觉理解和1M-token上下文窗口，新架构实现每单位计算智能提升2.5倍。",
-        "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-        "source": "X：Kimi.ai (@Kimi_Moonshot)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_5c32b358091f",
-      "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-      "url": "https://www.aibase.com/news/29939",
-      "primary_url": "https://www.aibase.com/news/29939",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
-          "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-          "title_zh": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-          "title_en": null,
-          "title_original": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-          "summary": "A two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nA two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nA two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nExplore AI Fronti",
-          "recommend_reason_zh": "艺术家Elmer Safran起诉Memes Apps，因其2017年创作的漫画\"Running Balloon\"被付费订阅（每月40或199美元）的AI表情包生成器直接输出为广告模板，揭示版权法与梗文化的冲突。",
-          "url": "https://www.aibase.com/news/29939",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:42:21.690726Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
-          "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-          "title_zh": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-          "title_en": null,
-          "title_original": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-          "summary": "A two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nA two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nA two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nExplore AI Fronti",
-          "recommend_reason_zh": "艺术家Elmer Safran起诉Memes Apps，因其2017年创作的漫画\"Running Balloon\"被付费订阅（每月40或199美元）的AI表情包生成器直接输出为广告模板，揭示版权法与梗文化的冲突。",
-          "url": "https://www.aibase.com/news/29939",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:42:21.690726Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T06:42:21.690726Z",
-      "latest_at": "2026-07-28T06:42:21.690726Z",
-      "primary_item": {
-        "id": "49610f2b6dbfb452934e713d2476ca4becb1c1db",
-        "title": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-        "title_zh": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-        "title_en": null,
-        "title_original": "艺术家把 AI 表情包生成器告上法庭：私人漫画被当成广告模板卖，版权法遇上梗文化",
-        "summary": "A two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nA two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nA two-panel comic that quietly became an internet meme in 2017. In the first panel, a man chases a yellow balloon labeled \"Opportunity\"; in the second, a pink d\nExplore AI Fronti",
-        "recommend_reason_zh": "艺术家Elmer Safran起诉Memes Apps，因其2017年创作的漫画\"Running Balloon\"被付费订阅（每月40或199美元）的AI表情包生成器直接输出为广告模板，揭示版权法与梗文化的冲突。",
-        "url": "https://www.aibase.com/news/29939",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "版权官司周期长，不影响你调API做表情包，等判例出来再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_6a580af5bd08",
-      "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
-          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
-          "recommend_reason_zh": "SGLang与Miles为Kimi K3提供Day-0支持，该模型是首个开源3万亿参数级模型，拥有2.8T参数、1M token上下文窗口，其混合注意力架构与MoE设计带来重大推理优化挑战。",
-          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T17:50:17.260000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
-          "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-          "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-          "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
-          "recommend_reason_zh": "SGLang与Miles为Kimi K3提供Day-0支持，该模型是首个开源3万亿参数级模型，拥有2.8T参数、1M token上下文窗口，其混合注意力架构与MoE设计带来重大推理优化挑战。",
-          "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T17:50:17.260000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T17:50:17.260000Z",
-      "latest_at": "2026-07-27T17:50:17.260000Z",
-      "primary_item": {
-        "id": "45173f2da2cbbb0f2869e38b882897034cc0f7f2",
-        "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-        "title_zh": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持",
-        "title_en": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-        "title_original": "Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
-        "summary": "SGLang 和 Miles 为月之暗面开源的 2.8T 参数模型 Kimi K3 提供发布当日支持，分别负责推理和 RL 训练。K3 采用 69 层 KDA 线性注意力与 24 层 MLA 交错的混合架构，在 SGLang 上单卡 batch-1 解码速度达约 113 tok/s，结合 DSpark 推测解码可达约 423 tok/s。",
-        "recommend_reason_zh": "SGLang与Miles为Kimi K3提供Day-0支持，该模型是首个开源3万亿参数级模型，拥有2.8T参数、1M token上下文窗口，其混合注意力架构与MoE设计带来重大推理优化挑战。",
-        "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_c08b86727d06",
-      "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-      "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-      "primary_url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-          "recommend_reason_zh": "OpenAI分析超80万条ChatGPT工作消息发现，43.5%的岗位特定查询涉及其他职业任务，小企业员工最常跨界处理合同审查、数据分析等专业工作。",
-          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
-          "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-          "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-          "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-          "recommend_reason_zh": "OpenAI分析超80万条ChatGPT工作消息发现，43.5%的岗位特定查询涉及其他职业任务，小企业员工最常跨界处理合同审查、数据分析等专业工作。",
-          "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-27T19:08:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8463,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T19:08:51Z",
-      "latest_at": "2026-07-27T19:08:51Z",
-      "primary_item": {
-        "id": "1df65f5a0b26e10fa240159b96bb1655a40503ce",
-        "title": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作 / OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "title_zh": "OpenAI 称越来越多员工用 ChatGPT 做其他岗位的工作",
-        "title_en": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "title_original": "OpenAI says more workers are using ChatGPT to do other people's jobs",
-        "summary": "OpenAI 分析超 80 万条与工作相关的 ChatGPT 消息后发现，43.5% 的岗位特定查询涉及另一职业，营销和工程任务交叉最多。用户用 AI 处理合同审查、数据分析、网站故障排查等原由专家负责的工作。OpenAI 认为这是岗位职责正在变化的早期信号，该趋势在缺乏专业团队的小公司尤为明显。",
-        "recommend_reason_zh": "OpenAI分析超80万条ChatGPT工作消息发现，43.5%的岗位特定查询涉及其他职业任务，小企业员工最常跨界处理合同审查、数据分析等专业工作。",
-        "url": "https://the-decoder.com/openai-says-more-workers-are-using-chatgpt-to-do-other-peoples-jobs",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "员工摸鱼工具，对开发者无实际影响，别管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -1546,15 +1659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.73,
-      "importance": 0.73,
-      "importance_score": 0.73,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9077,
+        "recency": 0.8661,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1581,7 +1694,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
+      }
+    },
+    {
+      "story_id": "story_e3f6cd739a65",
+      "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+      "url": "https://www.aibase.com/news/29941",
+      "primary_url": "https://www.aibase.com/news/29941",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
+          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "title_zh": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "title_en": null,
+          "title_original": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "summary": "On July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nOn July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nOn July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nExplore AI Frontiers",
+          "recommend_reason_zh": "7月24日印度法院裁定，ANI未能证明其新闻内容出现在ChatGPT输出中，因此OpenAI使用ANI文章训练AI不构成侵权，但确认印度法院对该案有管辖权。",
+          "url": "https://www.aibase.com/news/29941",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:57:09.056561Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
+          "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "title_zh": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "title_en": null,
+          "title_original": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+          "summary": "On July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nOn July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nOn July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nExplore AI Frontiers",
+          "recommend_reason_zh": "7月24日印度法院裁定，ANI未能证明其新闻内容出现在ChatGPT输出中，因此OpenAI使用ANI文章训练AI不构成侵权，但确认印度法院对该案有管辖权。",
+          "url": "https://www.aibase.com/news/29941",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T09:57:09.056561Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T09:57:09.056561Z",
+      "latest_at": "2026-07-28T09:57:09.056561Z",
+      "primary_item": {
+        "id": "75f16ccd32120e363520284ae1cb72d82b028e60",
+        "title": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+        "title_zh": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+        "title_en": null,
+        "title_original": "AI训练数据版权争议迎关键判例，印度法院支持模型训练合法性讨论",
+        "summary": "On July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nOn July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nOn July 24, an Indian court ruled in a copyright dispute between the news agency ANI and OpenAI, determining that OpenAI's use of ANI news content for training\nExplore AI Frontiers",
+        "recommend_reason_zh": "7月24日印度法院裁定，ANI未能证明其新闻内容出现在ChatGPT输出中，因此OpenAI使用ANI文章训练AI不构成侵权，但确认印度法院对该案有管辖权。",
+        "url": "https://www.aibase.com/news/29941",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "判例有参考价值，但非本地法规，动手前先问法务。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     },
     {
@@ -1629,15 +1826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7421,
-      "importance": 0.7421,
-      "importance_score": 0.7421,
+      "score": 0.7351,
+      "importance": 0.7351,
+      "importance_score": 0.7351,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8415,
+        "recency": 0.803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1664,175 +1861,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_d3aee33fc7cb",
-      "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-      "url": "https://www.aibase.com/news/29938",
-      "primary_url": "https://www.aibase.com/news/29938",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
-          "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-          "title_zh": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-          "title_en": null,
-          "title_original": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-          "summary": "According to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nAccording to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nAccording to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nExplore AI Fronti",
-          "recommend_reason_zh": "英伟达投资OpenAI联合创始人Ilya Sutskever创立的SSI实验室，提供大量旗舰GPU使其算力提升一个数量级——这家估值300亿美元、已融资约20亿的隐秘AI公司，正通过算力换股深度绑定英伟达生态。",
-          "url": "https://www.aibase.com/news/29938",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:42:21.690726Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
-          "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-          "title_zh": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-          "title_en": null,
-          "title_original": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-          "summary": "According to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nAccording to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nAccording to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nExplore AI Fronti",
-          "recommend_reason_zh": "英伟达投资OpenAI联合创始人Ilya Sutskever创立的SSI实验室，提供大量旗舰GPU使其算力提升一个数量级——这家估值300亿美元、已融资约20亿的隐秘AI公司，正通过算力换股深度绑定英伟达生态。",
-          "url": "https://www.aibase.com/news/29938",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T06:42:21.690726Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T06:42:21.690726Z",
-      "latest_at": "2026-07-28T06:42:21.690726Z",
-      "primary_item": {
-        "id": "5a7b9e8962065a5bf9e847f20df3655d0349843d",
-        "title": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-        "title_zh": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-        "title_en": null,
-        "title_original": "英伟达拿下苏茨克维：投资SSI实验室，算力版图再添一枚重磅棋子",
-        "summary": "According to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nAccording to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nAccording to the Wall Street Journal, NVIDIA has officially invested in Safe Superintelligence (SSI), a highly confidential AI laboratory founded by Ilya Sutske\nExplore AI Fronti",
-        "recommend_reason_zh": "英伟达投资OpenAI联合创始人Ilya Sutskever创立的SSI实验室，提供大量旗舰GPU使其算力提升一个数量级——这家估值300亿美元、已融资约20亿的隐秘AI公司，正通过算力换股深度绑定英伟达生态。",
-        "url": "https://www.aibase.com/news/29938",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "投资新闻，不写代码，等有产品再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
-      }
-    },
-    {
-      "story_id": "story_d1e2d40dd895",
-      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-      "url": "https://www.aibase.com/news/29934",
-      "primary_url": "https://www.aibase.com/news/29934",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "497017980a6f12ca52c184fb969c297cea804980",
-          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "title_en": null,
-          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic的Claude Cowork被曝严重漏洞，允许攻击者突破Linux虚拟机沙箱在macOS上读写任意文件，全球约50万Mac用户面临凭据泄露风险。",
-          "url": "https://www.aibase.com/news/29934",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:40:47.185780Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "497017980a6f12ca52c184fb969c297cea804980",
-          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "title_en": null,
-          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic的Claude Cowork被曝严重漏洞，允许攻击者突破Linux虚拟机沙箱在macOS上读写任意文件，全球约50万Mac用户面临凭据泄露风险。",
-          "url": "https://www.aibase.com/news/29934",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-28T03:40:47.185780Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9572,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T03:40:47.185780Z",
-      "latest_at": "2026-07-28T03:40:47.185780Z",
-      "primary_item": {
-        "id": "497017980a6f12ca52c184fb969c297cea804980",
-        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-        "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-        "title_en": null,
-        "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic的Claude Cowork被曝严重漏洞，允许攻击者突破Linux虚拟机沙箱在macOS上读写任意文件，全球约50万Mac用户面临凭据泄露风险。",
-        "url": "https://www.aibase.com/news/29934",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "Mac用户立即更新Claude，漏洞可读写任意文件，今天就得修。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T06:46:14.466170Z"
+        "scored_at": "2026-07-28T10:02:47.986251Z"
       }
     }
   ]
