@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:16:51.620779Z",
+  "generated_at": "2026-07-28T03:46:13.588394Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_d1e2d40dd895",
+      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+      "url": "https://www.aibase.com/news/29934",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 25,
+          "review": "沙箱逃逸不新鲜，但拿Mac用户当标题党，漏洞细节呢？"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "无论文无代码无评测，仅媒体宣称漏洞，证据为零。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Mac用户立即更新Claude，漏洞可读写任意文件，今天就得修。"
+        }
+      }
+    },
+    {
       "story_id": "story_112bcb1d3a8b",
       "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
       "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -40,7 +60,7 @@
       "story_id": "story_6a580af5bd08",
       "title": "SGLang 和 Miles 为月之暗面 2.8T 参数 Kimi K3 模型提供发布当日支持 / Blog SGLang and Miles Add Day-0 Support for Kimi K3 We are excited to announce Day-0 support for Kimi K3 in SGLang and Miles. K3 is the first open-source model in the 3-trillion-parameter class， and its hybrid architecture departs from convention in al… SGLang Team",
       "url": "https://www.lmsys.org/blog/2026-07-27-kimi-k3-day0-support",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。"
-        }
-      }
-    },
-    {
-      "story_id": "story_1ea579ee44b6",
-      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-      "url": "https://www.aibase.com/news/29917",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 25,
-          "review": "连基础权限都没搞明白就敢上线，这波数据泄露教学很生动。"
-        },
-        "paper-police": {
-          "score": 0,
-          "review": "只有新闻报道，无官方公告或技术细节，无法验证真实性。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "检查你的Claude分享链接是否泄露了私钥，立刻撤销并轮换密钥。"
         }
       }
     }

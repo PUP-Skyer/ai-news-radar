@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T00:12:46.501356Z",
+  "generated_at": "2026-07-28T03:40:47.185780Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8569,
-      "importance": 0.8569,
-      "importance_score": 0.8569,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8882,
+        "recency": 0.8448,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,30 +115,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
-      "story_id": "story_3aa98e967d5f",
-      "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
-      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
-      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "story_id": "story_8540d88057a6",
+      "title": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+      "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
+      "primary_url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and…\nThis update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and token settings for advanced scenarios, and work with a cleaner chat and model-selection experience.\nYou can now configure OpenTelem",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新支持配置 OpenTelemetry 导出、设置 maxInputToken 和 maxOutputToken 默认限制，并可在 Claude agent 流程中连接 MCP 服务器与自定义代理。",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "source_count": 1,
@@ -147,31 +147,31 @@
       ],
       "items": [
         {
-          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-          "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
-          "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
-          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
-          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+          "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+          "title": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_zh": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理",
+          "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+          "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and…\nThis update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and token settings for advanced scenarios, and work with a cleaner chat and model-selection experience.\nYou can now configure OpenTelem",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 更新支持配置 OpenTelemetry 导出、设置 maxInputToken 和 maxOutputToken 默认限制，并可在 Claude agent 流程中连接 MCP 服务器与自定义代理。",
+          "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T20:43:37Z"
+          "published_at": "2026-07-28T01:23:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8432,
-      "importance": 0.8432,
-      "importance_score": 0.8432,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9509,
+        "recency": 0.9674,
         "story_heat": 0.0
       },
       "category": "official",
@@ -180,27 +180,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T20:43:37Z",
-      "latest_at": "2026-07-27T20:43:37Z",
+      "earliest_at": "2026-07-28T01:23:10Z",
+      "latest_at": "2026-07-28T01:23:10Z",
       "primary_item": {
-        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
-        "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
-        "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
-        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
-        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
-        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "id": "4ef3e86958cef45a8c605c5ef0e3acafa2e97066",
+        "title": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理 / GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_zh": "GitHub Copilot for JetBrains 新增了改进的 OpenTelemetry 配置和模型管理",
+        "title_en": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "title_original": "GitHub Copilot for JetBrains adds improved OpenTelemetry configuration and model management",
+        "summary": "This update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and…\nThis update brings more control and clarity to your GitHub Copilot for JetBrains workflows. You can now connect MCP servers and custom agents in Claude agent flows, tune telemetry and token settings for advanced scenarios, and work with a cleaner chat and model-selection experience.\nYou can now configure OpenTelem",
+        "recommend_reason_zh": "GitHub Copilot for JetBrains 更新支持配置 OpenTelemetry 导出、设置 maxInputToken 和 maxOutputToken 默认限制，并可在 Claude agent 流程中连接 MCP 服务器与自定义代理。",
+        "url": "https://github.blog/changelog/2026-07-27-github-copilot-for-jetbrains-adds-improvved-opentelemetry-configuration-and-model-management",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 65,
-      "persona_review": "企业Copilot管理更细了，权限控制今天就能配。",
+      "persona_review": "JetBrains用户可更细粒度监控Copilot性能，对排查问题有用，但非必须立即更新。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.809,
+        "recency": 0.7695,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -362,15 +362,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8536,
-      "importance": 0.8536,
-      "importance_score": 0.8536,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9142,
+        "recency": 0.8695,
         "story_heat": 0.25
       },
       "category": "official",
@@ -400,30 +400,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
-      "story_id": "story_7284fe0b61a4",
-      "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "story_id": "story_3aa98e967d5f",
+      "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+      "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+      "primary_url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
-          "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "source_count": 1,
@@ -432,116 +432,31 @@
       ],
       "items": [
         {
-          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-          "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
-          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+          "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+          "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
+          "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+          "title_original": "Manage GitHub Copilot app access with a dedicated policy",
           "summary": null,
-          "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
-          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
+          "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-27T17:00:35Z"
+          "published_at": "2026-07-27T20:43:37Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8402,
-      "importance": 0.8402,
-      "importance_score": 0.8402,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9012,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-27T17:00:35Z",
-      "latest_at": "2026-07-27T17:00:35Z",
-      "primary_item": {
-        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
-        "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
-        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
-        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "企业管理员可统一管控Copilot设置，适合团队合规部署，今天就能配置。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
-      }
-    },
-    {
-      "story_id": "story_2c891351a310",
-      "title": "AI如何拓展人们的工作内容 / How AI is expanding what people do at work",
-      "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "primary_url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "AI如何拓展人们的工作内容 / How AI is expanding what people do at work",
-          "title_zh": "AI如何拓展人们的工作内容",
-          "title_en": "How AI is expanding what people do at work",
-          "title_original": "How AI is expanding what people do at work",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI分析了80万条ChatGPT用户消息，发现16.8%的工作相关消息和43.5%的特定职业消息涉及跨职业任务，揭示AI如何重塑工作边界，让销售员能分析数据、营销人员能解决网站问题。",
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-          "title": "AI如何拓展人们的工作内容 / How AI is expanding what people do at work",
-          "title_zh": "AI如何拓展人们的工作内容",
-          "title_en": "How AI is expanding what people do at work",
-          "title_original": "How AI is expanding what people do at work",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI分析了80万条ChatGPT用户消息，发现16.8%的工作相关消息和43.5%的特定职业消息涉及跨职业任务，揭示AI如何重塑工作边界，让销售员能分析数据、营销人员能解决网站问题。",
-          "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-27T03:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.8348,
+      "importance": 0.8348,
+      "importance_score": 0.8348,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7415,
+        "recency": 0.9045,
         "story_heat": 0.0
       },
       "category": "official",
@@ -550,27 +465,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-27T03:30:00Z",
-      "latest_at": "2026-07-27T03:30:00Z",
+      "earliest_at": "2026-07-27T20:43:37Z",
+      "latest_at": "2026-07-27T20:43:37Z",
       "primary_item": {
-        "id": "2e2d656e1bbc540d6d0428c09cf2fb5ebbdce060",
-        "title": "AI如何拓展人们的工作内容 / How AI is expanding what people do at work",
-        "title_zh": "AI如何拓展人们的工作内容",
-        "title_en": "How AI is expanding what people do at work",
-        "title_original": "How AI is expanding what people do at work",
+        "id": "017a2af4a0cb1955160e1d9a798e5a38e59e068c",
+        "title": "使用专用策略管理GitHub Copilot应用访问权限 / Manage GitHub Copilot app access with a dedicated policy",
+        "title_zh": "使用专用策略管理GitHub Copilot应用访问权限",
+        "title_en": "Manage GitHub Copilot app access with a dedicated policy",
+        "title_original": "Manage GitHub Copilot app access with a dedicated policy",
         "summary": null,
-        "recommend_reason_zh": "OpenAI分析了80万条ChatGPT用户消息，发现16.8%的工作相关消息和43.5%的特定职业消息涉及跨职业任务，揭示AI如何重塑工作边界，让销售员能分析数据、营销人员能解决网站问题。",
-        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
-        "source": "OpenAI News",
+        "recommend_reason_zh": "GitHub Copilot app新增独立策略，支持企业级和组织级独立控制访问权限，默认启用。开发者可在隔离工作区工作并通过pull request落地变更，保持原有审查与审计流程。",
+        "url": "https://github.blog/changelog/2026-07-27-manage-github-copilot-app-access-with-a-dedicated-policy",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "官方博客讲理念，没工具没API，对开发无实际帮助。",
+      "persona_score": 65,
+      "persona_review": "企业Copilot管理更细了，权限控制今天就能配。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -601,7 +516,7 @@
           "title_zh": "我们对开放重量级车型的立场",
           "title_en": null,
           "title_original": "我们对开放重量级车型的立场",
-          "summary": "Anthropic CEO Dario Amodei on open-weights models\nAnthropic CEO Dario Amodei on open-weights models\nAnthropic CEO Dario Amodei on open-weights models\nA post by Dario Amodei, Anthropic CEO\nOver the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights m",
+          "summary": null,
           "recommend_reason_zh": "Anthropic CEO Dario Amodei澄清公司从未倡导禁止开放权重模型，并提出三项措施：防止强大芯片落入威权手中、阻止工业规模蒸馏、要求对所有足够强大的模型进行安全测试。",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
           "source": "www.anthropic.com",
@@ -636,7 +551,7 @@
           "title_zh": "我们对开放重量级车型的立场",
           "title_en": null,
           "title_original": "我们对开放重量级车型的立场",
-          "summary": "Anthropic CEO Dario Amodei on open-weights models\nAnthropic CEO Dario Amodei on open-weights models\nAnthropic CEO Dario Amodei on open-weights models\nA post by Dario Amodei, Anthropic CEO\nOver the last few days there has been a lot of discussion about open-weights models, especially those from China. Reports suggest that some US officials are considering banning the use of Chinese open-weights models by US companies. In response, many tech companies have signed a letter supporting open-weights m",
+          "summary": null,
           "recommend_reason_zh": "Anthropic CEO Dario Amodei澄清公司从未倡导禁止开放权重模型，并提出三项措施：防止强大芯片落入威权手中、阻止工业规模蒸馏、要求对所有足够强大的模型进行安全测试。",
           "url": "https://www.anthropic.com/news/position-open-weights-models",
           "source": "www.anthropic.com",
@@ -647,15 +562,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8034,
-      "importance": 0.8034,
-      "importance_score": 0.8034,
+      "score": 0.7949,
+      "importance": 0.7949,
+      "importance_score": 0.7949,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.927,
         "story_heat": 0.25
       },
       "category": "official",
@@ -684,7 +599,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -761,15 +676,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7844,
-      "importance": 0.7844,
-      "importance_score": 0.7844,
+      "score": 0.7766,
+      "importance": 0.7766,
+      "importance_score": 0.7766,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8876,
+        "recency": 0.8442,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -798,7 +713,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
+      }
+    },
+    {
+      "story_id": "story_7284fe0b61a4",
+      "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+          "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
+          "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
+          "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-27T17:00:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8572,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-27T17:00:35Z",
+      "latest_at": "2026-07-27T17:00:35Z",
+      "primary_item": {
+        "id": "1f4daaa760e71eccd8deb7bc63c8d5cdb4e0e359",
+        "title": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置 / Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_zh": "GitHub Copilot 应用和 Copilot 云代理中的企业托管设置",
+        "title_en": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "title_original": "Enterprise managed settings in the GitHub Copilot app and Copilot cloud agent",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 现在可通过 managed-settings.json 统一管理 Copilot app 和 cloud agent 的插件、市场等策略，原有 Copilot CLI 和 VS Code 用户无需额外配置，自动继承现有规则，填补治理缺口。",
+        "url": "https://github.blog/changelog/2026-07-27-enterprise-managed-settings-now-apply-to-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "企业管理员可统一管控Copilot设置，适合团队合规部署，今天就能配置。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -875,15 +875,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7694,
+      "importance": 0.7694,
+      "importance_score": 0.7694,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.916,
+        "recency": 0.8713,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -912,7 +912,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
+      }
+    },
+    {
+      "story_id": "story_d1e2d40dd895",
+      "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+      "url": "https://www.aibase.com/news/29934",
+      "primary_url": "https://www.aibase.com/news/29934",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_en": null,
+          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "summary": "Security researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nSecurity researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nSecurity researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic的Claude Cowork被曝严重漏洞，允许攻击者突破Linux虚拟机沙箱在macOS上读写任意文件，全球约50万Mac用户面临凭据泄露风险。",
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:40:47.185780Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "497017980a6f12ca52c184fb969c297cea804980",
+          "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "title_en": null,
+          "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+          "summary": "Security researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nSecurity researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nSecurity researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic的Claude Cowork被曝严重漏洞，允许攻击者突破Linux虚拟机沙箱在macOS上读写任意文件，全球约50万Mac用户面临凭据泄露风险。",
+          "url": "https://www.aibase.com/news/29934",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:40:47.185780Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T03:40:47.185780Z",
+      "latest_at": "2026-07-28T03:40:47.185780Z",
+      "primary_item": {
+        "id": "497017980a6f12ca52c184fb969c297cea804980",
+        "title": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "title_zh": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "title_en": null,
+        "title_original": "50 万Mac用户裸奔，Claude智能体爆沙箱逃逸漏洞可读写任意文件",
+        "summary": "Security researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nSecurity researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nSecurity researchers discovered a critical security vulnerability in Anthropic's AI agent tool, Claude Cowork, which allows attackers to escape from a Linux vir\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic的Claude Cowork被曝严重漏洞，允许攻击者突破Linux虚拟机沙箱在macOS上读写任意文件，全球约50万Mac用户面临凭据泄露风险。",
+        "url": "https://www.aibase.com/news/29934",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "Mac用户立即更新Claude，漏洞可读写任意文件，今天就得修。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -960,15 +1044,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7727,
-      "importance": 0.7727,
-      "importance_score": 0.7727,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8785,
+        "recency": 0.8356,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -996,7 +1080,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -1044,21 +1128,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9121,
+        "recency": 0.8675,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T17:50:17.260000Z",
       "latest_at": "2026-07-27T17:50:17.260000Z",
@@ -1080,7 +1163,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -1128,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9295,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1163,30 +1246,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
-      "story_id": "story_b6a9a859e99e",
-      "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-      "url": "https://www.aibase.com/news/29910",
-      "primary_url": "https://www.aibase.com/news/29910",
+      "story_id": "story_77247128b4fd",
+      "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+      "url": "https://www.aibase.com/news/29919",
+      "primary_url": "https://www.aibase.com/news/29919",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "id": "9b44c55605a32459a796261ea59b593ee25da007",
+          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "title_zh": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "summary": null,
-          "recommend_reason_zh": "用户发现Claude会话分享链接被Google索引，因Anthropic未设置no-index标签，大量含私钥与隐私的对话遭公开访问。",
-          "url": "https://www.aibase.com/news/29910",
+          "title_original": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "summary": "Regarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nRegarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nRegarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic CEO Dario Amodei公开澄清从未主张禁开源模型，但强调必须严格管控算力、模型蒸馏及发布前测试，以防危险能力扩散，平衡安全与开放。",
+          "url": "https://www.aibase.com/news/29919",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
+          "published_at": "2026-07-28T03:40:47.185780Z"
         }
       ],
       "source_count": 1,
@@ -1195,141 +1278,142 @@
       ],
       "items": [
         {
-          "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-          "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+          "id": "9b44c55605a32459a796261ea59b593ee25da007",
+          "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "title_zh": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
           "title_en": null,
-          "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-          "summary": null,
-          "recommend_reason_zh": "用户发现Claude会话分享链接被Google索引，因Anthropic未设置no-index标签，大量含私钥与隐私的对话遭公开访问。",
-          "url": "https://www.aibase.com/news/29910",
+          "title_original": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+          "summary": "Regarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nRegarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nRegarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic CEO Dario Amodei公开澄清从未主张禁开源模型，但强调必须严格管控算力、模型蒸馏及发布前测试，以防危险能力扩散，平衡安全与开放。",
+          "url": "https://www.aibase.com/news/29919",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
+          "published_at": "2026-07-28T03:40:47.185780Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8348,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T11:42:37.600093Z",
-      "latest_at": "2026-07-27T11:42:37.600093Z",
+      "earliest_at": "2026-07-28T03:40:47.185780Z",
+      "latest_at": "2026-07-28T03:40:47.185780Z",
       "primary_item": {
-        "id": "8c21edfd378c931f752d0362621f4df294ed011d",
-        "title": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "title_zh": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
+        "id": "9b44c55605a32459a796261ea59b593ee25da007",
+        "title": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+        "title_zh": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
         "title_en": null,
-        "title_original": "Claude 会话分享链接被搜索引擎\"误抓\"，大量含私钥与隐私的对话遭公开索引",
-        "summary": null,
-        "recommend_reason_zh": "用户发现Claude会话分享链接被Google索引，因Anthropic未设置no-index标签，大量含私钥与隐私的对话遭公开访问。",
-        "url": "https://www.aibase.com/news/29910",
+        "title_original": "Anthropic CEO 阿莫代伊撰文划清立场：不主张禁开源，但要卡死算力、蒸馏与发布前测试",
+        "summary": "Regarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nRegarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nRegarding rumors that U.S. government agencies are considering banning domestic companies from using open-source AI models from specific countries, Anthropic co\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic CEO Dario Amodei公开澄清从未主张禁开源模型，但强调必须严格管控算力、模型蒸馏及发布前测试，以防危险能力扩散，平衡安全与开放。",
+        "url": "https://www.aibase.com/news/29919",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "检查你的Claude分享设置，关闭公开链接或加密码，今天就能防泄露。",
+      "persona_score": 45,
+      "persona_review": "政策讨论，非动手内容。等具体限制落地再评估影响。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
-      "story_id": "story_0907ce5e66ea",
-      "title": "用AI Skill自动生成可协作HTML PPT",
-      "url": "https://x.com/vista8/status/2081568902241513786",
-      "primary_url": "https://x.com/vista8/status/2081568902241513786",
-      "source": "X：Vista (@vista8)",
+      "story_id": "story_3d28a7a92444",
+      "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+      "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "primary_url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-          "title": "用AI Skill自动生成可协作HTML PPT",
-          "title_zh": "用AI Skill自动生成可协作HTML PPT",
-          "title_en": null,
-          "title_original": "用AI Skill自动生成可协作HTML PPT",
-          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-          "recommend_reason_zh": "用一条npx skills add joeseesun/qiaomu-bento-ppt指令即可安装，基于bento PPT自动生成可编辑、在线协作的HTML幻灯片，推荐搭配Kimi K3或Opus 4.8+模型使用。",
-          "url": "https://x.com/vista8/status/2081568902241513786",
-          "source": "X：Vista (@vista8)",
+          "id": "5ac8d76f69949d45ec573062b377590c70893901",
+          "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+          "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+          "recommend_reason_zh": "本文教你用p50-p99延迟、吞吐量、正常运行时间和量化四个维度比较LLM提供商，而非仅看模型本身，并据此建立路由规则，避免单一基准的误导。",
+          "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T02:34:34Z"
+          "published_at": "2026-07-28T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Vista (@vista8)"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-          "title": "用AI Skill自动生成可协作HTML PPT",
-          "title_zh": "用AI Skill自动生成可协作HTML PPT",
-          "title_en": null,
-          "title_original": "用AI Skill自动生成可协作HTML PPT",
-          "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-          "recommend_reason_zh": "用一条npx skills add joeseesun/qiaomu-bento-ppt指令即可安装，基于bento PPT自动生成可编辑、在线协作的HTML幻灯片，推荐搭配Kimi K3或Opus 4.8+模型使用。",
-          "url": "https://x.com/vista8/status/2081568902241513786",
-          "source": "X：Vista (@vista8)",
+          "id": "5ac8d76f69949d45ec573062b377590c70893901",
+          "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+          "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+          "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+          "recommend_reason_zh": "本文教你用p50-p99延迟、吞吐量、正常运行时间和量化四个维度比较LLM提供商，而非仅看模型本身，并据此建立路由规则，避免单一基准的误导。",
+          "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-27T02:34:34Z"
+          "published_at": "2026-07-28T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7313,
-      "importance": 0.7313,
-      "importance_score": 0.7313,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7317,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-27T02:34:34Z",
-      "latest_at": "2026-07-27T02:34:34Z",
+      "earliest_at": "2026-07-28T00:00:00Z",
+      "latest_at": "2026-07-28T00:00:00Z",
       "primary_item": {
-        "id": "29e61cc109f21b35c2460b50e409520ec711253b",
-        "title": "用AI Skill自动生成可协作HTML PPT",
-        "title_zh": "用AI Skill自动生成可协作HTML PPT",
-        "title_en": null,
-        "title_original": "用AI Skill自动生成可协作HTML PPT",
-        "summary": "Vista 基于 bento PPT 改造了一个 Skill，输入内容或主题即可自动生成可编辑、在线演示并支持协作的 HTML PPT。安装指令为 `npx skills add joeseesun/qiaomu-bento-ppt`，推荐使用 Kimi K3 或 Opus 4.8+ 等前端审美好的模型。",
-        "recommend_reason_zh": "用一条npx skills add joeseesun/qiaomu-bento-ppt指令即可安装，基于bento PPT自动生成可编辑、在线协作的HTML幻灯片，推荐搭配Kimi K3或Opus 4.8+模型使用。",
-        "url": "https://x.com/vista8/status/2081568902241513786",
-        "source": "X：Vista (@vista8)",
+        "id": "5ac8d76f69949d45ec573062b377590c70893901",
+        "title": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能 / How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "title_zh": "如何评估不同 LLM 提供商在延迟、吞吐量和正常运行时间上的性能",
+        "title_en": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "title_original": "How to Evaluate LLM Provider Performance Across Latency， Throughput， and Uptime",
+        "summary": "同一模型在不同提供商端点上的表现因基础设施、量化、负载处理和路由默认设置而异。评估需测量延迟、吞吐量、正常运行时间和精度，并将测量结果转化为路由策略。",
+        "recommend_reason_zh": "本文教你用p50-p99延迟、吞吐量、正常运行时间和量化四个维度比较LLM提供商，而非仅看模型本身，并据此建立路由规则，避免单一基准的误导。",
+        "url": "https://openrouter.ai/blog/insights/evaluate-llm-provider-performance",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "适合快速原型，但协作和定制有限，生产环境慎用。",
+      "persona_score": 65,
+      "persona_review": "选型参考，但指标依赖测试环境，直接跑你的负载才准。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -1377,21 +1461,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.8791,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-27T18:45:20Z",
       "latest_at": "2026-07-27T18:45:20Z",
@@ -1413,30 +1496,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
-      "story_id": "story_1ea579ee44b6",
-      "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-      "url": "https://www.aibase.com/news/29917",
-      "primary_url": "https://www.aibase.com/news/29917",
+      "story_id": "story_47c2e9f94796",
+      "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+      "url": "https://www.aibase.com/news/29922",
+      "primary_url": "https://www.aibase.com/news/29922",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "id": "4e449fb833f351202489ba7ec2e4b52073f3d750",
+          "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "title_zh": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
           "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic的Claude AI因技术配置失误，导致用户分享链接被Google和Bing索引，公开暴露钱包私钥、公司内部任务等敏感信息，揭示了用户对“分享”安全性的认知鸿沟。",
-          "url": "https://www.aibase.com/news/29917",
+          "title_original": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "summary": "Recently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nRecently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nRecently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic的Claude共享聊天功能因“site:claude.ai/share”可被谷歌索引，Reddit用户发现大量对话包含健康记录、公司文件等隐私信息，引发安全担忧。",
+          "url": "https://www.aibase.com/news/29922",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
+          "published_at": "2026-07-28T03:40:47.185780Z"
         }
       ],
       "source_count": 1,
@@ -1445,58 +1528,143 @@
       ],
       "items": [
         {
-          "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-          "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+          "id": "4e449fb833f351202489ba7ec2e4b52073f3d750",
+          "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "title_zh": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
           "title_en": null,
-          "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic的Claude AI因技术配置失误，导致用户分享链接被Google和Bing索引，公开暴露钱包私钥、公司内部任务等敏感信息，揭示了用户对“分享”安全性的认知鸿沟。",
-          "url": "https://www.aibase.com/news/29917",
+          "title_original": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+          "summary": "Recently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nRecently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nRecently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nExplore AI Fronti",
+          "recommend_reason_zh": "Anthropic的Claude共享聊天功能因“site:claude.ai/share”可被谷歌索引，Reddit用户发现大量对话包含健康记录、公司文件等隐私信息，引发安全担忧。",
+          "url": "https://www.aibase.com/news/29922",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
+          "published_at": "2026-07-28T03:40:47.185780Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8348,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T11:42:37.600093Z",
-      "latest_at": "2026-07-27T11:42:37.600093Z",
+      "earliest_at": "2026-07-28T03:40:47.185780Z",
+      "latest_at": "2026-07-28T03:40:47.185780Z",
       "primary_item": {
-        "id": "b7146ce31f4fdbccb24924a1fd1b630c36312ea2",
-        "title": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "title_zh": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
+        "id": "4e449fb833f351202489ba7ec2e4b52073f3d750",
+        "title": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+        "title_zh": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
         "title_en": null,
-        "title_original": "Claude分享链接配置翻车：用户私钥、公司机密被Google公开收录",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic的Claude AI因技术配置失误，导致用户分享链接被Google和Bing索引，公开暴露钱包私钥、公司内部任务等敏感信息，揭示了用户对“分享”安全性的认知鸿沟。",
-        "url": "https://www.aibase.com/news/29917",
+        "title_original": "Anthropic Claude共享聊天功能曝隐私风险，大量对话被谷歌收录",
+        "summary": "Recently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nRecently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nRecently, an AI assistant named Claude under Anthropic was exposed to a incident where chat records were shared and indexed by search engines. A large number of\nExplore AI Fronti",
+        "recommend_reason_zh": "Anthropic的Claude共享聊天功能因“site:claude.ai/share”可被谷歌索引，Reddit用户发现大量对话包含健康记录、公司文件等隐私信息，引发安全担忧。",
+        "url": "https://www.aibase.com/news/29922",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "检查你的Claude分享链接是否泄露了私钥，立刻撤销并轮换密钥。",
+      "persona_score": 35,
+      "persona_review": "隐私风险老生常谈，用共享功能前自己检查下敏感信息。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
+      }
+    },
+    {
+      "story_id": "story_da00c303388c",
+      "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+      "url": "https://www.aibase.com/news/29932",
+      "primary_url": "https://www.aibase.com/news/29932",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
+          "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_zh": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_en": null,
+          "title_original": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "summary": "Another robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nAnother robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nAnother robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nExplore AI Fronti",
+          "recommend_reason_zh": "Enigma获7100万美元种子轮融资，来自Index Ventures和Ribbit Capital，正启动全球在线实验：任何人可上网与100多台自研AI机器人互动，探索如何让指挥机器人像拧音量旋钮一样简单。",
+          "url": "https://www.aibase.com/news/29932",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:40:47.185780Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
+          "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_zh": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "title_en": null,
+          "title_original": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+          "summary": "Another robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nAnother robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nAnother robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nExplore AI Fronti",
+          "recommend_reason_zh": "Enigma获7100万美元种子轮融资，来自Index Ventures和Ribbit Capital，正启动全球在线实验：任何人可上网与100多台自研AI机器人互动，探索如何让指挥机器人像拧音量旋钮一样简单。",
+          "url": "https://www.aibase.com/news/29932",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-28T03:40:47.185780Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T03:40:47.185780Z",
+      "latest_at": "2026-07-28T03:40:47.185780Z",
+      "primary_item": {
+        "id": "3f2d2e18254526b7773a46c1523da37b866f992e",
+        "title": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+        "title_zh": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+        "title_en": null,
+        "title_original": "Enigma融资7100万美元：要让指挥机器人像拧音量旋钮一样简单",
+        "summary": "Another robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nAnother robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nAnother robotics company has entered the \"embodied intelligence\" field, one of the hardest challenges in AI - how to teach models to do tasks that no one has ev\nExplore AI Fronti",
+        "recommend_reason_zh": "Enigma获7100万美元种子轮融资，来自Index Ventures和Ribbit Capital，正启动全球在线实验：任何人可上网与100多台自研AI机器人互动，探索如何让指挥机器人像拧音量旋钮一样简单。",
+        "url": "https://www.aibase.com/news/29932",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "融资新闻，没产品没API，对开发者今天没用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
@@ -1544,15 +1712,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8848,
+        "recency": 0.8416,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1579,30 +1747,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     },
     {
-      "story_id": "story_78c20dc62353",
-      "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-      "url": "https://www.aibase.com/news/29914",
-      "primary_url": "https://www.aibase.com/news/29914",
+      "story_id": "story_e89dbd30d87a",
+      "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+      "url": "https://www.aibase.com/news/29935",
+      "primary_url": "https://www.aibase.com/news/29935",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
+          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "title_zh": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
           "title_en": null,
-          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "summary": null,
-          "recommend_reason_zh": "GEO服务商痛点突出，Zhanzhangzhijia这套SaaS系统能解决按有效排名收录的复杂计费、标准化交付及代理OEM独立结算三大难题，实现全流程数字化管理。",
-          "url": "https://www.aibase.com/news/29914",
+          "title_original": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "summary": "Mozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nMozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nMozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nExplore AI Fronti",
+          "recommend_reason_zh": "Mozilla Firefox新标签页大改版，推出由AI新闻阅读器Particle驱动的每日填字游戏，自动提取当天关键新闻实时生成谜题，并集成待办列表、定时器等widget生态升级。",
+          "url": "https://www.aibase.com/news/29935",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
+          "published_at": "2026-07-28T03:40:47.185780Z"
         }
       ],
       "source_count": 1,
@@ -1611,253 +1779,59 @@
       ],
       "items": [
         {
-          "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-          "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+          "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
+          "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "title_zh": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
           "title_en": null,
-          "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-          "summary": null,
-          "recommend_reason_zh": "GEO服务商痛点突出，Zhanzhangzhijia这套SaaS系统能解决按有效排名收录的复杂计费、标准化交付及代理OEM独立结算三大难题，实现全流程数字化管理。",
-          "url": "https://www.aibase.com/news/29914",
+          "title_original": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+          "summary": "Mozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nMozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nMozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nExplore AI Fronti",
+          "recommend_reason_zh": "Mozilla Firefox新标签页大改版，推出由AI新闻阅读器Particle驱动的每日填字游戏，自动提取当天关键新闻实时生成谜题，并集成待办列表、定时器等widget生态升级。",
+          "url": "https://www.aibase.com/news/29935",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
+          "published_at": "2026-07-28T03:40:47.185780Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8348,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-27T11:42:37.600093Z",
-      "latest_at": "2026-07-27T11:42:37.600093Z",
+      "earliest_at": "2026-07-28T03:40:47.185780Z",
+      "latest_at": "2026-07-28T03:40:47.185780Z",
       "primary_item": {
-        "id": "19424603e898aaa6d70be7195f041cf5237ea17f",
-        "title": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "title_zh": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
+        "id": "b272ccf2b013a6068b4f0d78c37bc27a5d5a7885",
+        "title": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+        "title_zh": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
         "title_en": null,
-        "title_original": "GEO服务商迎来“效率革命”：一套SaaS平台系统解决计费、交付、代理管理三大难题",
-        "summary": null,
-        "recommend_reason_zh": "GEO服务商痛点突出，Zhanzhangzhijia这套SaaS系统能解决按有效排名收录的复杂计费、标准化交付及代理OEM独立结算三大难题，实现全流程数字化管理。",
-        "url": "https://www.aibase.com/news/29914",
+        "title_original": "Firefox新标签页大改版：AI新闻字谜上线，浏览器也能玩出花样",
+        "summary": "Mozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nMozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nMozilla Firefox is bringing a rare major upgrade to the new tab page - a daily crosswords game powered by artificial intelligence has officially launched. The c\nExplore AI Fronti",
+        "recommend_reason_zh": "Mozilla Firefox新标签页大改版，推出由AI新闻阅读器Particle驱动的每日填字游戏，自动提取当天关键新闻实时生成谜题，并集成待办列表、定时器等widget生态升级。",
+        "url": "https://www.aibase.com/news/29935",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 20,
-      "persona_review": "SaaS平台宣传文，无具体技术细节或开源方案，对开发者无直接用处。",
+      "persona_review": "浏览器加AI新闻模块，对开发者无实质影响，不如关注性能更新。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
-      }
-    },
-    {
-      "story_id": "story_f92b1e3fa24a",
-      "title": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上 / PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-      "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-      "primary_url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9d3d2d46343f0f73c4bcae30231308d85c67d7b0",
-          "title": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上 / PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "title_zh": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上",
-          "title_en": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "title_original": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "summary": null,
-          "recommend_reason_zh": "Claude的“share chat”功能创建的链接默认公开，导致用户共享的聊天和Artifacts可能被Google索引，提醒用户注意隐私风险。",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T20:19:42Z"
-        },
-        {
-          "id": "43642684cf3c4556a19b008e7a1f727b17799c25",
-          "title": "Claude 共享聊天和 Artifacts 可能已出现在 Google 上 / Claude shared chats and Artifacts may have ended up on Google",
-          "title_zh": "Claude 共享聊天和 Artifacts 可能已出现在 Google 上",
-          "title_en": "Claude shared chats and Artifacts may have ended up on Google",
-          "title_original": "Claude shared chats and Artifacts may have ended up on Google",
-          "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.\nThe issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGo",
-          "recommend_reason_zh": "Claude的“share chat”功能允许任何有URL链接的人查看对话，可能导致聊天记录和Artifacts被Google搜索索引，引发隐私泄露风险。",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-27T20:28:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "9d3d2d46343f0f73c4bcae30231308d85c67d7b0",
-          "title": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上 / PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "title_zh": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上",
-          "title_en": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "title_original": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-          "summary": null,
-          "recommend_reason_zh": "Claude的“share chat”功能创建的链接默认公开，导致用户共享的聊天和Artifacts可能被Google索引，提醒用户注意隐私风险。",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-27T20:19:42Z"
-        },
-        {
-          "id": "43642684cf3c4556a19b008e7a1f727b17799c25",
-          "title": "Claude 共享聊天和 Artifacts 可能已出现在 Google 上 / Claude shared chats and Artifacts may have ended up on Google",
-          "title_zh": "Claude 共享聊天和 Artifacts 可能已出现在 Google 上",
-          "title_en": "Claude shared chats and Artifacts may have ended up on Google",
-          "title_original": "Claude shared chats and Artifacts may have ended up on Google",
-          "summary": "The issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.\nThe issue appears to have originated from Claude’s “share chat” feature, which allows users to create links that enable anyone with the assigned URL view a conversation or project.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGo",
-          "recommend_reason_zh": "Claude的“share chat”功能允许任何有URL链接的人查看对话，可能导致聊天记录和Artifacts被Google搜索索引，引发隐私泄露风险。",
-          "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-27T20:28:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6514,
-      "importance": 0.6514,
-      "importance_score": 0.6514,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.9454,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-27T20:19:42Z",
-      "latest_at": "2026-07-27T20:28:07Z",
-      "primary_item": {
-        "id": "9d3d2d46343f0f73c4bcae30231308d85c67d7b0",
-        "title": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上 / PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-        "title_zh": "提醒：你共享的Claude聊天记录和Artifacts可能已经出现在Google上",
-        "title_en": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-        "title_original": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
-        "summary": null,
-        "recommend_reason_zh": "Claude的“share chat”功能创建的链接默认公开，导致用户共享的聊天和Artifacts可能被Google索引，提醒用户注意隐私风险。",
-        "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "立刻检查你的Claude共享链接，有敏感信息就撤销。今天能动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
-      }
-    },
-    {
-      "story_id": "story_620ebb8c9c5b",
-      "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-      "url": "https://www.aibase.com/news/29916",
-      "primary_url": "https://www.aibase.com/news/29916",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "326261f775bd97b90c695a2a62309932378bfecc",
-          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_en": null,
-          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "summary": null,
-          "recommend_reason_zh": "35名大学生中32人用AI作弊，教授Professor Jason Gibson在试卷中嵌入隐形提示，诱导AI生成含\"Madagascar\"的无意义句子，轻松揭露全部抄袭。",
-          "url": "https://www.aibase.com/news/29916",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "326261f775bd97b90c695a2a62309932378bfecc",
-          "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "title_en": null,
-          "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-          "summary": null,
-          "recommend_reason_zh": "35名大学生中32人用AI作弊，教授Professor Jason Gibson在试卷中嵌入隐形提示，诱导AI生成含\"Madagascar\"的无意义句子，轻松揭露全部抄袭。",
-          "url": "https://www.aibase.com/news/29916",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-27T11:42:37.600093Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8348,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-27T11:42:37.600093Z",
-      "latest_at": "2026-07-27T11:42:37.600093Z",
-      "primary_item": {
-        "id": "326261f775bd97b90c695a2a62309932378bfecc",
-        "title": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "title_zh": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "title_en": null,
-        "title_original": "​35 名大学生 32 人考试作弊，教授用一行\"隐形咒语\"让AI现原形",
-        "summary": null,
-        "recommend_reason_zh": "35名大学生中32人用AI作弊，教授Professor Jason Gibson在试卷中嵌入隐形提示，诱导AI生成含\"Madagascar\"的无意义句子，轻松揭露全部抄袭。",
-        "url": "https://www.aibase.com/news/29916",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "防作弊小技巧，对开发者无实际价值，看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T00:16:50.597482Z"
+        "scored_at": "2026-07-28T03:46:02.874250Z"
       }
     }
   ]
