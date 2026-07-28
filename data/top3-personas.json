@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T10:02:53.346727Z",
+  "generated_at": "2026-07-28T12:23:18.790517Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_f76284dbfab9",
+      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
+      "url": "https://www.aibase.com/news/29952",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "联网搜索不新鲜，但给Agent用算个实用方向，别吹成颠覆就行。"
+        },
+        "paper-police": {
+          "score": 18,
+          "review": "只有官方宣称，无论文无代码无benchmark，可信度待验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Agent开发直接集成联网搜索，省去自建检索模块，今天就能调API试。"
+        }
+      }
+    },
+    {
       "story_id": "story_c3c7b4228b8c",
       "title": "Kimi K3 开放日：模型权重、技术报告和关键 Infra 技术同步开放",
       "url": "https://mp.weixin.qq.com/s/IW9BdyA3hLvuuiX_aMCJEQ",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "权重和技术报告已开放，可复现和微调，今天就能跑起来。"
-        }
-      }
-    },
-    {
-      "story_id": "story_112bcb1d3a8b",
-      "title": "Kimi K3 开源：2.8T MoE 模型与技术报告 / Releasing the model weights and technical report of Kimi K3. Kimi K3 is our most capable model： a 2…",
-      "url": "https://x.com/Kimi_Moonshot/status/2081760186235289764",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "2.8T MoE 全开源，技术报告也给了，比那些只放个 demo 的强太多。"
-        },
-        "paper-police": {
-          "score": 88,
-          "review": "模型权重和技术报告已公开，但缺少独立benchmark复现结果。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。"
         }
       }
     }
