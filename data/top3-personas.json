@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T14:52:22.247811Z",
+  "generated_at": "2026-07-28T16:59:33.316125Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_c1632a302b6e",
+      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "升级到3.6 Flash是好事，但hooks和免费套餐更像是补课，别吹成创新。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节数字，但无论文无代码，无法独立验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "默认模型升级，新钩子可自定义流程，免费套餐降低入门门槛，今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_6f0358447e62",
       "title": "FeyNoBg 发布：开源自动背景去除模型，在四项基准上达到 SOTA",
       "url": "https://usefeyn.com/blog/feynobg",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_96b3ba176dcd",
-      "title": "GitHub Actions 暂存潜在恶意工作流等待审批 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-unproven-workflows-for-approval",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "早该这么干了，但只拦‘暂存’不拦已签名的恶意工作流？"
-        },
-        "paper-police": {
-          "score": 0,
-          "review": "官方博客公告，无技术细节、论文或代码，无法验证机制有效性。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "CI/CD安全加固，今天起外部PR触发的工作流默认暂停，需手动审批。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f76284dbfab9",
-      "title": "火山引擎上线豆包搜索服务，为AI Agent提供可信联网检索能力",
-      "url": "https://www.aibase.com/news/29952",
+      "story_id": "story_f3ef249ddb56",
+      "title": "LFM2.5-Encoders：在CPU上实现快速长上下文推理 / LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "联网搜索不新鲜，但给Agent用算个实用方向，别吹成颠覆就行。"
+          "score": 72,
+          "review": "CPU上跑长上下文，思路不错，但速度对比基线选的是啥？别是跟十年前的比。"
         },
         "paper-police": {
-          "score": 18,
-          "review": "只有官方宣称，无论文无代码无benchmark，可信度待验证。"
+          "score": 45,
+          "review": "博客给了细节和数字，但无论文无代码，等独立验证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Agent开发直接集成联网搜索，省去自建检索模块，今天就能调API试。"
+          "review": "CPU上跑长上下文推理，部署成本直降，今天就能试。"
         }
       }
     }
