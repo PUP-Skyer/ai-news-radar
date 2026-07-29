@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T22:18:22.195302Z",
+  "generated_at": "2026-07-29T00:11:13.190475Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8637,
-      "importance": 0.8637,
-      "importance_score": 0.8637,
+      "score": 0.8593,
+      "importance": 0.8593,
+      "importance_score": 0.8593,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9262,
+        "recency": 0.9014,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -192,15 +192,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8613,
-      "importance": 0.8613,
-      "importance_score": 0.8613,
+      "score": 0.8569,
+      "importance": 0.8569,
+      "importance_score": 0.8569,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.913,
+        "recency": 0.8885,
         "story_heat": 0.25
       },
       "category": "official",
@@ -230,30 +230,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
-      "story_id": "story_bc76c2ce852e",
-      "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "story_id": "story_d26d09267b84",
+      "title": "GitHub Copilot 应用使用指标现已跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+      "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
+      "primary_url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 上线",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
-          "summary": "Grok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up…\nGrok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up to 500,000 tokens, support for text and image inputs, as well as low, medium, and high reasoning effort.\nIn our internal testing, Grok 4.5 ",
-          "recommend_reason_zh": "xAI最新推理模型Grok 4.5已上线GitHub Copilot，支持500,000 tokens上下文窗口、文本和图像输入，在终端编码任务及并行工具调度中表现强劲，值得开发者关注。",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用使用指标现已跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用使用指标现已跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
+          "summary": "Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.…\nCopilot app usage is now reported across much more of the Copilot usage metrics API.\nIndividual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports. In addition, Copilot app coding activity is now broken out in the feature, model, and language rollups ",
+          "recommend_reason_zh": "GitHub Copilot app使用数据现在可在API中按企业用户、组织用户及功能、模型和语言细分报告，帮你精确识别采用者并衡量代码产出，告别仅有总量可见的局限。",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "source_count": 1,
@@ -262,31 +262,31 @@
       ],
       "items": [
         {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
-          "title_zh": "Grok 4.5 现已在 GitHub Copilot 上线",
-          "title_en": "Grok 4.5 is now available in GitHub Copilot",
-          "title_original": "Grok 4.5 is now available in GitHub Copilot",
-          "summary": "Grok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up…\nGrok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up to 500,000 tokens, support for text and image inputs, as well as low, medium, and high reasoning effort.\nIn our internal testing, Grok 4.5 ",
-          "recommend_reason_zh": "xAI最新推理模型Grok 4.5已上线GitHub Copilot，支持500,000 tokens上下文窗口、文本和图像输入，在终端编码任务及并行工具调度中表现强劲，值得开发者关注。",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+          "title": "GitHub Copilot 应用使用指标现已跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+          "title_zh": "GitHub Copilot 应用使用指标现已跨报告汇总扩展",
+          "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+          "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
+          "summary": "Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.…\nCopilot app usage is now reported across much more of the Copilot usage metrics API.\nIndividual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports. In addition, Copilot app coding activity is now broken out in the feature, model, and language rollups ",
+          "recommend_reason_zh": "GitHub Copilot app使用数据现在可在API中按企业用户、组织用户及功能、模型和语言细分报告，帮你精确识别采用者并衡量代码产出，告别仅有总量可见的局限。",
+          "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
+          "published_at": "2026-07-28T23:35:01Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8521,
-      "importance": 0.8521,
-      "importance_score": 0.8521,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9558,
+        "ai_relevance": 0.91,
+        "recency": 0.9913,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,27 +295,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
+      "earliest_at": "2026-07-28T23:35:01Z",
+      "latest_at": "2026-07-28T23:35:01Z",
       "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
-        "title_zh": "Grok 4.5 现已在 GitHub Copilot 上线",
-        "title_en": "Grok 4.5 is now available in GitHub Copilot",
-        "title_original": "Grok 4.5 is now available in GitHub Copilot",
-        "summary": "Grok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up…\nGrok 4.5, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. It is designed for fast, agentic coding and complex multi-step workflows, with a context window of up to 500,000 tokens, support for text and image inputs, as well as low, medium, and high reasoning effort.\nIn our internal testing, Grok 4.5 ",
-        "recommend_reason_zh": "xAI最新推理模型Grok 4.5已上线GitHub Copilot，支持500,000 tokens上下文窗口、文本和图像输入，在终端编码任务及并行工具调度中表现强劲，值得开发者关注。",
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "id": "51b41f0d42bffd688b866c9a29837670c2eff4e4",
+        "title": "GitHub Copilot 应用使用指标现已跨报告汇总扩展 / GitHub Copilot app usage metrics now expand across report rollups",
+        "title_zh": "GitHub Copilot 应用使用指标现已跨报告汇总扩展",
+        "title_en": "GitHub Copilot app usage metrics now expand across report rollups",
+        "title_original": "GitHub Copilot app usage metrics now expand across report rollups",
+        "summary": "Copilot app usage is now reported across much more of the Copilot usage metrics API. Individual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports.…\nCopilot app usage is now reported across much more of the Copilot usage metrics API.\nIndividual Copilot app activity is now attributed to users in the enterprise-user and organization-user reports. In addition, Copilot app coding activity is now broken out in the feature, model, and language rollups ",
+        "recommend_reason_zh": "GitHub Copilot app使用数据现在可在API中按企业用户、组织用户及功能、模型和语言细分报告，帮你精确识别采用者并衡量代码产出，告别仅有总量可见的局限。",
+        "url": "https://github.blog/changelog/2026-07-28-github-copilot-app-usage-metrics-now-expand-across-report-rollups",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。",
+      "persona_score": 75,
+      "persona_review": "团队管理Copilot成本更方便了，聚合报表直接看，不用手动汇总。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -363,15 +363,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.848,
-      "importance": 0.848,
-      "importance_score": 0.848,
+      "score": 0.8437,
+      "importance": 0.8437,
+      "importance_score": 0.8437,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9002,
+        "recency": 0.8761,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,7 +400,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
+      }
+    },
+    {
+      "story_id": "story_bc76c2ce852e",
+      "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.5 现已在 GitHub Copilot 上线",
+          "title_en": "Grok 4.5 is now available in GitHub Copilot",
+          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": "xAI最新推理模型Grok 4.5已上线GitHub Copilot，支持500,000 tokens上下文窗口、文本和图像输入，在终端编码任务及并行工具调度中表现强劲，值得开发者关注。",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
+          "title_zh": "Grok 4.5 现已在 GitHub Copilot 上线",
+          "title_en": "Grok 4.5 is now available in GitHub Copilot",
+          "title_original": "Grok 4.5 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": "xAI最新推理模型Grok 4.5已上线GitHub Copilot，支持500,000 tokens上下文窗口、文本和图像输入，在终端编码任务及并行工具调度中表现强劲，值得开发者关注。",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8474,
+      "importance": 0.8474,
+      "importance_score": 0.8474,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9302,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
+      "primary_item": {
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
+        "title_zh": "Grok 4.5 现已在 GitHub Copilot 上线",
+        "title_en": "Grok 4.5 is now available in GitHub Copilot",
+        "title_original": "Grok 4.5 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": "xAI最新推理模型Grok 4.5已上线GitHub Copilot，支持500,000 tokens上下文窗口、文本和图像输入，在终端编码任务及并行工具调度中表现强劲，值得开发者关注。",
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -448,15 +533,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9191,
+        "recency": 0.8944,
         "story_heat": 0.0
       },
       "category": "official",
@@ -485,7 +570,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -533,15 +618,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7959,
-      "importance": 0.7959,
-      "importance_score": 0.7959,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9736,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -569,92 +654,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
-      }
-    },
-    {
-      "story_id": "story_dab11bf31a39",
-      "title": "Dependabot 恶意软件包警报覆盖更多生态系统 / Dependabot alerts on malicious packages across more ecosystems",
-      "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-      "primary_url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-          "title": "Dependabot 恶意软件包警报覆盖更多生态系统 / Dependabot alerts on malicious packages across more ecosystems",
-          "title_zh": "Dependabot 恶意软件包警报覆盖更多生态系统",
-          "title_en": "Dependabot alerts on malicious packages across more ecosystems",
-          "title_original": "Dependabot alerts on malicious packages across more ecosystems",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Advisory Database现已自动摄入OpenSSF项目的恶意软件通告，将Dependabot警报覆盖范围扩展至npm、PyPI等更多生态系统，无需额外配置即可获得更广泛的恶意包威胁防护。",
-          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T14:55:31Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-          "title": "Dependabot 恶意软件包警报覆盖更多生态系统 / Dependabot alerts on malicious packages across more ecosystems",
-          "title_zh": "Dependabot 恶意软件包警报覆盖更多生态系统",
-          "title_en": "Dependabot alerts on malicious packages across more ecosystems",
-          "title_original": "Dependabot alerts on malicious packages across more ecosystems",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Advisory Database现已自动摄入OpenSSF项目的恶意软件通告，将Dependabot警报覆盖范围扩展至npm、PyPI等更多生态系统，无需额外配置即可获得更广泛的恶意包威胁防护。",
-          "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T14:55:31Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8258,
-      "importance": 0.8258,
-      "importance_score": 0.8258,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8989,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T14:55:31Z",
-      "latest_at": "2026-07-28T14:55:31Z",
-      "primary_item": {
-        "id": "972287feac69fb34c1b538474103f64cc23f3e69",
-        "title": "Dependabot 恶意软件包警报覆盖更多生态系统 / Dependabot alerts on malicious packages across more ecosystems",
-        "title_zh": "Dependabot 恶意软件包警报覆盖更多生态系统",
-        "title_en": "Dependabot alerts on malicious packages across more ecosystems",
-        "title_original": "Dependabot alerts on malicious packages across more ecosystems",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Advisory Database现已自动摄入OpenSSF项目的恶意软件通告，将Dependabot警报覆盖范围扩展至npm、PyPI等更多生态系统，无需额外配置即可获得更广泛的恶意包威胁防护。",
-        "url": "https://github.blog/changelog/2026-07-28-dependabot-alerts-on-malicious-packages-across-more-ecosystems",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "CI/CD安全加固，Dependabot扩生态，今天就能配置启用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -702,15 +702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8743,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -739,7 +739,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -787,15 +787,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7902,
-      "importance": 0.7902,
-      "importance_score": 0.7902,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9735,
+        "recency": 0.9475,
         "story_heat": 0.0
       },
       "category": "official",
@@ -823,7 +823,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
+      }
+    },
+    {
+      "story_id": "story_0225f52e421b",
+      "title": "npm 发布时的恶意软件扫描与双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+      "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "primary_url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时的恶意软件扫描与双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "title_zh": "npm 发布时的恶意软件扫描与双重用途元数据",
+          "title_en": "npm publish-time malware scanning and dual-use metadata",
+          "title_original": "npm publish-time malware scanning and dual-use metadata",
+          "summary": "As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement…\nAs part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time . This changelog covers what publishers can expect and a new metadata requirement for dual-use content.\nNewly published packages will be automatically scanned before they become availa",
+          "recommend_reason_zh": "npm 在包发布时引入自动扫描，造成约5分钟延迟（高峰时可达15分钟以上），并新增双用途内容的contentPolicy声明和DISCLOSURE文件要求。",
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T22:50:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+          "title": "npm 发布时的恶意软件扫描与双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+          "title_zh": "npm 发布时的恶意软件扫描与双重用途元数据",
+          "title_en": "npm publish-time malware scanning and dual-use metadata",
+          "title_original": "npm publish-time malware scanning and dual-use metadata",
+          "summary": "As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement…\nAs part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time . This changelog covers what publishers can expect and a new metadata requirement for dual-use content.\nNewly published packages will be automatically scanned before they become availa",
+          "recommend_reason_zh": "npm 在包发布时引入自动扫描，造成约5分钟延迟（高峰时可达15分钟以上），并新增双用途内容的contentPolicy声明和DISCLOSURE文件要求。",
+          "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T22:50:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T22:50:05Z",
+      "latest_at": "2026-07-28T22:50:05Z",
+      "primary_item": {
+        "id": "65e3c61dd0a13d9f1849ee25cb505dad6bd15b82",
+        "title": "npm 发布时的恶意软件扫描与双重用途元数据 / npm publish-time malware scanning and dual-use metadata",
+        "title_zh": "npm 发布时的恶意软件扫描与双重用途元数据",
+        "title_en": "npm publish-time malware scanning and dual-use metadata",
+        "title_original": "npm publish-time malware scanning and dual-use metadata",
+        "summary": "As part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time. This changelog covers what publishers can expect and a new metadata requirement…\nAs part of our ongoing supply-chain security work, npm is introducing automatic scanning of packages at publish time . This changelog covers what publishers can expect and a new metadata requirement for dual-use content.\nNewly published packages will be automatically scanned before they become availa",
+        "recommend_reason_zh": "npm 在包发布时引入自动扫描，造成约5分钟延迟（高峰时可达15分钟以上），并新增双用途内容的contentPolicy声明和DISCLOSURE文件要求。",
+        "url": "https://github.blog/changelog/2026-07-28-npm-publish-time-malware-scanning-and-dual-use-metadata",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "npm 发布时自动扫恶意软件，省去手动安全审查，直接提升包安全性。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-29T00:17:48.340400Z"
+      }
+    },
+    {
+      "story_id": "story_3a40efc29328",
+      "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+      "url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "primary_url": "https://x.com/thsottiaux/status/2082241164850364555",
+      "source": "X：Tibo (@thsottiaux)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+          "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_original": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
+          "recommend_reason_zh": "新开源工具CLI与TypeScript SDK，可查找、验证和修复代码安全漏洞，支持扫描仓库、审查更改、跟踪发现并集成CI检查。",
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T23:05:54Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Tibo (@thsottiaux)"
+      ],
+      "items": [
+        {
+          "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+          "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+          "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "title_original": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+          "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
+          "recommend_reason_zh": "新开源工具CLI与TypeScript SDK，可查找、验证和修复代码安全漏洞，支持扫描仓库、审查更改、跟踪发现并集成CI检查。",
+          "url": "https://x.com/thsottiaux/status/2082241164850364555",
+          "source": "X：Tibo (@thsottiaux)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-28T23:05:54Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7798,
+      "importance": 0.7798,
+      "importance_score": 0.7798,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9844,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-28T23:05:54Z",
+      "latest_at": "2026-07-28T23:05:54Z",
+      "primary_item": {
+        "id": "0fe170e0cfa718723b44d7eb59e5e436002bcf45",
+        "title": "OpenAI 发布 Codex 安全 CLI 与 SDK / More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+        "title_zh": "OpenAI 发布 Codex 安全 CLI 与 SDK",
+        "title_en": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+        "title_original": "More opensource goodness. We have just released a CLI and TypeScript SDK for finding， validating， an…",
+        "summary": "更多开源福利。我们刚刚发布了一个 CLI 和 TypeScript SDK，用于查找、验证和修复代码中的安全漏洞。扫描仓库、审查变更、随时间追踪发现，并在 CI 中运行安全检查。\n\nhttps://github.com/openai/codex-security",
+        "recommend_reason_zh": "新开源工具CLI与TypeScript SDK，可查找、验证和修复代码安全漏洞，支持扫描仓库、审查更改、跟踪发现并集成CI检查。",
+        "url": "https://x.com/thsottiaux/status/2082241164850364555",
+        "source": "X：Tibo (@thsottiaux)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 75,
+      "persona_review": "安全工具链开源，CI/CD集成可用，但需评估是否适配现有流程。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -871,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7758,
+      "importance": 0.7758,
+      "importance_score": 0.7758,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9718,
+        "recency": 0.9458,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -907,7 +1076,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -955,15 +1124,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7738,
+      "importance": 0.7738,
+      "importance_score": 0.7738,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9944,
+        "recency": 0.9678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +1160,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1039,15 +1208,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7777,
-      "importance": 0.7777,
-      "importance_score": 0.7777,
+      "score": 0.7731,
+      "importance": 0.7731,
+      "importance_score": 0.7731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9562,
+        "recency": 0.9306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1244,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1123,15 +1292,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7747,
-      "importance": 0.7747,
-      "importance_score": 0.7747,
+      "score": 0.7704,
+      "importance": 0.7704,
+      "importance_score": 0.7704,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8871,
+        "recency": 0.8633,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1159,7 +1328,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1207,15 +1376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9712,
+        "recency": 0.9452,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1243,7 +1412,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1291,15 +1460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7671,
-      "importance": 0.7671,
-      "importance_score": 0.7671,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9806,
+        "recency": 0.9543,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1496,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1404,15 +1573,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8366,
+        "recency": 0.8142,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1441,7 +1610,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1489,15 +1658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9045,
+        "recency": 0.8803,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1525,7 +1694,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     },
     {
@@ -1573,15 +1742,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8214,
-      "importance": 0.8214,
-      "importance_score": 0.8214,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8743,
+        "recency": 0.8508,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1610,206 +1779,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
-      }
-    },
-    {
-      "story_id": "story_d930809ff7d5",
-      "title": "GitHub Actions 暂存潜在恶意工作流等待审批 / GitHub Actions holds potentially malicious workflows for approval",
-      "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-      "primary_url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
-          "title": "GitHub Actions 暂存潜在恶意工作流等待审批 / GitHub Actions holds potentially malicious workflows for approval",
-          "title_zh": "GitHub Actions 暂存潜在恶意工作流等待审批",
-          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Actions为防范供应链攻击，自动暂停可疑workflow，要求具有写权限的协作者通过认证web会话审批后才能执行，目前仅适用于github.com上的公共仓库。",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
-          "title": "GitHub Actions 暂存潜在恶意工作流等待审批 / GitHub Actions holds potentially malicious workflows for approval",
-          "title_zh": "GitHub Actions 暂存潜在恶意工作流等待审批",
-          "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-          "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Actions为防范供应链攻击，自动暂停可疑workflow，要求具有写权限的协作者通过认证web会话审批后才能执行，目前仅适用于github.com上的公共仓库。",
-          "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T11:57:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8612,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T11:57:19Z",
-      "latest_at": "2026-07-28T11:57:19Z",
-      "primary_item": {
-        "id": "a378b9cf8a8b5b0b243e470c96b48fa080934df2",
-        "title": "GitHub Actions 暂存潜在恶意工作流等待审批 / GitHub Actions holds potentially malicious workflows for approval",
-        "title_zh": "GitHub Actions 暂存潜在恶意工作流等待审批",
-        "title_en": "GitHub Actions holds potentially malicious workflows for approval",
-        "title_original": "GitHub Actions holds potentially malicious workflows for approval",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Actions为防范供应链攻击，自动暂停可疑workflow，要求具有写权限的协作者通过认证web会话审批后才能执行，目前仅适用于github.com上的公共仓库。",
-        "url": "https://github.blog/changelog/2026-07-28-github-actions-holds-potentially-malicious-workflows-for-approval",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CI/CD安全增强，防供应链攻击，建议检查现有workflow是否受影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
-      }
-    },
-    {
-      "story_id": "story_869b1b15cdb0",
-      "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-      "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-      "primary_url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
-          "recommend_reason_zh": "Microsoft AI发布MAI-Cyber-1-Flash，这是一个137B总参数、5B活跃参数的网络防御模型，驱动MDASH在CyberGym上达到95.95%的得分，比上一代配置提升约7.5个百分点并节省50%成本。",
-          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        },
-        {
-          "id": "88b6d019e6ef82431d4a2493c8ba95cc2e805122",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "summary": null,
-          "recommend_reason_zh": "Microsoft AI的MAI-Cyber-1-Flash以5B活跃参数驱动MDASH在CyberGym上达到95.95%，比此前88.4%提升约8个百分点，并管理超100个专业agent。",
-          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "MarkTechPost Research",
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "6f766c74ef4c51667bffb3da594152f025b50442",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
-          "recommend_reason_zh": "Microsoft AI发布MAI-Cyber-1-Flash，这是一个137B总参数、5B活跃参数的网络防御模型，驱动MDASH在CyberGym上达到95.95%的得分，比上一代配置提升约7.5个百分点并节省50%成本。",
-          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-28T08:33:30Z"
-        },
-        {
-          "id": "88b6d019e6ef82431d4a2493c8ba95cc2e805122",
-          "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-          "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash: A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-          "summary": null,
-          "recommend_reason_zh": "Microsoft AI的MAI-Cyber-1-Flash以5B活跃参数驱动MDASH在CyberGym上达到95.95%，比此前88.4%提升约8个百分点，并管理超100个专业agent。",
-          "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-          "source": "MarkTechPost Research",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-28T08:33:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8199,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-28T08:33:30Z",
-      "latest_at": "2026-07-28T08:33:30Z",
-      "primary_item": {
-        "id": "6f766c74ef4c51667bffb3da594152f025b50442",
-        "title": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95% / Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-        "title_zh": "Microsoft 发布 MAI-Cyber-1-Flash：5B 活跃参数的网络安全模型，驱动 MDASH 在 CyberGym 上达到 95.95%",
-        "title_en": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-        "title_original": "Microsoft AI Releases MAI-Cyber-1-Flash： A 5B-Active-Parameter Cyber Model That Pushes MDASH to 95.95% on CyberGym",
-        "summary": "Microsoft 发布 MAI-Cyber-1-Flash，一款 137B 总参数（5B 活跃参数）、256k 上下文窗口的稀疏 MoE 网络安全模型，是 MAI-Code-1-Flash 的微调版本。",
-        "recommend_reason_zh": "Microsoft AI发布MAI-Cyber-1-Flash，这是一个137B总参数、5B活跃参数的网络防御模型，驱动MDASH在CyberGym上达到95.95%的得分，比上一代配置提升约7.5个百分点并节省50%成本。",
-        "url": "https://www.marktechpost.com/2026/07/28/microsoft-ai-releases-mai-cyber-1-flash-a-5b-active-parameter-cyber-model-that-pushes-mdash-to-95-95-on-cybergym",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "5B参数模型在网络安全任务上表现亮眼，可尝试用于安全日志分析或威胁检测场景。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-28T22:24:18.885454Z"
+        "scored_at": "2026-07-29T00:17:48.340400Z"
       }
     }
   ]
