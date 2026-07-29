@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T15:30:40.312336Z",
+  "generated_at": "2026-07-29T17:50:21.100377Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_c1632a302b6e",
-      "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
+      "story_id": "story_597bf2d3fcc7",
+      "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+      "url": "https://x.com/sherwinwu/status/2082517015944741342",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "升级到3.6 Flash是好事，但hooks和免费套餐更像是补课，别吹成创新。"
+          "review": "免费是好事，但“前沿模型”的定义权在你手里，别拿降级版糊弄人。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节数字，但无论文无代码，无法独立验证。"
+          "score": 5,
+          "review": "只有X帖子，无论文无代码无官方公告，GPT-5.6-Sol Pr闻所未闻。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "默认模型升级，新钩子可自定义流程，免费套餐降低入门门槛，今天就能试。"
+          "score": 90,
+          "review": "学术研究者今天就能申请免费GPT-5.6，省下API费用，适合跑实验。"
         }
       }
     },
     {
-      "story_id": "story_bc76c2ce852e",
-      "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "story_id": "story_877f0f256fb6",
+      "title": "OpenAI 推出两款新转录模型 API / We're introducing two new transcription models in the API： • GPT-Live-Transcribe： built for low-lat…",
+      "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "Copilot里塞个新模型，但没说比4.0强在哪，先观望下评测。"
+          "score": 72,
+          "review": "低延迟转录是刚需，但没说比 Whisper 强多少，先跑个盲测再说。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有官方博客宣称上线，无论文无代码无评测，无法验证性能。"
+          "score": 5,
+          "review": "只有推文宣称，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。"
+          "review": "转录API已上线，低延迟和低成本两个选择，语音应用今天就能集成。"
         }
       }
     }
