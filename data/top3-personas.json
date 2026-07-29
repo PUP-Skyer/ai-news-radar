@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T17:50:21.100377Z",
+  "generated_at": "2026-07-29T19:54:39.981241Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_597bf2d3fcc7",
-      "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-      "url": "https://x.com/sherwinwu/status/2082517015944741342",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "免费是好事，但“前沿模型”的定义权在你手里，别拿降级版糊弄人。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "只有X帖子，无论文无代码无官方公告，GPT-5.6-Sol Pr闻所未闻。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "学术研究者今天就能申请免费GPT-5.6，省下API费用，适合跑实验。"
-        }
-      }
-    },
-    {
       "story_id": "story_877f0f256fb6",
       "title": "OpenAI 推出两款新转录模型 API / We're introducing two new transcription models in the API： • GPT-Live-Transcribe： built for low-lat…",
       "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "转录API已上线，低延迟和低成本两个选择，语音应用今天就能集成。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8e9a39b56823",
+      "title": "为Copilot Business和Enterprise默认启用模型 / Default model enablement for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 65,
+          "review": "默认启用省了IT经理一步，但改个默认值就发公告，水分不少。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有官方博客声明，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Copilot用户无需手动配置模型，直接生效，省去运维步骤。"
         }
       }
     }
