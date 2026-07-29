@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T22:23:00.043974Z",
+  "generated_at": "2026-07-29T23:34:00.541594Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_597bf2d3fcc7",
-      "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
-      "url": "https://x.com/sherwinwu/status/2082517015944741342",
+      "story_id": "story_407f953ae8e0",
+      "title": "Copilot 代码审查：Agent 技能与 MCP 现已全面可用 / Copilot code review: Agent skills and MCP now generally available",
+      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "免费是好事，但“前沿模型”的定义权在你手里，别拿降级版糊弄人。"
+          "score": 70,
+          "review": "Agent技能和MCP正式版，但得先问问你的代码库配不配。"
         },
         "paper-police": {
-          "score": 5,
-          "review": "只有X帖子，无论文无代码无官方公告，GPT-5.6-Sol Pr闻所未闻。"
+          "score": 20,
+          "review": "官方博客宣称功能可用，但无论文、代码或评测，无法验证性能。"
         },
         "pragmatic": {
-          "score": 90,
-          "review": "学术研究者今天就能申请免费GPT-5.6，省下API费用，适合跑实验。"
+          "score": 85,
+          "review": "Agent技能和MCP正式版，今天就能集成到CI/CD流程里，提升代码审查效率。"
         }
       }
     }
