@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T00:17:51.502653Z",
+  "generated_at": "2026-07-29T03:50:55.245343Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_662891d3b0ba",
+      "title": "Codex CLI 0.146.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "版本号跳得勤，但没提具体改了什么，营销味比代码味浓。"
+        },
+        "paper-police": {
+          "score": 15,
+          "review": "只有官方更新日志，无论文无代码无评测，无法验证性能。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "新版本已发布，直接升级体验，修复了关键bug，提升编码效率。"
+        }
+      }
+    },
+    {
       "story_id": "story_c1632a302b6e",
       "title": "Gemini API Managed Agents 默认升级为 3.6 Flash，新增环境钩子与免费套餐 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_bc76c2ce852e",
       "title": "Grok 4.5 现已在 GitHub Copilot 上线 / Grok 4.5 is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 75,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_877f0f256fb6",
-      "title": "OpenAI 推出两款新转录模型 API / We're introducing two new transcription models in the API： • GPT-Live-Transcribe： built for low-lat…",
-      "url": "https://x.com/OpenAIDevs/status/2082201169443905798",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "低延迟转录是刚需，但没说比 Whisper 强多少，先跑个盲测再说。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "只有推文宣称，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "转录API已上线，低延迟和低成本两个选择，语音应用今天就能集成。"
         }
       }
     }
