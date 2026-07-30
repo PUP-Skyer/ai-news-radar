@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T23:34:00.541594Z",
+  "generated_at": "2026-07-30T03:39:17.024881Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_662891d3b0ba",
-      "title": "Codex CLI 0.146.0",
-      "url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_597bf2d3fcc7",
+      "title": "OpenAI 为学术研究者免费提供前沿模型 / ChatGPT for Academic Researchers - free （！！） access to our frontier models， including GPT-5.6-Sol Pr…",
+      "url": "https://x.com/sherwinwu/status/2082517015944741342",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "版本号跳得勤，但没提具体改了什么，营销味比代码味浓。"
+          "score": 72,
+          "review": "免费是好事，但“前沿模型”的定义权在你手里，别拿降级版糊弄人。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "只有官方更新日志，无论文无代码无评测，无法验证性能。"
+          "score": 5,
+          "review": "只有X帖子，无论文无代码无官方公告，GPT-5.6-Sol Pr闻所未闻。"
         },
         "pragmatic": {
           "score": 90,
-          "review": "新版本已发布，直接升级体验，修复了关键bug，提升编码效率。"
-        }
-      }
-    },
-    {
-      "story_id": "story_aa4a42f08412",
-      "title": "OpenAI 发布 GPT-5.6 模型家族：Sol、Terra 与 Luna / How GPT-5.6 fuses frontier intelligence with frontier efficiency",
-      "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "三个模型三个名字，但没说Sol比Terra贵多少，成本呢？"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有官方博客宣称，无论文无代码无第三方评测，等证据。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "新模型已发布，API可用，直接测试替换旧模型看效果。"
+          "review": "学术研究者今天就能申请免费GPT-5.6，省下API费用，适合跑实验。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_407f953ae8e0",
       "title": "Copilot 代码审查：Agent 技能与 MCP 现已全面可用 / Copilot code review: Agent skills and MCP now generally available",
       "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "Agent技能和MCP正式版，今天就能集成到CI/CD流程里，提升代码审查效率。"
+        }
+      }
+    },
+    {
+      "story_id": "story_54430aee701b",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "改两个参数就三倍？基线怕是故意没开这两个吧。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有数字但无论文代码，等独立复现再定论。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "直接调 API 参数就能提分，今天就能试，成本不变但效果翻倍。"
         }
       }
     }
