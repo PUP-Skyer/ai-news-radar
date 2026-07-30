@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:48:30.808806Z",
+  "generated_at": "2026-07-30T09:51:37.656359Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_9845586b3e05",
+      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
+      "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "92%-99%的削减？先看看你喂的PDF是不是全是空白页。"
+        },
+        "paper-police": {
+          "score": 85,
+          "review": "论文和开源代码已提供，但缺少独立第三方benchmark复现结果。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源MCP扩展，直接省92%+PDF token费，今天就能集成到Claude工作流。"
+        }
+      }
+    },
+    {
       "story_id": "story_407f953ae8e0",
       "title": "Copilot 代码审查：Agent 技能与 MCP 现已全面可用 / Copilot code review: Agent skills and MCP now generally available",
       "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -40,7 +60,7 @@
       "story_id": "story_54430aee701b",
       "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
       "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "直接调 API 参数就能提分，今天就能试，成本不变但效果翻倍。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8e9a39b56823",
-      "title": "为Copilot Business和Enterprise默认启用模型 / Default model enablement for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-29-default-model-enablement-for-copilot-business-and-enterprise",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 65,
-          "review": "默认启用省了IT经理一步，但改个默认值就发公告，水分不少。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有官方博客声明，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "Copilot用户无需手动配置模型，直接生效，省去运维步骤。"
         }
       }
     }
