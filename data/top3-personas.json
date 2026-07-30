@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:43:48.952049Z",
+  "generated_at": "2026-07-30T17:02:10.218543Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_54430aee701b",
-      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "story_id": "story_8adecfb05166",
+      "title": "Visual Studio中的GitHub Copilot——7月更新 / GitHub Copilot in Visual Studio — July update",
+      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "改两个参数就三倍？基线怕是故意没开这两个吧。"
+          "score": 70,
+          "review": "Copilot每月刷存在感，但这次更新没提具体改进了啥，老用户自己翻changelog吧。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有数字但无论文代码，等独立复现再定论。"
+          "score": 25,
+          "review": "官方博客宣称更新，无论文无代码无评测，仅靠自述。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "直接调 API 参数就能提分，今天就能试，成本不变但效果翻倍。"
+          "review": "VS Copilot 七月更新已上线，今天就能体验新功能，提升编码效率。"
         }
       }
     },
     {
-      "story_id": "story_407f953ae8e0",
-      "title": "Copilot 代码审查：Agent 技能与 MCP 现已全面可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
+      "story_id": "story_790c059d6976",
+      "title": "堆叠拉取请求现已公开预览 / Stacked pull requests are now in public preview",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "Agent技能和MCP正式版，但得先问问你的代码库配不配。"
+          "review": "堆叠PR终于公开预览，但GitHub这功能比竞品晚了两年，还当新大陆宣传。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称功能可用，但无论文、代码或评测，无法验证性能。"
+          "score": 10,
+          "review": "官方博客宣布预览，无论文无代码无评测，只有功能描述。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Agent技能和MCP正式版，今天就能集成到CI/CD流程里，提升代码审查效率。"
+          "review": "GitHub原生支持堆叠PR，大型PR拆解管理更高效，今天就能用。"
         }
       }
     }
