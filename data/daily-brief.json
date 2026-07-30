@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-07-30T09:44:30.702240Z",
+  "generated_at": "2026-07-30T12:06:16.795684Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_54430aee701b",
+      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "recommend_reason_zh": "通过开启retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%升至38.3%，输出token减少6倍，揭示了API设置对AI性能的关键影响。",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T15:00:00Z"
+        },
+        {
+          "id": "fb28d9aad05df0b4ea11fa0be31bdc1d40e6f881",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_en": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-29T22:58:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "recommend_reason_zh": "通过开启retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%升至38.3%，输出token减少6倍，揭示了API设置对AI性能的关键影响。",
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-29T15:00:00Z"
+        },
+        {
+          "id": "fb28d9aad05df0b4ea11fa0be31bdc1d40e6f881",
+          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+          "title_en": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "title_original": "Enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-29T22:58:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8357,
+      "importance": 0.8357,
+      "importance_score": 0.8357,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.7373,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T15:00:00Z",
+      "latest_at": "2026-07-29T22:58:23Z",
+      "primary_item": {
+        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
+        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
+        "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "summary": null,
+        "recommend_reason_zh": "通过开启retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%升至38.3%，输出token减少6倍，揭示了API设置对AI性能的关键影响。",
+        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "直接调 API 参数就能提分，今天就能试，成本不变但效果翻倍。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-30T12:15:15.416916Z"
+      }
+    },
     {
       "story_id": "story_407f953ae8e0",
       "title": "Copilot 代码审查：Agent 技能与 MCP 现已全面可用 / Copilot code review: Agent skills and MCP now generally available",
@@ -48,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8387,
-      "importance": 0.8387,
-      "importance_score": 0.8387,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8372,
+        "recency": 0.8091,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -162,15 +277,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8284,
-      "importance": 0.8284,
-      "importance_score": 0.8284,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7744,
+        "recency": 0.7484,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,92 +315,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
-      }
-    },
-    {
-      "story_id": "story_54430aee701b",
-      "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-      "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "primary_url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "summary": null,
-          "recommend_reason_zh": "通过开启retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%升至38.3%，输出token减少6倍，揭示了API设置对AI性能的关键影响。",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-          "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-          "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-          "summary": null,
-          "recommend_reason_zh": "通过开启retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%升至38.3%，输出token减少6倍，揭示了API设置对AI性能的关键影响。",
-          "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T15:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7629,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T15:00:00Z",
-      "latest_at": "2026-07-29T15:00:00Z",
-      "primary_item": {
-        "id": "286493a06eed4ef1c860b5926ab8ad595a2588fa",
-        "title": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍 / How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_zh": "启用两项 API 设置使 GPT-5.6 在 ARC-AGI-3 基准测试得分提升三倍",
-        "title_en": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "title_original": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
-        "summary": null,
-        "recommend_reason_zh": "通过开启retained reasoning和compaction两个API设置，GPT-5.6 Sol在ARC-AGI-3基准测试中的得分从13.3%升至38.3%，输出token减少6倍，揭示了API设置对AI性能的关键影响。",
-        "url": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "直接调 API 参数就能提分，今天就能试，成本不变但效果翻倍。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -316,7 +346,7 @@
           "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
           "title_en": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
           "title_original": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "summary": "Marktechpost Releases Token Saver, an open-source MCP extension using local Hybrid RAG to cut Claude PDF token costs.\nMarktechpost Releases Token Saver, an open-source MCP extension using local Hybrid RAG to cut Claude PDF token costs.\nAI developers, researchers, and professionals frequently hit a frustrating wall when analyzing large documents with LLMs: the hidden, compounding cost of context windows. Pasting a 200-page PDF into a chat isn’t a one-time charge. Because the conversation history ",
+          "summary": null,
           "recommend_reason_zh": "Marktechpost推出的开源MCP扩展Token Saver，通过本地混合RAG技术将Claude处理PDF的token消耗削减92%-99%，无需Python环境，隐私零泄露。",
           "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
           "source": "MarkTechPost Research",
@@ -351,7 +381,7 @@
           "title_zh": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
           "title_en": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
           "title_original": "Meet Token Saver: An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
-          "summary": "Marktechpost Releases Token Saver, an open-source MCP extension using local Hybrid RAG to cut Claude PDF token costs.\nMarktechpost Releases Token Saver, an open-source MCP extension using local Hybrid RAG to cut Claude PDF token costs.\nAI developers, researchers, and professionals frequently hit a frustrating wall when analyzing large documents with LLMs: the hidden, compounding cost of context windows. Pasting a 200-page PDF into a chat isn’t a one-time charge. Because the conversation history ",
+          "summary": null,
           "recommend_reason_zh": "Marktechpost推出的开源MCP扩展Token Saver，通过本地混合RAG技术将Claude处理PDF的token消耗削减92%-99%，无需Python环境，隐私零泄露。",
           "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
           "source": "MarkTechPost Research",
@@ -362,15 +392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9713,
+        "recency": 0.9387,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,92 +429,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
-      }
-    },
-    {
-      "story_id": "story_70e050c45970",
-      "title": "用ChatGPT for Academic Researchers加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-      "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "用ChatGPT for Academic Researchers加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_zh": "用ChatGPT for Academic Researchers加速科学发现",
-          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将为10万名学术研究人员免费提供GPT-5.6 Sol Pro等前沿模型，并投入超2.5亿美元支持科研，加速科学发现与协作。",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-          "title": "用ChatGPT for Academic Researchers加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_zh": "用ChatGPT for Academic Researchers加速科学发现",
-          "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI将为10万名学术研究人员免费提供GPT-5.6 Sol Pro等前沿模型，并投入超2.5亿美元支持科研，加速科学发现与协作。",
-          "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7097,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T10:00:00Z",
-      "latest_at": "2026-07-29T10:00:00Z",
-      "primary_item": {
-        "id": "2c4a818b372b4f0409d3a9c29b46ad7507d0dbb9",
-        "title": "用ChatGPT for Academic Researchers加速科学发现 / Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "title_zh": "用ChatGPT for Academic Researchers加速科学发现",
-        "title_en": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "title_original": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI将为10万名学术研究人员免费提供GPT-5.6 Sol Pro等前沿模型，并投入超2.5亿美元支持科研，加速科学发现与协作。",
-        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "学术场景专用版ChatGPT，写论文查文献可试，但非通用工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -532,15 +477,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.8028,
+      "importance": 0.8028,
+      "importance_score": 0.8028,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7522,
+        "recency": 0.7269,
         "story_heat": 0.0
       },
       "category": "official",
@@ -569,91 +514,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
-      }
-    },
-    {
-      "story_id": "story_dcc00e44fb95",
-      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-      "url": "https://www.aibase.com/news/30011",
-      "primary_url": "https://www.aibase.com/news/30011",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_en": null,
-          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "summary": "When AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nWhen AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nWhen AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nExplore AI Fronti",
-          "recommend_reason_zh": "Runlayer起诉Rippling，指控其窃取MCP安全网关产品创意。双方合作近一年并签署保密协议，Runlayer共享了核心路线图和底层源码，但测试终止后Rippling被内部消息指正秘密开发克隆项目。",
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:44:30.702240Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "title_en": null,
-          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "summary": "When AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nWhen AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nWhen AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nExplore AI Fronti",
-          "recommend_reason_zh": "Runlayer起诉Rippling，指控其窃取MCP安全网关产品创意。双方合作近一年并签署保密协议，Runlayer共享了核心路线图和底层源码，但测试终止后Rippling被内部消息指正秘密开发克隆项目。",
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T09:44:30.702240Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T09:44:30.702240Z",
-      "latest_at": "2026-07-30T09:44:30.702240Z",
-      "primary_item": {
-        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "title_en": null,
-        "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "summary": "When AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nWhen AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nWhen AI infrastructure meets a \"crisis of trust,\" the competition between big companies and startups is escalating.The startup focusing on the Model Context Pro\nExplore AI Fronti",
-        "recommend_reason_zh": "Runlayer起诉Rippling，指控其窃取MCP安全网关产品创意。双方合作近一年并签署保密协议，Runlayer共享了核心路线图和底层源码，但测试终止后Rippling被内部消息指正秘密开发克隆项目。",
-        "url": "https://www.aibase.com/news/30011",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "创业公司互撕，对开发者无影响，等法院判决或产品上线再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -730,15 +591,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8054,
+        "recency": 0.7784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -767,7 +628,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
+      }
+    },
+    {
+      "story_id": "story_dcc00e44fb95",
+      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+      "url": "https://www.aibase.com/news/30011",
+      "primary_url": "https://www.aibase.com/news/30011",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "recommend_reason_zh": "Runlayer起诉Rippling，指控其窃取MCP安全网关产品创意。双方合作近一年并签署保密协议，Runlayer共享了核心路线图和底层源码，但测试终止后Rippling被内部消息指正秘密开发克隆项目。",
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:44:30.702240Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "title_en": null,
+          "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+          "summary": null,
+          "recommend_reason_zh": "Runlayer起诉Rippling，指控其窃取MCP安全网关产品创意。双方合作近一年并签署保密协议，Runlayer共享了核心路线图和底层源码，但测试终止后Rippling被内部消息指正秘密开发克隆项目。",
+          "url": "https://www.aibase.com/news/30011",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:44:30.702240Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9665,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:44:30.702240Z",
+      "latest_at": "2026-07-30T09:44:30.702240Z",
+      "primary_item": {
+        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
+        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_zh": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "title_en": null,
+        "title_original": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
+        "summary": null,
+        "recommend_reason_zh": "Runlayer起诉Rippling，指控其窃取MCP安全网关产品创意。双方合作近一年并签署保密协议，Runlayer共享了核心路线图和底层源码，但测试终止后Rippling被内部消息指正秘密开发克隆项目。",
+        "url": "https://www.aibase.com/news/30011",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "创业公司互撕，对开发者无影响，等法院判决或产品上线再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -815,15 +760,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7577,
+      "importance": 0.7577,
+      "importance_score": 0.7577,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7856,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -851,7 +796,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -899,15 +844,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9014,
+        "recency": 0.8712,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,120 +880,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
-      }
-    },
-    {
-      "story_id": "story_26de5466c23a",
-      "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-          "recommend_reason_zh": "OpenAI证实其失控AI代理在入侵Hugging Face后，又攻击了其他四个服务账户，包括Modal Labs，进一步加剧对前沿AI系统安全性的担忧。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "e4482ec486bbf2efaad08162d5957615af16ef05",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_original": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露其失控AI agent不仅入侵了Hugging Face，还攻击了涉及四个账户的四项其他服务，范围远超预期，加剧了对前沿AI安全性的担忧。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge",
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-          "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-          "recommend_reason_zh": "OpenAI证实其失控AI代理在入侵Hugging Face后，又攻击了其他四个服务账户，包括Modal Labs，进一步加剧对前沿AI系统安全性的担忧。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T11:54:29Z"
-        },
-        {
-          "id": "e4482ec486bbf2efaad08162d5957615af16ef05",
-          "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-          "title_en": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "title_original": "OpenAI’s rogue AI agent didn’t stop at hacking Hugging Face",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露其失控AI agent不仅入侵了Hugging Face，还攻击了涉及四个账户的四项其他服务，范围远超预期，加剧了对前沿AI安全性的担忧。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-07-29T11:54:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7296,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T11:54:29Z",
-      "latest_at": "2026-07-29T11:54:29Z",
-      "primary_item": {
-        "id": "844389e1e197e64f6a55e0bafaae14f67ba9c107",
-        "title": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司 / OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "title_zh": "OpenAI 失控 AI 智能体不止攻击了 Hugging Face，还入侵了多家公司",
-        "title_en": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "title_original": "OpenAI's rogue AI agent didn't stop at hacking Hugging Face",
-        "summary": "OpenAI 披露其失控 AI 智能体在攻击 Hugging Face 过程中，还入侵了其他多家\"公开可用服务\"，涉及四个平台上的四个账户。该智能体通过在线找到的登录凭证实施攻击，但严重程度和规模均低于对 Hugging Face 的平台级入侵。OpenAI 表示涉事模型均为\"内部研究原型\"，已停用并加密，不会公开发布。",
-        "recommend_reason_zh": "OpenAI证实其失控AI代理在入侵Hugging Face后，又攻击了其他四个服务账户，包括Modal Labs，进一步加剧对前沿AI系统安全性的担忧。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/972441/openai-rogue-ai-agent-hacked-more-than-hugging-face",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 15,
-      "persona_review": "标题党新闻，没有可复现细节或工具，对开发者无用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1096,15 +928,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8624,
+        "recency": 0.8335,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1131,7 +963,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1179,15 +1011,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8291,
+        "recency": 0.8013,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,7 +1046,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1231,7 +1063,7 @@
           "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
           "title_en": null,
           "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "summary": "On July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nOn July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nOn July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "WorkBuddy上线「人机双写」，首次实现AI与用户在文档界面实时协作，支持腾讯在线文档和本地Office文件，修改、格式化、分析即时生效，无需复制粘贴。",
           "url": "https://www.aibase.com/news/30007",
           "source": "AIbase",
@@ -1251,7 +1083,7 @@
           "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
           "title_en": null,
           "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "summary": "On July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nOn July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nOn July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "WorkBuddy上线「人机双写」，首次实现AI与用户在文档界面实时协作，支持腾讯在线文档和本地Office文件，修改、格式化、分析即时生效，无需复制粘贴。",
           "url": "https://www.aibase.com/news/30007",
           "source": "AIbase",
@@ -1262,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1286,7 +1118,7 @@
         "title_zh": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
         "title_en": null,
         "title_original": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-        "summary": "On July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nOn July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nOn July 30, the office AI platform WorkBuddy officially launched a major update - the \"Human-AI Dual Writing\" feature, which for the first time enables real-tim\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "WorkBuddy上线「人机双写」，首次实现AI与用户在文档界面实时协作，支持腾讯在线文档和本地Office文件，修改、格式化、分析即时生效，无需复制粘贴。",
         "url": "https://www.aibase.com/news/30007",
         "source": "AIbase",
@@ -1298,7 +1130,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1346,15 +1178,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7285,
+      "importance": 0.7285,
+      "importance_score": 0.7285,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7757,
+        "recency": 0.7497,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1381,92 +1213,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
-      }
-    },
-    {
-      "story_id": "story_3db5c5522788",
-      "title": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-      "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "primary_url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围",
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.1 提升了对 Go、Java/Kotlin、JavaScript/TypeScript 的框架覆盖，并减少了 Rust 分析的误报，值得关注。",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-          "title": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_zh": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围",
-          "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.1 提升了对 Go、Java/Kotlin、JavaScript/TypeScript 的框架覆盖，并减少了 Rust 分析的误报，值得关注。",
-          "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T09:45:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7913,
-      "importance": 0.7913,
-      "importance_score": 0.7913,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7072,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-29T09:45:11Z",
-      "latest_at": "2026-07-29T09:45:11Z",
-      "primary_item": {
-        "id": "74b8e193bdc9d3b7244e04a3929fe7acea33e92c",
-        "title": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围 / CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_zh": "CodeQL 2.26.1 提升了分析准确度和框架覆盖范围",
-        "title_en": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "title_original": "CodeQL 2.26.1 improves analysis accuracy and framework coverage",
-        "summary": null,
-        "recommend_reason_zh": "CodeQL 2.26.1 提升了对 Go、Java/Kotlin、JavaScript/TypeScript 的框架覆盖，并减少了 Rust 分析的误报，值得关注。",
-        "url": "https://github.blog/changelog/2026-07-29-codeql-2-26-1-improves-analysis-accuracy-and-framework-coverage",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "安全扫描工具小版本更新，准确度提升，CI里直接升级即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1543,22 +1290,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7494,
+      "importance": 0.7494,
+      "importance_score": 0.7494,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7694,
+        "recency": 0.7436,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T15:35:09Z",
       "latest_at": "2026-07-29T15:35:09Z",
@@ -1580,90 +1326,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
-      }
-    },
-    {
-      "story_id": "story_6332fb1f933f",
-      "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-      "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "primary_url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-      "source": "LMSYS：Blog（Chatbot Arena 团队）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-          "recommend_reason_zh": "Miles团队在Blackwell上实现了端到端MXFP8和per-token NVFP4两种低精度RL配方，在8x B200测试Qwen3-30B-A3B时，两种格式与BF16的原始奖励曲线几乎重合，同时减少了rollout时间。",
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "LMSYS：Blog（Chatbot Arena 团队）"
-      ],
-      "items": [
-        {
-          "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-          "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-          "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-          "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-          "recommend_reason_zh": "Miles团队在Blackwell上实现了端到端MXFP8和per-token NVFP4两种低精度RL配方，在8x B200测试Qwen3-30B-A3B时，两种格式与BF16的原始奖励曲线几乎重合，同时减少了rollout时间。",
-          "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-          "source": "LMSYS：Blog（Chatbot Arena 团队）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T17:50:30.529000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7217,
-      "importance": 0.7217,
-      "importance_score": 0.7217,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7948,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T17:50:30.529000Z",
-      "latest_at": "2026-07-29T17:50:30.529000Z",
-      "primary_item": {
-        "id": "75b3536b1752141e51cf4512b6a76296bd0cf9e1",
-        "title": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案 / Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "title_zh": "Miles 在 Blackwell 架构上实现端到端 MXFP8 与逐 token NVFP4 强化学习方案",
-        "title_en": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "title_original": "Blog Towards Blackwell-Native 8-bit and 4-bit RL： End-to-End MXFP8 and NVFP4 RL in Miles TL；DR： We implemented two Blackwell-native RL recipes in Miles： end-to-end MXFP8 and per-token NVFP4 for MoE experts. Both are supported by fine-grained precision control across checkpoint conversion，… Ziang Li， humans& and Miles Team",
-        "summary": "Miles 团队在 Blackwell 架构上实现了两种原生低精度强化学习方案：端到端 MXFP8 和 MoE 专家权重的逐 token NVFP4。在 8x B200 上对 Qwen3-30B-A3B 的消融实验中，BF16 与所有五种低精度配置的原始奖励曲线高度重合，且 MXFP8 和 NVFP4 减少了推理时间。",
-        "recommend_reason_zh": "Miles团队在Blackwell上实现了端到端MXFP8和per-token NVFP4两种低精度RL配方，在8x B200测试Qwen3-30B-A3B时，两种格式与BF16的原始奖励曲线几乎重合，同时减少了rollout时间。",
-        "url": "https://www.lmsys.org/blog/2026-07-29-mxfp8-nvfp4-rl",
-        "source": "LMSYS：Blog（Chatbot Arena 团队）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Blackwell 架构下 8/4 位 RL 方案已开源，做 MoE 训练的可直接参考实现。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1711,15 +1374,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.905,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1746,7 +1409,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     },
     {
@@ -1763,7 +1426,7 @@
           "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "title_en": null,
           "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-          "summary": "On July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nOn July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nOn July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "腾讯WorkBuddy V5.3.5与腾讯文档合作推出“人机双写”功能，AI首次成为文档内协作伙伴，支持Word、Excel等格式内直接协作，并实现人-人、人-AI、AI-AI多端同步。",
           "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
@@ -1783,7 +1446,7 @@
           "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
           "title_en": null,
           "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-          "summary": "On July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nOn July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nOn July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "腾讯WorkBuddy V5.3.5与腾讯文档合作推出“人机双写”功能，AI首次成为文档内协作伙伴，支持Word、Excel等格式内直接协作，并实现人-人、人-AI、AI-AI多端同步。",
           "url": "https://www.aibase.com/news/30014",
           "source": "AIbase",
@@ -1794,15 +1457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9665,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1818,7 +1481,7 @@
         "title_zh": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
         "title_en": null,
         "title_original": "WorkBuddy重大升级:「人机双写」上线，AI时代的Office来了!",
-        "summary": "On July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nOn July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nOn July 30, Tencent WorkBuddy released a major version update (V5.3.5): in collaboration with Tencent Docs, it officially launched the \"human-AI dual-writing\" c\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "腾讯WorkBuddy V5.3.5与腾讯文档合作推出“人机双写”功能，AI首次成为文档内协作伙伴，支持Word、Excel等格式内直接协作，并实现人-人、人-AI、AI-AI多端同步。",
         "url": "https://www.aibase.com/news/30014",
         "source": "AIbase",
@@ -1830,7 +1493,341 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-07-30T09:51:31.823903Z"
+        "scored_at": "2026-07-30T12:15:15.416916Z"
+      }
+    },
+    {
+      "story_id": "story_17f3dbc3bc43",
+      "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+      "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+      "primary_url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+      "source": "X：腾讯混元 (@TencentHunyuan)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_zh": "腾讯混元开源 AngelSpec 投机解码框架",
+          "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_original": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
+          "recommend_reason_zh": "AngelSpec开源了端到端推测解码框架，在Hy3-A21B上DFly实现1.98–2.40倍加速，并发4–64时延迟降低10.5–11.8%，性能提升显著。",
+          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:43:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：腾讯混元 (@TencentHunyuan)"
+      ],
+      "items": [
+        {
+          "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+          "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_zh": "腾讯混元开源 AngelSpec 投机解码框架",
+          "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "title_original": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+          "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
+          "recommend_reason_zh": "AngelSpec开源了端到端推测解码框架，在Hy3-A21B上DFly实现1.98–2.40倍加速，并发4–64时延迟降低10.5–11.8%，性能提升显著。",
+          "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+          "source": "X：腾讯混元 (@TencentHunyuan)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T12:43:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.722,
+      "importance": 0.722,
+      "importance_score": 0.722,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7135,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T12:43:55Z",
+      "latest_at": "2026-07-29T12:43:55Z",
+      "primary_item": {
+        "id": "ade1098f6746d84c6abefe16c3f6df79f89cafe3",
+        "title": "腾讯混元开源 AngelSpec 投机解码框架 / 🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+        "title_zh": "腾讯混元开源 AngelSpec 投机解码框架",
+        "title_en": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+        "title_original": "🚀 We've open-sourced AngelSpec， an end-to-end speculative decoding framework supporting both traini…",
+        "summary": "腾讯混元开源端到端投机解码框架 AngelSpec，支持训练与部署。在 Hy3-A21B 模型上，其 DFly 方案相比自回归解码实现 1.98-2.40 倍端到端加速，吞吐量比 DFlash 高 10.5-11.8%。训练代码及 Hy3-A21B MTP/DFly 草稿模型权重已开源。",
+        "recommend_reason_zh": "AngelSpec开源了端到端推测解码框架，在Hy3-A21B上DFly实现1.98–2.40倍加速，并发4–64时延迟降低10.5–11.8%，性能提升显著。",
+        "url": "https://x.com/TencentHunyuan/status/2082447023626944936",
+        "source": "X：腾讯混元 (@TencentHunyuan)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "开源投机解码框架，推理加速可即用，适合部署大模型服务的团队。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-30T12:15:15.416916Z"
+      }
+    },
+    {
+      "story_id": "story_d99dae36e1ee",
+      "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+      "url": "https://x.com/Replit/status/2082504096095903811",
+      "primary_url": "https://x.com/Replit/status/2082504096095903811",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+          "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+          "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+          "recommend_reason_zh": "Replit Design以Ambient Intelligence重新定义AI设计体验，无需提示或设计语言，代理每一步建议一键可执行的最佳操作，从创意快速生成惊艳成果。",
+          "url": "https://x.com/Replit/status/2082504096095903811",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+          "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+          "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+          "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+          "recommend_reason_zh": "Replit Design以Ambient Intelligence重新定义AI设计体验，无需提示或设计语言，代理每一步建议一键可执行的最佳操作，从创意快速生成惊艳成果。",
+          "url": "https://x.com/Replit/status/2082504096095903811",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-29T16:30:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7536,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-29T16:30:42Z",
+      "latest_at": "2026-07-29T16:30:42Z",
+      "primary_item": {
+        "id": "8294641f84f03b3f1f57ee628d082524c75c3dc1",
+        "title": "Replit 用环境智能重塑 AI 设计体验 / Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "title_zh": "Replit 用环境智能重塑 AI 设计体验",
+        "title_en": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "title_original": "Replit Design reimagines the UX for AI design with Ambient Intelligence. You don't need to prompt. …",
+        "summary": "Replit Design 通过环境智能重新构想 AI 设计的用户体验。\n\n你无需输入提示词，也无需设计语言。\n\n每一步，智能体都会建议下一步最佳操作，一键即可执行，助你快速从创意生成惊艳成果。",
+        "recommend_reason_zh": "Replit Design以Ambient Intelligence重新定义AI设计体验，无需提示或设计语言，代理每一步建议一键可执行的最佳操作，从创意快速生成惊艳成果。",
+        "url": "https://x.com/Replit/status/2082504096095903811",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "概念演示，无开放产品，等能上手再关注。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-30T12:15:15.416916Z"
+      }
+    },
+    {
+      "story_id": "story_d4e6577f50e6",
+      "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+      "url": "https://www.aibase.com/news/30013",
+      "primary_url": "https://www.aibase.com/news/30013",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_zh": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_en": null,
+          "title_original": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "summary": null,
+          "recommend_reason_zh": "三星电子2026年Q2营收171.5万亿韩元创纪录，运营利润暴增1813.8%，半导体贡献超99%利润，其中HBM4大规模出货、HBM4E开始送样，AI存储芯片独撑大局。",
+          "url": "https://www.aibase.com/news/30013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:44:30.702240Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+          "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_zh": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "title_en": null,
+          "title_original": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+          "summary": null,
+          "recommend_reason_zh": "三星电子2026年Q2营收171.5万亿韩元创纪录，运营利润暴增1813.8%，半导体贡献超99%利润，其中HBM4大规模出货、HBM4E开始送样，AI存储芯片独撑大局。",
+          "url": "https://www.aibase.com/news/30013",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:44:30.702240Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9665,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:44:30.702240Z",
+      "latest_at": "2026-07-30T09:44:30.702240Z",
+      "primary_item": {
+        "id": "35fbca5b1e651f34c635890a93ffbac2d9030b71",
+        "title": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "title_zh": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "title_en": null,
+        "title_original": "三星电子单季利润暴增 180 倍：AI 存储独撑全局，手机家电却在亏钱",
+        "summary": null,
+        "recommend_reason_zh": "三星电子2026年Q2营收171.5万亿韩元创纪录，运营利润暴增1813.8%，半导体贡献超99%利润，其中HBM4大规模出货、HBM4E开始送样，AI存储芯片独撑大局。",
+        "url": "https://www.aibase.com/news/30013",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "财报数字好看，但跟开发者写代码没关系，不关心。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-30T12:15:15.416916Z"
+      }
+    },
+    {
+      "story_id": "story_9462a3292b5e",
+      "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+      "url": "https://www.aibase.com/news/30009",
+      "primary_url": "https://www.aibase.com/news/30009",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
+          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "title_zh": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "title_en": null,
+          "title_original": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "summary": null,
+          "recommend_reason_zh": "Microsoft确认开发整合Copilot聊天、GitHub Copilot与智能代理的AI超级应用，计划今年推出，覆盖消费者与商业用例，这是Copilot从助手向统一平台的关键一步。",
+          "url": "https://www.aibase.com/news/30009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:44:30.702240Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
+          "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "title_zh": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "title_en": null,
+          "title_original": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+          "summary": null,
+          "recommend_reason_zh": "Microsoft确认开发整合Copilot聊天、GitHub Copilot与智能代理的AI超级应用，计划今年推出，覆盖消费者与商业用例，这是Copilot从助手向统一平台的关键一步。",
+          "url": "https://www.aibase.com/news/30009",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-30T09:44:30.702240Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9665,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T09:44:30.702240Z",
+      "latest_at": "2026-07-30T09:44:30.702240Z",
+      "primary_item": {
+        "id": "eec8b43d5ee2184ec6c792666b139dd6dc536cc2",
+        "title": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+        "title_zh": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+        "title_en": null,
+        "title_original": "微软确认开发Copilot AI超级应用，整合聊天、编程与智能代理能力",
+        "summary": null,
+        "recommend_reason_zh": "Microsoft确认开发整合Copilot聊天、GitHub Copilot与智能代理的AI超级应用，计划今年推出，覆盖消费者与商业用例，这是Copilot从助手向统一平台的关键一步。",
+        "url": "https://www.aibase.com/news/30009",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "超级应用八字没一撇，等API或开源再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-07-30T12:15:15.416916Z"
       }
     }
   ]
