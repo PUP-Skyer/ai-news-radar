@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:02:10.218543Z",
+  "generated_at": "2026-07-30T18:57:33.408585Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_19984c444ae4",
+      "title": "GPT-5.6 如何推进性价比前沿 / Advancing the price-performance frontier with GPT-5.6",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "性能提升不假，但“性价比前沿”这词儿，不就是降价换量的体面说法吗？"
+        },
+        "paper-police": {
+          "score": 12,
+          "review": "只有官方博客宣称，无论文无代码无第三方评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "新模型上线，价格更低性能更强，今天就能换API跑任务。"
+        }
+      }
+    },
+    {
+      "story_id": "story_cbb764ee9dd7",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
+      "url": "https://x.com/OpenRouter/status/2082882158574911564",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "降价是好事，但OpenRouter的“独家折扣”能持续多久？别又是限时促销。"
+        },
+        "paper-police": {
+          "score": 5,
+          "review": "只有推特降价消息，无论文无代码无评测，无法验证。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "API降价直接省成本，批量推理任务今天就能切过去。"
+        }
+      }
+    },
+    {
       "story_id": "story_9845586b3e05",
       "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
       "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "开源MCP扩展，直接省92%+PDF token费，今天就能集成到Claude工作流。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8adecfb05166",
-      "title": "Visual Studio中的GitHub Copilot——7月更新 / GitHub Copilot in Visual Studio — July update",
-      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "Copilot每月刷存在感，但这次更新没提具体改进了啥，老用户自己翻changelog吧。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方博客宣称更新，无论文无代码无评测，仅靠自述。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "VS Copilot 七月更新已上线，今天就能体验新功能，提升编码效率。"
-        }
-      }
-    },
-    {
-      "story_id": "story_790c059d6976",
-      "title": "堆叠拉取请求现已公开预览 / Stacked pull requests are now in public preview",
-      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "堆叠PR终于公开预览，但GitHub这功能比竞品晚了两年，还当新大陆宣传。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "官方博客宣布预览，无论文无代码无评测，只有功能描述。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "GitHub原生支持堆叠PR，大型PR拆解管理更高效，今天就能用。"
         }
       }
     }
