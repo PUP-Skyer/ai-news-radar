@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T20:11:50.553104Z",
+  "generated_at": "2026-07-31T21:49:28.130993Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队模型策略定位现公开预览 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "story_id": "story_31ed9d2f74da",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 已弃用 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
+      "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "公开预览总算来了，但企业级策略定位听着像给管理员加戏，实际效果待验证。"
+          "score": 45,
+          "review": "弃用公告比发布还勤，模型生命周期比网红还短。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方公告但无技术细节，无评测数据，仅公开预览，证据不足。"
+          "score": 20,
+          "review": "官方弃用公告，无性能对比或替代方案细节，证据不足。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "企业团队可精确指定模型策略，权限管控更细，管理员今天就能配。"
+          "review": "API 弃用意味着要迁移，查替代模型和迁移文档再动手。"
         }
       }
     }
