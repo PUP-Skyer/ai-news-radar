@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T04:13:52.914134Z",
+  "generated_at": "2026-07-31T07:37:04.917746Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_cbb764ee9dd7",
-      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格 / GPT-5.6 Terra and Luna just got price cuts from @OpenAI. OpenRouter is cheaper still. Our 50% exclu…",
-      "url": "https://x.com/OpenRouter/status/2082882158574911564",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "降价是好事，但OpenRouter的“独家折扣”能持续多久？别又是限时促销。"
-        },
-        "paper-police": {
-          "score": 5,
-          "review": "只有推特降价消息，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "API降价直接省成本，批量推理任务今天就能切过去。"
-        }
-      }
-    },
-    {
       "story_id": "story_9845586b3e05",
       "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展 / Meet Token Saver： An Open-Source MCP Extension Using Local Hybrid RAG to Cut Claude PDF Token Costs 90-99%",
       "url": "https://www.marktechpost.com/2026/07/30/token-saver-an-open-source-mcp-extension-using-local-hybrid-rag",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "开源MCP扩展，直接省92%+PDF token费，今天就能集成到Claude工作流。"
+        }
+      }
+    },
+    {
+      "story_id": "story_4960da0a8a33",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "堆叠会话听着高级，实际就是给PR流程加了点糖，别吹成革命。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方博客宣称新功能，无技术细节无代码无评测，等实际体验再评。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Copilot 用户今天就能用堆叠会话管理多任务，PR 功能省去切换上下文的时间。"
         }
       }
     }
