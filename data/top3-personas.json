@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:27:07.533953Z",
+  "generated_at": "2026-07-31T12:38:01.971744Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_22e399480259",
-      "title": "DeepSeek-V4-Flash API公测上线，Agent能力大幅升级 / 🚀 DeepSeek-V4-Flash Official API is now LIVE in public beta！ 🔷 We've massively upgraded its Agent…",
-      "url": "https://x.com/deepseek_ai/status/2083084415157022911",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "Agent升级是实打实的，但'大幅'这词儿，得看跟谁比。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有官方推文宣称升级，无论文无代码无评测，公测链接也没给。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "API已公测，Agent能力升级，今天就能接入测试，直接看文档动手。"
-        }
-      }
-    },
-    {
       "story_id": "story_4960da0a8a33",
       "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
       "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "Copilot 用户今天就能用堆叠会话管理多任务，PR 功能省去切换上下文的时间。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8adecfb05166",
+      "title": "Visual Studio中的GitHub Copilot——7月更新 / GitHub Copilot in Visual Studio — July update",
+      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "Copilot每月刷存在感，但这次更新没提具体改进了啥，老用户自己翻changelog吧。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方博客宣称更新，无论文无代码无评测，仅靠自述。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "VS Copilot 七月更新已上线，今天就能体验新功能，提升编码效率。"
         }
       }
     }
