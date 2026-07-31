@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:11:04.244508Z",
+  "generated_at": "2026-07-31T20:11:50.553104Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_934172c730ea",
-      "title": "npm 限制绕过 2FA 的细粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
-      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
+      "story_id": "story_f3f30fdb88a1",
+      "title": "企业团队模型策略定位现公开预览 / Enterprise teams model policy targeting in public preview",
+      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "补了个安全洞，但早干嘛去了？npm 生态的信任修复还差得远。"
+          "score": 70,
+          "review": "公开预览总算来了，但企业级策略定位听着像给管理员加戏，实际效果待验证。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方公告无技术细节，无代码无评测，仅凭声明难证安全性。"
+          "score": 30,
+          "review": "官方公告但无技术细节，无评测数据，仅公开预览，证据不足。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "npm 收紧令牌权限，CI 里绕过 2FA 的配置得改，今天就要检查。"
+          "review": "企业团队可精确指定模型策略，权限管控更细，管理员今天就能配。"
         }
       }
     }
