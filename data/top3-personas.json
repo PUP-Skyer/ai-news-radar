@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T12:38:01.971744Z",
+  "generated_at": "2026-07-31T15:51:24.070694Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_8adecfb05166",
-      "title": "Visual Studio中的GitHub Copilot——7月更新 / GitHub Copilot in Visual Studio — July update",
-      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "story_id": "story_1874745eca9c",
+      "title": "用self-repository语法引用同一仓库中的actions / Reference same-repository actions with self-repository syntax",
+      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "Copilot每月刷存在感，但这次更新没提具体改进了啥，老用户自己翻changelog吧。"
+          "review": "省了路径拼接的功夫，但也就省了这点功夫。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方博客宣称更新，无论文无代码无评测，仅靠自述。"
+          "score": 20,
+          "review": "官方更新无论文代码，仅语法说明，缺独立验证，可信度低。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "VS Copilot 七月更新已上线，今天就能体验新功能，提升编码效率。"
+          "review": "CI/CD 配置更简洁了，今天就能用上 self 语法减少路径硬编码。"
         }
       }
     }
