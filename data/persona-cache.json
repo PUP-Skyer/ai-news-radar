@@ -4542,6 +4542,54 @@
       "review": "官方更新无论文代码，仅语法说明，缺独立验证，可信度低。",
       "title_hash": "11c53a36",
       "scored_at": "2026-07-31T15:51:24.070641Z"
+    },
+    "story_cd21c6fddb56|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "打击滥用是安全姿态，对开发者无直接工具价值，看看即可。",
+      "title_hash": "8fd2dea7",
+      "scored_at": "2026-07-31T18:10:55.964431Z"
+    },
+    "story_934172c730ea|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "npm 收紧令牌权限，CI 里绕过 2FA 的配置得改，今天就要检查。",
+      "title_hash": "3a629940",
+      "scored_at": "2026-07-31T18:10:57.231354Z"
+    },
+    "story_c38e05787678|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源项目可clone，做动画配音的今天就能试，但效果待验证。",
+      "title_hash": "d0ca122c",
+      "scored_at": "2026-07-31T18:10:58.285692Z"
+    },
+    "story_f583085d8c7d|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "新模型上线可测，但激活参数少，Agent场景效果待验证，先跑基准再决定。",
+      "title_hash": "73cdb04b",
+      "scored_at": "2026-07-31T18:10:59.336652Z"
+    },
+    "story_a8a5dd7a485b|cynic|f4237a62": {
+      "score": 55,
+      "review": "公测就敢叫V4-Flash，Agent能力爆发？先跑通个真实场景再说。",
+      "title_hash": "e2620e4c",
+      "scored_at": "2026-07-31T18:11:00.657984Z"
+    },
+    "story_a8a5dd7a485b|paper-police|966065bf": {
+      "score": 25,
+      "review": "仅官方公告称API公测，无论文代码或第三方评测，Agent能力缺乏实证。",
+      "title_hash": "e2620e4c",
+      "scored_at": "2026-07-31T18:11:01.933021Z"
+    },
+    "story_934172c730ea|cynic|f4237a62": {
+      "score": 72,
+      "review": "补了个安全洞，但早干嘛去了？npm 生态的信任修复还差得远。",
+      "title_hash": "3a629940",
+      "scored_at": "2026-07-31T18:11:03.213135Z"
+    },
+    "story_934172c730ea|paper-police|966065bf": {
+      "score": 20,
+      "review": "官方公告无技术细节，无代码无评测，仅凭声明难证安全性。",
+      "title_hash": "3a629940",
+      "scored_at": "2026-07-31T18:11:04.244449Z"
     }
   }
 }

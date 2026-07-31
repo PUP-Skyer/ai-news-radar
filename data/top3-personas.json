@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:51:24.070694Z",
+  "generated_at": "2026-07-31T18:11:04.244508Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_4960da0a8a33",
-      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能 / Stacked sessions and pull requests in the GitHub Copilot app",
-      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "story_id": "story_a8a5dd7a485b",
+      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+      "url": "https://www.aibase.com/news/30044",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "堆叠会话听着高级，实际就是给PR流程加了点糖，别吹成革命。"
+          "score": 55,
+          "review": "公测就敢叫V4-Flash，Agent能力爆发？先跑通个真实场景再说。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称新功能，无技术细节无代码无评测，等实际体验再评。"
+          "score": 25,
+          "review": "仅官方公告称API公测，无论文代码或第三方评测，Agent能力缺乏实证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Copilot 用户今天就能用堆叠会话管理多任务，PR 功能省去切换上下文的时间。"
+          "review": "API已公测，Agent能力直接可用，今天就能接入测试。"
         }
       }
     },
     {
-      "story_id": "story_1874745eca9c",
-      "title": "用self-repository语法引用同一仓库中的actions / Reference same-repository actions with self-repository syntax",
-      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "story_id": "story_934172c730ea",
+      "title": "npm 限制绕过 2FA 的细粒度访问令牌 / Restricting npm bypass-2FA granular access tokens",
+      "url": "https://github.blog/changelog/2026-07-31-restricting-npm-bypass-2fa-granular-access-tokens",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "省了路径拼接的功夫，但也就省了这点功夫。"
+          "score": 72,
+          "review": "补了个安全洞，但早干嘛去了？npm 生态的信任修复还差得远。"
         },
         "paper-police": {
           "score": 20,
-          "review": "官方更新无论文代码，仅语法说明，缺独立验证，可信度低。"
+          "review": "官方公告无技术细节，无代码无评测，仅凭声明难证安全性。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "CI/CD 配置更简洁了，今天就能用上 self 语法减少路径硬编码。"
+          "score": 72,
+          "review": "npm 收紧令牌权限，CI 里绕过 2FA 的配置得改，今天就要检查。"
         }
       }
     }
