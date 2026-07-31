@@ -4617,9 +4617,9 @@
     },
     "story_31ed9d2f74da|pragmatic|0a5c5b24": {
       "score": 72,
-      "review": "API 弃用意味着要迁移，查替代模型和迁移文档再动手。",
-      "title_hash": "af39d7de",
-      "scored_at": "2026-07-31T21:49:23.162005Z"
+      "review": "老模型退役，API 调用得迁移，今天就得查替代方案。",
+      "title_hash": "7985c16e",
+      "scored_at": "2026-07-31T23:31:17.645153Z"
     },
     "story_cfe2847cb76d|pragmatic|0a5c5b24": {
       "score": 45,
@@ -4634,16 +4634,40 @@
       "scored_at": "2026-07-31T21:49:25.762224Z"
     },
     "story_31ed9d2f74da|cynic|f4237a62": {
-      "score": 45,
-      "review": "弃用公告比发布还勤，模型生命周期比网红还短。",
-      "title_hash": "af39d7de",
-      "scored_at": "2026-07-31T21:49:26.928558Z"
+      "score": 55,
+      "review": "退役公告比发布还勤快，模型坟场又添两座新碑。",
+      "title_hash": "7985c16e",
+      "scored_at": "2026-07-31T23:31:24.470988Z"
     },
     "story_31ed9d2f74da|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方公告仅说退役，无技术细节或替代方案，证据不足。",
+      "title_hash": "7985c16e",
+      "scored_at": "2026-07-31T23:31:25.662864Z"
+    },
+    "story_d40fa5aaf708|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "轻量评测套件可快速对比模型和提示词，适合日常迭代，但需看是否支持你的场景。",
+      "title_hash": "5e28ce30",
+      "scored_at": "2026-07-31T23:31:19.060064Z"
+    },
+    "story_af28dcb2d4df|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "权重已开源，直接可clone跑推理，榜单前三，今天就能上手。",
+      "title_hash": "38b7fd45",
+      "scored_at": "2026-07-31T23:31:20.471384Z"
+    },
+    "story_af28dcb2d4df|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源前三？先看看榜单水分和复现门槛，别急着封神。",
+      "title_hash": "38b7fd45",
+      "scored_at": "2026-07-31T23:31:21.940667Z"
+    },
+    "story_af28dcb2d4df|paper-police|966065bf": {
       "score": 20,
-      "review": "官方弃用公告，无性能对比或替代方案细节，证据不足。",
-      "title_hash": "af39d7de",
-      "scored_at": "2026-07-31T21:49:28.130937Z"
+      "review": "仅推特宣称开源登顶，无论文无代码链接无评测细节，证据不足。",
+      "title_hash": "38b7fd45",
+      "scored_at": "2026-07-31T23:31:23.117420Z"
     }
   }
 }
