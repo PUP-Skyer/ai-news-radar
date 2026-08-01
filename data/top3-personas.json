@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:21:25.830292Z",
+  "generated_at": "2026-08-01T23:23:07.280999Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_58b173a4edb7",
+      "title": "Show HN: 为你的 Claude Code 代理打造的 Rust 控制台 / Show HN: Cockpit for you Claude Code agents in Rust",
+      "url": "https://news.ycombinator.com/item?id=49137410",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "Rust控制台听着硬核，但给Claude Code套壳，先跑通再说吧。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "仅HN帖子无论文代码，宣称Rust控制台但无仓库链接，无法验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "Rust 写的 Claude Code 控制台，能看代理状态；想折腾的可以 clone 试试，不急。"
+        }
+      }
+    },
+    {
       "story_id": "story_8adda9102be6",
       "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
       "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 55,
           "review": "安全方向有点意思，但没给可复现方案，先观望。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8c9e60cd6b83",
-      "title": "扫描HuggingFace的7.6PB训练数据，寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
-      "url": "https://news.ycombinator.com/item?id=49136955",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "扫了7.6PB就为找秘密？先解释下这数据里有多少垃圾再说。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "只有新闻标题，无论文无代码无数据，扫描结果未公开，无法验证。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "数据挖掘思路可参考，但7.6PB扫描成本高，短期难直接落地。"
         }
       }
     }

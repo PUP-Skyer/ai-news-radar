@@ -33312,5 +33312,16 @@
   "ds1|Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking": "使用 NVIDIA Transformer Engine、融合内核、BF16、FP8 和 GPU 基准测试加速 Transformer 训练",
   "re1|7b64d3f60271399ebe68f8e1abdd91b8c272bcb9": "",
   "re1|30abb5d82c7a22c662124c45a41e02e3ccac2e24": "本文逐步演示用NVIDIA Transformer Engine加速transformer训练：从检测GPU算力、配置delayed-scaling FP8的E4M3/E5M2格式，到用te.LayerNormMLP等fused模块搭建GPT模型，并实测BF16与FP8的训练延迟和峰值显存。",
-  "re1|17b4255d36bb90c2cf7cfa407c0fb8f53d85b725": "扫描HuggingFace 7.6 PB训练数据并克隆全部仓库、分支与大文件对象，验证出仍可用的活凭证，揭示开源模型训练集潜藏的真实密钥风险。"
+  "re1|17b4255d36bb90c2cf7cfa407c0fb8f53d85b725": "扫描HuggingFace 7.6 PB训练数据并克隆全部仓库、分支与大文件对象，验证出仍可用的活凭证，揭示开源模型训练集潜藏的真实密钥风险。",
+  "ds1|From MIT: AI financial advice is surprisingly good": "来自MIT：AI理财建议出乎意料地好",
+  "ds1|\"Everyone Has Been Sold a Lie\" on AI": "在AI这件事上，人人都被卖了个弥天大谎",
+  "ds1|$10 billion startup gets SK Hynix backing to build a transformer that does just one thing but exceedingly well": "获SK Hynix支持的百亿美元初创公司，打造一个只做一件事却做到极致的Transformer",
+  "ds1|Show HN: Minimal LLM Post-Training Experiments on an 8GB GPU (SFT, DPO, GRPO)": "Show HN：8GB GPU上的极简LLM后训练实验（SFT、DPO、GRPO）",
+  "re1|889f70ec4be30bc23faffa6dbf8cc76e0da3680e": "这篇文章从MIT研究切入，但评论区提供了更深的洞察：AI财务建议虽好，却受限于训练数据，8%年化收益与80/20股债比规则可能不再适用，只会给出Bogleheads式的常识答案，人类顾问真正的价值在于安抚恐惧与安全感。",
+  "re1|9ac798c96310dfd76d30a9c0c2cf3bfc18d04484": "",
+  "re1|6e4a2cbb2d9c032adece50f610942b23a67a9fa1": "估值103亿美元的Etched获SK Hynix投资，专注推理性能而非训练，打造只做一件事的AI芯片挑战Nvidia。",
+  "re1|afcb8ce8dae7c2a6fc96d0acebbc2c9bb631634e": "MIT Sloan的Taha Choukhmane团队发现，AI理财建议能让几乎所有30岁以上人群积累可观储蓄缓冲，但面对失业冲击和投资组合再平衡表现欠佳；基于1000人的测试涵盖GPT-5.2、GPT-5.6和Gemini 3 Flash。",
+  "re1|62202f6bf130c87c22c20c722263b446df6da44d": "Warren Buffett点评AI capex，称那是真钱，规模甚至超过当年铁路投资；本文也报道AI企业现金储备告急，正把历史级资金砸向AI建设。",
+  "re1|30aa11b582559f2d249b8cdf9cdea56d2f454e95": "episko用Rust为Claude Code构建原生管理界面，支持同时运行数十个会话，每个代理独立终端并实时显示状态、上下文、成本与权限提示，免费开源且数据不出本机。",
+  "re1|9bcf41163c1db17cdafcb59c12ba97bfeb45d7c4": "在8GB显卡上跑通135M模型SFT/DPO/GRPO实验，用KL量化RL比SFT漂移更小，并验证GRPO放大DeepSeek-R1式推理，直观展示遗忘与涌现现象。"
 }
