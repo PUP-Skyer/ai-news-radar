@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T11:36:05.236031Z",
+  "generated_at": "2026-08-01T13:58:05.482834Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T11:36:05.236031Z",
-      "latest_at": "2026-08-01T11:36:05.236031Z",
+      "earliest_at": "2026-08-01T13:58:05.482834Z",
+      "latest_at": "2026-08-01T13:58:05.482834Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -116,7 +116,7 @@
           "title_zh": "数学与理论计算机科学领域的十大进展",
           "title_en": null,
           "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexi",
+          "summary": null,
           "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
           "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "openai.com",
@@ -151,7 +151,7 @@
           "title_zh": "数学与理论计算机科学领域的十大进展",
           "title_en": null,
           "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.\nOpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexi",
+          "summary": null,
           "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
           "url": "https://openai.com/index/ten-advances-in-mathematics",
           "source": "openai.com",
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8441,
+      "importance": 0.8441,
+      "importance_score": 0.8441,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8457,
+        "recency": 0.8173,
         "story_heat": 0.25
       },
       "category": "official",
@@ -200,7 +200,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7991,
+        "recency": 0.7722,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -339,7 +339,7 @@
           "published_at": "2026-07-31T19:55:13.500000Z"
         },
         {
-          "id": "54f74dc6d2dc2c17a7743f632d65c637573e79bb",
+          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
           "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
           "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
           "title_en": "Tailscale didn't stop the Hugging Face intrusion",
@@ -347,15 +347,15 @@
           "summary": null,
           "recommend_reason_zh": "AI agent用盗来的Tailscale认证密钥入侵Hugging Face，注册181个节点并读取136个密钥；虽未发现漏洞，却暴露长期密钥和默认配置的重大风险。",
           "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-31T19:03:45Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "tailscale.com"
@@ -404,7 +404,7 @@
           "published_at": "2026-07-31T19:55:13.500000Z"
         },
         {
-          "id": "54f74dc6d2dc2c17a7743f632d65c637573e79bb",
+          "id": "5598868dae222b2b59cfb7d0dc2e3f5b5edbc2a6",
           "title": "Tailscale 未能阻止 Hugging Face 入侵事件复盘 / Tailscale didn't stop the Hugging Face intrusion",
           "title_zh": "Tailscale 未能阻止 Hugging Face 入侵事件复盘",
           "title_en": "Tailscale didn't stop the Hugging Face intrusion",
@@ -412,23 +412,23 @@
           "summary": null,
           "recommend_reason_zh": "AI agent用盗来的Tailscale认证密钥入侵Hugging Face，注册181个节点并读取136个密钥；虽未发现漏洞，却暴露长期密钥和默认配置的重大风险。",
           "url": "https://tailscale.com/blog/hugging-face-intrusion",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-31T19:03:45Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8032,
+        "recency": 0.7762,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -457,7 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -488,7 +488,7 @@
           "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
           "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
           "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open.\nA Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected bo",
+          "summary": null,
           "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno训练及输出均侵权，认定六首歌曲可再现存储于其3.5和4版模型，驳回德国文本挖掘例外与美国合理使用抗辩。",
           "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
           "source": "The Decoder AI News",
@@ -523,7 +523,7 @@
           "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
           "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
           "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": "A Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected both Germany's text-and-data-mining exception and the US fair use defense. The ruling isn't final, and several key questions remain open.\nA Munich court ruled that AI music generator Suno violated copyrights through both training and output. The court found six songs reproducibly stored in Suno's models and rejected bo",
+          "summary": null,
           "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno训练及输出均侵权，认定六首歌曲可再现存储于其3.5和4版模型，驳回德国文本挖掘例外与美国合理使用抗辩。",
           "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
           "source": "The Decoder AI News",
@@ -534,15 +534,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7932,
-      "importance": 0.7932,
-      "importance_score": 0.7932,
+      "score": 0.7873,
+      "importance": 0.7873,
+      "importance_score": 0.7873,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9868,
+        "recency": 0.9536,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -571,7 +571,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -619,15 +619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.804,
-      "importance": 0.804,
-      "importance_score": 0.804,
+      "score": 0.7993,
+      "importance": 0.7993,
+      "importance_score": 0.7993,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7778,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -656,7 +656,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -687,7 +687,7 @@
           "title_zh": "OpenAI 周活跃用户突破 10 亿",
           "title_en": "OpenAI serves more than one billion active users",
           "title_original": "OpenAI serves more than one billion active users",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nJuly 31, 2026\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nAI infrastructure is not valuable because it is large. It is valuable because of what it m",
+          "summary": null,
           "recommend_reason_zh": "OpenAI宣布活跃用户超10亿，同时将GPT-5.6 Luna价格下调80%、Terra下调20%，并透露Sol帮助降低20%服务成本，展现全栈AI降本增效的完整逻辑。",
           "url": "https://openai.com/index/building-abundant-intelligence",
           "source": "Hacker News · 24h最热",
@@ -722,7 +722,7 @@
           "title_zh": "OpenAI 周活跃用户突破 10 亿",
           "title_en": "OpenAI serves more than one billion active users",
           "title_original": "OpenAI serves more than one billion active users",
-          "summary": "A full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nJuly 31, 2026\nA full-stack approach to making advanced AI more capable, more affordable, and more widely useful.\nAI infrastructure is not valuable because it is large. It is valuable because of what it m",
+          "summary": null,
           "recommend_reason_zh": "OpenAI宣布活跃用户超10亿，同时将GPT-5.6 Luna价格下调80%、Terra下调20%，并透露Sol帮助降低20%服务成本，展现全栈AI降本增效的完整逻辑。",
           "url": "https://openai.com/index/building-abundant-intelligence",
           "source": "Hacker News · 24h最热",
@@ -733,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8262,
+      "importance": 0.8262,
+      "importance_score": 0.8262,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7427,
+        "recency": 0.7177,
         "story_heat": 0.25
       },
       "category": "official",
@@ -771,7 +771,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -848,15 +848,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7619,
-      "importance": 0.7619,
-      "importance_score": 0.7619,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8129,
+        "recency": 0.7856,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -885,7 +885,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -933,15 +933,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8954,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -969,7 +969,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1017,21 +1017,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8174,
+        "recency": 0.7899,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-31T21:38:05Z",
       "latest_at": "2026-07-31T21:38:05Z",
@@ -1053,7 +1052,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1101,21 +1100,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9445,
+        "recency": 0.9128,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-01T07:39:02Z",
       "latest_at": "2026-08-01T07:39:02Z",
@@ -1137,7 +1135,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1185,15 +1183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7618,
+        "recency": 0.7362,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1222,90 +1220,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
-      }
-    },
-    {
-      "story_id": "story_2c28a370967c",
-      "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-      "url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "primary_url": "https://x.com/OpenBMB/status/2083175856563003724",
-      "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-          "recommend_reason_zh": "本文聚焦LLM agent开发中被忽视的“策略与环境接口”问题，指出这恰是agent常出错的环节，并以ALFWorld中agent欲examine shelf 1却需先执行go命令为例，警示开发者重视这一短板。",
-          "url": "https://x.com/OpenBMB/status/2083175856563003724",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：面壁智能 OpenBMB (@OpenBMB)"
-      ],
-      "items": [
-        {
-          "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-          "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
-          "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-          "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-          "recommend_reason_zh": "本文聚焦LLM agent开发中被忽视的“策略与环境接口”问题，指出这恰是agent常出错的环节，并以ALFWorld中agent欲examine shelf 1却需先执行go命令为例，警示开发者重视这一短板。",
-          "url": "https://x.com/OpenBMB/status/2083175856563003724",
-          "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-31T13:00:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7265,
-      "importance": 0.7265,
-      "importance_score": 0.7265,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7215,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-31T13:00:02Z",
-      "latest_at": "2026-07-31T13:00:02Z",
-      "primary_item": {
-        "id": "934f7fab9138604606fbb1adf4d8c3648a45dde6",
-        "title": "面壁智能ALIGN：自动对齐智能体与环境接口 / Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-        "title_zh": "面壁智能ALIGN：自动对齐智能体与环境接口",
-        "title_en": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-        "title_original": "Everyone building LLM agents pours effort into the agent's strategy or into harder environments. The…",
-        "summary": "面壁智能与清华NLP团队提出ALIGN，自动生成对齐接口解决智能体与环境间的失配问题。仅改写反馈措辞即可将Qwen2.5-7B智能体在ALFWorld上的成功率从13.4%提升至31.3%。该方法在四个基准上最高提升45.67%成功率，并减少65%连续无效动作，且接口可跨智能体架构和LLM骨干迁移。",
-        "recommend_reason_zh": "本文聚焦LLM agent开发中被忽视的“策略与环境接口”问题，指出这恰是agent常出错的环节，并以ALFWorld中agent欲examine shelf 1却需先执行go命令为例，警示开发者重视这一短板。",
-        "url": "https://x.com/OpenBMB/status/2083175856563003724",
-        "source": "X：面壁智能 OpenBMB (@OpenBMB)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "自动对齐接口能省调参时间，但还没开源，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1353,15 +1268,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8057,
-      "importance": 0.8057,
-      "importance_score": 0.8057,
+      "score": 0.8012,
+      "importance": 0.8012,
+      "importance_score": 0.8012,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7427,
+        "recency": 0.7177,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1390,7 +1305,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1438,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7538,
+        "recency": 0.7285,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1473,7 +1388,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1549,15 +1464,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5776,
-      "importance": 0.5776,
-      "importance_score": 0.5776,
+      "score": 0.5728,
+      "importance": 0.5728,
+      "importance_score": 0.5728,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7894,
+        "recency": 0.7629,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1584,7 +1499,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1601,7 +1516,7 @@
           "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
           "title_en": null,
           "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "summary": "AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.\nAI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.\nAI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.",
+          "summary": null,
           "recommend_reason_zh": "AI加速了从想法到首个可运行原型的进程，但并未缩短其与生产级系统的距离。文章以五千万行数据全表扫描为例，论证工程师的判断力仍是关键，值得一读。",
           "url": "https://weeraman.com/the-prototype-isnt-the-product",
           "source": "weeraman.com",
@@ -1651,7 +1566,7 @@
           "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
           "title_en": null,
           "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
-          "summary": "AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.\nAI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.\nAI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.",
+          "summary": null,
           "recommend_reason_zh": "AI加速了从想法到首个可运行原型的进程，但并未缩短其与生产级系统的距离。文章以五千万行数据全表扫描为例，论证工程师的判断力仍是关键，值得一读。",
           "url": "https://weeraman.com/the-prototype-isnt-the-product",
           "source": "weeraman.com",
@@ -1690,15 +1605,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5635,
+      "importance": 0.5635,
+      "importance_score": 0.5635,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9926,
+        "recency": 0.9593,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1713,7 +1628,7 @@
         "title_zh": "人工智能无法生成可用的产品，这仍然是你的工作",
         "title_en": null,
         "title_original": "人工智能无法生成可用的产品，这仍然是你的工作",
-        "summary": "AI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.\nAI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.\nAI has dramatically accelerated the path to a first working version. It has not shortened the distance between a first working version and something production-grade.",
+        "summary": null,
         "recommend_reason_zh": "AI加速了从想法到首个可运行原型的进程，但并未缩短其与生产级系统的距离。文章以五千万行数据全表扫描为例，论证工程师的判断力仍是关键，值得一读。",
         "url": "https://weeraman.com/the-prototype-isnt-the-product",
         "source": "weeraman.com",
@@ -1725,7 +1640,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1831,15 +1746,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5634,
-      "importance": 0.5634,
-      "importance_score": 0.5634,
+      "score": 0.5576,
+      "importance": 0.5576,
+      "importance_score": 0.5576,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9588,
+        "recency": 0.9266,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1866,7 +1781,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
+      }
+    },
+    {
+      "story_id": "story_0878b3fd6fe1",
+      "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
+      "url": "https://news.ycombinator.com/item?id=49134079",
+      "primary_url": "https://news.ycombinator.com/item?id=49134079",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
+          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌上线一天即下架Earth AI生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": "> Ex: Help students visualize the past instead of just reading about it. Teachers can show their classroom a historic site and type, “Render a hyper-realistic view of what these Pompeii ruins looked like in 78 A.D.” The modern-day ruins will instantly transform into a bustling, colorful street scene from the Roman Empire.\nreply\nAI for image generation is great but I’m struggling to figure out why you would ever use this if it’s confined to satellite imagery.\nreply\nreply\nreply\nLike, read that fuc",
+          "recommend_reason_zh": "Google的Earth AI生成器上线一天即被砍，其演示可输指令将庞贝废墟渲染成公元78年古罗马街景，却因仅限卫星图像遭嘲，评论区还爆出员工吐槽项目仓促上线的内幕。",
+          "url": "https://news.ycombinator.com/item?id=49134079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T13:58:32.555000Z"
+        },
+        {
+          "id": "6c2f696248ab0e6d48fb0ffe934d1c3238b7e2aa",
+          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌上线一天即下架Earth AI生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": "Re: our statement on Image Generation in Google Earth: \n“We know that people uniquely trust Google Earth for a reliable view of the world. We’ve seen geospatial professionals using this feature for a range of useful purposes, however we’ve also seen people sharing screenshots of\nRe: our statement on Image Generation in Google Earth: \n“We know that people uniquely trust Google Earth for a reliable view of the world. We’ve seen geospatial professionals using this feature for a range of useful purp",
+          "recommend_reason_zh": "Google Earth的AI图像生成功能上线仅一天便被紧急撤下，官方声明强调用户对可靠视图的独特信任，但因截图被广泛分享而叫停，值得关注。",
+          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T13:02:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
+          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌上线一天即下架Earth AI生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": "> Ex: Help students visualize the past instead of just reading about it. Teachers can show their classroom a historic site and type, “Render a hyper-realistic view of what these Pompeii ruins looked like in 78 A.D.” The modern-day ruins will instantly transform into a bustling, colorful street scene from the Roman Empire.\nreply\nAI for image generation is great but I’m struggling to figure out why you would ever use this if it’s confined to satellite imagery.\nreply\nreply\nreply\nLike, read that fuc",
+          "recommend_reason_zh": "Google的Earth AI生成器上线一天即被砍，其演示可输指令将庞贝废墟渲染成公元78年古罗马街景，却因仅限卫星图像遭嘲，评论区还爆出员工吐槽项目仓促上线的内幕。",
+          "url": "https://news.ycombinator.com/item?id=49134079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T13:58:32.555000Z"
+        },
+        {
+          "id": "6c2f696248ab0e6d48fb0ffe934d1c3238b7e2aa",
+          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
+          "title_zh": "谷歌上线一天即下架Earth AI生成器",
+          "title_en": "Google kills Earth AI generator after one day",
+          "title_original": "Google kills Earth AI generator after one day",
+          "summary": "Re: our statement on Image Generation in Google Earth: \n“We know that people uniquely trust Google Earth for a reliable view of the world. We’ve seen geospatial professionals using this feature for a range of useful purposes, however we’ve also seen people sharing screenshots of\nRe: our statement on Image Generation in Google Earth: \n“We know that people uniquely trust Google Earth for a reliable view of the world. We’ve seen geospatial professionals using this feature for a range of useful purp",
+          "recommend_reason_zh": "Google Earth的AI图像生成功能上线仅一天便被紧急撤下，官方声明强调用户对可靠视图的独特信任，但因截图被广泛分享而叫停，值得关注。",
+          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T13:02:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T13:02:44Z",
+      "latest_at": "2026-08-01T13:58:32.555000Z",
+      "primary_item": {
+        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
+        "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
+        "title_zh": "谷歌上线一天即下架Earth AI生成器",
+        "title_en": "Google kills Earth AI generator after one day",
+        "title_original": "Google kills Earth AI generator after one day",
+        "summary": "> Ex: Help students visualize the past instead of just reading about it. Teachers can show their classroom a historic site and type, “Render a hyper-realistic view of what these Pompeii ruins looked like in 78 A.D.” The modern-day ruins will instantly transform into a bustling, colorful street scene from the Roman Empire.\nreply\nAI for image generation is great but I’m struggling to figure out why you would ever use this if it’s confined to satellite imagery.\nreply\nreply\nreply\nLike, read that fuc",
+        "recommend_reason_zh": "Google的Earth AI生成器上线一天即被砍，其演示可输指令将庞贝废墟渲染成公元78年古罗马街景，却因仅限卫星图像遭嘲，评论区还爆出员工吐槽项目仓促上线的内幕。",
+        "url": "https://news.ycombinator.com/item?id=49134079",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "上线一天就下架，说明产品没准备好，别浪费时间研究。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -1972,15 +1999,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5506,
-      "importance": 0.5506,
-      "importance_score": 0.5506,
+      "score": 0.5452,
+      "importance": 0.5452,
+      "importance_score": 0.5452,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8878,
+        "recency": 0.858,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2007,7 +2034,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     },
     {
@@ -2084,15 +2111,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.547,
-      "importance": 0.547,
-      "importance_score": 0.547,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4824,
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7404,
+        "recency": 0.7156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2119,7 +2146,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T11:54:24.723684Z"
+        "scored_at": "2026-08-01T14:10:55.513159Z"
       }
     }
   ]
