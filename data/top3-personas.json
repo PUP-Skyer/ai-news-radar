@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T23:31:25.662950Z",
+  "generated_at": "2026-08-01T00:25:38.372515Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_a8a5dd7a485b",
+      "title": "DeepSeek-V4-Flash API公测上线 Agent能力全面爆发",
+      "url": "https://www.aibase.com/news/30044",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "公测就敢叫V4-Flash，Agent能力爆发？先跑通个真实场景再说。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅官方公告称API公测，无论文代码或第三方评测，Agent能力缺乏实证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "API已公测，Agent能力直接可用，今天就能接入测试。"
+        }
+      }
+    },
+    {
       "story_id": "story_31ed9d2f74da",
       "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 正式退役 / Gemini 2.5 Pro and Gemini 3 Flash deprecated",
       "url": "https://github.blog/changelog/2026-07-31-gemini-2-5-pro-and-gemini-3-flash-deprecated",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "老模型退役，API 调用得迁移，今天就得查替代方案。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队模型策略定位现公开预览 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "公开预览总算来了，但企业级策略定位听着像给管理员加戏，实际效果待验证。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方公告但无技术细节，无评测数据，仅公开预览，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "企业团队可精确指定模型策略，权限管控更细，管理员今天就能配。"
         }
       }
     }
