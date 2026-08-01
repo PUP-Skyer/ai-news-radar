@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:21:29.410625Z",
+  "generated_at": "2026-08-01T22:21:25.830292Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,50 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_af28dcb2d4df",
-      "title": "DeepSeek V4 Flash 0731 开源，登顶开源模型前三 / DeepSeek V4 Flash 0731 is now open weights！ @deepseek_ai has just released the weights for its new …",
-      "url": "https://x.com/ArtificialAnlys/status/2083306229074739285",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开源前三？先看看榜单水分和复现门槛，别急着封神。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅推特宣称开源登顶，无论文无代码链接无评测细节，证据不足。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "权重已开源，直接可clone跑推理，榜单前三，今天就能上手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_d40fa5aaf708",
-      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
-      "url": "https://simonwillison.net/2026/Jul/31/smevals",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "小套件敢自评，勇气可嘉，但评测框架本身也得被评测。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了细节和数字，但无论文无代码，等开源或第三方复现再定论。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "轻量评测套件可快速对比模型和提示词，适合日常迭代，但需看是否支持你的场景。"
-        }
-      }
-    },
-    {
       "story_id": "story_817116dbd893",
       "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
       "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "rank": 3,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -73,6 +33,46 @@
         "pragmatic": {
           "score": 72,
           "review": "成本数据被藏，做预算和账单核对的得换监控方案。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8adda9102be6",
+      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
+      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "防攻击靠模型？先让GLM 5.2跑赢基准再说，别拿安全当遮羞布。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "只有推特消息，无论文无代码无评测，秘密模型攻击细节全无。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "安全方向有点意思，但没给可复现方案，先观望。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8c9e60cd6b83",
+      "title": "扫描HuggingFace的7.6PB训练数据，寻找秘密 / Scanning 7.6 Petabytes of HuggingFace Training Data for Secrets",
+      "url": "https://news.ycombinator.com/item?id=49136955",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "扫了7.6PB就为找秘密？先解释下这数据里有多少垃圾再说。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有新闻标题，无论文无代码无数据，扫描结果未公开，无法验证。"
+        },
+        "pragmatic": {
+          "score": 55,
+          "review": "数据挖掘思路可参考，但7.6PB扫描成本高，短期难直接落地。"
         }
       }
     }

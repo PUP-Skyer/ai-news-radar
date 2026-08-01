@@ -33307,5 +33307,10 @@
   "re1|1d6dcc0da1ee403e98a3d7219e7d29e059b471ba": "面对ChatGPT CEO Sam Altman提出的“连接家庭日历生成播客”育儿建议，动画师Alex Hirsch一句“何不直接和孩子聊聊”获10倍点赞，精准戳中AI侵入亲子关系痛点。",
   "re1|cb4b80b8a81f4b9fdde95b1d7b013136e19dcd1e": "扫描Hugging Face全部公开数据集共7.6PB、1.87亿个文件，发现221,303个有效凭据，包括349个GitHub个人访问令牌，其中223个可写入仓库，威胁软件供应链。",
   "re1|22ecfe1985039bd20f30b5c74739a251b79b87c3": "Reddit财报亮眼但股价暴跌23%，Q2营收增长72%至5亿美元，登录用户增长却连续两季仅1%，美国用户ARPU达11.85美元，且计划停披用户细分数据，揭示AI搜索摘要对平台的深层威胁。",
-  "re1|c0eb577aa756905b95f8a8a3d67076ecbe936311": "Wienerdog 用纯文件给 Claude Code 和 Codex CLI 加上记忆、习惯与日常流程，无需守护进程/服务器/遥测，一行命令安装，夜间 dreaming 进程会从对话中学习，并让两个工具共享同一记忆库。"
+  "re1|c0eb577aa756905b95f8a8a3d67076ecbe936311": "Wienerdog 用纯文件给 Claude Code 和 Codex CLI 加上记忆、习惯与日常流程，无需守护进程/服务器/遥测，一行命令安装，夜间 dreaming 进程会从对话中学习，并让两个工具共享同一记忆库。",
+  "ds1|AMD Releases Instella-MoE-16B-A3B: A Fully Open Mixture-of-Experts LLM With 2.8B Active Parameters Trained On Instinct GPUs": "AMD 发布 Instella-MoE-16B-A3B：完全开源的混合专家 LLM，2.8B 激活参数，基于 Instinct GPU 训练",
+  "ds1|Accelerating Transformer Training with NVIDIA Transformer Engine, Fused Kernels, BF16, FP8, and GPU Benchmarking": "使用 NVIDIA Transformer Engine、融合内核、BF16、FP8 和 GPU 基准测试加速 Transformer 训练",
+  "re1|7b64d3f60271399ebe68f8e1abdd91b8c272bcb9": "",
+  "re1|30abb5d82c7a22c662124c45a41e02e3ccac2e24": "本文逐步演示用NVIDIA Transformer Engine加速transformer训练：从检测GPU算力、配置delayed-scaling FP8的E4M3/E5M2格式，到用te.LayerNormMLP等fused模块搭建GPT模型，并实测BF16与FP8的训练延迟和峰值显存。",
+  "re1|17b4255d36bb90c2cf7cfa407c0fb8f53d85b725": "扫描HuggingFace 7.6 PB训练数据并克隆全部仓库、分支与大文件对象，验证出仍可用的活凭证，揭示开源模型训练集潜藏的真实密钥风险。"
 }
