@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:28:11.509466Z",
+  "generated_at": "2026-08-01T19:46:50.246961Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f3f30fdb88a1",
-      "title": "企业团队模型策略定位现公开预览 / Enterprise teams model policy targeting in public preview",
-      "url": "https://github.blog/changelog/2026-07-31-enterprise-teams-model-policy-targeting-in-public-preview",
+      "story_id": "story_d40fa5aaf708",
+      "title": "smevals：用于评测模型、提示词与评测框架的小型评测套件 / smevals - a small eval suite for evaluating models， prompts， and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "公开预览总算来了，但企业级策略定位听着像给管理员加戏，实际效果待验证。"
+          "score": 72,
+          "review": "小套件敢自评，勇气可嘉，但评测框架本身也得被评测。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方公告但无技术细节，无评测数据，仅公开预览，证据不足。"
+          "score": 45,
+          "review": "博客给了细节和数字，但无论文无代码，等开源或第三方复现再定论。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "企业团队可精确指定模型策略，权限管控更细，管理员今天就能配。"
+          "review": "轻量评测套件可快速对比模型和提示词，适合日常迭代，但需看是否支持你的场景。"
         }
       }
     }
