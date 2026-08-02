@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:05:34.916122Z",
+  "generated_at": "2026-08-02T06:54:57.161718Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_2aa8e79a0b19",
-      "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
+      "story_id": "story_aedb8d520358",
+      "title": "Grok 支持分析任意视频 / Grok can analyze any video https://grok.com/share/bGVnYWN5_8013f7a3-f604-4351-8cd7-acecf3ef165b",
+      "url": "https://x.com/elonmusk/status/2083800942927839307",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "定价计算器不新鲜，但实时抓API价格这点算实用，水分在'真实工作负载'的噱头上。"
+          "review": "能看视频是进步，但'任意'二字先打个折，demo 里挑的样本不算数。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "有工具页面但无论文代码，定价数据待独立验证。"
+          "score": 10,
+          "review": "只有马斯克推文宣称，无论文无代码无评测，无法验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "算成本的小工具，选型时能省点事，但数据得自己核。"
+          "review": "视频分析能力上线，做多模态应用的可以试试 API 效果。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_58b173a4edb7",
-      "title": "Show HN: 为你的 Claude Code 代理打造的 Rust 控制台 / Show HN: Cockpit for you Claude Code agents in Rust",
-      "url": "https://news.ycombinator.com/item?id=49137410",
+      "story_id": "story_2aa8e79a0b19",
+      "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://news.ycombinator.com/item?id=49140340",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "Rust控制台听着硬核，但给Claude Code套壳，先跑通再说吧。"
+          "score": 72,
+          "review": "定价计算器不新鲜，但实时抓API价格这点算实用，水分在'真实工作负载'的噱头上。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅HN帖子无论文代码，宣称Rust控制台但无仓库链接，无法验证。"
+          "score": 45,
+          "review": "有工具页面但无论文代码，定价数据待独立验证。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "Rust 写的 Claude Code 控制台，能看代理状态；想折腾的可以 clone 试试，不急。"
+          "score": 72,
+          "review": "算成本的小工具，选型时能省点事，但数据得自己核。"
         }
       }
     }
