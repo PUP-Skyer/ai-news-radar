@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T11:35:49.958922Z",
+  "generated_at": "2026-08-02T13:59:15.757572Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T11:35:49.958922Z",
-      "latest_at": "2026-08-02T11:35:49.958922Z",
+      "earliest_at": "2026-08-02T13:59:15.757572Z",
+      "latest_at": "2026-08-02T13:59:15.757572Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7745,
-      "importance": 0.7745,
-      "importance_score": 0.7745,
+      "score": 0.7685,
+      "importance": 0.7685,
+      "importance_score": 0.7685,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9884,
+        "recency": 0.9549,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -169,7 +169,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -217,21 +217,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7546,
-      "importance": 0.7546,
-      "importance_score": 0.7546,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-02T06:23:54Z",
       "latest_at": "2026-08-02T06:23:54Z",
@@ -253,7 +252,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -321,7 +320,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
           "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
@@ -329,9 +328,9 @@
           "summary": null,
           "recommend_reason_zh": "MIT Sloan的Taha Choukhmane研究发现，遵循AI理财建议能为几乎所有30岁以上人群积累可观储蓄缓冲，但聊天机器人在应对失业冲击和主动再平衡投资组合方面仍显不足。",
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -353,6 +352,7 @@
       "source_names": [
         "Hacker News",
         "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews",
         "mitsloan.mit.edu"
       ],
@@ -414,7 +414,7 @@
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
-          "id": "b6b7111cd3c30b9939c52702f3f026caaaf55f1f",
+          "id": "c8fcd1088b8f52a80f5a02b568d41d87e6756a05",
           "title": "只要问对问题，AI提供的理财建议其实出乎意料地好 / AI financial advice is surprisingly good, especially if you ask right questions",
           "title_zh": "只要问对问题，AI提供的理财建议其实出乎意料地好",
           "title_en": "AI financial advice is surprisingly good, especially if you ask right questions",
@@ -422,9 +422,9 @@
           "summary": null,
           "recommend_reason_zh": "MIT Sloan的Taha Choukhmane研究发现，遵循AI理财建议能为几乎所有30岁以上人群积累可观储蓄缓冲，但聊天机器人在应对失业冲击和主动再平衡投资组合方面仍显不足。",
           "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-01T22:25:12Z"
         },
         {
@@ -444,15 +444,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6021,
-      "importance": 0.6021,
-      "importance_score": 0.6021,
+      "score": 0.5966,
+      "importance": 0.5966,
+      "importance_score": 0.5966,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8959,
+        "recency": 0.8655,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -479,177 +479,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
-      }
-    },
-    {
-      "story_id": "story_83ab2fec2032",
-      "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-      "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "primary_url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-      "source": "www.antipope.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": null,
-          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross：我为什么在写作中不用AI / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross：我为什么在写作中不用AI",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": "Charlie Stross自述写作不用AI，引发HN论战：有人指其混淆GAN与LLM，有人反驳称无关宏旨，更触及西方文化难言“灵魂”的深层分歧。",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:53:40.590000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "On the non-use of AI in my writing process",
-          "title_original": "On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.antipope.org"
-      ],
-      "items": [
-        {
-          "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": null,
-          "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "www.antipope.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T18:17:24.719000Z"
-        },
-        {
-          "id": "2b0105aed401bd3dd7192ad834c1bc8a68a76b2d",
-          "title": "Charlie Stross：我为什么在写作中不用AI / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "Charlie Stross：我为什么在写作中不用AI",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": "Charlie Stross自述写作不用AI，引发HN论战：有人指其混淆GAN与LLM，有人反驳称无关宏旨，更触及西方文化难言“灵魂”的深层分歧。",
-          "url": "https://news.ycombinator.com/item?id=49134038",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:53:40.590000Z"
-        },
-        {
-          "id": "59122596060397c08e2b41594d1c0231c18ad2b1",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / Charlie Stross – On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "Charlie Stross – On the non-use of AI in my writing process",
-          "title_original": "Charlie Stross – On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T12:56:54Z"
-        },
-        {
-          "id": "16cffb9df3eb3f8fa6d715dbc980785618e4c00b",
-          "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能 / On the non-use of AI in my writing process",
-          "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-          "title_en": "On the non-use of AI in my writing process",
-          "title_original": "On the non-use of AI in my writing process",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T12:56:54Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7789,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T12:56:54Z",
-      "latest_at": "2026-08-01T18:17:24.719000Z",
-      "primary_item": {
-        "id": "41407e75eac43cbac93d3896678c55e7de41c842",
-        "title": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "title_zh": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "title_en": null,
-        "title_original": "查理·斯特罗斯——关于我在写作过程中不使用人工智能",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.antipope.org/charlie/blog-static/2026/08/on-the-non-use-of-ai-in-my-wri.html",
-        "source": "www.antipope.org",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "作家表态不用AI，跟开发者工具选型无关，纯个人立场。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -726,15 +556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9406,
+        "recency": 0.9087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -761,7 +591,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -867,15 +697,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5247,
+      "importance": 0.5247,
+      "importance_score": 0.5247,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7699,
+        "recency": 0.7438,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -902,7 +732,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -979,15 +809,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8318,
+        "recency": 0.8035,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1014,7 +844,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -1031,7 +861,7 @@
           "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": "Why is \"Chaldean\" in scare-quotes? Ah, TIL: https://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the wild. Voltaire's preface to Zadig (1747), the fantasy satire set in ancient Babylon, purports to translate a found manuscript written in Chaldean).\nhttps://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the ",
+          "summary": null,
           "recommend_reason_zh": "文章借AI与Ars Notoria探讨“即时知识”的承诺，并指出“Chaldean”是误称，引Voltaire《Zadig》（1747）序言声称翻译自Chaldean语的手稿。",
           "url": "https://news.ycombinator.com/item?id=49143001",
           "source": "hackernews",
@@ -1045,7 +875,7 @@
           "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": "Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.\nCenturies before Neo instantly mastered Kung Fu in *The Matrix*, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track adva",
+          "summary": null,
           "recommend_reason_zh": "从13世纪起，神秘的Ars notoria手稿承诺通过图解和咒语让学者速成大学知识，现存56份抄本印证其诱惑力——本文细察其运作机制与遭教会谴责的往事。",
           "url": "https://publicdomainreview.org/essay/ars-notoria",
           "source": "Hacker News",
@@ -1066,7 +896,7 @@
           "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": "Why is \"Chaldean\" in scare-quotes? Ah, TIL: https://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the wild. Voltaire's preface to Zadig (1747), the fantasy satire set in ancient Babylon, purports to translate a found manuscript written in Chaldean).\nhttps://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the ",
+          "summary": null,
           "recommend_reason_zh": "文章借AI与Ars Notoria探讨“即时知识”的承诺，并指出“Chaldean”是误称，引Voltaire《Zadig》（1747）序言声称翻译自Chaldean语的手稿。",
           "url": "https://news.ycombinator.com/item?id=49143001",
           "source": "hackernews",
@@ -1080,7 +910,7 @@
           "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
           "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
           "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-          "summary": "Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.\nCenturies before Neo instantly mastered Kung Fu in *The Matrix*, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track adva",
+          "summary": null,
           "recommend_reason_zh": "从13世纪起，神秘的Ars notoria手稿承诺通过图解和咒语让学者速成大学知识，现存56份抄本印证其诱惑力——本文细察其运作机制与遭教会谴责的往事。",
           "url": "https://publicdomainreview.org/essay/ars-notoria",
           "source": "Hacker News",
@@ -1091,15 +921,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.997,
+        "recency": 0.9632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1114,7 +944,7 @@
         "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
         "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
         "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-        "summary": "Why is \"Chaldean\" in scare-quotes? Ah, TIL: https://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the wild. Voltaire's preface to Zadig (1747), the fantasy satire set in ancient Babylon, purports to translate a found manuscript written in Chaldean).\nhttps://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the ",
+        "summary": null,
         "recommend_reason_zh": "文章借AI与Ars Notoria探讨“即时知识”的承诺，并指出“Chaldean”是误称，引Voltaire《Zadig》（1747）序言声称翻译自Chaldean语的手稿。",
         "url": "https://news.ycombinator.com/item?id=49143001",
         "source": "hackernews",
@@ -1126,7 +956,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -1152,7 +982,7 @@
           "published_at": "2026-08-02T03:59:04.150000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1160,15 +990,15 @@
           "summary": null,
           "recommend_reason_zh": "CostPerPrompt实时追踪232+款AI模型（GPT、Claude、Gemini等）的API定价，并提供聊天机器人与API预算计算器，计入提示缓存最高90%和批处理约50%的折扣，避免成本估算偏差2-3倍。",
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1187,7 +1017,7 @@
           "published_at": "2026-08-02T03:59:04.150000Z"
         },
         {
-          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
           "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1195,23 +1025,23 @@
           "summary": null,
           "recommend_reason_zh": "CostPerPrompt实时追踪232+款AI模型（GPT、Claude、Gemini等）的API定价，并提供聊天机器人与API预算计算器，计入提示缓存最高90%和批处理约50%的折扣，避免成本估算偏差2-3倍。",
           "url": "https://costperprompt.com",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.5216,
+      "importance": 0.5216,
+      "importance_score": 0.5216,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8959,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1238,7 +1068,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -1315,15 +1145,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8207,
+        "recency": 0.7928,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,7 +1180,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     },
     {
@@ -1427,15 +1257,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8089,
+        "recency": 0.7814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,119 +1292,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
-      }
-    },
-    {
-      "story_id": "story_0878b3fd6fe1",
-      "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
-      "url": "https://news.ycombinator.com/item?id=49134079",
-      "primary_url": "https://news.ycombinator.com/item?id=49134079",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌上线一天即下架Earth AI生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": "Google的Earth AI生成器上线一天即被砍，其演示可输指令将庞贝废墟渲染成公元78年古罗马街景，却因仅限卫星图像遭嘲，评论区还爆出员工吐槽项目仓促上线的内幕。",
-          "url": "https://news.ycombinator.com/item?id=49134079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T13:58:32.555000Z"
-        },
-        {
-          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
-          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌上线一天即下架Earth AI生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": "Google Earth的AI图像生成功能上线仅一天便被紧急撤下，官方声明强调用户对可靠视图的独特信任，但因截图被广泛分享而叫停，值得关注。",
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:02:44Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌上线一天即下架Earth AI生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": "Google的Earth AI生成器上线一天即被砍，其演示可输指令将庞贝废墟渲染成公元78年古罗马街景，却因仅限卫星图像遭嘲，评论区还爆出员工吐槽项目仓促上线的内幕。",
-          "url": "https://news.ycombinator.com/item?id=49134079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T13:58:32.555000Z"
-        },
-        {
-          "id": "a4867a945f5aa13e1f9a04ff8d5ddb336cf903b9",
-          "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
-          "title_zh": "谷歌上线一天即下架Earth AI生成器",
-          "title_en": "Google kills Earth AI generator after one day",
-          "title_original": "Google kills Earth AI generator after one day",
-          "summary": null,
-          "recommend_reason_zh": "Google Earth的AI图像生成功能上线仅一天便被紧急撤下，官方声明强调用户对可靠视图的独特信任，但因截图被广泛分享而叫停，值得关注。",
-          "url": "https://twitter.com/newsfromgoogle/status/2083249962150760610",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T13:02:44Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4975,
-      "importance": 0.4975,
-      "importance_score": 0.4975,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7318,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T13:02:44Z",
-      "latest_at": "2026-08-01T13:58:32.555000Z",
-      "primary_item": {
-        "id": "3dbde5b49861cd720c9f79b94cd8548c953f11eb",
-        "title": "谷歌上线一天即下架Earth AI生成器 / Google kills Earth AI generator after one day",
-        "title_zh": "谷歌上线一天即下架Earth AI生成器",
-        "title_en": "Google kills Earth AI generator after one day",
-        "title_original": "Google kills Earth AI generator after one day",
-        "summary": null,
-        "recommend_reason_zh": "Google的Earth AI生成器上线一天即被砍，其演示可输指令将庞贝废墟渲染成公元78年古罗马街景，却因仅限卫星图像遭嘲，评论区还爆出员工吐槽项目仓促上线的内幕。",
-        "url": "https://news.ycombinator.com/item?id=49134079",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "上线一天就下架，说明产品没准备好，别浪费时间研究。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-02T11:47:59.446404Z"
+        "scored_at": "2026-08-02T14:08:38.680181Z"
       }
     }
   ]
