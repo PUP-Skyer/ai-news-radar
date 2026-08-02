@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:24:14.884945Z",
+  "generated_at": "2026-08-02T22:19:42.164573Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_28846135b250",
+      "title": "Show HN: MicroCodex 编程 Agent——用 C++ 重新实现 OpenAI/codex，二进制文件小于 1MB / Show HN: MicroCodex Coding Agent – OpenAI/codex reimplemented in C++ <1MB binary",
+      "url": "https://news.ycombinator.com/item?id=49147842",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "C++重写体积小是亮点，但功能对齐存疑，别拿demo当全面替代。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "只有标题和仓库链接，无论文无评测，1MB 优势待验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "C++ 重写 codex 且小于 1MB，轻量部署可试，但生态兼容性待验证。"
+        }
+      }
+    },
+    {
       "story_id": "story_e28f2fbd5da2",
       "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
       "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "MI355X 跑 K3 性价比超 B300，做推理选型可参考，但需实测验证。"
-        }
-      }
-    },
-    {
-      "story_id": "story_2aa8e79a0b19",
-      "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "定价计算器不新鲜，但实时抓API价格这点算实用，水分在'真实工作负载'的噱头上。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "有工具页面但无论文代码，定价数据待独立验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "算成本的小工具，选型时能省点事，但数据得自己核。"
         }
       }
     }
