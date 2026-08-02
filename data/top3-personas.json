@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T00:23:16.198793Z",
+  "generated_at": "2026-08-02T04:05:34.916122Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_2aa8e79a0b19",
+      "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://news.ycombinator.com/item?id=49140340",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "定价计算器不新鲜，但实时抓API价格这点算实用，水分在'真实工作负载'的噱头上。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "有工具页面但无论文代码，定价数据待独立验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "算成本的小工具，选型时能省点事，但数据得自己核。"
+        }
+      }
+    },
+    {
       "story_id": "story_817116dbd893",
       "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
       "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -40,7 +60,7 @@
       "story_id": "story_58b173a4edb7",
       "title": "Show HN: 为你的 Claude Code 代理打造的 Rust 控制台 / Show HN: Cockpit for you Claude Code agents in Rust",
       "url": "https://news.ycombinator.com/item?id=49137410",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 62,
           "review": "Rust 写的 Claude Code 控制台，能看代理状态；想折腾的可以 clone 试试，不急。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8adda9102be6",
-      "title": "GLM 5.2 助 Hugging Face 抵御秘密模型攻击",
-      "url": "https://x.com/AYi_AInotes/status/2083401614623133921",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "防攻击靠模型？先让GLM 5.2跑赢基准再说，别拿安全当遮羞布。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "只有推特消息，无论文无代码无评测，秘密模型攻击细节全无。"
-        },
-        "pragmatic": {
-          "score": 55,
-          "review": "安全方向有点意思，但没给可复现方案，先观望。"
         }
       }
     }
