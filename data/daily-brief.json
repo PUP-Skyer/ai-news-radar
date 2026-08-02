@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:13:53.738084Z",
+  "generated_at": "2026-08-02T00:15:00.962567Z",
   "window_hours": 24,
   "total_items": 15,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-01T23:13:53.738084Z",
-      "latest_at": "2026-08-01T23:13:53.738084Z",
+      "earliest_at": "2026-08-02T00:15:00.962567Z",
+      "latest_at": "2026-08-02T00:15:00.962567Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,122 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
-      }
-    },
-    {
-      "story_id": "story_10739ae4d797",
-      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露10项数学与理论计算机科学突破，覆盖高维几何、格密码等方向，成果由内部版Astra生成，总token成本约2000美元，并用Lean证书完成形式化验证。",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": null,
-          "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": "Ten advances in mathematics and theoretical computer science",
-          "title_original": "Ten advances in mathematics and theoretical computer science",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI披露10项数学与理论计算机科学突破，覆盖高维几何、格密码等方向，成果由内部版Astra生成，总token成本约2000美元，并用Lean证书完成形式化验证。",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-01T00:00:00Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "title_zh": "数学与理论计算机科学领域的十大进展",
-          "title_en": null,
-          "title_original": "数学与理论计算机科学领域的十大进展",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8257,
-      "importance": 0.8257,
-      "importance_score": 0.8257,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.715,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-01T00:00:00Z",
-      "latest_at": "2026-08-01T10:17:30.122000Z",
-      "primary_item": {
-        "id": "a0e4b1e4f3be1357532241ca9041be11d4352f4f",
-        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "title_zh": "数学与理论计算机科学领域的十大进展",
-        "title_en": "Ten advances in mathematics and theoretical computer science",
-        "title_original": "Ten advances in mathematics and theoretical computer science",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI披露10项数学与理论计算机科学突破，覆盖高维几何、格密码等方向，成果由内部版Astra生成，总token成本约2000美元，并用Lean证书完成形式化验证。",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "理论进展离工程落地远，除非你搞算法研究，否则看看就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -277,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8342,
+        "recency": 0.822,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -314,7 +199,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -362,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7309,
+      "importance": 0.7309,
+      "importance_score": 0.7309,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.757,
+        "recency": 0.7459,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -397,7 +282,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -445,15 +330,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
+      "score": 0.7232,
+      "importance": 0.7232,
+      "importance_score": 0.7232,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7985,
+        "recency": 0.7869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -480,7 +365,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -615,15 +500,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5834,
-      "importance": 0.5834,
-      "importance_score": 0.5834,
+      "score": 0.581,
+      "importance": 0.581,
+      "importance_score": 0.581,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.9175,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -650,7 +535,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
+      }
+    },
+    {
+      "story_id": "story_2cd8c56b242c",
+      "title": "只要问对问题，AI理财建议出奇地好用 / AI financial advice is surprisingly good if you ask the right questions",
+      "url": "https://news.ycombinator.com/item?id=49139102",
+      "primary_url": "https://news.ycombinator.com/item?id=49139102",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "只要问对问题，AI理财建议出奇地好用 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI理财建议出奇地好用",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": "FWIW, bonds are no longer a hedge against equity unless they’re based against private equity and private equity is both more expensive and more performant than ever.\nreply\nBy comparison, financial advice is pretty simple, and there is a universally agreed-upon approach that most people should follow to maximize long-term financial health.\nreply\nWhat will AI do when those rules, which it's trained on their repetition so much, don't apply anymore? ~8% annual stock gains for the next 40 years may n",
+          "recommend_reason_zh": "AI理财建议虽正确却过于通用：无非是“储蓄、投资指数基金、45岁后降低股票仓位”，但文章质疑未来40年8%年化收益和80/20股债比还能否成立，也揭示当用户没钱可存时，AI只会建议“多赚钱”。",
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:54:50.574000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI理财建议出奇地好用 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI理财建议出奇地好用",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": "Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investi",
+          "recommend_reason_zh": "MIT Sloan的Taha Choukhmane研究发现，大语言模型能建议几乎30岁以上成年人建立可观储蓄缓冲，但应对失业冲击和主动再平衡不足，即使优化提示词后仍有短板。",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "来自MIT：AI理财建议出乎意料地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": "MIT Sloan的Taha Choukhmane团队发现，AI理财建议能让几乎所有30岁以上人群积累可观储蓄缓冲，但面对失业冲击和投资组合再平衡表现欠佳；基于1000人的测试涵盖GPT-5.2、GPT-5.6和Gemini 3 Flash。",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "64426728f85233c960229c6a3e5579917579a7e7",
+          "title": "只要问对问题，AI理财建议出奇地好用 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI理财建议出奇地好用",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": "FWIW, bonds are no longer a hedge against equity unless they’re based against private equity and private equity is both more expensive and more performant than ever.\nreply\nBy comparison, financial advice is pretty simple, and there is a universally agreed-upon approach that most people should follow to maximize long-term financial health.\nreply\nWhat will AI do when those rules, which it's trained on their repetition so much, don't apply anymore? ~8% annual stock gains for the next 40 years may n",
+          "recommend_reason_zh": "AI理财建议虽正确却过于通用：无非是“储蓄、投资指数基金、45岁后降低股票仓位”，但文章质疑未来40年8%年化收益和80/20股债比还能否成立，也揭示当用户没钱可存时，AI只会建议“多赚钱”。",
+          "url": "https://news.ycombinator.com/item?id=49139102",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-01T23:54:50.574000Z"
+        },
+        {
+          "id": "c3f29c8509745216f7b46dcf7cc7c70be1d41160",
+          "title": "只要问对问题，AI理财建议出奇地好用 / AI financial advice is surprisingly good if you ask the right questions",
+          "title_zh": "只要问对问题，AI理财建议出奇地好用",
+          "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+          "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+          "summary": "Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investi",
+          "recommend_reason_zh": "MIT Sloan的Taha Choukhmane研究发现，大语言模型能建议几乎30岁以上成年人建立可观储蓄缓冲，但应对失业冲击和主动再平衡不足，即使优化提示词后仍有短板。",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-01T22:25:12Z"
+        },
+        {
+          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
+          "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
+          "title_zh": "来自MIT：AI理财建议出乎意料地好",
+          "title_en": "From MIT: AI financial advice is surprisingly good",
+          "title_original": "From MIT: AI financial advice is surprisingly good",
+          "summary": null,
+          "recommend_reason_zh": "MIT Sloan的Taha Choukhmane团队发现，AI理财建议能让几乎所有30岁以上人群积累可观储蓄缓冲，但面对失业冲击和投资组合再平衡表现欠佳；基于1000人的测试涵盖GPT-5.2、GPT-5.6和Gemini 3 Flash。",
+          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-01T22:25:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5699,
+      "importance": 0.5699,
+      "importance_score": 0.5699,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9952,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T22:25:12Z",
+      "latest_at": "2026-08-01T23:54:50.574000Z",
+      "primary_item": {
+        "id": "64426728f85233c960229c6a3e5579917579a7e7",
+        "title": "只要问对问题，AI理财建议出奇地好用 / AI financial advice is surprisingly good if you ask the right questions",
+        "title_zh": "只要问对问题，AI理财建议出奇地好用",
+        "title_en": "AI financial advice is surprisingly good if you ask the right questions",
+        "title_original": "AI financial advice is surprisingly good if you ask the right questions",
+        "summary": "FWIW, bonds are no longer a hedge against equity unless they’re based against private equity and private equity is both more expensive and more performant than ever.\nreply\nBy comparison, financial advice is pretty simple, and there is a universally agreed-upon approach that most people should follow to maximize long-term financial health.\nreply\nWhat will AI do when those rules, which it's trained on their repetition so much, don't apply anymore? ~8% annual stock gains for the next 40 years may n",
+        "recommend_reason_zh": "AI理财建议虽正确却过于通用：无非是“储蓄、投资指数基金、45岁后降低股票仓位”，但文章质疑未来40年8%年化收益和80/20股债比还能否成立，也揭示当用户没钱可存时，AI只会建议“多赚钱”。",
+        "url": "https://news.ycombinator.com/item?id=49139102",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "理财建议看提问技巧，但没给具体工具或方案，动手价值有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -756,15 +782,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
+      "score": 0.5541,
+      "importance": 0.5541,
+      "importance_score": 0.5541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9204,
+        "recency": 0.907,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -791,123 +817,11 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
-      "story_id": "story_394f1b3fc7fd",
-      "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-      "url": "https://news.ycombinator.com/item?id=49139102",
-      "primary_url": "https://news.ycombinator.com/item?id=49139102",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
-          "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "来自MIT：AI理财建议出乎意料地好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": "By comparison, financial advice is pretty simple, and there is a universally agreed-upon approach that most people should follow to maximize long-term financial health.\nreply\nWhat will AI do when those rules, which it's trained on their repetition so much, don't apply anymore? ~8% annual stock gains for the next 40 years may not hold and an 80/20 stock/bond ratio may not be as wise in upcoming decades\nreply\nYou literally just need to stick the Bogleheads forum into Siri (or your device's assista",
-          "recommend_reason_zh": "这篇文章从MIT研究切入，但评论区提供了更深的洞察：AI财务建议虽好，却受限于训练数据，8%年化收益与80/20股债比规则可能不再适用，只会给出Bogleheads式的常识答案，人类顾问真正的价值在于安抚恐惧与安全感。",
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T22:54:42.842000Z"
-        },
-        {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "来自MIT：AI理财建议出乎意料地好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": "Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investi",
-          "recommend_reason_zh": "MIT Sloan的Taha Choukhmane团队发现，AI理财建议能让几乎所有30岁以上人群积累可观储蓄缓冲，但面对失业冲击和投资组合再平衡表现欠佳；基于1000人的测试涵盖GPT-5.2、GPT-5.6和Gemini 3 Flash。",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
-          "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "来自MIT：AI理财建议出乎意料地好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": "By comparison, financial advice is pretty simple, and there is a universally agreed-upon approach that most people should follow to maximize long-term financial health.\nreply\nWhat will AI do when those rules, which it's trained on their repetition so much, don't apply anymore? ~8% annual stock gains for the next 40 years may not hold and an 80/20 stock/bond ratio may not be as wise in upcoming decades\nreply\nYou literally just need to stick the Bogleheads forum into Siri (or your device's assista",
-          "recommend_reason_zh": "这篇文章从MIT研究切入，但评论区提供了更深的洞察：AI财务建议虽好，却受限于训练数据，8%年化收益与80/20股债比规则可能不再适用，只会给出Bogleheads式的常识答案，人类顾问真正的价值在于安抚恐惧与安全感。",
-          "url": "https://news.ycombinator.com/item?id=49139102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T22:54:42.842000Z"
-        },
-        {
-          "id": "9126135bf5ecfda8cea2ab4b9ffea2fbba8cc6dd",
-          "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-          "title_zh": "来自MIT：AI理财建议出乎意料地好",
-          "title_en": "From MIT: AI financial advice is surprisingly good",
-          "title_original": "From MIT: AI financial advice is surprisingly good",
-          "summary": "Large language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investing, according to MIT Sloan’s Taha Choukhmane and co-authors.\nLarge language models encourage smart financial behavior, but they fall short on the more subtle aspects of saving and investi",
-          "recommend_reason_zh": "MIT Sloan的Taha Choukhmane团队发现，AI理财建议能让几乎所有30岁以上人群积累可观储蓄缓冲，但面对失业冲击和投资组合再平衡表现欠佳；基于1000人的测试涵盖GPT-5.2、GPT-5.6和Gemini 3 Flash。",
-          "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-01T22:25:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9954,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T22:25:12Z",
-      "latest_at": "2026-08-01T22:54:42.842000Z",
-      "primary_item": {
-        "id": "58184bc38a961d35ec4841027b62c78810a8e38e",
-        "title": "来自MIT：AI理财建议出乎意料地好 / From MIT: AI financial advice is surprisingly good",
-        "title_zh": "来自MIT：AI理财建议出乎意料地好",
-        "title_en": "From MIT: AI financial advice is surprisingly good",
-        "title_original": "From MIT: AI financial advice is surprisingly good",
-        "summary": "By comparison, financial advice is pretty simple, and there is a universally agreed-upon approach that most people should follow to maximize long-term financial health.\nreply\nWhat will AI do when those rules, which it's trained on their repetition so much, don't apply anymore? ~8% annual stock gains for the next 40 years may not hold and an 80/20 stock/bond ratio may not be as wise in upcoming decades\nreply\nYou literally just need to stick the Bogleheads forum into Siri (or your device's assista",
-        "recommend_reason_zh": "这篇文章从MIT研究切入，但评论区提供了更深的洞察：AI财务建议虽好，却受限于训练数据，8%年化收益与80/20股债比规则可能不再适用，只会给出Bogleheads式的常识答案，人类顾问真正的价值在于安抚恐惧与安全感。",
-        "url": "https://news.ycombinator.com/item?id=49139102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "研究结论听着不错，但没给可用的模型或工具，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
-      }
-    },
-    {
-      "story_id": "story_d1e0cd7477c4",
+      "story_id": "story_f3a8a7071e92",
       "title": "在AI这件事上，人人都被卖了个弥天大谎 / \"Everyone Has Been Sold a Lie\" on AI",
       "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
       "primary_url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
@@ -929,18 +843,18 @@
           "published_at": "2026-08-01T22:50:30Z"
         },
         {
-          "id": "f2c8f5d782f442fedf816461f44d77b3325fdac9",
-          "title": "Zitron：在AI问题上，所有人都被骗了 [视频] / Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-          "title_zh": "Zitron：在AI问题上，所有人都被骗了 [视频]",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
+          "title": "Zitron：“关于AI，所有人都被骗了 / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "Zitron：“关于AI，所有人都被骗了",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-31T23:31:39Z"
+          "published_at": "2026-08-01T22:50:30Z"
         }
       ],
       "source_count": 2,
@@ -964,38 +878,38 @@
           "published_at": "2026-08-01T22:50:30Z"
         },
         {
-          "id": "f2c8f5d782f442fedf816461f44d77b3325fdac9",
-          "title": "Zitron：在AI问题上，所有人都被骗了 [视频] / Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-          "title_zh": "Zitron：在AI问题上，所有人都被骗了 [视频]",
-          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
-          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI [video]",
+          "id": "62644f9928a745e9be4bd80277b0026ef59e0482",
+          "title": "Zitron：“关于AI，所有人都被骗了 / Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_zh": "Zitron：“关于AI，所有人都被骗了",
+          "title_en": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+          "title_original": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.youtube.com/watch?v=pHcZpvIfho0",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-31T23:31:39Z"
+          "published_at": "2026-08-01T22:50:30Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.5422,
+      "importance": 0.5422,
+      "importance_score": 0.5422,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9944,
+        "recency": 0.9799,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-31T23:31:39Z",
+      "earliest_at": "2026-08-01T22:50:30Z",
       "latest_at": "2026-08-01T22:50:30Z",
       "primary_item": {
         "id": "0ac699ec2a23318781d2fa4f6c2172b4e4167000",
@@ -1011,11 +925,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 20,
-      "persona_review": "标题党视频，没产品没数据，纯观点输出，不用浪费时间。",
+      "persona_review": "视频标题党，没产品没代码，纯观点输出，等有干货再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -1121,15 +1035,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8392,
+        "recency": 0.8269,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1156,7 +1070,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -1262,15 +1176,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5346,
+      "importance": 0.5346,
+      "importance_score": 0.5346,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8106,
+        "recency": 0.7988,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1297,7 +1211,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
+      }
+    },
+    {
+      "story_id": "story_10739ae4d797",
+      "title": "数学与理论计算机科学领域的十大进展",
+      "url": "https://openai.com/index/ten-advances-in-mathematics",
+      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        },
+        {
+          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI披露10项数学与理论计算机科学突破，覆盖高维几何、格密码等方向，成果由内部版Astra生成，总token成本约2000美元，并用Lean证书完成形式化验证。",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T07:37:44Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+          "title": "数学与理论计算机科学领域的十大进展",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": null,
+          "title_original": "数学与理论计算机科学领域的十大进展",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-01T10:17:30.122000Z"
+        },
+        {
+          "id": "e44665178ec4140c0f5a67877b906ac10188bcc3",
+          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
+          "title_zh": "数学与理论计算机科学领域的十大进展",
+          "title_en": "Ten advances in mathematics and theoretical computer science",
+          "title_original": "Ten advances in mathematics and theoretical computer science",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI披露10项数学与理论计算机科学突破，覆盖高维几何、格密码等方向，成果由内部版Astra生成，总token成本约2000美元，并用Lean证书完成形式化验证。",
+          "url": "https://openai.com/index/ten-advances-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-01T07:37:44Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8174,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-01T07:37:44Z",
+      "latest_at": "2026-08-01T10:17:30.122000Z",
+      "primary_item": {
+        "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
+        "title": "数学与理论计算机科学领域的十大进展",
+        "title_zh": "数学与理论计算机科学领域的十大进展",
+        "title_en": null,
+        "title_original": "数学与理论计算机科学领域的十大进展",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI用内部版Astra模型攻克了十个搁置至少十年的数学与理论计算机科学难题，涵盖几何、密码学等领域，并以Lean证书形式化验证，还公开了模型思考过程。",
+        "url": "https://openai.com/index/ten-advances-in-mathematics",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "理论进展离工程落地远，除非你搞算法研究，否则不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -1374,15 +1400,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9811,
+        "recency": 0.9668,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1409,7 +1435,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -1440,7 +1466,7 @@
           "title_zh": "Show HN: 为你的 Claude Code 代理打造的 Rust 控制台",
           "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
           "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "summary": "Run dozens of Claude Code sessions at once. Every agent gets its own terminal, with live status, context, cost and permission prompts in one native app.\nRun dozens of Claude Code sessions at once — each in its own terminal, with live status, context, cost and permission prompts in one app. Free, open source.\nRun dozens of Claude Code sessions at once. Every agent gets its own terminal, with live status, context, cost and permission prompts in one native app.\nEvery Claude Code agent, in one calm ",
+          "summary": null,
           "recommend_reason_zh": "episko用Rust为Claude Code构建原生管理界面，支持同时运行数十个会话，每个代理独立终端并实时显示状态、上下文、成本与权限提示，免费开源且数据不出本机。",
           "url": "https://episko.dev",
           "source": "HN Algolia · AI 24h",
@@ -1475,7 +1501,7 @@
           "title_zh": "Show HN: 为你的 Claude Code 代理打造的 Rust 控制台",
           "title_en": "Show HN: Cockpit for you Claude Code agents in Rust",
           "title_original": "Show HN: Cockpit for you Claude Code agents in Rust",
-          "summary": "Run dozens of Claude Code sessions at once. Every agent gets its own terminal, with live status, context, cost and permission prompts in one native app.\nRun dozens of Claude Code sessions at once — each in its own terminal, with live status, context, cost and permission prompts in one app. Free, open source.\nRun dozens of Claude Code sessions at once. Every agent gets its own terminal, with live status, context, cost and permission prompts in one native app.\nEvery Claude Code agent, in one calm ",
+          "summary": null,
           "recommend_reason_zh": "episko用Rust为Claude Code构建原生管理界面，支持同时运行数十个会话，每个代理独立终端并实时显示状态、上下文、成本与权限提示，免费开源且数据不出本机。",
           "url": "https://episko.dev",
           "source": "HN Algolia · AI 24h",
@@ -1486,15 +1512,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5373,
+      "importance": 0.5373,
+      "importance_score": 0.5373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.967,
+        "recency": 0.9529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1521,7 +1547,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -1598,15 +1624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
+      "score": 0.521,
+      "importance": 0.521,
+      "importance_score": 0.521,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8749,
+        "recency": 0.8621,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1633,7 +1659,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     },
     {
@@ -1710,15 +1736,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8397,
+        "recency": 0.8274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1745,7 +1771,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-01T23:23:00.500646Z"
+        "scored_at": "2026-08-02T00:23:11.983613Z"
       }
     }
   ]
