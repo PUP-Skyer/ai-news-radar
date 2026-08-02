@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T09:24:08.679743Z",
+  "generated_at": "2026-08-02T11:35:49.958922Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T09:24:08.679743Z",
-      "latest_at": "2026-08-02T09:24:08.679743Z",
+      "earliest_at": "2026-08-02T11:35:49.958922Z",
+      "latest_at": "2026-08-02T11:35:49.958922Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
+      }
+    },
+    {
+      "story_id": "story_df555478b2e0",
+      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "primary_url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_en": null,
+          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "recommend_reason_zh": "用 Sol 指挥 Luna Max 分工：贵的 Sol 只做规划审核，便宜的 Luna Max 干写代码改文件跑测试，省额度还能翻倍产出。",
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+          "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "title_en": null,
+          "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+          "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+          "recommend_reason_zh": "用 Sol 指挥 Luna Max 分工：贵的 Sol 只做规划审核，便宜的 Luna Max 干写代码改文件跑测试，省额度还能翻倍产出。",
+          "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-02T10:47:27Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9884,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-02T10:47:27Z",
+      "latest_at": "2026-08-02T10:47:27Z",
+      "primary_item": {
+        "id": "fd132bb8303e23d13ed295718428aba04a0d3b98",
+        "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_zh": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "title_en": null,
+        "title_original": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
+        "summary": "Codex 高阶玩法：让 Sol 在 `~/.codex/agents/` 下创建 `luna-worker.toml` 子代理，模型设 `gpt-5.6-luna`、reasoning effort 设 max，Sol 负责拆任务与审代码，具体实现自动委托给 Luna Max。",
+        "recommend_reason_zh": "用 Sol 指挥 Luna Max 分工：贵的 Sol 只做规划审核，便宜的 Luna Max 干写代码改文件跑测试，省额度还能翻倍产出。",
+        "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "Sol 指挥 Luna 的玩法可抄，但没开源细节，先观望再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -133,15 +217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7546,
+      "importance": 0.7546,
+      "importance_score": 0.7546,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -169,120 +253,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
-      }
-    },
-    {
-      "story_id": "story_e2eeec323e5b",
-      "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-      "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-      "primary_url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno在训练与输出环节均侵权，认定六首歌曲可复制存储于其模型中，并同时驳回德国文本数据挖掘例外与美国合理使用抗辩。",
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        },
-        {
-          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": null,
-          "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno训练及输出均侵权，认定六首歌曲可再现存储于其3.5和4版模型，驳回德国文本挖掘例外与美国合理使用抗辩。",
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Decoder AI News",
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-          "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-          "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno在训练与输出环节均侵权，认定六首歌曲可复制存储于其模型中，并同时驳回德国文本数据挖掘例外与美国合理使用抗辩。",
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-01T10:40:50Z"
-        },
-        {
-          "id": "2cc809b0a77054825de745d64e2dce91c47b83e6",
-          "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-          "title_en": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "title_original": "German court rules AI music generator Suno violated copyrights, rejects fair use defense",
-          "summary": null,
-          "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno训练及输出均侵权，认定六首歌曲可再现存储于其3.5和4版模型，驳回德国文本挖掘例外与美国合理使用抗辩。",
-          "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-01T10:40:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7203,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-01T10:40:50Z",
-      "latest_at": "2026-08-01T10:40:50Z",
-      "primary_item": {
-        "id": "9f12f4c8ffc6b7e21a4c1f3894f70fd58b5aad37",
-        "title": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩 / German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "title_zh": "德国法院裁定AI音乐生成器Suno侵犯版权，驳回合理使用抗辩",
-        "title_en": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "title_original": "German court rules AI music generator Suno violated copyrights， rejects fair use defense",
-        "summary": "慕尼黑法院裁定，AI音乐生成器Suno在训练过程及输出结果中均侵犯版权，并驳回其合理使用抗辩。法院认定Suno 3.5和4版本模型可复现六首知名歌曲的原创元素，构成\"记忆化\"侵权，且责任归于Suno而非用户。该判决还认定美国版权法下的合理使用不适用于此案，目前尚未最终生效。",
-        "recommend_reason_zh": "慕尼黑法院裁定AI音乐生成器Suno在训练与输出环节均侵权，认定六首歌曲可复制存储于其模型中，并同时驳回德国文本数据挖掘例外与美国合理使用抗辩。",
-        "url": "https://the-decoder.com/german-court-rules-ai-music-generator-suno-violated-copyrights-rejects-fair-use-defense",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "版权判例影响训练数据合规，做音乐生成得留意授权，短期不改变现有工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -473,15 +444,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.6073,
-      "importance": 0.6073,
-      "importance_score": 0.6073,
+      "score": 0.6021,
+      "importance": 0.6021,
+      "importance_score": 0.6021,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9247,
+        "recency": 0.8959,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -508,7 +479,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -643,15 +614,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5605,
-      "importance": 0.5605,
-      "importance_score": 0.5605,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8039,
+        "recency": 0.7789,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -678,7 +649,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -695,7 +666,7 @@
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": null,
           "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "summary": "The fastest open source LLMs for enterprise.\nThe fastest open source LLMs for enterprise.\nThe fastest open source LLMs for enterprise.\nRunning Kimi K3 at ~952 tok/s/node, AMD continues to prove its case as the winner in performance per dollar.\nOver the past several months, we’ve seen an explosion in the capabilities of open source models. With DeepSeek V4-Pro and GLM5.2 reaching near-Opus levels of intelligence, open source has emerged as a real, cost-efficient alternative to the closed source m",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
           "source": "www.wafer.ai",
@@ -730,7 +701,7 @@
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": null,
           "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-          "summary": "The fastest open source LLMs for enterprise.\nThe fastest open source LLMs for enterprise.\nThe fastest open source LLMs for enterprise.\nRunning Kimi K3 at ~952 tok/s/node, AMD continues to prove its case as the winner in performance per dollar.\nOver the past several months, we’ve seen an explosion in the capabilities of open source models. With DeepSeek V4-Pro and GLM5.2 reaching near-Opus levels of intelligence, open source has emerged as a real, cost-efficient alternative to the closed source m",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
           "source": "www.wafer.ai",
@@ -755,15 +726,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5351,
+      "importance": 0.5351,
+      "importance_score": 0.5351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9709,
+        "recency": 0.9406,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -778,7 +749,7 @@
         "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
         "title_en": null,
         "title_original": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
-        "summary": "The fastest open source LLMs for enterprise.\nThe fastest open source LLMs for enterprise.\nThe fastest open source LLMs for enterprise.\nRunning Kimi K3 at ~952 tok/s/node, AMD continues to prove its case as the winner in performance per dollar.\nOver the past several months, we’ve seen an explosion in the capabilities of open source models. With DeepSeek V4-Pro and GLM5.2 reaching near-Opus levels of intelligence, open source has emerged as a real, cost-efficient alternative to the closed source m",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
         "source": "www.wafer.ai",
@@ -790,7 +761,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -896,15 +867,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7947,
+        "recency": 0.7699,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -931,7 +902,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -1008,15 +979,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8586,
+        "recency": 0.8318,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,7 +1014,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
+      }
+    },
+    {
+      "story_id": "story_2686ce80dcaa",
+      "title": "人工智能：Ars Notoria 与即时知识的前景 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://news.ycombinator.com/item?id=49143001",
+      "primary_url": "https://news.ycombinator.com/item?id=49143001",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 与即时知识的前景 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": "Why is \"Chaldean\" in scare-quotes? Ah, TIL: https://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the wild. Voltaire's preface to Zadig (1747), the fantasy satire set in ancient Babylon, purports to translate a found manuscript written in Chaldean).\nhttps://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the ",
+          "recommend_reason_zh": "文章借AI与Ars Notoria探讨“即时知识”的承诺，并指出“Chaldean”是误称，引Voltaire《Zadig》（1747）序言声称翻译自Chaldean语的手稿。",
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:25.394000Z"
+        },
+        {
+          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "title": "人工智能：Ars Notoria 与即时知识的前景 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": "Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.\nCenturies before Neo instantly mastered Kung Fu in *The Matrix*, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track adva",
+          "recommend_reason_zh": "从13世纪起，神秘的Ars notoria手稿承诺通过图解和咒语让学者速成大学知识，现存56份抄本印证其诱惑力——本文细察其运作机制与遭教会谴责的往事。",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 与即时知识的前景 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": "Why is \"Chaldean\" in scare-quotes? Ah, TIL: https://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the wild. Voltaire's preface to Zadig (1747), the fantasy satire set in ancient Babylon, purports to translate a found manuscript written in Chaldean).\nhttps://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the ",
+          "recommend_reason_zh": "文章借AI与Ars Notoria探讨“即时知识”的承诺，并指出“Chaldean”是误称，引Voltaire《Zadig》（1747）序言声称翻译自Chaldean语的手稿。",
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:25.394000Z"
+        },
+        {
+          "id": "448465f8e3efbcbdbc6b0875972fea9f5c7b8c4b",
+          "title": "人工智能：Ars Notoria 与即时知识的前景 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
+          "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "summary": "Centuries before Neo instantly mastered Kung Fu in The Matrix, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track advanced learning. Anne Lawrence-Mathers investigates the Ars notoria, its supposed powers, and the demonic influence it had upon some users.\nCenturies before Neo instantly mastered Kung Fu in *The Matrix*, medieval scholars found a shortcut to years of difficult study: a magical manuscript that promised to fast-track adva",
+          "recommend_reason_zh": "从13世纪起，神秘的Ars notoria手稿承诺通过图解和咒语让学者速成大学知识，现存56份抄本印证其诱惑力——本文细察其运作机制与遭教会谴责的往事。",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.997,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T10:18:24Z",
+      "latest_at": "2026-08-02T11:23:25.394000Z",
+      "primary_item": {
+        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+        "title": "人工智能：Ars Notoria 与即时知识的前景 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "title_zh": "人工智能：Ars Notoria 与即时知识的前景",
+        "title_en": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "title_original": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "summary": "Why is \"Chaldean\" in scare-quotes? Ah, TIL: https://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the wild. Voltaire's preface to Zadig (1747), the fantasy satire set in ancient Babylon, purports to translate a found manuscript written in Chaldean).\nhttps://en.wikipedia.org/wiki/Biblical_Aramaic#Chaldean_misn... ( \"Chaldean language (misnomer)\") (I think I might(?) have seen the same confusion in the ",
+        "recommend_reason_zh": "文章借AI与Ars Notoria探讨“即时知识”的承诺，并指出“Chaldean”是误称，引Voltaire《Zadig》（1747）序言声称翻译自Chaldean语的手稿。",
+        "url": "https://news.ycombinator.com/item?id=49143001",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "概念讨论无产品，等有可用的再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -1069,7 +1152,7 @@
           "published_at": "2026-08-02T03:59:04.150000Z"
         },
         {
-          "id": "a464cc9c391a2d0a3f82a308418e84e489b2da68",
+          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
           "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1077,15 +1160,15 @@
           "summary": null,
           "recommend_reason_zh": "CostPerPrompt实时追踪232+款AI模型（GPT、Claude、Gemini等）的API定价，并提供聊天机器人与API预算计算器，计入提示缓存最高90%和批处理约50%的折扣，避免成本估算偏差2-3倍。",
           "url": "https://costperprompt.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1104,7 +1187,7 @@
           "published_at": "2026-08-02T03:59:04.150000Z"
         },
         {
-          "id": "a464cc9c391a2d0a3f82a308418e84e489b2da68",
+          "id": "e479f96c2299848e12f537f3352467eb3eaf1aed",
           "title": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
           "title_zh": "Show HN: CostPerPrompt – 实时 AI API 定价和真实工作负载成本计算器",
           "title_en": "Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
@@ -1112,23 +1195,23 @@
           "summary": null,
           "recommend_reason_zh": "CostPerPrompt实时追踪232+款AI模型（GPT、Claude、Gemini等）的API定价，并提供聊天机器人与API预算计算器，计入提示缓存最高90%和批处理约50%的折扣，避免成本估算偏差2-3倍。",
           "url": "https://costperprompt.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-02T01:56:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5271,
+      "importance": 0.5271,
+      "importance_score": 0.5271,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9247,
+        "recency": 0.8959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1155,7 +1238,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -1232,15 +1315,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8471,
+        "recency": 0.8207,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1267,7 +1350,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -1344,15 +1427,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8349,
+        "recency": 0.8089,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,7 +1462,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     },
     {
@@ -1456,15 +1539,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5018,
-      "importance": 0.5018,
-      "importance_score": 0.5018,
+      "score": 0.4975,
+      "importance": 0.4975,
+      "importance_score": 0.4975,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7554,
+        "recency": 0.7318,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1491,7 +1574,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T09:38:42.975606Z"
+        "scored_at": "2026-08-02T11:47:59.446404Z"
       }
     }
   ]
