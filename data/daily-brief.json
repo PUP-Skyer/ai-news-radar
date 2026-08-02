@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T13:59:15.757572Z",
+  "generated_at": "2026-08-02T15:29:22.268815Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_cd21c6fddb56",
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-02T13:59:15.757572Z",
-      "latest_at": "2026-08-02T13:59:15.757572Z",
+      "earliest_at": "2026-08-02T15:29:22.268815Z",
+      "latest_at": "2026-08-02T15:29:22.268815Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7648,
+      "importance": 0.7648,
+      "importance_score": 0.7648,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9549,
+        "recency": 0.9344,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -169,7 +169,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -217,15 +217,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8962,
+        "recency": 0.877,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -252,7 +252,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -444,15 +444,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.5966,
-      "importance": 0.5966,
-      "importance_score": 0.5966,
+      "score": 0.5932,
+      "importance": 0.5932,
+      "importance_score": 0.5932,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8469,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -479,7 +479,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -505,7 +505,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -513,15 +513,15 @@
           "summary": null,
           "recommend_reason_zh": "AMD MI355X以952 tok/s/node运行Kimi K3，价格约为B300的1/2.4，聚合吞吐为B300的1/1.65，单位美元性能却胜出。",
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "www.wafer.ai"
       ],
       "items": [
@@ -540,7 +540,7 @@
           "published_at": "2026-08-02T07:21:18.343000Z"
         },
         {
-          "id": "95e23b427b192e05cc5a370652a74c10f28ab940",
+          "id": "32875495637ba4a81f2a31fa16f5dc0f1b30a531",
           "title": "在 MI355X 上运行 Kimi K3，其性价比优于 B300 / Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
           "title_zh": "在 MI355X 上运行 Kimi K3，其性价比优于 B300",
           "title_en": "Running Kimi K3 on MI355X at Better Performance per Dollar Than B300",
@@ -548,23 +548,23 @@
           "summary": null,
           "recommend_reason_zh": "AMD MI355X以952 tok/s/node运行Kimi K3，价格约为B300的1/2.4，聚合吞吐为B300的1/1.65，单位美元性能却胜出。",
           "url": "https://www.wafer.ai/blog/kimi-k3-mi355x",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-02T04:21:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5294,
-      "importance": 0.5294,
-      "importance_score": 0.5294,
+      "score": 0.5259,
+      "importance": 0.5259,
+      "importance_score": 0.5259,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9087,
+        "recency": 0.8892,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -591,148 +591,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
-      }
-    },
-    {
-      "story_id": "story_817116dbd893",
-      "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-      "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "primary_url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-      "source": "forum.cursor.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "title_en": null,
-          "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "summary": null,
-          "recommend_reason_zh": "Cursor 将个人版“使用情况”页面的美元金额改为 token 数量，用户无法再跟踪每日花费；官方确认企业版仍显示美元，个人版按需超额部分才显示费用。",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "forum.cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T17:29:19.514000Z"
-        },
-        {
-          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
-          "title": "Cursor 从使用页面和 CSV 导出中删除了成本信息。 / Cursor removed cost information from the usage page and CSV export",
-          "title_zh": "Cursor 从使用页面和 CSV 导出中删除了成本信息。",
-          "title_en": "Cursor removed cost information from the usage page and CSV export",
-          "title_original": "Cursor removed cost information from the usage page and CSV export",
-          "summary": null,
-          "recommend_reason_zh": "同一任务用GPT 5.6 Sol在Ubuntu 26.04 VM上测试，Claude Code消耗507万token，而smol仅17万，差距近30倍，直观展示不同harness对上下文窗口的浪费程度。",
-          "url": "https://news.ycombinator.com/item?id=49135257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:53:40.590000Z"
-        },
-        {
-          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "title_en": "Cursor removed cost information from the usage page and CSV export",
-          "title_original": "Cursor removed cost information from the usage page and CSV export",
-          "summary": null,
-          "recommend_reason_zh": "Cursor将个人计划的Usage页面费用显示从美元改为token数，用户无法再追踪实际花费，官方回应称这是有意设计，仅企业计划仍显示美元金额。",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T15:25:21Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "forum.cursor.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "title_en": null,
-          "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "summary": null,
-          "recommend_reason_zh": "Cursor 将个人版“使用情况”页面的美元金额改为 token 数量，用户无法再跟踪每日花费；官方确认企业版仍显示美元，个人版按需超额部分才显示费用。",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "forum.cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T17:29:19.514000Z"
-        },
-        {
-          "id": "e9c7de4959c8c31c8ebcc99f00578f42deff131f",
-          "title": "Cursor 从使用页面和 CSV 导出中删除了成本信息。 / Cursor removed cost information from the usage page and CSV export",
-          "title_zh": "Cursor 从使用页面和 CSV 导出中删除了成本信息。",
-          "title_en": "Cursor removed cost information from the usage page and CSV export",
-          "title_original": "Cursor removed cost information from the usage page and CSV export",
-          "summary": null,
-          "recommend_reason_zh": "同一任务用GPT 5.6 Sol在Ubuntu 26.04 VM上测试，Claude Code消耗507万token，而smol仅17万，差距近30倍，直观展示不同harness对上下文窗口的浪费程度。",
-          "url": "https://news.ycombinator.com/item?id=49135257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-01T16:53:40.590000Z"
-        },
-        {
-          "id": "de573c10b33e0a6db03369843a6dd7ee7a027e5c",
-          "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息 / Cursor removed cost information from the usage page and CSV export",
-          "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-          "title_en": "Cursor removed cost information from the usage page and CSV export",
-          "title_original": "Cursor removed cost information from the usage page and CSV export",
-          "summary": null,
-          "recommend_reason_zh": "Cursor将个人计划的Usage页面费用显示从美元改为token数，用户无法再追踪实际花费，官方回应称这是有意设计，仅企业计划仍显示美元金额。",
-          "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T15:25:21Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7438,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T15:25:21Z",
-      "latest_at": "2026-08-01T17:29:19.514000Z",
-      "primary_item": {
-        "id": "e90b4afc2008713009e131f5b452c20b0078a47c",
-        "title": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-        "title_zh": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-        "title_en": null,
-        "title_original": "Cursor 从“使用情况”页面和 CSV 导出文件中移除了成本信息",
-        "summary": null,
-        "recommend_reason_zh": "Cursor 将个人版“使用情况”页面的美元金额改为 token 数量，用户无法再跟踪每日花费；官方确认企业版仍显示美元，个人版按需超额部分才显示费用。",
-        "url": "https://forum.cursor.com/t/usage-page-to-token-amount-what/167153",
-        "source": "forum.cursor.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "成本数据被藏，做预算和账单核对的得换监控方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -809,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8035,
+        "recency": 0.7863,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -844,7 +703,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -921,15 +780,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9632,
+        "recency": 0.9425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -956,7 +815,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -1033,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1068,7 +927,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -1145,15 +1004,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5085,
-      "importance": 0.5085,
-      "importance_score": 0.5085,
+      "score": 0.5054,
+      "importance": 0.5054,
+      "importance_score": 0.5054,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7928,
+        "recency": 0.7758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1180,7 +1039,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     },
     {
@@ -1257,15 +1116,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7814,
+        "recency": 0.7646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,7 +1151,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-02T14:08:38.680181Z"
+        "scored_at": "2026-08-02T15:38:32.221448Z"
       }
     }
   ]
