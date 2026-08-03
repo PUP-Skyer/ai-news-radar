@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T15:38:16.774924Z",
+  "generated_at": "2026-08-03T18:24:48.852304Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_268138d2f7c5",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "单卡跑70B听着唬人，量化加分层加载，真跑起来速度感人，但至少开源了。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "GitHub 仓库在，但缺论文和独立 benchmark，单卡跑 70B 需验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "开源可跑，4GB 显存就能试 70B，量化部署党今天就能 clone 验证。"
+        }
+      }
+    },
+    {
       "story_id": "story_86a49a282286",
       "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
       "url": "https://qwen.ai/blog?id=qwen3.8",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_2404ccea579b",
       "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
       "url": "https://www.aibase.com/news/30076",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "超算平台一键调用，性能对标闭源，今天就能试，省自建成本。"
-        }
-      }
-    },
-    {
-      "story_id": "story_13f269c0a486",
-      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-      "url": "https://www.aibase.com/news/30081",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "8B模型敢谈4K生成，demo挑几张好看的，量产良率敢晒吗？"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "开源模型但无论文无评测细节，仅官方宣称，需第三方验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "8B模型能原生4K出图，本地部署门槛低，做图像生成的可以试跑。"
         }
       }
     }
