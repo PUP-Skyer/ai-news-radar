@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:09:19.808267Z",
+  "generated_at": "2026-08-03T20:00:41.359981Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T18:09:19.808267Z",
-      "latest_at": "2026-08-03T18:09:19.808267Z",
+      "earliest_at": "2026-08-03T20:00:41.359981Z",
+      "latest_at": "2026-08-03T20:00:41.359981Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -116,7 +116,7 @@
           "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
           "title_en": null,
           "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
+          "summary": null,
           "recommend_reason_zh": "AirLLM 项目让 70B 大模型在单块 4GB GPU 上完成推理，无需量化或剪枝，甚至能以 3.72GB 显存运行 2.8T 参数的 Kimi K3，重新定义低显存推理上限。",
           "url": "https://github.com/lyogavin/airllm",
           "source": "github.com",
@@ -139,23 +139,23 @@
           "published_at": "2026-08-03T15:19:49.888000Z"
         },
         {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
           "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
+          "recommend_reason_zh": "AirLLM 让 70B 大模型无需量化、蒸馏或剪枝即可跑在单张 4GB GPU 上，实测 Kimi K3（2.8T）仅占 3.72GB 显存，DeepSeek-V3（671B）约 12GB，值得关注。",
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "github.com",
         "hackernews"
@@ -181,7 +181,7 @@
           "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
           "title_en": null,
           "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
+          "summary": null,
           "recommend_reason_zh": "AirLLM 项目让 70B 大模型在单块 4GB GPU 上完成推理，无需量化或剪枝，甚至能以 3.72GB 显存运行 2.8T 参数的 Kimi K3，重新定义低显存推理上限。",
           "url": "https://github.com/lyogavin/airllm",
           "source": "github.com",
@@ -204,31 +204,31 @@
           "published_at": "2026-08-03T15:19:49.888000Z"
         },
         {
-          "id": "3c5592abfa3053cd250cb36128a1abe805691b95",
+          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
           "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
           "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
+          "recommend_reason_zh": "AirLLM 让 70B 大模型无需量化、蒸馏或剪枝即可跑在单张 4GB GPU 上，实测 Kimi K3（2.8T）仅占 3.72GB 显存，DeepSeek-V3（671B）约 12GB，值得关注。",
           "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-08-03T11:15:48Z"
         }
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8501,
-      "importance": 0.8501,
-      "importance_score": 0.8501,
+      "score": 0.8455,
+      "importance": 0.8455,
+      "importance_score": 0.8455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9494,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,7 +257,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
+      }
+    },
+    {
+      "story_id": "story_cef962707d08",
+      "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
+          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
+          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8352,
+      "importance": 0.8352,
+      "importance_score": 0.8352,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9513,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
+        "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "迁移工具上线，正考虑换平台的团队可以省不少手工活，但仅限企业版。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -363,15 +448,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7919,
+        "recency": 0.771,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -400,7 +485,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
+      }
+    },
+    {
+      "story_id": "story_c812f9375d11",
+      "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": "欧盟AI法案透明度条款于8月2日生效，要求平台标注AI交互与深度伪造内容，违规最高罚1500万欧元或3%全球年营业额，旧系统宽限至12月2日。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": null,
+          "recommend_reason_zh": "欧盟AI Act透明度条款8月2日生效，强制标注AI交互与深度伪造内容，违规面临最高1500万欧元或3%全球年营业额罚款，12月2日前老系统需合规。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge",
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe's AI labeling and transparency rules are now in effect",
+          "title_original": "Europe's AI labeling and transparency rules are now in effect",
+          "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+          "recommend_reason_zh": "欧盟AI法案透明度条款于8月2日生效，要求平台标注AI交互与深度伪造内容，违规最高罚1500万欧元或3%全球年营业额，旧系统宽限至12月2日。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T17:38:45Z"
+        },
+        {
+          "id": "0e9bd10c89bbfb4536bde9133d93b8cfe727ee97",
+          "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe’s AI labeling and transparency rules are now in effect",
+          "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+          "title_en": "Europe’s AI labeling and transparency rules are now in effect",
+          "title_original": "Europe’s AI labeling and transparency rules are now in effect",
+          "summary": null,
+          "recommend_reason_zh": "欧盟AI Act透明度条款8月2日生效，强制标注AI交互与深度伪造内容，违规面临最高1500万欧元或3%全球年营业额罚款，12月2日前老系统需合规。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T17:38:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7896,
+      "importance": 0.7896,
+      "importance_score": 0.7896,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:38:45Z",
+      "latest_at": "2026-08-03T17:38:45Z",
+      "primary_item": {
+        "id": "ffea5e6b19a12dfc69a103fea472a7cbe212e384",
+        "title": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元 / Europe's AI labeling and transparency rules are now in effect",
+        "title_zh": "欧盟《人工智能法案》透明度规则生效，违规最高罚 1500 万欧元",
+        "title_en": "Europe's AI labeling and transparency rules are now in effect",
+        "title_original": "Europe's AI labeling and transparency rules are now in effect",
+        "summary": "欧盟《人工智能法案》下的新透明度义务于 8 月 2 日生效，要求公司披露用户何时与 AI 模型互动，并为合成音视频和文本添加机器可读标记。欧盟还推出了一套可选的 AI 披露标签供平台采用，但标注要求本身是强制性的。违规公司面临最高 1500 万欧元（约 1720 万美元）或全球年营业额 3% 的罚款，8 月 2 日前推出的模型有 4 个月宽限期。",
+        "recommend_reason_zh": "欧盟AI法案透明度条款于8月2日生效，要求平台标注AI交互与深度伪造内容，违规最高罚1500万欧元或3%全球年营业额，旧系统宽限至12月2日。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974571/eu-ai-act-transparency-labels-rules-deepfakes",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "合规成本今天起算，做欧盟市场的产品得补标签和披露。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -448,21 +647,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -484,90 +682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
-      }
-    },
-    {
-      "story_id": "story_f8f3a56ad08e",
-      "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-      "url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
-          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-          "recommend_reason_zh": "Ori Eval借助OpenRouter的API为代码库中每个任务调用模型并评估结果，帮你轻松写出第一个eval，不再纠结于寻找“最佳模型”。",
-          "url": "https://x.com/OpenRouter/status/2084301100078027143",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T15:31:21Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
-          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-          "recommend_reason_zh": "Ori Eval借助OpenRouter的API为代码库中每个任务调用模型并评估结果，帮你轻松写出第一个eval，不再纠结于寻找“最佳模型”。",
-          "url": "https://x.com/OpenRouter/status/2084301100078027143",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T15:31:21Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9627,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T15:31:21Z",
-      "latest_at": "2026-08-03T15:31:21Z",
-      "primary_item": {
-        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
-        "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-        "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
-        "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-        "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
-        "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
-        "recommend_reason_zh": "Ori Eval借助OpenRouter的API为代码库中每个任务调用模型并评估结果，帮你轻松写出第一个eval，不再纠结于寻找“最佳模型”。",
-        "url": "https://x.com/OpenRouter/status/2084301100078027143",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "评估工具多一个选择，但没开源细节前先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -615,15 +730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9283,
+        "recency": 0.9037,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -650,7 +765,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
+      }
+    },
+    {
+      "story_id": "story_f8f3a56ad08e",
+      "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+      "url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "primary_url": "https://x.com/OpenRouter/status/2084301100078027143",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+          "recommend_reason_zh": "Ori Eval借助OpenRouter的API为代码库中每个任务调用模型并评估结果，帮你轻松写出第一个eval，不再纠结于寻找“最佳模型”。",
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+          "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+          "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+          "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+          "recommend_reason_zh": "Ori Eval借助OpenRouter的API为代码库中每个任务调用模型并评估结果，帮你轻松写出第一个eval，不再纠结于寻找“最佳模型”。",
+          "url": "https://x.com/OpenRouter/status/2084301100078027143",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T15:31:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.68,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9372,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T15:31:21Z",
+      "latest_at": "2026-08-03T15:31:21Z",
+      "primary_item": {
+        "id": "b0a095b9b4972093744465a0ca6abb6b9afe4310",
+        "title": "OpenRouter 推出 Ori Eval 简化评估流程 / Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "title_zh": "OpenRouter 推出 Ori Eval 简化评估流程",
+        "title_en": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "title_original": "Introducing Ori Eval： the easiest way to write your first eval. There's no definitive best model， o…",
+        "summary": "推出 Ori Eval：编写首个评估的最简单方式。\n\n没有绝对最好的模型，只有最适合每项任务的模型。Ori Eval 利用 OpenRouter 的 API 处理代码库中的每项任务，然后评估结果。\n\ncurl -fsSL https://openrouter.ai/skills/spawn-ori-eval",
+        "recommend_reason_zh": "Ori Eval借助OpenRouter的API为代码库中每个任务调用模型并评估结果，帮你轻松写出第一个eval，不再纠结于寻找“最佳模型”。",
+        "url": "https://x.com/OpenRouter/status/2084301100078027143",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "评估工具多一个选择，但没开源细节前先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -698,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9511,
+        "recency": 0.9259,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -733,7 +931,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -781,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9132,
+        "recency": 0.889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -816,7 +1014,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -864,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.727,
+      "importance": 0.727,
+      "importance_score": 0.727,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9493,
+        "recency": 0.9242,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -899,7 +1097,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -976,15 +1174,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7245,
+      "importance": 0.7245,
+      "importance_score": 0.7245,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7413,
+        "recency": 0.7217,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1012,7 +1210,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1060,21 +1258,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -1096,7 +1293,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1144,15 +1341,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9317,
+        "recency": 0.9071,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,7 +1376,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1227,21 +1424,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -1263,7 +1459,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1311,21 +1507,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -1347,7 +1542,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1395,21 +1590,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -1431,7 +1625,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1479,21 +1673,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -1515,7 +1708,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1546,8 +1739,8 @@
           "title_zh": "中国阿里巴巴再出手，挑战美国AI主导地位",
           "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
           "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Alibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
+          "recommend_reason_zh": "阿里巴巴发布号称最强的Qwen3.8-Max，参数达2.4万亿，在Arena.AI榜上仅落后于Anthropic的Claude Fable 5及三个Opus模型，并宣布下周开放权重，展示中国AI正面挑战美国霸主地位。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
           "source": "The Verge",
           "source_name": "TechURLs",
@@ -1580,8 +1773,8 @@
           "title_zh": "中国阿里巴巴再出手，挑战美国AI主导地位",
           "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
           "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
+          "summary": "Alibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
+          "recommend_reason_zh": "阿里巴巴发布号称最强的Qwen3.8-Max，参数达2.4万亿，在Arena.AI榜上仅落后于Anthropic的Claude Fable 5及三个Opus模型，并宣布下周开放权重，展示中国AI正面挑战美国霸主地位。",
           "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
           "source": "The Verge",
           "source_name": "TechURLs",
@@ -1591,15 +1784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5979,
-      "importance": 0.5979,
-      "importance_score": 0.5979,
+      "score": 0.5936,
+      "importance": 0.5936,
+      "importance_score": 0.5936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9021,
+        "recency": 0.8782,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1626,205 +1819,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
-      }
-    },
-    {
-      "story_id": "story_1de0c63082e4",
-      "title": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙 / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-      "url": "https://news.ycombinator.com/item?id=49147622",
-      "primary_url": "https://news.ycombinator.com/item?id=49147622",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙 / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": "作者用“Generate an SVG of a frog with a Habsburg jaw”单次提示测试多款AI，gemini-2.5-pro画出侧脸青蛙，Codex with Sol 5.6 High输出正面，gemini-3.6-flash的皇室肖像风格最出彩。",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T03:42:02.339000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": "这篇测试让14个AI模型各用三次机会生成哈布斯堡下颌青蛙的SVG，42次运行全部产出，并细看Claude系列如何给下颌标注“极端地包天”等解剖注解。",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我的个人AI基准测试：“生成一个带有Habsburg下颌的青蛙的SVG。 / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我的个人AI基准测试：“生成一个带有Habsburg下颌的青蛙的SVG。",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": "用“生成哈布斯堡下颌青蛙”测试14款AI模型，7款擅自脑补皇室元素，Mistral输出逐字节一致，Gemini用65条注释解释，Llama全程沉默——模型是否忠实指令与确定性，一试便知。",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "frogs.vaguespac.es",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-          "title": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙 / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": "作者用“Generate an SVG of a frog with a Habsburg jaw”单次提示测试多款AI，gemini-2.5-pro画出侧脸青蛙，Codex with Sol 5.6 High输出正面，gemini-3.6-flash的皇室肖像风格最出彩。",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T03:42:02.339000Z"
-        },
-        {
-          "id": "4edaaec810850620669c5112868bb919b9b9706c",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": null,
-          "title_original": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "summary": null,
-          "recommend_reason_zh": "这篇测试让14个AI模型各用三次机会生成哈布斯堡下颌青蛙的SVG，42次运行全部产出，并细看Claude系列如何给下颌标注“极端地包天”等解剖注解。",
-          "url": "https://frogs.vaguespac.es",
-          "source": "frogs.vaguespac.es",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T01:44:49.130000Z"
-        },
-        {
-          "id": "de2aebe71cb4fe599af5e34eec552b9a233564ad",
-          "title": "我的个人AI基准测试：“生成一个带有Habsburg下颌的青蛙的SVG。 / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我的个人AI基准测试：“生成一个带有Habsburg下颌的青蛙的SVG。",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": "用“生成哈布斯堡下颌青蛙”测试14款AI模型，7款擅自脑补皇室元素，Mistral输出逐字节一致，Gemini用65条注释解释，Llama全程沉默——模型是否忠实指令与确定性，一试便知。",
-          "url": "https://news.ycombinator.com/item?id=49147622",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T20:55:13.221000Z"
-        },
-        {
-          "id": "f3fb9f6175bfd55e7d16b6addb41e2722c44d99e",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "title_original": "My personal AI benchmark: \"Generate an SVG of a frog with a Habsburg jaw.\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-02T19:42:08Z"
-        },
-        {
-          "id": "85c464d06f44c53ea531320315e322572052549d",
-          "title": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。” / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_zh": "我个人的AI测试题：“生成一张拥有哈布斯堡式下颌的青蛙的SVG图片。”",
-          "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://frogs.vaguespac.es",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T19:42:08Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5869,
-      "importance": 0.5869,
-      "importance_score": 0.5869,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8116,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T19:42:08Z",
-      "latest_at": "2026-08-03T03:42:02.339000Z",
-      "primary_item": {
-        "id": "75b78bfbd3b17e42ede7d7be6b60633dae2a45eb",
-        "title": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙 / My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "title_zh": "我的个人AI基准：用SVG生成一只长着Habsburg下巴的青蛙",
-        "title_en": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "title_original": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-        "summary": null,
-        "recommend_reason_zh": "作者用“Generate an SVG of a frog with a Habsburg jaw”单次提示测试多款AI，gemini-2.5-pro画出侧脸青蛙，Codex with Sol 5.6 High输出正面，gemini-3.6-flash的皇室肖像风格最出彩。",
-        "url": "https://news.ycombinator.com/item?id=49147622",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "个人趣味基准，无通用参考价值，看看就好。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     },
     {
@@ -1872,21 +1867,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9122,
+        "recency": 0.888,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-03T11:47:19.776732Z",
       "latest_at": "2026-08-03T11:47:19.776732Z",
@@ -1908,148 +1902,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
-      }
-    },
-    {
-      "story_id": "story_70cc08e0a26a",
-      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-      "source": "ankursethi.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": null,
-          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "summary": null,
-          "recommend_reason_zh": "作者通过让LLM在聊天中给出建议，自己手动逐行输入来防认知债务：速度从10x降至2x，但换来了对代码库的清晰空间认知和更易察觉幻觉。",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T12:09:10.975000Z"
-        },
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "手动重打LLM生成的代码，防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "手动重打LLM生成的代码，防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": "本文主张手动重打LLM生成的代码以防认知债务，援引工程师14年逐行抄写代码的学习经验，并探讨了反对者认为这可能是“货船崇拜”的争议。",
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:47:41.619000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "ankursethi.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": null,
-          "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "summary": null,
-          "recommend_reason_zh": "作者通过让LLM在聊天中给出建议，自己手动逐行输入来防认知债务：速度从10x降至2x，但换来了对代码库的清晰空间认知和更易察觉幻觉。",
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "ankursethi.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T12:09:10.975000Z"
-        },
-        {
-          "id": "6a1dbee4388777d0c3cd2b22628082934ac5bd10",
-          "title": "手动重打LLM生成的代码，防止认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "手动重打LLM生成的代码，防止认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": "本文主张手动重打LLM生成的代码以防认知债务，援引工程师14年逐行抄写代码的学习经验，并探讨了反对者认为这可能是“货船崇拜”的争议。",
-          "url": "https://news.ycombinator.com/item?id=49153374",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T11:47:41.619000Z"
-        },
-        {
-          "id": "3d9a419d4f24d56af6f25ea69f8d4e6df9fec513",
-          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-          "title_en": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "title_original": "Prevent cognitive debt by manually retyping LLM-generated code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T09:32:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5559,
-      "importance": 0.5559,
-      "importance_score": 0.5559,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.917,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T09:32:07Z",
-      "latest_at": "2026-08-03T12:09:10.975000Z",
-      "primary_item": {
-        "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
-        "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-        "title_zh": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-        "title_en": null,
-        "title_original": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
-        "summary": null,
-        "recommend_reason_zh": "作者通过让LLM在聊天中给出建议，自己手动逐行输入来防认知债务：速度从10x降至2x，但换来了对代码库的清晰空间认知和更易察觉幻觉。",
-        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
-        "source": "ankursethi.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "手动重敲代码防认知债务，适合小项目练手，大项目不现实。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T18:24:41.991900Z"
+        "scored_at": "2026-08-03T20:15:38.612072Z"
       }
     }
   ]
