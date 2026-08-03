@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:15:41.680409Z",
+  "generated_at": "2026-08-03T21:45:40.645507Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_2404ccea579b",
-      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-      "url": "https://www.aibase.com/news/30076",
+      "story_id": "story_59233e31a45d",
+      "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "叫板闭源模型？先公布对比基线和硬件成本再说，别光喊口号。"
+          "score": 72,
+          "review": "六个月能落地实时语音，算实打实；但宣传口径里水分不少，得自己挤。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "仅官方新闻稿宣称性能，无论文无代码无第三方评测，证据不足。"
+          "score": 45,
+          "review": "官方博客给了细节和数字，但无论文无代码，等独立验证再定论。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "超算平台一键调用，性能对标闭源，今天就能试，省自建成本。"
+          "review": "GPT实时语音API已开放，做语音交互的今天就能接入，延迟和成本值得实测。"
         }
       }
     }

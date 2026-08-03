@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:00:41.359981Z",
+  "generated_at": "2026-08-03T21:32:07.942943Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -65,8 +65,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T20:00:41.359981Z",
-      "latest_at": "2026-08-03T20:00:41.359981Z",
+      "earliest_at": "2026-08-03T21:32:07.942943Z",
+      "latest_at": "2026-08-03T21:32:07.942943Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -144,7 +144,7 @@
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
           "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
+          "summary": null,
           "recommend_reason_zh": "AirLLM 让 70B 大模型无需量化、蒸馏或剪枝即可跑在单张 4GB GPU 上，实测 Kimi K3（2.8T）仅占 3.72GB 显存，DeepSeek-V3（671B）约 12GB，值得关注。",
           "url": "https://github.com/lyogavin/airllm",
           "source": "Hacker News (黑客新闻)",
@@ -209,7 +209,7 @@
           "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
           "title_en": "AirLLM 70B inference with single 4GB GPU",
           "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": "AirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nAirLLM 70B inference with single 4GB GPU. Contribute to lyogavin/airllm development by creating an account on GitHub.\nWe read every piece of feedback, and take your input very seriously.\nTo see all available qualifiers, see our documentation .\nThere was an error w",
+          "summary": null,
           "recommend_reason_zh": "AirLLM 让 70B 大模型无需量化、蒸馏或剪枝即可跑在单张 4GB GPU 上，实测 Kimi K3（2.8T）仅占 3.72GB 显存，DeepSeek-V3（671B）约 12GB，值得关注。",
           "url": "https://github.com/lyogavin/airllm",
           "source": "Hacker News (黑客新闻)",
@@ -220,15 +220,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8455,
-      "importance": 0.8455,
-      "importance_score": 0.8455,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9494,
+        "recency": 0.9287,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,30 +257,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
-      "story_id": "story_cef962707d08",
-      "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "story_id": "story_63bd4def256d",
+      "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
-          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
-          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+          "title_zh": "Triage 角色可绕过 Issue 创建限制",
+          "title_en": "Triage role can bypass issue creation restrictions",
+          "title_original": "Triage role can bypass issue creation restrictions",
+          "summary": "If your repository restricts issue creation to collaborators only, users with the triage role can now create issues. Previously, the restricted setting only allowed users with write access to create…\nIf your repository restricts issue creation to collaborators only, users with the triage role can now create issues.\nPreviously, the restricted setting only allowed users with write access to create issues. With this update, trusted contributors with the triage role are also included. This helps tea",
+          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
+          "published_at": "2026-08-03T17:04:32Z"
         }
       ],
       "source_count": 1,
@@ -289,31 +289,31 @@
       ],
       "items": [
         {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
-          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
-          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+          "title_zh": "Triage 角色可绕过 Issue 创建限制",
+          "title_en": "Triage role can bypass issue creation restrictions",
+          "title_original": "Triage role can bypass issue creation restrictions",
+          "summary": "If your repository restricts issue creation to collaborators only, users with the triage role can now create issues. Previously, the restricted setting only allowed users with write access to create…\nIf your repository restricts issue creation to collaborators only, users with the triage role can now create issues.\nPreviously, the restricted setting only allowed users with write access to create issues. With this update, trusted contributors with the triage role are also included. This helps tea",
+          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
+          "published_at": "2026-08-03T17:04:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8352,
-      "importance": 0.8352,
-      "importance_score": 0.8352,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9513,
+        "recency": 0.9376,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,27 +322,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T16:33:13Z",
-      "latest_at": "2026-08-03T16:33:13Z",
+      "earliest_at": "2026-08-03T17:04:32Z",
+      "latest_at": "2026-08-03T17:04:32Z",
       "primary_item": {
-        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-        "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
-        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "summary": "Migrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh…\nMigrations from gitlab.com and GitLab Self-Managed to GitHub Enterprise Cloud with GitHub Enterprise Importer (GEI) are now generally available. You can now self-serve these migrations using GEI and the gh gl2gh command-line extension.\nWith this release, you can now:\nThis capability supports ",
-        "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
-        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+        "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+        "title_zh": "Triage 角色可绕过 Issue 创建限制",
+        "title_en": "Triage role can bypass issue creation restrictions",
+        "title_original": "Triage role can bypass issue creation restrictions",
+        "summary": "If your repository restricts issue creation to collaborators only, users with the triage role can now create issues. Previously, the restricted setting only allowed users with write access to create…\nIf your repository restricts issue creation to collaborators only, users with the triage role can now create issues.\nPreviously, the restricted setting only allowed users with write access to create issues. With this update, trusted contributors with the triage role are also included. This helps tea",
+        "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
+        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "迁移工具上线，正考虑换平台的团队可以省不少手工活，但仅限企业版。",
+      "persona_review": "权限模型有变，管仓库的今天就得核对角色配置，防绕过。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -448,15 +448,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8274,
-      "importance": 0.8274,
-      "importance_score": 0.8274,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.89,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.771,
+        "recency": 0.7542,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -485,7 +485,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
+      }
+    },
+    {
+      "story_id": "story_cef962707d08",
+      "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8315,
+      "importance": 0.8315,
+      "importance_score": 0.8315,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9306,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
+      "primary_item": {
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": null,
+        "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "迁移工具上线，正考虑换平台的团队可以省不少手工活，但仅限企业版。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T21:45:32.901384Z"
+      }
+    },
+    {
+      "story_id": "story_59233e31a45d",
+      "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
+      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "primary_url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+          "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
+          "title_zh": "我们如何在六个月内构建出响应式语音AI实时系统",
+          "title_en": "How we built a realtime system for responsive voice AI in six months",
+          "title_original": "How we built a realtime system for responsive voice AI in six months",
+          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nGPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nGPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nAugust 3, 2026\nBy Justin Uberti and Za",
+          "recommend_reason_zh": "GPT-Live用全双工语音模型去掉turn detector，让AI边听边说，还能异步调用GPT-5.5推理，六个月建成低延迟架构，详解状态推理与动态上下文管理。",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T07:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+          "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
+          "title_zh": "我们如何在六个月内构建出响应式语音AI实时系统",
+          "title_en": "How we built a realtime system for responsive voice AI in six months",
+          "title_original": "How we built a realtime system for responsive voice AI in six months",
+          "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nGPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nGPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nAugust 3, 2026\nBy Justin Uberti and Za",
+          "recommend_reason_zh": "GPT-Live用全双工语音模型去掉turn detector，让AI边听边说，还能异步调用GPT-5.5推理，六个月建成低延迟架构，详解状态推理与动态上下文管理。",
+          "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T07:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8107,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T07:00:00Z",
+      "latest_at": "2026-08-03T07:00:00Z",
+      "primary_item": {
+        "id": "3802d20eb245fec464de62b2c08c179d52ac1c64",
+        "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
+        "title_zh": "我们如何在六个月内构建出响应式语音AI实时系统",
+        "title_en": "How we built a realtime system for responsive voice AI in six months",
+        "title_original": "How we built a realtime system for responsive voice AI in six months",
+        "summary": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nGPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nGPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.\nAugust 3, 2026\nBy Justin Uberti and Za",
+        "recommend_reason_zh": "GPT-Live用全双工语音模型去掉turn detector，让AI边听边说，还能异步调用GPT-5.5推理，六个月建成低延迟架构，详解状态推理与动态上下文管理。",
+        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "GPT实时语音API已开放，做语音交互的今天就能接入，延迟和成本值得实测。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -562,15 +732,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7896,
-      "importance": 0.7896,
-      "importance_score": 0.7896,
+      "score": 0.7858,
+      "importance": 0.7858,
+      "importance_score": 0.7858,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9664,
+        "recency": 0.9454,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -599,7 +769,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -647,15 +817,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -682,7 +852,173 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
+      }
+    },
+    {
+      "story_id": "story_de40722d372d",
+      "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+      "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+      "primary_url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+      "source": "Runway：News（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
+          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+          "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+          "recommend_reason_zh": "EA首席战略官Mihir Vaidya详解生成式AI如何在60帧每秒、同步数千玩家的实时游戏世界中落地，并指出“神经符号架构”才是下一个前沿。",
+          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T20:12:03.229000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Runway：News（网页）"
+      ],
+      "items": [
+        {
+          "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
+          "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+          "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+          "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+          "recommend_reason_zh": "EA首席战略官Mihir Vaidya详解生成式AI如何在60帧每秒、同步数千玩家的实时游戏世界中落地，并指出“神经符号架构”才是下一个前沿。",
+          "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+          "source": "Runway：News（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T20:12:03.229000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9809,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T20:12:03.229000Z",
+      "latest_at": "2026-08-03T20:12:03.229000Z",
+      "primary_item": {
+        "id": "3cbea6c166df92918432972ce10e79ea2ecd33ea",
+        "title": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界 / How EA Is Bringing Generative AI Into Living， Playable Worlds",
+        "title_zh": "EA 首席战略官谈生成式 AI 如何进入可游玩的实时游戏世界",
+        "title_en": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+        "title_original": "How EA Is Bringing Generative AI Into Living， Playable Worlds",
+        "summary": "EA 首席战略官 Mihir Vaidya 认为，游戏是 AI 的试验场，但生成式 AI 进入游戏面临 60 帧/秒、数千玩家同步和低延迟等严苛约束，不能只追求\"看起来真实\"，而必须\"行为正确\"。他主张采用神经符号架构，在生成能力之外保留确定性与可控性，并称\"控制是下一个前沿\"。EA 将 AI 影响分为效率、扩展和转型三个层面，其中《模拟人生》已服务超 5 亿玩家，拥有近万亿种游玩排列组合。",
+        "recommend_reason_zh": "EA首席战略官Mihir Vaidya详解生成式AI如何在60帧每秒、同步数千玩家的实时游戏世界中落地，并指出“神经符号架构”才是下一个前沿。",
+        "url": "https://runwayml.com/news/company-news/electronic-arts-ai-summit-2026",
+        "source": "Runway：News（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "EA 高管谈愿景，没产品没接口，等真进游戏再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T21:45:32.901384Z"
+      }
+    },
+    {
+      "story_id": "story_315ee5f98a4b",
+      "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_zh": "微软开源 Orchard 智能体训练框架",
+          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_zh": "微软开源 Orchard 智能体训练框架",
+          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T19:43:28Z",
+      "latest_at": "2026-08-03T19:43:28Z",
+      "primary_item": {
+        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+        "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "title_zh": "微软开源 Orchard 智能体训练框架",
+        "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+        "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
+        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "开源框架可研究，但面向研究社区，生产落地还早，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -730,15 +1066,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7407,
+      "importance": 0.7407,
+      "importance_score": 0.7407,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9037,
+        "recency": 0.884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -765,7 +1101,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -813,15 +1149,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9168,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +1184,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -896,15 +1232,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9259,
+        "recency": 0.9058,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -931,7 +1267,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -979,15 +1315,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.889,
+        "recency": 0.8697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +1350,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -1062,15 +1398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9242,
+        "recency": 0.9041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,120 +1433,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
-      }
-    },
-    {
-      "story_id": "story_053b3f462bd1",
-      "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-      "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "primary_url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        },
-        {
-          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
-          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-02T22:13:30Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "HN Algolia · AI 24h"
-      ],
-      "items": [
-        {
-          "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-          "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-02T21:25:27Z"
-        },
-        {
-          "id": "b48d72733681376b03a9c7ce13b32178863ee488",
-          "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI’s amazing — but vastly oversold — new model Astra",
-          "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-          "title_en": "OpenAI’s amazing — but vastly oversold — new model Astra",
-          "title_original": "OpenAI’s amazing — but vastly oversold — new model Astra",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-02T22:13:30Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7245,
-      "importance": 0.7245,
-      "importance_score": 0.7245,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.66,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7217,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-02T21:25:27Z",
-      "latest_at": "2026-08-02T22:13:30Z",
-      "primary_item": {
-        "id": "821d3bcc145b06cb4db88d240a92a0d71429725a",
-        "title": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧 / OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_zh": "OpenAI 新模型 Astra 数学表现出色，但被过度吹捧",
-        "title_en": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "title_original": "OpenAI's amazing - but vastly oversold - new model Astra",
-        "summary": "OpenAI 内部测试的新模型 Astra 在数学问题上表现惊艳，但 Gary Marcus 指出相关讨论犯了\"合成谬误\"：擅长某类数学不等于擅长所有数学、科学乃至一切认知任务。数学之所以成为突破口，是因为它便于用符号工具验证且能廉价生成海量合成数据，而开放世界问题无法如此模拟。此外，OpenAI 未公布方法细节，尚无法评估其真实意义。",
-        "recommend_reason_zh": null,
-        "url": "https://garymarcus.substack.com/p/openais-amazing-but-vastly-oversold",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "模型强但没开放，先别急着换，等 API 和实测。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -1258,15 +1481,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,7 +1516,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -1341,15 +1564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7353,
+      "importance": 0.7353,
+      "importance_score": 0.7353,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.8873,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1376,7 +1599,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -1424,15 +1647,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1459,7 +1682,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -1507,15 +1730,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1542,7 +1765,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     },
     {
@@ -1590,15 +1813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
+      "score": 0.744,
+      "importance": 0.744,
+      "importance_score": 0.744,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.888,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1625,284 +1848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
-      }
-    },
-    {
-      "story_id": "story_d1d0d52ac226",
-      "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-      "url": "https://www.aibase.com/news/30077",
-      "primary_url": "https://www.aibase.com/news/30077",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "title_zh": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "title_en": null,
-          "title_original": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot 回应赴港 IPO 传闻不实，但其已完成超 35 亿美元 F 轮融资、投后估值 350 亿美元，并提前启动 G 轮，投前估值升至 500 亿美元，一文说清传闻与融资细节。",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-          "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "title_zh": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "title_en": null,
-          "title_original": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-          "summary": null,
-          "recommend_reason_zh": "Moonshot 回应赴港 IPO 传闻不实，但其已完成超 35 亿美元 F 轮融资、投后估值 350 亿美元，并提前启动 G 轮，投前估值升至 500 亿美元，一文说清传闻与融资细节。",
-          "url": "https://www.aibase.com/news/30077",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.888,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:47:19.776732Z",
-      "latest_at": "2026-08-03T11:47:19.776732Z",
-      "primary_item": {
-        "id": "3283c404b89f977c6250c3ed5bf93b3b2a2f90b5",
-        "title": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-        "title_zh": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-        "title_en": null,
-        "title_original": "月之暗面回应赴港IPO传闻：本月提交上市申请消息不实",
-        "summary": null,
-        "recommend_reason_zh": "Moonshot 回应赴港 IPO 传闻不实，但其已完成超 35 亿美元 F 轮融资、投后估值 350 亿美元，并提前启动 G 轮，投前估值升至 500 亿美元，一文说清传闻与融资细节。",
-        "url": "https://www.aibase.com/news/30077",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "IPO传闻不实，对开发选型无影响，等真上市再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
-      }
-    },
-    {
-      "story_id": "story_4b4ef74657f2",
-      "title": "中国 Alibaba 再次叫板美国 AI 霸权 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
-          "title": "中国 Alibaba 再次叫板美国 AI 霸权 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国 Alibaba 再次叫板美国 AI 霸权",
-          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T11:01:11Z"
-        },
-        {
-          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
-          "title": "中国阿里巴巴再出手，挑战美国AI主导地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国阿里巴巴再出手，挑战美国AI主导地位",
-          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": "Alibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
-          "recommend_reason_zh": "阿里巴巴发布号称最强的Qwen3.8-Max，参数达2.4万亿，在Arena.AI榜上仅落后于Anthropic的Claude Fable 5及三个Opus模型，并宣布下周开放权重，展示中国AI正面挑战美国霸主地位。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:01:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
-          "title": "中国 Alibaba 再次叫板美国 AI 霸权 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国 Alibaba 再次叫板美国 AI 霸权",
-          "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-03T11:01:11Z"
-        },
-        {
-          "id": "f4d8a698df9099499471bc6183bfc49d8a8c745d",
-          "title": "中国阿里巴巴再出手，挑战美国AI主导地位 / China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_zh": "中国阿里巴巴再出手，挑战美国AI主导地位",
-          "title_en": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "title_original": "China’s Alibaba takes another swipe at America’s AI supremacy",
-          "summary": "Alibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nAlibaba says its latest model can compete with Anthropic’s Claude Fable 5.\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email digest and your homep",
-          "recommend_reason_zh": "阿里巴巴发布号称最强的Qwen3.8-Max，参数达2.4万亿，在Arena.AI榜上仅落后于Anthropic的Claude Fable 5及三个Opus模型，并宣布下周开放权重，展示中国AI正面挑战美国霸主地位。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-03T11:01:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5936,
-      "importance": 0.5936,
-      "importance_score": 0.5936,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.4896,
-        "source_tier": 0.58,
-        "ai_relevance": 0.68,
-        "recency": 0.8782,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-03T11:01:11Z",
-      "latest_at": "2026-08-03T11:01:11Z",
-      "primary_item": {
-        "id": "0f7cefc4fcaad28b1ef389339b0ce58a5bcdd4cc",
-        "title": "中国 Alibaba 再次叫板美国 AI 霸权 / China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "title_zh": "中国 Alibaba 再次叫板美国 AI 霸权",
-        "title_en": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "title_original": "China&#8217;s Alibaba takes another swipe at America’s AI supremacy",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "开源模型又添新成员，但没具体说API和性能，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
-      }
-    },
-    {
-      "story_id": "story_5c854a37b36c",
-      "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-      "url": "https://www.aibase.com/news/30082",
-      "primary_url": "https://www.aibase.com/news/30082",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
-          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "title_zh": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "title_en": null,
-          "title_original": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "summary": null,
-          "recommend_reason_zh": "CodeBuddy全面支持DeepSeek-V4-Flash正式版，WorkBuddy、IDE、插件及CLI产品均已完成适配，新模型在Agent能力上大幅超越DeepSeek-V4-Pro-Preview，为开发者带来更高效的智能编程体验。",
-          "url": "https://www.aibase.com/news/30082",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
-          "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "title_zh": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "title_en": null,
-          "title_original": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-          "summary": null,
-          "recommend_reason_zh": "CodeBuddy全面支持DeepSeek-V4-Flash正式版，WorkBuddy、IDE、插件及CLI产品均已完成适配，新模型在Agent能力上大幅超越DeepSeek-V4-Pro-Preview，为开发者带来更高效的智能编程体验。",
-          "url": "https://www.aibase.com/news/30082",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7474,
-      "importance": 0.7474,
-      "importance_score": 0.7474,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.888,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:47:19.776732Z",
-      "latest_at": "2026-08-03T11:47:19.776732Z",
-      "primary_item": {
-        "id": "6f2fa9e453b458d4d1b5e74035c9dc0909088931",
-        "title": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-        "title_zh": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-        "title_en": null,
-        "title_original": "腾讯CodeBuddy全面支持DeepSeek-V4-Flash正式版，Agent能力大幅提升",
-        "summary": null,
-        "recommend_reason_zh": "CodeBuddy全面支持DeepSeek-V4-Flash正式版，WorkBuddy、IDE、插件及CLI产品均已完成适配，新模型在Agent能力上大幅超越DeepSeek-V4-Pro-Preview，为开发者带来更高效的智能编程体验。",
-        "url": "https://www.aibase.com/news/30082",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CodeBuddy接新模型，Agent能力提升，做腾讯生态开发的可以试，但非刚需。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T20:15:38.612072Z"
+        "scored_at": "2026-08-03T21:45:32.901384Z"
       }
     }
   ]
