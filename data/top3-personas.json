@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T08:04:54.181635Z",
+  "generated_at": "2026-08-03T12:04:49.465752Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_df555478b2e0",
-      "title": "Codex 用 Sol 指挥 Luna Max 省额度翻倍产出",
-      "url": "https://x.com/AYi_AInotes/status/2083867265179537565",
+      "story_id": "story_2404ccea579b",
+      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
+      "url": "https://www.aibase.com/news/30076",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "Sol指挥Luna Max省额度翻倍？先晒出对照组和成本明细再吹。"
+          "score": 62,
+          "review": "叫板闭源模型？先公布对比基线和硬件成本再说，别光喊口号。"
         },
         "paper-police": {
-          "score": 10,
-          "review": "仅一条X帖文，无论文无代码无评测，Sol指挥Luna Max纯属说法。"
+          "score": 35,
+          "review": "仅官方新闻稿宣称性能，无论文无代码无第三方评测，证据不足。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "Sol 指挥 Luna 的玩法可抄，但没开源细节，先观望再动手。"
+          "score": 85,
+          "review": "超算平台一键调用，性能对标闭源，今天就能试，省自建成本。"
         }
       }
     },
     {
-      "story_id": "story_4d6c238ed8d7",
-      "title": "国产算力生态迎来重大突破：摩尔线程闪电适配MiniMax H3 多模态大模型",
-      "url": "https://www.aibase.com/news/30067",
+      "story_id": "story_13f269c0a486",
+      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
+      "url": "https://www.aibase.com/news/30081",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
-          "review": "适配快是快，但没给推理速度或成本对比，光说'重大突破'谁信？"
+          "review": "8B模型敢谈4K生成，demo挑几张好看的，量产良率敢晒吗？"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方宣称适配，无论文代码评测，仅新闻稿，证据不足。"
+          "score": 45,
+          "review": "开源模型但无论文无评测细节，仅官方宣称，需第三方验证。"
         },
         "pragmatic": {
-          "score": 60,
-          "review": "国产算力适配多模态模型是好事，但没给API或开源，先观望。"
+          "score": 72,
+          "review": "8B模型能原生4K出图，本地部署门槛低，做图像生成的可以试跑。"
         }
       }
     }
