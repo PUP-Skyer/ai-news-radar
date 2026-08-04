@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:36:53.521356Z",
+  "generated_at": "2026-08-04T15:53:11.047294Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_15af0d503f7c",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-      "url": "https://github.com/lyogavin/airllm",
+      "story_id": "story_05bcbbcf4f82",
+      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
+      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "省显存靠分层加载，速度慢到能泡杯咖啡，但至少真跑起来了。"
+          "review": "单卡跑通是本事，但'Flash'这名字听着就像阉割版，先晒个基准测试再说。"
         },
         "paper-police": {
-          "score": 72,
-          "review": "GitHub 仓库有代码和说明，但缺论文与独立 benchmark，单卡跑 70B 待验证。"
+          "score": 35,
+          "review": "只有GitHub仓库，无论文无benchmark，单卡跑通不等于可复现，缺实测数据。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "4GB 跑 70B 是硬核优化，低显存党今天就能试，但推理速度别抱幻想。"
+          "score": 88,
+          "review": "单卡跑V4 Flash，部署成本直接砍半，有MI300X的今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_abdbff9c6fe2",
-      "title": "自定义 Copilot 云端 Agent 的推理级别 / Customize the reasoning level for Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "story_id": "story_bcfdafe93ce8",
+      "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "调推理档位算实用，但别指望换汤换药变神器。"
+          "score": 72,
+          "review": "2.6B小模型敢喊随处部署，先跑个真实任务看看延迟和精度再说。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方更新无论文无代码，仅描述功能，缺评测证据。"
+          "score": 45,
+          "review": "博客给了模型细节和数字，但无代码无独立验证，等开源再评。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "能调推理级别，批量任务可省 token，今天就能试。"
+          "score": 85,
+          "review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。"
         }
       }
     }

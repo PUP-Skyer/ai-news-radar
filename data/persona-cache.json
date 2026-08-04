@@ -5580,6 +5580,84 @@
       "review": "GitHub 仓库有代码和说明，但缺论文与独立 benchmark，单卡跑 70B 待验证。",
       "title_hash": "c0edee93",
       "scored_at": "2026-08-04T12:36:53.521285Z"
+    },
+    "story_bcfdafe93ce8|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。",
+      "title_hash": "5e1a749d",
+      "scored_at": "2026-08-04T15:52:56.917273Z"
+    },
+    "story_8fcfc69e0c50|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "官宣汇总无细节，等具体API和价格再说。",
+      "title_hash": "a19ba5d1",
+      "scored_at": "2026-08-04T15:52:57.841329Z"
+    },
+    "story_51a68e6b77ff|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "分支命名可配，CI 脚本和分支保护规则得跟着调，今天就能改。",
+      "title_hash": "87186067",
+      "scored_at": "2026-08-04T15:52:58.815436Z"
+    },
+    "story_05bcbbcf4f82|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "单卡跑V4 Flash，部署成本直接砍半，有MI300X的今天就能试。",
+      "title_hash": "e5edd732",
+      "scored_at": "2026-08-04T15:52:59.687811Z"
+    },
+    "story_0c09902a6425|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CI 里自动开覆盖率，省一步配置，但别指望它解决测试质量问题。",
+      "title_hash": "d7f6c6fd",
+      "scored_at": "2026-08-04T15:53:00.484271Z"
+    },
+    "story_b35b3bd10fcc|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "百亿算力协议是巨头布局，短期不改变你的API价格或选型，看看就行。",
+      "title_hash": "233de51a",
+      "scored_at": "2026-08-04T15:53:01.418748Z"
+    },
+    "story_52842039f734|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "开源模型开放商用，做自动驾驶的可以试跑，但落地还得看算力成本。",
+      "title_hash": "eab31cfd",
+      "scored_at": "2026-08-04T15:53:02.303804Z"
+    },
+    "story_96343a50491c|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "工程流程优化案例，可借鉴思路，但非直接可用工具。",
+      "title_hash": "8a11310c",
+      "scored_at": "2026-08-04T15:53:04.061494Z"
+    },
+    "story_494ad8597a8c|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "开源权重直接可下，BF16和FP8都有，今天就能部署测试。",
+      "title_hash": "7588acc6",
+      "scored_at": "2026-08-04T15:53:04.942115Z"
+    },
+    "story_05bcbbcf4f82|cynic|f4237a62": {
+      "score": 72,
+      "review": "单卡跑通是本事，但'Flash'这名字听着就像阉割版，先晒个基准测试再说。",
+      "title_hash": "e5edd732",
+      "scored_at": "2026-08-04T15:53:06.463096Z"
+    },
+    "story_05bcbbcf4f82|paper-police|966065bf": {
+      "score": 35,
+      "review": "只有GitHub仓库，无论文无benchmark，单卡跑通不等于可复现，缺实测数据。",
+      "title_hash": "e5edd732",
+      "scored_at": "2026-08-04T15:53:08.447059Z"
+    },
+    "story_bcfdafe93ce8|cynic|f4237a62": {
+      "score": 72,
+      "review": "2.6B小模型敢喊随处部署，先跑个真实任务看看延迟和精度再说。",
+      "title_hash": "5e1a749d",
+      "scored_at": "2026-08-04T15:53:10.023643Z"
+    },
+    "story_bcfdafe93ce8|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客给了模型细节和数字，但无代码无独立验证，等开源再评。",
+      "title_hash": "5e1a749d",
+      "scored_at": "2026-08-04T15:53:11.047231Z"
     }
   }
 }
