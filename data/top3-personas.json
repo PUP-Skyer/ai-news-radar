@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T15:53:11.047294Z",
+  "generated_at": "2026-08-04T18:20:36.300484Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_9dc2cb12e04f",
-      "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
-      "url": "https://x.com/thsottiaux/status/2084506501834829833",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "降价80%是实打实的，但别急着欢呼，先看看是不是清库存或对标弱竞品。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅一条推特宣称降价，无官方公告或价格页佐证，证据不足。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "API直接降价80%，批量任务成本大降，今天就能换。"
-        }
-      }
-    },
-    {
       "story_id": "story_05bcbbcf4f82",
       "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_bcfdafe93ce8",
       "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_b2c075d30098",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "统一路由是刚需，但'支持'和'优化'是两码事，别急着吹。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节但无论文代码，等第三方验证再定论。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "统一路由API今天就能接，省掉多模型适配代码，直接换。"
         }
       }
     }
