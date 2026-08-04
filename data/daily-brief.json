@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-03T23:28:34.963302Z",
+  "generated_at": "2026-08-04T03:41:01.459295Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_abdbff9c6fe2",
+      "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+          "title_zh": "自定义 Copilot 云代理的推理级别",
+          "title_en": "Customize the reasoning level for Copilot cloud agent",
+          "title_original": "Customize the reasoning level for Copilot cloud agent",
+          "summary": "When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the…\nWhen you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it.\nThis allows you to control how much the model reasons before it responds. A higher level can improve answers to complex problems, but it consumes more tokens, and therefore more credits.\nPick a reasoning level alongside",
+          "recommend_reason_zh": "GitHub Copilot cloud agent现支持自定义推理级别，以控制模型响应前的推理量。更高级别可改善复杂问题答案，但会消耗更多tokens/credits，适用于Copilot Pro、Pro+、Business、Enterprise、Max等付费计划。",
+          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T23:27:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+          "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+          "title_zh": "自定义 Copilot 云代理的推理级别",
+          "title_en": "Customize the reasoning level for Copilot cloud agent",
+          "title_original": "Customize the reasoning level for Copilot cloud agent",
+          "summary": "When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the…\nWhen you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it.\nThis allows you to control how much the model reasons before it responds. A higher level can improve answers to complex problems, but it consumes more tokens, and therefore more credits.\nPick a reasoning level alongside",
+          "recommend_reason_zh": "GitHub Copilot cloud agent现支持自定义推理级别，以控制模型响应前的推理量。更高级别可改善复杂问题答案，但会消耗更多tokens/credits，适用于Copilot Pro、Pro+、Business、Enterprise、Max等付费计划。",
+          "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T23:27:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9408,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T23:27:35Z",
+      "latest_at": "2026-08-03T23:27:35Z",
+      "primary_item": {
+        "id": "5803cb933451034d5a8a624cb85ce4959768cd46",
+        "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
+        "title_zh": "自定义 Copilot 云代理的推理级别",
+        "title_en": "Customize the reasoning level for Copilot cloud agent",
+        "title_original": "Customize the reasoning level for Copilot cloud agent",
+        "summary": "When you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it. This allows you to control how much the…\nWhen you delegate a task to GitHub Copilot cloud agent, you can now set the reasoning level for models that support it.\nThis allows you to control how much the model reasons before it responds. A higher level can improve answers to complex problems, but it consumes more tokens, and therefore more credits.\nPick a reasoning level alongside",
+        "recommend_reason_zh": "GitHub Copilot cloud agent现支持自定义推理级别，以控制模型响应前的推理量。更高级别可改善复杂问题答案，但会消耗更多tokens/credits，适用于Copilot Pro、Pro+、Business、Enterprise、Max等付费计划。",
+        "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "能调推理档位，长任务省钱短任务提速，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T04:01:56.694915Z"
+      }
+    },
     {
       "story_id": "story_cd21c6fddb56",
       "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
+      "score": 0.8427,
+      "importance": 0.8427,
+      "importance_score": 0.8427,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 1.0,
+        "recency": 0.9482,
         "story_heat": 0.0
       },
       "category": "official",
@@ -65,8 +150,8 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T23:28:34.963302Z",
-      "latest_at": "2026-08-03T23:28:34.963302Z",
+      "earliest_at": "2026-08-04T00:00:00Z",
+      "latest_at": "2026-08-04T00:00:00Z",
       "primary_item": {
         "id": "1a88b98b8fb6fb30c3c8a33f925220a2d5f4d7ef",
         "title": "捣毁诈骗犯罪团伙 / Disrupting a Criminal Scam Operation",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -220,15 +305,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8371,
-      "importance": 0.8371,
-      "importance_score": 0.8371,
+      "score": 0.8276,
+      "importance": 0.8276,
+      "importance_score": 0.8276,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8498,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -257,30 +342,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
-      "story_id": "story_63bd4def256d",
-      "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "story_id": "story_808985f7b6f5",
+      "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "Triage 角色可绕过 Issue 创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "托管设置的企业团队专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
+          "summary": "Enterprise administrators can now customize managed settings by targeting enterprise teams with itemized configuration files. Large enterprises can scale governance without bottlenecking every configuration change through central administrators or one-size-fits-all…\nEnterprise administrators can now customize managed settings by targeting enterprise teams with itemized configuration files. Large enterprises can scale governance without bottlenecking every configuration change through central adm",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "source_count": 1,
@@ -289,31 +374,31 @@
       ],
       "items": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "Triage 角色可绕过 Issue 创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "托管设置的企业团队专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
+          "summary": "Enterprise administrators can now customize managed settings by targeting enterprise teams with itemized configuration files. Large enterprises can scale governance without bottlenecking every configuration change through central administrators or one-size-fits-all…\nEnterprise administrators can now customize managed settings by targeting enterprise teams with itemized configuration files. Large enterprises can scale governance without bottlenecking every configuration change through central adm",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8281,
-      "importance": 0.8281,
-      "importance_score": 0.8281,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9117,
+        "recency": 0.9336,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,255 +407,141 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
       "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-        "title_zh": "Triage 角色可绕过 Issue 创建限制",
-        "title_en": "Triage role can bypass issue creation restrictions",
-        "title_original": "Triage role can bypass issue creation restrictions",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "托管设置的企业团队专业化 / Enterprise team specialization for managed settings",
+        "title_zh": "托管设置的企业团队专业化",
+        "title_en": "Enterprise team specialization for managed settings",
+        "title_original": "Enterprise team specialization for managed settings",
+        "summary": "Enterprise administrators can now customize managed settings by targeting enterprise teams with itemized configuration files. Large enterprises can scale governance without bottlenecking every configuration change through central administrators or one-size-fits-all…\nEnterprise administrators can now customize managed settings by targeting enterprise teams with itemized configuration files. Large enterprises can scale governance without bottlenecking every configuration change through central adm",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "权限模型有变，管仓库的今天就得核对角色配置，防绕过。",
+      "persona_score": 70,
+      "persona_review": "企业团队管理设置更细了，管理员今天就能调整权限粒度。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
-      "story_id": "story_86a49a282286",
-      "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
-      "url": "https://qwen.ai/blog?id=qwen3.8",
-      "primary_url": "https://qwen.ai/blog?id=qwen3.8",
-      "source": "Qwen：Blog Retrieval（API）",
+      "story_id": "story_403eeb056aa6",
+      "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+      "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "primary_url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+      "source": "TechCrunch：AI（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
-          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-          "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
-          "title_original": "Qwen3.8-Max： A New Bar for Coding and Cowork",
-          "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
-          "recommend_reason_zh": "本文介绍Qwen Studio的全面功能，涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及artifacts，并阐述Qwen3.8-Max在编程与协作上树立的新标杆。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+          "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+          "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+          "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+          "recommend_reason_zh": "Palantir季度利润达10亿美元，CEO Alex Karp警告AI前沿实验室对企业太不可信，并称AI行业“马克思主义”，一文看懂他的犀利批评。",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T02:00:00Z"
+          "published_at": "2026-08-03T23:19:50Z"
         },
         {
-          "id": "c375a6bd2f0e27c8cfc872cad10c13f7245f3ef4",
-          "title": "Qwen3.8-Max：编程与协同办公的新去处",
-          "title_zh": "Qwen3.8-Max：编程与协同办公的新去处",
-          "title_en": null,
-          "title_original": "Qwen3.8-Max：编程与协同办公的新去处",
+          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+          "title_en": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "title_original": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
           "summary": null,
-          "recommend_reason_zh": "本文介绍Qwen Studio，其功能涵盖chatbot、图像视频理解、图像生成、文档处理、网页搜索、工具利用与artifacts，为编程与协同办公提供新去处。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T03:52:51.022000Z"
-        },
-        {
-          "id": "01912e58c783a3e53d2a23cd2b7aee845ef45cfe",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-          "title_en": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "title_original": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍Qwen3.8-Max及其Qwen Studio，后者功能涵盖聊天、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts，为编程与协同树立新标杆。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:16:09Z"
+          "recommend_reason_zh": "Palantir强劲季度利润达十亿美元，CEO Alex Karp却称AI行业为‘Marxist’，并警告前沿实验室对企业不可信。业绩与言论的反差，展示了他对AI行业的尖锐立场。",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T23:19:50Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
+        "TechCrunch AI",
+        "TechCrunch：AI（RSS）"
       ],
       "items": [
         {
-          "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
-          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-          "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
-          "title_original": "Qwen3.8-Max： A New Bar for Coding and Cowork",
-          "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
-          "recommend_reason_zh": "本文介绍Qwen Studio的全面功能，涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及artifacts，并阐述Qwen3.8-Max在编程与协作上树立的新标杆。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Qwen：Blog Retrieval（API）",
+          "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+          "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+          "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+          "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+          "recommend_reason_zh": "Palantir季度利润达10亿美元，CEO Alex Karp警告AI前沿实验室对企业太不可信，并称AI行业“马克思主义”，一文看懂他的犀利批评。",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch：AI（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T02:00:00Z"
+          "published_at": "2026-08-03T23:19:50Z"
         },
         {
-          "id": "c375a6bd2f0e27c8cfc872cad10c13f7245f3ef4",
-          "title": "Qwen3.8-Max：编程与协同办公的新去处",
-          "title_zh": "Qwen3.8-Max：编程与协同办公的新去处",
-          "title_en": null,
-          "title_original": "Qwen3.8-Max：编程与协同办公的新去处",
+          "id": "f300eb7fcd552934c20e5301b9aab908fffc7c59",
+          "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+          "title_en": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "title_original": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
           "summary": null,
-          "recommend_reason_zh": "本文介绍Qwen Studio，其功能涵盖chatbot、图像视频理解、图像生成、文档处理、网页搜索、工具利用与artifacts，为编程与协同办公提供新去处。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T03:52:51.022000Z"
-        },
-        {
-          "id": "01912e58c783a3e53d2a23cd2b7aee845ef45cfe",
-          "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-          "title_en": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "title_original": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍Qwen3.8-Max及其Qwen Studio，后者功能涵盖聊天、图像与视频理解、图像生成、文档处理、网页搜索、工具调用和artifacts，为编程与协同树立新标杆。",
-          "url": "https://qwen.ai/blog?id=qwen3.8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-03T02:16:09Z"
+          "recommend_reason_zh": "Palantir强劲季度利润达十亿美元，CEO Alex Karp却称AI行业为‘Marxist’，并警告前沿实验室对企业不可信。业绩与言论的反差，展示了他对AI行业的尖锐立场。",
+          "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-03T23:19:50Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7756,
+      "importance": 0.7756,
+      "importance_score": 0.7756,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.89,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7334,
-        "story_heat": 0.5
+        "recency": 0.9391,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T02:00:00Z",
-      "latest_at": "2026-08-03T03:52:51.022000Z",
+      "earliest_at": "2026-08-03T23:19:50Z",
+      "latest_at": "2026-08-03T23:19:50Z",
       "primary_item": {
-        "id": "ad95486dd7cd1e27c6339ca6e0b67c7429bc8156",
-        "title": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数 / Qwen3.8-Max： A New Bar for Coding and Cowork",
-        "title_zh": "Qwen3.8-Max 发布：开源最强编码与协作模型，2.4T 参数",
-        "title_en": "Qwen3.8-Max： A New Bar for Coding and Cowork",
-        "title_original": "Qwen3.8-Max： A New Bar for Coding and Cowork",
-        "summary": "Qwen 正式发布 Qwen3.8-Max，这是 Qwen 家族迄今最强的模型，拥有 2.4T 参数（95B 激活），并首次开源 Qwen-Max 级权重，开放权重将于下周发布。",
-        "recommend_reason_zh": "本文介绍Qwen Studio的全面功能，涵盖聊天机器人、图像与视频理解、图像生成、文档处理、网页搜索集成、工具调用及artifacts，并阐述Qwen3.8-Max在编程与协作上树立的新标杆。",
-        "url": "https://qwen.ai/blog?id=qwen3.8",
-        "source": "Qwen：Blog Retrieval（API）",
+        "id": "0c32bd232500d93107ebab1af6ba0195ea3fa3ab",
+        "title": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\" / After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+        "title_zh": "Palantir 强劲季度后，CEO Alex Karp 称 AI 行业\"马克思主义\"",
+        "title_en": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+        "title_original": "After killer quarter， Palantir CEO Alex Karp calls AI industry 'Marxist'",
+        "summary": "Palantir CEO Alex Karp 在季度股东信中警告，前沿 AI 实验室对企业过于不可信，并称其意图\"占有所谓合作伙伴的生产资料\"，带有\"马克思主义色彩\"。该公司第二季度营收 19 亿美元，同比增长 93%，利润 11 亿美元。Karp 主张 Palantir 提供模型无关的 AI 与分析软件，让企业掌控自身数据与 AI\"废气\"（提示词、编排、上下文）。",
+        "recommend_reason_zh": "Palantir季度利润达10亿美元，CEO Alex Karp警告AI前沿实验室对企业太不可信，并称AI行业“马克思主义”，一文看懂他的犀利批评。",
+        "url": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开源2.4T参数编码模型，能本地部署或API调用，写代码的今天就能试。",
+      "persona_score": 25,
+      "persona_review": "CEO 嘴炮不写代码，财报好也不代表你能抄作业。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
-      }
-    },
-    {
-      "story_id": "story_cef962707d08",
-      "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
-          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "summary": null,
-          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
-          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-          "summary": null,
-          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
-          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T16:33:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8269,
-      "importance": 0.8269,
-      "importance_score": 0.8269,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9049,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T16:33:13Z",
-      "latest_at": "2026-08-03T16:33:13Z",
-      "primary_item": {
-        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
-        "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
-        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
-        "summary": null,
-        "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
-        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "迁移工具上线，正考虑换平台的团队可以省不少手工活，但仅限企业版。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -618,15 +589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8055,
+      "importance": 0.8055,
+      "importance_score": 0.8055,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7883,
+        "recency": 0.7418,
         "story_heat": 0.0
       },
       "category": "official",
@@ -655,7 +626,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -732,15 +703,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9193,
+        "recency": 0.8651,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -769,7 +740,260 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
+      }
+    },
+    {
+      "story_id": "story_723bf7d83ca2",
+      "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+      "url": "https://www.aibase.com/news/30089",
+      "primary_url": "https://www.aibase.com/news/30089",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ae06c6ca0500d73c5ef082ec51ae98099610c7a2",
+          "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "title_zh": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "title_en": null,
+          "title_original": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "summary": "Google is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nGoogle is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nGoogle is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nExplore AI Fronti",
+          "recommend_reason_zh": "Google 砍掉尚未正式发布的 AI Studio 独立应用，将其核心功能并入 Gemini，尽管该应用已有 80 万用户预购、覆盖 168 国。",
+          "url": "https://www.aibase.com/news/30089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T03:41:01.459295Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ae06c6ca0500d73c5ef082ec51ae98099610c7a2",
+          "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "title_zh": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "title_en": null,
+          "title_original": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+          "summary": "Google is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nGoogle is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nGoogle is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nExplore AI Fronti",
+          "recommend_reason_zh": "Google 砍掉尚未正式发布的 AI Studio 独立应用，将其核心功能并入 Gemini，尽管该应用已有 80 万用户预购、覆盖 168 国。",
+          "url": "https://www.aibase.com/news/30089",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T03:41:01.459295Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T03:41:01.459295Z",
+      "latest_at": "2026-08-04T03:41:01.459295Z",
+      "primary_item": {
+        "id": "ae06c6ca0500d73c5ef082ec51ae98099610c7a2",
+        "title": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+        "title_zh": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+        "title_en": null,
+        "title_original": "80 万人预购等到一刀切：Google 砍掉 AI Studio 独立应用，全盘塞进 Gemini",
+        "summary": "Google is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nGoogle is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nGoogle is well-known for frequently discontinuing products, but this time even an application that had not yet officially launched was not spared. The standalon\nExplore AI Fronti",
+        "recommend_reason_zh": "Google 砍掉尚未正式发布的 AI Studio 独立应用，将其核心功能并入 Gemini，尽管该应用已有 80 万用户预购、覆盖 168 国。",
+        "url": "https://www.aibase.com/news/30089",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "产品整合是常态，等 Gemini 功能到位再迁移，别急着换工具。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T04:01:56.694915Z"
+      }
+    },
+    {
+      "story_id": "story_63bd4def256d",
+      "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+          "title_zh": "Triage 角色可绕过 Issue 创建限制",
+          "title_en": "Triage role can bypass issue creation restrictions",
+          "title_original": "Triage role can bypass issue creation restrictions",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T17:04:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+          "title_zh": "Triage 角色可绕过 Issue 创建限制",
+          "title_en": "Triage role can bypass issue creation restrictions",
+          "title_original": "Triage role can bypass issue creation restrictions",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
+          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T17:04:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8184,
+      "importance": 0.8184,
+      "importance_score": 0.8184,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.858,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-03T17:04:32Z",
+      "latest_at": "2026-08-03T17:04:32Z",
+      "primary_item": {
+        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
+        "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
+        "title_zh": "Triage 角色可绕过 Issue 创建限制",
+        "title_en": "Triage role can bypass issue creation restrictions",
+        "title_original": "Triage role can bypass issue creation restrictions",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
+        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "权限模型有变，管仓库的今天就得核对角色配置，防绕过。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T04:01:56.694915Z"
+      }
+    },
+    {
+      "story_id": "story_1c15eb0f8e4b",
+      "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+      "url": "https://www.aibase.com/news/30086",
+      "primary_url": "https://www.aibase.com/news/30086",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6a9f168c50b28bb6941861032cfe49d42059b115",
+          "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+          "title_zh": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+          "title_en": null,
+          "title_original": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+          "summary": "Sichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nSichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nSichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30086",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T03:41:01.459295Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6a9f168c50b28bb6941861032cfe49d42059b115",
+          "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+          "title_zh": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+          "title_en": null,
+          "title_original": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+          "summary": "Sichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nSichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nSichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nExplore AI Frontiers",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/30086",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-04T03:41:01.459295Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T03:41:01.459295Z",
+      "latest_at": "2026-08-04T03:41:01.459295Z",
+      "primary_item": {
+        "id": "6a9f168c50b28bb6941861032cfe49d42059b115",
+        "title": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+        "title_zh": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+        "title_en": null,
+        "title_original": "AI 造假炒股第一案：95 后两天炮制 17 篇虚假文章，赚 8.5 万被罚 48.5 万",
+        "summary": "Sichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nSichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nSichuan CSRC announced an administrative penalty decision on August 3, stating that a \"95 post\" investor, Sun, was fined 400,000 yuan and had his illegal gains\nExplore AI Frontiers",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/30086",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "监管案例，对开发者无直接工具价值，但提醒别用AI干违法事。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -817,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7469,
-      "importance": 0.7469,
-      "importance_score": 0.7469,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.985,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -852,7 +1076,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
+      }
+    },
+    {
+      "story_id": "story_c2d210a01888",
+      "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "title_zh": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "title_en": null,
+          "title_original": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+          "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "title_zh": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "title_en": null,
+          "title_original": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+          "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T00:06:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9496,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-04T00:06:00Z",
+      "latest_at": "2026-08-04T00:06:00Z",
+      "primary_item": {
+        "id": "0de57b7d014107379b4cd5b1c435cb4df25bf721",
+        "title": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+        "title_zh": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+        "title_en": null,
+        "title_original": "从零开始，教你用Codex搓出属于你自己的第一个硬件",
+        "summary": "作者以零基础身份，全程通过与Codex对话，从需求讨论、电路搭建、代码烧录到3D打印组装，5天内做出一个能提醒久坐的猫爪硬件。文中还介绍了用Agent调试宏键盘、以及OpenAI与Work Louder联名发布的Codex Micro键盘（13个机械按键，售价230美元）等案例，强调\"干中学\"的AI开发方式。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684924&idx=1&sn=f9ecf13ac374f13dfa75f98f685a231d",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "教程类内容，可当入门参考，但无新工具或API，动手价值有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -900,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7306,
+      "importance": 0.7306,
+      "importance_score": 0.7306,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9681,
+        "recency": 0.911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,90 +1242,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
-      }
-    },
-    {
-      "story_id": "story_2404ccea579b",
-      "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-      "url": "https://www.aibase.com/news/30076",
-      "primary_url": "https://www.aibase.com/news/30076",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek-V4-Flash-0731正式版上线国家超算互联网，API可一键调用，免去环境配置，基准测试多项结果已比肩最强闭源模型，开发者还能直接下载模型文件完成微调部署。",
-          "url": "https://www.aibase.com/news/30076",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-          "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek-V4-Flash-0731正式版上线国家超算互联网，API可一键调用，免去环境配置，基准测试多项结果已比肩最强闭源模型，开发者还能直接下载模型文件完成微调部署。",
-          "url": "https://www.aibase.com/news/30076",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:47:19.776732Z",
-      "latest_at": "2026-08-03T11:47:19.776732Z",
-      "primary_item": {
-        "id": "0ef4ddec25ea65e867c958b135b2bb15f979ed93",
-        "title": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "title_zh": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash 正式版上线国家超算互联网：一键调用，性能叫板最强闭源模型",
-        "summary": null,
-        "recommend_reason_zh": "DeepSeek-V4-Flash-0731正式版上线国家超算互联网，API可一键调用，免去环境配置，基准测试多项结果已比肩最强闭源模型，开发者还能直接下载模型文件完成微调部署。",
-        "url": "https://www.aibase.com/news/30076",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "超算平台一键调用，性能对标闭源，今天就能试，省自建成本。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -1066,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9538,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1101,90 +1325,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
-      "story_id": "story_315ee5f98a4b",
-      "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
-      "source": "X：Microsoft Research (@MSFTResearch)",
-      "source_name": "AI HOT",
+      "story_id": "story_cef962707d08",
+      "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+      "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "primary_url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-          "title_zh": "微软开源 Orchard 智能体训练框架",
-          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
-          "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
-          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Microsoft Research (@MSFTResearch)"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-          "title_zh": "微软开源 Orchard 智能体训练框架",
-          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
-          "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
-          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-          "source": "X：Microsoft Research (@MSFTResearch)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T19:43:28Z"
+          "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+          "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+          "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+          "summary": null,
+          "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+          "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-03T16:33:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
-      "importance_label": "行业动态",
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9473,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8515,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-03T19:43:28Z",
-      "latest_at": "2026-08-03T19:43:28Z",
+      "earliest_at": "2026-08-03T16:33:13Z",
+      "latest_at": "2026-08-03T16:33:13Z",
       "primary_item": {
-        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
-        "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-        "title_zh": "微软开源 Orchard 智能体训练框架",
-        "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-        "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
-        "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
-        "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
-        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
-        "source": "X：Microsoft Research (@MSFTResearch)",
-        "source_name": "AI HOT"
+        "id": "c62b7d6b1f6f5a27d5ebbec0b5ab3f51dde146af",
+        "title": "用GitHub Enterprise Importer从GitLab迁移到GitHub / Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_zh": "用GitHub Enterprise Importer从GitLab迁移到GitHub",
+        "title_en": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "title_original": "Migrate from GitLab to GitHub with GitHub Enterprise Importer",
+        "summary": null,
+        "recommend_reason_zh": "GitLab 用户现在可用 GitHub Enterprise Importer 自助迁移至 GitHub Enterprise Cloud，支持 gitlab.com 与 Self-Managed，通过 gh gl2gh 命令行扩展操作，覆盖 github.com 和 ghe.com，但暂不支持迁移到 Enterprise Server。",
+        "url": "https://github.blog/changelog/2026-08-03-migrate-from-gitlab-to-github-with-github-enterprise-importer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "开源框架可研究，但面向研究社区，生产落地还早，先观望。",
+      "persona_score": 72,
+      "persona_review": "迁移工具上线，正考虑换平台的团队可以省不少手工活，但仅限企业版。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -1232,15 +1458,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
+      "score": 0.7272,
+      "importance": 0.7272,
+      "importance_score": 0.7272,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.8089,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1267,7 +1493,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
+      }
+    },
+    {
+      "story_id": "story_315ee5f98a4b",
+      "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+      "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "primary_url": "https://x.com/MSFTResearch/status/2084364547142418722",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_zh": "微软开源 Orchard 智能体训练框架",
+          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+          "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_zh": "微软开源 Orchard 智能体训练框架",
+          "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+          "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+          "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
+          "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-03T19:43:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8914,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-03T19:43:28Z",
+      "latest_at": "2026-08-03T19:43:28Z",
+      "primary_item": {
+        "id": "556ce1f1e1539881d630412aec4ff6f25aa4f6fe",
+        "title": "微软开源 Orchard 智能体训练框架 / Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "title_zh": "微软开源 Orchard 智能体训练框架",
+        "title_en": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "title_original": "Orchard is an open-source framework for the research community to train and evaluate AI agents acros…",
+        "summary": "Orchard 是一个面向研究社区的开源框架，用于跨任务类型训练和评估 AI 智能体。它降低了复杂性，同时通过让研究人员复用同一套基础设施，支持较小模型也能实现强劲性能。https://msft.it/6019a8fqP",
+        "recommend_reason_zh": "Orchard作为开源框架，让研究社区跨任务类型训练与评估AI agents，通过复用相同基础设施降低复杂性，同时让小模型也能保持强性能。",
+        "url": "https://x.com/MSFTResearch/status/2084364547142418722",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "开源框架可研究，但面向研究社区，生产落地还早，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -1315,15 +1624,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7361,
-      "importance": 0.7361,
-      "importance_score": 0.7361,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.8389,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1350,90 +1659,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
-      }
-    },
-    {
-      "story_id": "story_3d9273103737",
-      "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-      "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
-      "primary_url": "https://x.com/SenseTime_AI/status/2084288424236782073",
-      "source": "X：商汤 SenseTime (@SenseTime_AI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
-          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-          "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
-          "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-          "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-          "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
-          "recommend_reason_zh": "本文介绍SenseNova U1.5-Lite-Preview，基于NEO-Unify架构的开源早期预览轻量级原生统一多模态模型，可原生跨模态理解、推理、生成和编辑。",
-          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T14:40:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：商汤 SenseTime (@SenseTime_AI)"
-      ],
-      "items": [
-        {
-          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
-          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-          "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
-          "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-          "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-          "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
-          "recommend_reason_zh": "本文介绍SenseNova U1.5-Lite-Preview，基于NEO-Unify架构的开源早期预览轻量级原生统一多模态模型，可原生跨模态理解、推理、生成和编辑。",
-          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
-          "source": "X：商汤 SenseTime (@SenseTime_AI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T14:40:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7341,
-      "importance": 0.7341,
-      "importance_score": 0.7341,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.68,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8808,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T14:40:59Z",
-      "latest_at": "2026-08-03T14:40:59Z",
-      "primary_item": {
-        "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
-        "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-        "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
-        "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-        "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
-        "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
-        "recommend_reason_zh": "本文介绍SenseNova U1.5-Lite-Preview，基于NEO-Unify架构的开源早期预览轻量级原生统一多模态模型，可原生跨模态理解、推理、生成和编辑。",
-        "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
-        "source": "X：商汤 SenseTime (@SenseTime_AI)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "开源预览版可试，但没给 benchmark 和部署细节，先观望再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
@@ -1481,15 +1707,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7958,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1516,339 +1742,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     },
     {
-      "story_id": "story_0ef8d19ed489",
-      "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-      "url": "https://www.aibase.com/news/30078",
-      "primary_url": "https://www.aibase.com/news/30078",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_en": null,
-          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "summary": null,
-          "recommend_reason_zh": "Gary Marcus 撰文指出，OpenAI 新模型 Astra 的数学佳绩被过分夸大：数学易用符号工具验证、合成数据成本极低，但真实开放问题远更复杂，且 OpenAI 未公布方法细节与评测基准。",
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5357842007b62e9404544dc1119ed664675d994",
-          "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "title_en": null,
-          "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-          "summary": null,
-          "recommend_reason_zh": "Gary Marcus 撰文指出，OpenAI 新模型 Astra 的数学佳绩被过分夸大：数学易用符号工具验证、合成数据成本极低，但真实开放问题远更复杂，且 OpenAI 未公布方法细节与评测基准。",
-          "url": "https://www.aibase.com/news/30078",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:47:19.776732Z",
-      "latest_at": "2026-08-03T11:47:19.776732Z",
-      "primary_item": {
-        "id": "c5357842007b62e9404544dc1119ed664675d994",
-        "title": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "title_zh": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "title_en": null,
-        "title_original": "OpenAI 新模型 Astra 数学领域表现出色，但被过分夸大了",
-        "summary": null,
-        "recommend_reason_zh": "Gary Marcus 撰文指出，OpenAI 新模型 Astra 的数学佳绩被过分夸大：数学易用符号工具验证、合成数据成本极低，但真实开放问题远更复杂，且 OpenAI 未公布方法细节与评测基准。",
-        "url": "https://www.aibase.com/news/30078",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "模型强但没开放，先观望；等API或开源再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
-      }
-    },
-    {
-      "story_id": "story_69bc7ebc36d0",
-      "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
-      "url": "https://blog.cloudflare.com/cloudflare-computer",
-      "primary_url": "https://blog.cloudflare.com/cloudflare-computer",
-      "source": "Cloudflare Blog",
+      "story_id": "story_3d9273103737",
+      "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+      "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+      "primary_url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+      "source": "X：商汤 SenseTime (@SenseTime_AI)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9874b290d806248194911e23c5f40476c3a608d3",
-          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
-          "title_zh": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-          "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-          "title_original": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-          "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
-          "recommend_reason_zh": "@cloudflare/computer 推出 agent 运行时，动态编排轻量 isolates 与完整 Linux 容器，让每个 agent 拥有独立计算机，以应对未来数十亿并发 agent 的算力需求。",
-          "url": "https://blog.cloudflare.com/cloudflare-computer",
-          "source": "Cloudflare Blog",
+          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+          "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+          "recommend_reason_zh": "本文介绍SenseNova U1.5-Lite-Preview，基于NEO-Unify架构的开源早期预览轻量级原生统一多模态模型，可原生跨模态理解、推理、生成和编辑。",
+          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T13:15:24Z"
+          "published_at": "2026-08-03T14:40:59Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Cloudflare Blog"
+        "X：商汤 SenseTime (@SenseTime_AI)"
       ],
       "items": [
         {
-          "id": "9874b290d806248194911e23c5f40476c3a608d3",
-          "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
-          "title_zh": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-          "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-          "title_original": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-          "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
-          "recommend_reason_zh": "@cloudflare/computer 推出 agent 运行时，动态编排轻量 isolates 与完整 Linux 容器，让每个 agent 拥有独立计算机，以应对未来数十亿并发 agent 的算力需求。",
-          "url": "https://blog.cloudflare.com/cloudflare-computer",
-          "source": "Cloudflare Blog",
+          "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+          "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+          "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+          "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+          "recommend_reason_zh": "本文介绍SenseNova U1.5-Lite-Preview，基于NEO-Unify架构的开源早期预览轻量级原生统一多模态模型，可原生跨模态理解、推理、生成和编辑。",
+          "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+          "source": "X：商汤 SenseTime (@SenseTime_AI)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T13:15:24Z"
+          "published_at": "2026-08-03T14:40:59Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-03T13:15:24Z",
-      "latest_at": "2026-08-03T13:15:24Z",
+      "earliest_at": "2026-08-03T14:40:59Z",
+      "latest_at": "2026-08-03T14:40:59Z",
       "primary_item": {
-        "id": "9874b290d806248194911e23c5f40476c3a608d3",
-        "title": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境 / Your agent needs a computer， not a container - introducing @cloudflare/computer",
-        "title_zh": "Cloudflare 推出 @cloudflare/computer 预览版：为智能体提供虚拟文件系统与多执行环境",
-        "title_en": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-        "title_original": "Your agent needs a computer， not a container - introducing @cloudflare/computer",
-        "summary": "Cloudflare 发布 @cloudflare/computer 早期预览版，这是一个开源智能体运行时，为每个智能体提供虚拟文件系统，并支持在 isolate、容器沙箱或浏览器中执行代码。",
-        "recommend_reason_zh": "@cloudflare/computer 推出 agent 运行时，动态编排轻量 isolates 与完整 Linux 容器，让每个 agent 拥有独立计算机，以应对未来数十亿并发 agent 的算力需求。",
-        "url": "https://blog.cloudflare.com/cloudflare-computer",
-        "source": "Cloudflare Blog",
+        "id": "635756b0e74e1a8aa32edee0ffc2b3cc8a42ec23",
+        "title": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型 / Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+        "title_zh": "商汤发布 SenseNova U1.5-Lite-Preview 开源模型",
+        "title_en": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+        "title_original": "Introducing SenseNova U1.5-Lite-Preview. An early open-source previ…",
+        "summary": "商汤推出 SenseNova U1.5-Lite-Preview，一个基于 NEO-Unify 架构的轻量级原生统一多模态模型，仅 8B-MoT 参数即可达到商业闭源模型的生成与编辑质量。",
+        "recommend_reason_zh": "本文介绍SenseNova U1.5-Lite-Preview，基于NEO-Unify架构的开源早期预览轻量级原生统一多模态模型，可原生跨模态理解、推理、生成和编辑。",
+        "url": "https://x.com/SenseTime_AI/status/2084288424236782073",
+        "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "给Agent配虚拟文件系统，多环境跑任务，适合做复杂自动化的今天就能试。",
+      "persona_score": 62,
+      "persona_review": "开源预览版可试，但没给 benchmark 和部署细节，先观望再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
-      }
-    },
-    {
-      "story_id": "story_13f269c0a486",
-      "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-      "url": "https://www.aibase.com/news/30081",
-      "primary_url": "https://www.aibase.com/news/30081",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_en": null,
-          "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍商汤开源的SenseNova U1.5-Lite-Preview，基于NEO-unify架构，仅以8B-MoT参数实现原生4K图像生成，并提升中英文文本生成与多参考图编辑能力。",
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-          "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "title_en": null,
-          "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍商汤开源的SenseNova U1.5-Lite-Preview，基于NEO-unify架构，仅以8B-MoT参数实现原生4K图像生成，并提升中英文文本生成与多参考图编辑能力。",
-          "url": "https://www.aibase.com/news/30081",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:47:19.776732Z",
-      "latest_at": "2026-08-03T11:47:19.776732Z",
-      "primary_item": {
-        "id": "f73629ffd72f8ba9329af419c04d8b6a6a7040c0",
-        "title": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "title_zh": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "title_en": null,
-        "title_original": "商汤开源SenseNova U1.5-Lite-Preview:8B模型支持原生4K图像生成",
-        "summary": null,
-        "recommend_reason_zh": "本文介绍商汤开源的SenseNova U1.5-Lite-Preview，基于NEO-unify架构，仅以8B-MoT参数实现原生4K图像生成，并提升中英文文本生成与多参考图编辑能力。",
-        "url": "https://www.aibase.com/news/30081",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "8B模型能原生4K出图，本地部署门槛低，做图像生成的可以试跑。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
-      }
-    },
-    {
-      "story_id": "story_1435bdc2b70b",
-      "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-      "url": "https://www.aibase.com/news/30079",
-      "primary_url": "https://www.aibase.com/news/30079",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_en": null,
-          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "summary": null,
-          "recommend_reason_zh": "德国慕尼黑法院裁定AI音乐生成器Suno在模型训练和最终输出中均构成版权侵权，驳回其合理使用抗辩；本案由GEMA发起，涉及“Atemlos durch die Nacht”等六首知名歌曲。",
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-          "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "title_en": null,
-          "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-          "summary": null,
-          "recommend_reason_zh": "德国慕尼黑法院裁定AI音乐生成器Suno在模型训练和最终输出中均构成版权侵权，驳回其合理使用抗辩；本案由GEMA发起，涉及“Atemlos durch die Nacht”等六首知名歌曲。",
-          "url": "https://www.aibase.com/news/30079",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-03T11:47:19.776732Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8447,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T11:47:19.776732Z",
-      "latest_at": "2026-08-03T11:47:19.776732Z",
-      "primary_item": {
-        "id": "d627b0fcdb69b5e262acd1cd524ff72737dbcd94",
-        "title": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "title_zh": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "title_en": null,
-        "title_original": "德国法院重磅裁定：AI音乐生成器Suno侵犯版权，被驳回合理使用抗辩",
-        "summary": null,
-        "recommend_reason_zh": "德国慕尼黑法院裁定AI音乐生成器Suno在模型训练和最终输出中均构成版权侵权，驳回其合理使用抗辩；本案由GEMA发起，涉及“Atemlos durch die Nacht”等六首知名歌曲。",
-        "url": "https://www.aibase.com/news/30079",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "版权判例影响合规成本，但今天不写歌就不用动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-03T23:45:45.934117Z"
+        "scored_at": "2026-08-04T04:01:56.694915Z"
       }
     }
   ]
