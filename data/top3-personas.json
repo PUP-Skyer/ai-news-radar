@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T04:02:11.901671Z",
+  "generated_at": "2026-08-04T06:56:43.161950Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_9dc2cb12e04f",
+      "title": "GPT-5.6 Luna降价80%永久生效 / Some fine folks apparently misunderstood， but the GPT-5.6 Luna price reduction by 80% is not a tempo…",
+      "url": "https://x.com/thsottiaux/status/2084506501834829833",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "降价80%是实打实的，但别急着欢呼，先看看是不是清库存或对标弱竞品。"
+        },
+        "paper-police": {
+          "score": 10,
+          "review": "仅一条推特宣称降价，无官方公告或价格页佐证，证据不足。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "API直接降价80%，批量任务成本大降，今天就能换。"
+        }
+      }
+    },
+    {
       "story_id": "story_268138d2f7c5",
       "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
       "url": "https://github.com/lyogavin/airllm",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_59233e31a45d",
       "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
       "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "GPT实时语音API已开放，做语音交互的今天就能接入，延迟和成本值得实测。"
-        }
-      }
-    },
-    {
-      "story_id": "story_abdbff9c6fe2",
-      "title": "自定义 Copilot 云代理的推理级别 / Customize the reasoning level for Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "推理级别可调是实用功能，但'自定义'听着高级，实际就是预设档位。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节，无评测数据，仅功能说明，缺证据。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "能调推理档位，长任务省钱短任务提速，今天就能试。"
         }
       }
     }
