@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T06:56:43.161950Z",
+  "generated_at": "2026-08-04T10:14:06.645004Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_59233e31a45d",
-      "title": "我们如何在六个月内构建出响应式语音AI实时系统 / How we built a realtime system for responsive voice AI in six months",
-      "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
+      "story_id": "story_abdbff9c6fe2",
+      "title": "自定义 Copilot 云端 Agent 的推理级别 / Customize the reasoning level for Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-08-03-customize-the-reasoning-level-for-copilot-cloud-agent",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "六个月能落地实时语音，算实打实；但宣传口径里水分不少，得自己挤。"
+          "score": 70,
+          "review": "调推理档位算实用，但别指望换汤换药变神器。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了细节和数字，但无论文无代码，等独立验证再定论。"
+          "score": 20,
+          "review": "官方更新无论文无代码，仅描述功能，缺评测证据。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "GPT实时语音API已开放，做语音交互的今天就能接入，延迟和成本值得实测。"
+          "score": 75,
+          "review": "能调推理级别，批量任务可省 token，今天就能试。"
         }
       }
     }
