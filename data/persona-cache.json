@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_ee7d92805957|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接威胁安全，立即检查版本并暂停打开可疑仓库。",
-      "title_hash": "bd86314d",
-      "scored_at": "2026-07-14T22:25:32.079865Z"
-    },
-    "story_a583c8549146|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "若在用该模型，立即隔离权限并审计日志；尚未用的暂缓上线。",
-      "title_hash": "7cbab8a2",
-      "scored_at": "2026-07-14T22:25:35.156720Z"
-    },
-    "story_ee7d92805957|cynic|f4237a62": {
-      "score": 30,
-      "review": "AI 自动补代码倒是挺欢，自动补个安全补丁怎么没这积极性？",
-      "title_hash": "bd86314d",
-      "scored_at": "2026-07-14T22:25:39.562534Z"
-    },
-    "story_ee7d92805957|paper-police|966065bf": {
-      "score": 15,
-      "review": "仅有一篇博客宣称漏洞，无论文无PoC代码，无法验证真实性。",
-      "title_hash": "bd86314d",
-      "scored_at": "2026-07-14T22:25:43.324892Z"
-    },
     "story_72440e047ac9|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "Codex更新频繁，生态活跃，搞AI编程的今天可查更新日志优化工作流。",
@@ -5532,6 +5508,12 @@
       "review": "Apple Silicon 上能跑新模型，本地实验省云费用，但需确认 MLX 移植成熟度。",
       "title_hash": "e3522003",
       "scored_at": "2026-08-04T21:56:09.776565Z"
+    },
+    "story_48187a538519|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "概念演示，没开放API前别改工作流，等实测。",
+      "title_hash": "cfefe550",
+      "scored_at": "2026-08-04T23:45:12.006478Z"
     }
   }
 }
