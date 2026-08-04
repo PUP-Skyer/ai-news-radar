@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_29a1e494fbc3|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "本地跑27B模型，离线推理和隐私敏感场景直接受益，找量化方案和Demo试试。",
-      "title_hash": "89d540d6",
-      "scored_at": "2026-07-14T20:34:53.595197Z"
-    },
-    "story_29a1e494fbc3|cynic|f4237a62": {
-      "score": 35,
-      "review": "27B模型跑手机？量化到3-bit还能叫多模态？体验估计比PPT还卡。",
-      "title_hash": "89d540d6",
-      "scored_at": "2026-07-14T20:34:57.028903Z"
-    },
-    "story_29a1e494fbc3|paper-police|966065bf": {
-      "score": 20,
-      "review": "只有宣称，无论文代码或第三方评测，真实性待考证。",
-      "title_hash": "89d540d6",
-      "scored_at": "2026-07-14T20:34:59.938641Z"
-    },
-    "story_3c7e9dc57dbe|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方博客宣布新功能，无论文无代码无评测，无法独立验证。",
-      "title_hash": "8cad1994",
-      "scored_at": "2026-07-14T20:35:02.407872Z"
-    },
-    "story_a37b7492af9e|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方公告有链接，但无技术细节与独立验证，不可复现。",
-      "title_hash": "a9ac8004",
-      "scored_at": "2026-07-14T20:35:10.076372Z"
-    },
     "story_ee7d92805957|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "直接威胁安全，立即检查版本并暂停打开可疑仓库。",
@@ -5505,9 +5475,9 @@
     },
     "story_48546ed95685|pragmatic|0a5c5b24": {
       "score": 60,
-      "review": "GitHub 停用预览计费应用，若在用需迁移，否则影响不大。",
-      "title_hash": "fd555fcc",
-      "scored_at": "2026-08-04T20:17:28.596001Z"
+      "review": "GitHub 停用预览应用，影响计费流程，用 Copilot 的团队需关注替代方案。",
+      "title_hash": "f43f3733",
+      "scored_at": "2026-08-04T21:56:07.458273Z"
     },
     "story_6e902da88317|pragmatic|0a5c5b24": {
       "score": 55,
@@ -5544,6 +5514,24 @@
       "review": "GitHub仓库在，但无论文无benchmark，4GB微调8B需复现验证。",
       "title_hash": "4be7698e",
       "scored_at": "2026-08-04T20:17:36.085721Z"
+    },
+    "story_0e23ce0343ea|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全评估报告，对选型参考有限，等具体漏洞细节再说。",
+      "title_hash": "3207e96a",
+      "scored_at": "2026-08-04T21:56:06.151793Z"
+    },
+    "story_3433c036a835|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "算力协议是钱的事，不写代码。等模型或 API 变化再动。",
+      "title_hash": "c03a0cc6",
+      "scored_at": "2026-08-04T21:56:08.595268Z"
+    },
+    "story_6ca45c4a72d9|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Apple Silicon 上能跑新模型，本地实验省云费用，但需确认 MLX 移植成熟度。",
+      "title_hash": "e3522003",
+      "scored_at": "2026-08-04T21:56:09.776565Z"
     }
   }
 }
