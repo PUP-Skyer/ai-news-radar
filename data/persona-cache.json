@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_3c7e9dc57dbe|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "PR 里直接嵌入 AI 安全检测结果，省去手动配置，今天就能用上。",
-      "title_hash": "8cad1994",
-      "scored_at": "2026-07-14T19:54:45.039282Z"
-    },
-    "story_682e97a04185|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "诉讼不影响今天写代码，继续关注判决结果。",
-      "title_hash": "6522ef5b",
-      "scored_at": "2026-07-14T19:54:47.282878Z"
-    },
-    "story_3c7e9dc57dbe|cynic|f4237a62": {
-      "score": 75,
-      "review": "终于把AI检测结果塞进PR界面了，希望误报率别和之前一样感人。",
-      "title_hash": "8cad1994",
-      "scored_at": "2026-07-14T19:54:49.174702Z"
-    },
-    "story_3c7e9dc57dbe|paper-police|fcf542f6": {
-      "score": 25,
-      "review": "官方公告有链接，但无论文无代码无独立评测，证据不足。",
-      "title_hash": "8cad1994",
-      "scored_at": "2026-07-14T19:54:53.072908Z"
-    },
     "story_29a1e494fbc3|pragmatic|0a5c5b24": {
       "score": 92,
       "review": "本地跑27B模型，离线推理和隐私敏感场景直接受益，找量化方案和Demo试试。",
@@ -5526,6 +5502,48 @@
       "review": "官方博客有细节但无论文代码，等第三方验证再定论。",
       "title_hash": "145e2acc",
       "scored_at": "2026-08-04T18:20:36.300430Z"
+    },
+    "story_48546ed95685|pragmatic|0a5c5b24": {
+      "score": 60,
+      "review": "GitHub 停用预览计费应用，若在用需迁移，否则影响不大。",
+      "title_hash": "fd555fcc",
+      "scored_at": "2026-08-04T20:17:28.596001Z"
+    },
+    "story_6e902da88317|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "法务用 Copilot CLI 是内部案例，对开发者参考价值有限，等实际工作流模板。",
+      "title_hash": "9b0fd732",
+      "scored_at": "2026-08-04T20:17:29.894947Z"
+    },
+    "story_f27a36bb1d59|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "GitHub 官方更新，批量配置代码扫描的默认规则，安全团队能省事，但普通开发者影响不大。",
+      "title_hash": "5c52b1d0",
+      "scored_at": "2026-08-04T20:17:31.317824Z"
+    },
+    "story_07b0df6b2011|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "4GB显存能微调8B，低配党今天就能试，省下租卡钱。",
+      "title_hash": "4be7698e",
+      "scored_at": "2026-08-04T20:17:32.336835Z"
+    },
+    "story_9cb1dda99735|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "多模态模型上线OpenRouter，API可直调，做视频任务的今天就能试。",
+      "title_hash": "e5790137",
+      "scored_at": "2026-08-04T20:17:33.461939Z"
+    },
+    "story_07b0df6b2011|cynic|f4237a62": {
+      "score": 72,
+      "review": "4GB显存微调8B，听着像魔法，但得看是不是把量化、梯度检查点全算上才够。",
+      "title_hash": "4be7698e",
+      "scored_at": "2026-08-04T20:17:34.799045Z"
+    },
+    "story_07b0df6b2011|paper-police|966065bf": {
+      "score": 45,
+      "review": "GitHub仓库在，但无论文无benchmark，4GB微调8B需复现验证。",
+      "title_hash": "4be7698e",
+      "scored_at": "2026-08-04T20:17:36.085721Z"
     }
   }
 }
