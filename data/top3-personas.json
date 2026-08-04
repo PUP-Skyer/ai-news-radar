@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T10:14:06.645004Z",
+  "generated_at": "2026-08-04T12:36:53.521356Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_268138d2f7c5",
+      "story_id": "story_15af0d503f7c",
       "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
       "url": "https://github.com/lyogavin/airllm",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "单卡跑70B听着唬人，量化加分层加载，真跑起来速度感人，但至少开源了。"
+          "review": "省显存靠分层加载，速度慢到能泡杯咖啡，但至少真跑起来了。"
         },
         "paper-police": {
           "score": 72,
-          "review": "GitHub 仓库在，但缺论文和独立 benchmark，单卡跑 70B 需验证。"
+          "review": "GitHub 仓库有代码和说明，但缺论文与独立 benchmark，单卡跑 70B 待验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "开源可跑，4GB 显存就能试 70B，量化部署党今天就能 clone 验证。"
+          "score": 82,
+          "review": "4GB 跑 70B 是硬核优化，低显存党今天就能试，但推理速度别抱幻想。"
         }
       }
     },

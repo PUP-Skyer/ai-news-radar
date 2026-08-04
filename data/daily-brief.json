@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T09:59:47.921866Z",
+  "generated_at": "2026-08-04T12:20:26.301746Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8484,
-      "importance": 0.8484,
-      "importance_score": 0.8484,
+      "score": 0.8433,
+      "importance": 0.8433,
+      "importance_score": 0.8433,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8409,
+        "recency": 0.8129,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
+      }
+    },
+    {
+      "story_id": "story_58483f682cc5",
+      "title": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+      "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "primary_url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_zh": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3…\nCodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3 and Kotlin 2.4.10, and improves the accuracy of path injection, URL redirection, and GitHub Actions queri",
+          "recommend_reason_zh": "CodeQL 2.26.2 新增 Swift 6.3.3 与 Kotlin 2.4.10 支持，并提升 path injection、URL redirection 及 GitHub Actions 查询准确度，值得安全团队关注。",
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T10:57:39Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+          "title": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_zh": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+          "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+          "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3…\nCodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3 and Kotlin 2.4.10, and improves the accuracy of path injection, URL redirection, and GitHub Actions queri",
+          "recommend_reason_zh": "CodeQL 2.26.2 新增 Swift 6.3.3 与 Kotlin 2.4.10 支持，并提升 path injection、URL redirection 及 GitHub Actions 查询准确度，值得安全团队关注。",
+          "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-04T10:57:39Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9803,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T10:57:39Z",
+      "latest_at": "2026-08-04T10:57:39Z",
+      "primary_item": {
+        "id": "eb05eaad8451f7f2ea6aaf954435290c8eb0140e",
+        "title": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持 / CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "title_zh": "CodeQL 2.26.2 新增 Swift 6.3.3 和 Kotlin 2.4.10 支持",
+        "title_en": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "title_original": "CodeQL 2.26.2 adds Swift 6.3.3 and Kotlin 2.4.10 support",
+        "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3…\nCodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.2, which adds support for Swift 6.3.3 and Kotlin 2.4.10, and improves the accuracy of path injection, URL redirection, and GitHub Actions queri",
+        "recommend_reason_zh": "CodeQL 2.26.2 新增 Swift 6.3.3 与 Kotlin 2.4.10 支持，并提升 path injection、URL redirection 及 GitHub Actions 查询准确度，值得安全团队关注。",
+        "url": "https://github.blog/changelog/2026-08-04-codeql-2-26-2-adds-swift-6-3-3-and-kotlin-2-4-10-support",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "CodeQL 跟上新语言版本，用 Swift/Kotlin 的可以升级扫描，老项目不急。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -163,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8589,
+        "recency": 0.8303,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,179 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
-      }
-    },
-    {
-      "story_id": "story_268138d2f7c5",
-      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-      "url": "https://github.com/lyogavin/airllm",
-      "primary_url": "https://github.com/lyogavin/airllm",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": null,
-          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-          "recommend_reason_zh": "AirLLM 让 70B 大模型在单块 4GB GPU 上直接推理，无需量化蒸馏剪枝，甚至能跑 405B Llama 3.1、671B DeepSeek-V3 与 2.8T 的 Kimi K3，后者实测仅占 3.72GB 显存。",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "2717965917d799ff11365290c89986375891fad3",
-          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": null,
-          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": null,
-          "recommend_reason_zh": "AirLLM 项目让 70B 大模型在单块 4GB GPU 上完成推理，无需量化或剪枝，甚至能以 3.72GB 显存运行 2.8T 参数的 Kimi K3，重新定义低显存推理上限。",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
-          "title": "AirLLM 70B 推理只需单张4GB GPU / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 70B 推理只需单张4GB GPU",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍AirLLM v3.1.0用单张4GB显卡运行70B模型，并引用Kimi K3在RTX 6000 Ada上292秒每token的数据，探讨MoE架构在内存带宽受限时的效率问题。",
-          "url": "https://news.ycombinator.com/item?id=49154228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T15:19:49.888000Z"
-        },
-        {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": "AirLLM 让 70B 大模型无需量化、蒸馏或剪枝即可跑在单张 4GB GPU 上，实测 Kimi K3（2.8T）仅占 3.72GB 显存，DeepSeek-V3（671B）约 12GB，值得关注。",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T11:15:48Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": null,
-          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-          "recommend_reason_zh": "AirLLM 让 70B 大模型在单块 4GB GPU 上直接推理，无需量化蒸馏剪枝，甚至能跑 405B Llama 3.1、671B DeepSeek-V3 与 2.8T 的 Kimi K3，后者实测仅占 3.72GB 显存。",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "2717965917d799ff11365290c89986375891fad3",
-          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "title_en": null,
-          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
-          "summary": null,
-          "recommend_reason_zh": "AirLLM 项目让 70B 大模型在单块 4GB GPU 上完成推理，无需量化或剪枝，甚至能以 3.72GB 显存运行 2.8T 参数的 Kimi K3，重新定义低显存推理上限。",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-03T16:24:45.027000Z"
-        },
-        {
-          "id": "4091e192e6e64bdf51ad9bafe9fca0787e19caad",
-          "title": "AirLLM 70B 推理只需单张4GB GPU / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 70B 推理只需单张4GB GPU",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍AirLLM v3.1.0用单张4GB显卡运行70B模型，并引用Kimi K3在RTX 6000 Ada上292秒每token的数据，探讨MoE架构在内存带宽受限时的效率问题。",
-          "url": "https://news.ycombinator.com/item?id=49154228",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-03T15:19:49.888000Z"
-        },
-        {
-          "id": "5805bf72e950dcf5ce1117ff14f9fbd24a81190e",
-          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理 / AirLLM 70B inference with single 4GB GPU",
-          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-          "title_en": "AirLLM 70B inference with single 4GB GPU",
-          "title_original": "AirLLM 70B inference with single 4GB GPU",
-          "summary": null,
-          "recommend_reason_zh": "AirLLM 让 70B 大模型无需量化、蒸馏或剪枝即可跑在单张 4GB GPU 上，实测 Kimi K3（2.8T）仅占 3.72GB 显存，DeepSeek-V3（671B）约 12GB，值得关注。",
-          "url": "https://github.com/lyogavin/airllm",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-03T11:15:48Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8142,
-      "importance": 0.8142,
-      "importance_score": 0.8142,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7758,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-03T11:15:48Z",
-      "latest_at": "2026-08-03T16:24:45.027000Z",
-      "primary_item": {
-        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
-        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "title_en": null,
-        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
-        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
-        "recommend_reason_zh": "AirLLM 让 70B 大模型在单块 4GB GPU 上直接推理，无需量化蒸馏剪枝，甚至能跑 405B Llama 3.1、671B DeepSeek-V3 与 2.8T 的 Kimi K3，后者实测仅占 3.72GB 显存。",
-        "url": "https://github.com/lyogavin/airllm",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "开源可跑，4GB 显存就能试 70B，量化部署党今天就能 clone 验证。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -420,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8226,
+      "importance": 0.8226,
+      "importance_score": 0.8226,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8656,
+        "recency": 0.8368,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -474,7 +387,7 @@
           "title_zh": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
           "title_en": null,
           "title_original": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
-          "summary": "Every breakthrough in modern industry and cutting-edge research is backed by a large-scale high-performance computing software, whose core often lies in a compu\nEvery breakthrough in modern industry and cutting-edge research is backed by a large-scale high-performance computing software, whose core often lies in a compu\nEvery breakthrough in modern industry and cutting-edge research is backed by a large-scale high-performance computing software, whose core often lies in a compu\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "面壁智能开源ForgeStencil，以双Agent协作实现一周自动优化100+工业软件，全程零人工介入，直击Stencil计算性能瓶颈。",
           "url": "https://www.aibase.com/news/30105",
           "source": "AIbase",
@@ -509,7 +422,7 @@
           "title_zh": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
           "title_en": null,
           "title_original": "面壁智能开源 ForgeStencil：双 Agent 一周自动优化 100+ 工业软件，全程零人工介入",
-          "summary": "Every breakthrough in modern industry and cutting-edge research is backed by a large-scale high-performance computing software, whose core often lies in a compu\nEvery breakthrough in modern industry and cutting-edge research is backed by a large-scale high-performance computing software, whose core often lies in a compu\nEvery breakthrough in modern industry and cutting-edge research is backed by a large-scale high-performance computing software, whose core often lies in a compu\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "面壁智能开源ForgeStencil，以双Agent协作实现一周自动优化100+工业软件，全程零人工介入，直击Stencil计算性能瓶颈。",
           "url": "https://www.aibase.com/news/30105",
           "source": "AIbase",
@@ -534,15 +447,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.791,
+      "importance": 0.791,
+      "importance_score": 0.791,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9216,
+        "recency": 0.8909,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -571,92 +484,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
-      "story_id": "story_ced42da72295",
-      "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_63a94a3ef129",
+      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "primary_url": "https://github.com/leonickson1/Swiftlet",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "title_zh": "借助评论触发 Copilot 自动化",
-          "title_en": "Trigger Copilot automations with comments",
-          "title_original": "Trigger Copilot automations with comments",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot cloud agent automations现支持在issue或pull request评论创建时触发，可指定评论文本作为触发器，例如自动生成文档。适用于Copilot Pro、Pro+、Max、Business与Enterprise用户，Business和Enterprise需管理员启用cloud agent策略。",
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_en": null,
+          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+          "recommend_reason_zh": "Swiftlet 让 Mac 用 4.3GB 内存跑 80B Qwen 模型，iPhone 17 上仅 2.5GB RAM 运行 35B 版，约 1 tok/s，据称是同类模型首次原生登陆手机。",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-          "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-          "title_zh": "借助评论触发 Copilot 自动化",
-          "title_en": "Trigger Copilot automations with comments",
-          "title_original": "Trigger Copilot automations with comments",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot cloud agent automations现支持在issue或pull request评论创建时触发，可指定评论文本作为触发器，例如自动生成文档。适用于Copilot Pro、Pro+、Max、Business与Enterprise用户，Business和Enterprise需管理员启用cloud agent策略。",
-          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-03T19:14:58Z"
+          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "title_en": null,
+          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+          "recommend_reason_zh": "Swiftlet 让 Mac 用 4.3GB 内存跑 80B Qwen 模型，iPhone 17 上仅 2.5GB RAM 运行 35B 版，约 1 tok/s，据称是同类模型首次原生登陆手机。",
+          "url": "https://github.com/leonickson1/Swiftlet",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T06:32:44.149000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
-      "importance_label": "官方更新",
+      "score": 0.7801,
+      "importance": 0.7801,
+      "importance_score": 0.7801,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8082,
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9197,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T19:14:58Z",
-      "latest_at": "2026-08-03T19:14:58Z",
+      "earliest_at": "2026-08-04T06:32:44.149000Z",
+      "latest_at": "2026-08-04T06:32:44.149000Z",
       "primary_item": {
-        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
-        "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
-        "title_zh": "借助评论触发 Copilot 自动化",
-        "title_en": "Trigger Copilot automations with comments",
-        "title_original": "Trigger Copilot automations with comments",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot cloud agent automations现支持在issue或pull request评论创建时触发，可指定评论文本作为触发器，例如自动生成文档。适用于Copilot Pro、Pro+、Max、Business与Enterprise用户，Business和Enterprise需管理员启用cloud agent策略。",
-        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
+        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "title_en": null,
+        "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
+        "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
+        "recommend_reason_zh": "Swiftlet 让 Mac 用 4.3GB 内存跑 80B Qwen 模型，iPhone 17 上仅 2.5GB RAM 运行 35B 版，约 1 tok/s，据称是同类模型首次原生登陆手机。",
+        "url": "https://github.com/leonickson1/Swiftlet",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 75,
-      "persona_review": "GitHub Copilot 自动化支持评论触发，工作流能少一步，值得试试。",
+      "persona_score": 72,
+      "persona_review": "内存占用惊人，但需确认实际推理速度，可先跑通再评估替换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -704,15 +616,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7859,
-      "importance": 0.7859,
-      "importance_score": 0.7859,
+      "score": 0.78,
+      "importance": 0.78,
+      "importance_score": 0.78,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9852,
+        "recency": 0.9524,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -740,7 +652,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -757,7 +669,7 @@
           "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
           "title_en": null,
           "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-          "summary": "SenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nSenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nSenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "商汤开源轻量统一多模态模型SenseNova U1.5-Lite-Preview，仅凭8B-MoE参数实现4K图像生成与编辑，并集成视觉理解、推理、生成、编辑四大能力，值得关注其全链路优化细节。",
           "url": "https://www.aibase.com/news/30107",
           "source": "AIbase",
@@ -777,7 +689,7 @@
           "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
           "title_en": null,
           "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-          "summary": "SenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nSenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nSenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "商汤开源轻量统一多模态模型SenseNova U1.5-Lite-Preview，仅凭8B-MoE参数实现4K图像生成与编辑，并集成视觉理解、推理、生成、编辑四大能力，值得关注其全链路优化细节。",
           "url": "https://www.aibase.com/news/30107",
           "source": "AIbase",
@@ -788,15 +700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -812,7 +724,7 @@
         "title_zh": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
         "title_en": null,
         "title_original": "8B 参数塞进 4K 生成与编辑，商汤开源轻量统一多模态模型 U1.5-Lite 预览版",
-        "summary": "SenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nSenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nSenseTime has announced the open-source lightweight unified multimodal model SenseNova U1.5-Lite-Preview for communities. This model is not a simple scale upgra\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "商汤开源轻量统一多模态模型SenseNova U1.5-Lite-Preview，仅凭8B-MoE参数实现4K图像生成与编辑，并集成视觉理解、推理、生成、编辑四大能力，值得关注其全链路优化细节。",
         "url": "https://www.aibase.com/news/30107",
         "source": "AIbase",
@@ -824,7 +736,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
+      }
+    },
+    {
+      "story_id": "story_417741cd5bf0",
+      "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+      "url": "https://www.ithome.com/0/985/665.htm",
+      "primary_url": "https://www.ithome.com/0/985/665.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_en": null,
+          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "recommend_reason_zh": "首部L3/L4自动驾驶强制性国标GB 44721—2026发布，2027年7月1日实施，从推荐性升级为强制性，为自动驾驶产品统一安全准入基线。",
+          "url": "https://www.ithome.com/0/985/665.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T11:06:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+          "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "title_en": null,
+          "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+          "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+          "recommend_reason_zh": "首部L3/L4自动驾驶强制性国标GB 44721—2026发布，2027年7月1日实施，从推荐性升级为强制性，为自动驾驶产品统一安全准入基线。",
+          "url": "https://www.ithome.com/0/985/665.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-04T11:06:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7614,
+      "importance": 0.7614,
+      "importance_score": 0.7614,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9824,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-04T11:06:29Z",
+      "latest_at": "2026-08-04T11:06:29Z",
+      "primary_item": {
+        "id": "e9c6277573d84eeafc0a317644599f8aff60a459",
+        "title": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "title_zh": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "title_en": null,
+        "title_original": "工信部发布首部L3/L4自动驾驶系统安全要求强制性国标，2027年7月实施",
+        "summary": "工信部组织制定的《智能网联汽车 自动驾驶系统安全要求》（GB 44721-2026）强制性国家标准获批发布，拟于2027年7月1日起实施。这是我国首部针对L3级有条件自动驾驶和L4级高度自动驾驶系统的强制性国标，由2024年推荐性国标GB/T 44721-2024升级而来，为自动驾驶产品明确了统一的安全准入基线。",
+        "recommend_reason_zh": "首部L3/L4自动驾驶强制性国标GB 44721—2026发布，2027年7月1日实施，从推荐性升级为强制性，为自动驾驶产品统一安全准入基线。",
+        "url": "https://www.ithome.com/0/985/665.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "标准定了但离落地还早，做L3/L4的团队该提前对齐合规，短期不影响交付。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -855,7 +851,7 @@
           "title_zh": "GPT-5.6 Luna降价80%永久生效",
           "title_en": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
           "title_original": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "summary": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately.\nSome fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately.\nSome fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go ",
+          "summary": null,
           "recommend_reason_zh": "GPT-5.6 Luna降价80%并非临时促销而是永久性的，官方强调效率提升不会消失，这一价格变动值得长期关注。",
           "url": "https://x.com/thsottiaux/status/2084506501834829833",
           "source": "Follow Builders · X · Thibault Sottiaux",
@@ -890,7 +886,7 @@
           "title_zh": "GPT-5.6 Luna降价80%永久生效",
           "title_en": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
           "title_original": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately. https://t.co/043ZF9T7gL",
-          "summary": "Some fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately.\nSome fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go away. Fortunately.\nSome fine folks apparently misunderstood, but the GPT-5.6 Luna price reduction by 80% is not a temporary stunt, it's permanent. Efficiency gains don't go ",
+          "summary": null,
           "recommend_reason_zh": "GPT-5.6 Luna降价80%并非临时促销而是永久性的，官方强调效率提升不会消失，这一价格变动值得长期关注。",
           "url": "https://x.com/thsottiaux/status/2084506501834829833",
           "source": "Follow Builders · X · Thibault Sottiaux",
@@ -901,15 +897,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7624,
-      "importance": 0.7624,
-      "importance_score": 0.7624,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9321,
+        "recency": 0.9011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -938,7 +934,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -1015,15 +1011,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8573,
+        "recency": 0.8287,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1052,7 +1048,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -1129,15 +1125,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.753,
+      "importance": 0.753,
+      "importance_score": 0.753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7897,
+        "recency": 0.7634,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1166,30 +1162,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
-      "story_id": "story_808985f7b6f5",
-      "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
-      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
-      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "story_id": "story_ced42da72295",
+      "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+      "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
+      "primary_url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
-          "title_zh": "企业团队在托管设置上的专业化",
-          "title_en": "Enterprise team specialization for managed settings",
-          "title_original": "Enterprise team specialization for managed settings",
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "title_zh": "借助评论触发 Copilot 自动化",
+          "title_en": "Trigger Copilot automations with comments",
+          "title_original": "Trigger Copilot automations with comments",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "recommend_reason_zh": "GitHub Copilot cloud agent automations现支持在issue或pull request评论创建时触发，可指定评论文本作为触发器，例如自动生成文档。适用于Copilot Pro、Pro+、Max、Business与Enterprise用户，Business和Enterprise需管理员启用cloud agent策略。",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "source_count": 1,
@@ -1198,31 +1194,31 @@
       ],
       "items": [
         {
-          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-          "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
-          "title_zh": "企业团队在托管设置上的专业化",
-          "title_en": "Enterprise team specialization for managed settings",
-          "title_original": "Enterprise team specialization for managed settings",
+          "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+          "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+          "title_zh": "借助评论触发 Copilot 自动化",
+          "title_en": "Trigger Copilot automations with comments",
+          "title_original": "Trigger Copilot automations with comments",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+          "recommend_reason_zh": "GitHub Copilot cloud agent automations现支持在issue或pull request评论创建时触发，可指定评论文本作为触发器，例如自动生成文档。适用于Copilot Pro、Pro+、Max、Business与Enterprise用户，Business和Enterprise需管理员启用cloud agent策略。",
+          "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T22:55:29Z"
+          "published_at": "2026-08-03T19:14:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8174,
-      "importance": 0.8174,
-      "importance_score": 0.8174,
+      "score": 0.8126,
+      "importance": 0.8126,
+      "importance_score": 0.8126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8522,
+        "ai_relevance": 0.91,
+        "recency": 0.7813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1231,111 +1227,140 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:55:29Z",
-      "latest_at": "2026-08-03T22:55:29Z",
+      "earliest_at": "2026-08-03T19:14:58Z",
+      "latest_at": "2026-08-03T19:14:58Z",
       "primary_item": {
-        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
-        "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
-        "title_zh": "企业团队在托管设置上的专业化",
-        "title_en": "Enterprise team specialization for managed settings",
-        "title_original": "Enterprise team specialization for managed settings",
+        "id": "e3ccbb422226c7f574943e22b04983a45cc7956a",
+        "title": "借助评论触发 Copilot 自动化 / Trigger Copilot automations with comments",
+        "title_zh": "借助评论触发 Copilot 自动化",
+        "title_en": "Trigger Copilot automations with comments",
+        "title_original": "Trigger Copilot automations with comments",
         "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+        "recommend_reason_zh": "GitHub Copilot cloud agent automations现支持在issue或pull request评论创建时触发，可指定评论文本作为触发器，例如自动生成文档。适用于Copilot Pro、Pro+、Max、Business与Enterprise用户，Business和Enterprise需管理员启用cloud agent策略。",
+        "url": "https://github.blog/changelog/2026-08-03-trigger-copilot-automations-with-comments",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "GitHub 托管设置支持团队专业化，管理员可细化权限，今天就能配置。",
+      "persona_score": 75,
+      "persona_review": "GitHub Copilot 自动化支持评论触发，工作流能少一步，值得试试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
-      "story_id": "story_63a94a3ef129",
-      "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-      "url": "https://github.com/leonickson1/Swiftlet",
-      "primary_url": "https://github.com/leonickson1/Swiftlet",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_f0db0b7e1364",
+      "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+      "url": "https://x.com/trq212/status/2084387303959740449",
+      "primary_url": "https://x.com/trq212/status/2084387303959740449",
+      "source": "X：Thariq (@trq212)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_en": null,
-          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-          "recommend_reason_zh": "Swiftlet 让 Mac 用 4.3GB 内存跑 80B Qwen 模型，iPhone 17 上仅 2.5GB RAM 运行 35B 版，约 1 tok/s，据称是同类模型首次原生登陆手机。",
-          "url": "https://github.com/leonickson1/Swiftlet",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+          "title_zh": "Claude Code 连接器可复用至 Artifacts",
+          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+          "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+          "recommend_reason_zh": "连接Claude Connector（如gmail、calendar、slack）后，Claude Code也能调用这些工具，甚至可在Artifacts中使用——这一隐藏能力值得关注。",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "X：Thariq (@trq212)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T06:32:44.149000Z"
+          "published_at": "2026-08-03T21:13:53Z"
+        },
+        {
+          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "title_zh": "Claude Code 连接器可复用至 Artifacts",
+          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "summary": null,
+          "recommend_reason_zh": "原帖提醒：很多人没意识到，一旦连接Claude Connector（如你的Gmail、日历、Slack），Claude Code就能使用这些服务，包括在Artifacts中。这篇内容点出这一容易被忽略的联动特性。",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-03T21:13:53Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Follow Builders · X · Thariq",
+        "X：Thariq (@trq212)"
       ],
       "items": [
         {
-          "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-          "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "title_en": null,
-          "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-          "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-          "recommend_reason_zh": "Swiftlet 让 Mac 用 4.3GB 内存跑 80B Qwen 模型，iPhone 17 上仅 2.5GB RAM 运行 35B 版，约 1 tok/s，据称是同类模型首次原生登陆手机。",
-          "url": "https://github.com/leonickson1/Swiftlet",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+          "title_zh": "Claude Code 连接器可复用至 Artifacts",
+          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+          "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+          "recommend_reason_zh": "连接Claude Connector（如gmail、calendar、slack）后，Claude Code也能调用这些工具，甚至可在Artifacts中使用——这一隐藏能力值得关注。",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "X：Thariq (@trq212)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T06:32:44.149000Z"
+          "published_at": "2026-08-03T21:13:53Z"
+        },
+        {
+          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
+          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "title_zh": "Claude Code 连接器可复用至 Artifacts",
+          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
+          "summary": null,
+          "recommend_reason_zh": "原帖提醒：很多人没意识到，一旦连接Claude Connector（如你的Gmail、日历、Slack），Claude Code就能使用这些服务，包括在Artifacts中。这篇内容点出这一容易被忽略的联动特性。",
+          "url": "https://x.com/trq212/status/2084387303959740449",
+          "source": "Follow Builders · X · Thariq",
+          "source_name": "Follow Builders",
+          "site_id": "followbuilders",
+          "published_at": "2026-08-03T21:13:53Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7858,
-      "importance": 0.7858,
-      "importance_score": 0.7858,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7363,
+      "importance": 0.7363,
+      "importance_score": 0.7363,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.81,
+        "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
-        "story_heat": 0.0
+        "recency": 0.804,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source",
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-04T06:32:44.149000Z",
-      "latest_at": "2026-08-04T06:32:44.149000Z",
+      "earliest_at": "2026-08-03T21:13:53Z",
+      "latest_at": "2026-08-03T21:13:53Z",
       "primary_item": {
-        "id": "9ca5efb7665863255dd6411d8c3788db9606bd9a",
-        "title": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "title_zh": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "title_en": null,
-        "title_original": "Swiftlet：在 Mac 上运行 80B 版 Qwen（内存 4.3 GB），在 iPhone 上运行 35B 版",
-        "summary": "Swiftlet 是一个 Swift + Metal 运行时，可在普通 Apple 设备上运行 Qwen3-Next 和 Qwen3.5/3.6 MoE 混合模型，仅将小型稠密核心驻留内存，按需从存储流式加载路由专家权重。",
-        "recommend_reason_zh": "Swiftlet 让 Mac 用 4.3GB 内存跑 80B Qwen 模型，iPhone 17 上仅 2.5GB RAM 运行 35B 版，约 1 tok/s，据称是同类模型首次原生登陆手机。",
-        "url": "https://github.com/leonickson1/Swiftlet",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
+        "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+        "title_zh": "Claude Code 连接器可复用至 Artifacts",
+        "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+        "title_original": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
+        "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
+        "recommend_reason_zh": "连接Claude Connector（如gmail、calendar、slack）后，Claude Code也能调用这些工具，甚至可在Artifacts中使用——这一隐藏能力值得关注。",
+        "url": "https://x.com/trq212/status/2084387303959740449",
+        "source": "X：Thariq (@trq212)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "内存占用惊人，但需确认实际推理速度，可先跑通再评估替换。",
+      "persona_score": 62,
+      "persona_review": "连接器复用省配置时间，但需实测权限边界，短期价值有限。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -1383,15 +1408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1418,120 +1443,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
-      }
-    },
-    {
-      "story_id": "story_f0db0b7e1364",
-      "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-      "url": "https://x.com/trq212/status/2084387303959740449",
-      "primary_url": "https://x.com/trq212/status/2084387303959740449",
-      "source": "X：Thariq (@trq212)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-          "title_zh": "Claude Code 连接器可复用至 Artifacts",
-          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-          "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
-          "recommend_reason_zh": "连接Claude Connector（如gmail、calendar、slack）后，Claude Code也能调用这些工具，甚至可在Artifacts中使用——这一隐藏能力值得关注。",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        },
-        {
-          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
-          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
-          "title_zh": "Claude Code 连接器可复用至 Artifacts",
-          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
-          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
-          "summary": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts.\nI think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts.\nI think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be",
-          "recommend_reason_zh": "原帖提醒：很多人没意识到，一旦连接Claude Connector（如你的Gmail、日历、Slack），Claude Code就能使用这些服务，包括在Artifacts中。这篇内容点出这一容易被忽略的联动特性。",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Follow Builders · X · Thariq",
-        "X：Thariq (@trq212)"
-      ],
-      "items": [
-        {
-          "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-          "title_zh": "Claude Code 连接器可复用至 Artifacts",
-          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-          "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
-          "recommend_reason_zh": "连接Claude Connector（如gmail、calendar、slack）后，Claude Code也能调用这些工具，甚至可在Artifacts中使用——这一隐藏能力值得关注。",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "X：Thariq (@trq212)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-03T21:13:53Z"
-        },
-        {
-          "id": "9ea4ca1c3fd3f663b5a8fa17b67bd8b9b87bc892",
-          "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
-          "title_zh": "Claude Code 连接器可复用至 Artifacts",
-          "title_en": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
-          "title_original": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts. https://t.co/FZ1iSHqL5m",
-          "summary": "I think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts.\nI think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be able to use them, including in Artifacts.\nI think a lot of people don't realize- if you connect a Claude Connector (e.g. your gmail, calendar, slack, etc), Claude Code will also be",
-          "recommend_reason_zh": "原帖提醒：很多人没意识到，一旦连接Claude Connector（如你的Gmail、日历、Slack），Claude Code就能使用这些服务，包括在Artifacts中。这篇内容点出这一容易被忽略的联动特性。",
-          "url": "https://x.com/trq212/status/2084387303959740449",
-          "source": "Follow Builders · X · Thariq",
-          "source_name": "Follow Builders",
-          "site_id": "followbuilders",
-          "published_at": "2026-08-03T21:13:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7413,
-      "importance": 0.7413,
-      "importance_score": 0.7413,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8317,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-03T21:13:53Z",
-      "latest_at": "2026-08-03T21:13:53Z",
-      "primary_item": {
-        "id": "1f375cb9e7f66477bc02bdeeb1eedb00ac4d99f1",
-        "title": "Claude Code 连接器可复用至 Artifacts / I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-        "title_zh": "Claude Code 连接器可复用至 Artifacts",
-        "title_en": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-        "title_original": "I think a lot of people don't realize- if you connect a Claude Connector （e.g. your gmail， calendar，…",
-        "summary": "我想很多人没有意识到--如果你连接了一个 Claude 连接器（例如你的 Gmail、日历、Slack 等），Claude Code 也将能够使用它们，包括在 Artifacts 中。",
-        "recommend_reason_zh": "连接Claude Connector（如gmail、calendar、slack）后，Claude Code也能调用这些工具，甚至可在Artifacts中使用——这一隐藏能力值得关注。",
-        "url": "https://x.com/trq212/status/2084387303959740449",
-        "source": "X：Thariq (@trq212)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "连接器复用省配置时间，但需实测权限边界，短期价值有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -1579,15 +1491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9745,
+        "recency": 0.9421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1615,7 +1527,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -1632,7 +1544,7 @@
           "title_zh": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
           "title_en": null,
           "title_original": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-          "summary": "Recently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nRecently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nRecently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "亚马逊一工程师用Anthropic的Claude Sonnet写代码，因未设调用频率限制且缺乏监控，程序运行五个月，耗资180万美元（约1215万元），超预算860%，最终项目未上线。",
           "url": "https://www.aibase.com/news/30109",
           "source": "AIbase",
@@ -1652,7 +1564,7 @@
           "title_zh": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
           "title_en": null,
           "title_original": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-          "summary": "Recently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nRecently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nRecently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "亚马逊一工程师用Anthropic的Claude Sonnet写代码，因未设调用频率限制且缺乏监控，程序运行五个月，耗资180万美元（约1215万元），超预算860%，最终项目未上线。",
           "url": "https://www.aibase.com/news/30109",
           "source": "AIbase",
@@ -1663,15 +1575,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1687,7 +1599,7 @@
         "title_zh": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
         "title_en": null,
         "title_original": "AI 写代码烧掉 1215 万元，超预算 860%：亚马逊内部事故敲响企业 AI 成本警钟",
-        "summary": "Recently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nRecently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nRecently, U.S. media exposed a major AI cost overrun incident within Amazon. An engineer used Anthropic's Claude Sonnet model to write a program aimed at matchi\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "亚马逊一工程师用Anthropic的Claude Sonnet写代码，因未设调用频率限制且缺乏监控，程序运行五个月，耗资180万美元（约1215万元），超预算860%，最终项目未上线。",
         "url": "https://www.aibase.com/news/30109",
         "source": "AIbase",
@@ -1699,113 +1611,144 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
-      "story_id": "story_a2791f04345f",
-      "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-      "url": "https://x.com/gdb/status/2084405421041963356",
-      "primary_url": "https://x.com/gdb/status/2084405421041963356",
-      "source": "X：Greg Brockman (@gdb)",
+      "story_id": "story_15af0d503f7c",
+      "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+      "url": "https://github.com/lyogavin/airllm",
+      "primary_url": "https://github.com/lyogavin/airllm",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-          "title_zh": "GPT-Live实时音频新架构发布",
-          "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-          "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-          "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-          "recommend_reason_zh": "本文介绍GPT-Live，将其定义为实时音频的新架构与技术栈，重复点明核心主张，并邀请读者了解进展、参与对话。",
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": "AirLLM 让 70B 大模型在单块 4GB GPU 上直接推理，无需量化蒸馏剪枝，甚至能跑 405B Llama 3.1、671B DeepSeek-V3 与 2.8T 的 Kimi K3，后者实测仅占 3.72GB 显存。",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": "AirLLM 项目让 70B 大模型在单块 4GB GPU 上完成推理，无需量化或剪枝，甚至能以 3.72GB 显存运行 2.8T 参数的 Kimi K3，重新定义低显存推理上限。",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "github.com"
       ],
       "items": [
         {
-          "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-          "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-          "title_zh": "GPT-Live实时音频新架构发布",
-          "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-          "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-          "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-          "recommend_reason_zh": "本文介绍GPT-Live，将其定义为实时音频的新架构与技术栈，重复点明核心主张，并邀请读者了解进展、参与对话。",
-          "url": "https://x.com/gdb/status/2084405421041963356",
-          "source": "X：Greg Brockman (@gdb)",
+          "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+          "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "title_en": null,
+          "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+          "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+          "recommend_reason_zh": "AirLLM 让 70B 大模型在单块 4GB GPU 上直接推理，无需量化蒸馏剪枝，甚至能跑 405B Llama 3.1、671B DeepSeek-V3 与 2.8T 的 Kimi K3，后者实测仅占 3.72GB 显存。",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-03T22:25:53Z"
+          "published_at": "2026-08-03T16:24:45.027000Z"
+        },
+        {
+          "id": "2717965917d799ff11365290c89986375891fad3",
+          "title": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_zh": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "title_en": null,
+          "title_original": "使用单块 4GB GPU 进行 AirLLM 70B 推理",
+          "summary": null,
+          "recommend_reason_zh": "AirLLM 项目让 70B 大模型在单块 4GB GPU 上完成推理，无需量化或剪枝，甚至能以 3.72GB 显存运行 2.8T 参数的 Kimi K3，重新定义低显存推理上限。",
+          "url": "https://github.com/lyogavin/airllm",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-03T16:24:45.027000Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.66,
+        "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8462,
-        "story_heat": 0.0
+        "recency": 0.7499,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-03T22:25:53Z",
-      "latest_at": "2026-08-03T22:25:53Z",
+      "earliest_at": "2026-08-03T16:24:45.027000Z",
+      "latest_at": "2026-08-03T16:24:45.027000Z",
       "primary_item": {
-        "id": "2615292954ce75366bdc3a09bb62170ff1889f0e",
-        "title": "GPT-Live实时音频新架构发布 / GPT-Live is a new architecture and stack for realtime audio：",
-        "title_zh": "GPT-Live实时音频新架构发布",
-        "title_en": "GPT-Live is a new architecture and stack for realtime audio：",
-        "title_original": "GPT-Live is a new architecture and stack for realtime audio：",
-        "summary": "GPT-Live 是一种用于实时音频的新架构和栈：\n\nGPT-Live 可以在说话的同时聆听。\n\n为了让这种体验在 ChatGPT 规模下显得自然，我们从客户端到模型重建了语音栈。\n\n这一新架构让音频持续流动，因此更深入的推理和工具使用不会打断对话。",
-        "recommend_reason_zh": "本文介绍GPT-Live，将其定义为实时音频的新架构与技术栈，重复点明核心主张，并邀请读者了解进展、参与对话。",
-        "url": "https://x.com/gdb/status/2084405421041963356",
-        "source": "X：Greg Brockman (@gdb)",
+        "id": "e0581fc08e4ee08758118ef1c1132d73b95262a5",
+        "title": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_zh": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "title_en": null,
+        "title_original": "AirLLM 实现单块 4GB GPU 运行 70B 模型推理",
+        "summary": "AirLLM 项目支持在单块 4GB 显存 GPU 上运行 70B 参数大模型推理，无需多卡或大规模显存配置。该项目已开源，相关讨论在 Hacker News 上获得 103 点热度，引发社区关注。",
+        "recommend_reason_zh": "AirLLM 让 70B 大模型在单块 4GB GPU 上直接推理，无需量化蒸馏剪枝，甚至能跑 405B Llama 3.1、671B DeepSeek-V3 与 2.8T 的 Kimi K3，后者实测仅占 3.72GB 显存。",
+        "url": "https://github.com/lyogavin/airllm",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "新架构没给代码和API，先观望，等能跑通再动手。",
+      "persona_score": 82,
+      "persona_review": "4GB 跑 70B 是硬核优化，低显存党今天就能试，但推理速度别抱幻想。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
-      "story_id": "story_63bd4def256d",
-      "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-      "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
-      "primary_url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+      "story_id": "story_808985f7b6f5",
+      "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
+      "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
+      "primary_url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "Triage 角色可绕过 Issue 创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "企业团队在托管设置上的专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
           "summary": null,
-          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "source_count": 1,
@@ -1814,31 +1757,31 @@
       ],
       "items": [
         {
-          "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-          "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-          "title_zh": "Triage 角色可绕过 Issue 创建限制",
-          "title_en": "Triage role can bypass issue creation restrictions",
-          "title_original": "Triage role can bypass issue creation restrictions",
+          "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+          "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
+          "title_zh": "企业团队在托管设置上的专业化",
+          "title_en": "Enterprise team specialization for managed settings",
+          "title_original": "Enterprise team specialization for managed settings",
           "summary": null,
-          "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
-          "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-03T17:04:32Z"
+          "published_at": "2026-08-03T22:55:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.805,
-      "importance": 0.805,
-      "importance_score": 0.805,
+      "score": 0.8123,
+      "importance": 0.8123,
+      "importance_score": 0.8123,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7832,
+        "recency": 0.8239,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1847,27 +1790,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-03T17:04:32Z",
-      "latest_at": "2026-08-03T17:04:32Z",
+      "earliest_at": "2026-08-03T22:55:29Z",
+      "latest_at": "2026-08-03T22:55:29Z",
       "primary_item": {
-        "id": "ed051aa73fd0c109ac911e7495b81744a719c548",
-        "title": "Triage 角色可绕过 Issue 创建限制 / Triage role can bypass issue creation restrictions",
-        "title_zh": "Triage 角色可绕过 Issue 创建限制",
-        "title_en": "Triage role can bypass issue creation restrictions",
-        "title_original": "Triage role can bypass issue creation restrictions",
+        "id": "ba95071ee8f1c4b9b02cd6e3be489e744837e4fa",
+        "title": "企业团队在托管设置上的专业化 / Enterprise team specialization for managed settings",
+        "title_zh": "企业团队在托管设置上的专业化",
+        "title_en": "Enterprise team specialization for managed settings",
+        "title_original": "Enterprise team specialization for managed settings",
         "summary": null,
-        "recommend_reason_zh": "GitHub 更新后，仓库限制仅协作者可建 issue 时，triage 角色用户也能创建了，此前仅限 write 权限；这一变化让受限仓库的维护与问题收集更高效。",
-        "url": "https://github.blog/changelog/2026-08-03-triage-role-can-bypass-issue-creation-restrictions",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-08-03-enterprise-team-specialization-for-managed-settings",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "权限模型有变，管仓库的今天就得核对角色配置，防绕过。",
+      "persona_score": 65,
+      "persona_review": "GitHub 托管设置支持团队专业化，管理员可细化权限，今天就能配置。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     },
     {
@@ -1884,7 +1827,7 @@
           "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
           "title_en": null,
           "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "summary": "CodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nCodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nCodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "CodeBuddy与WorkBuddy将Hy3模型免费体验延长至2026年8月31日，该模型仅支持文本任务，调用视频或图像生成时会自动切换多模态模型并消耗积分。",
           "url": "https://www.aibase.com/news/30102",
           "source": "AIbase",
@@ -1904,7 +1847,7 @@
           "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
           "title_en": null,
           "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-          "summary": "CodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nCodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nCodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "CodeBuddy与WorkBuddy将Hy3模型免费体验延长至2026年8月31日，该模型仅支持文本任务，调用视频或图像生成时会自动切换多模态模型并消耗积分。",
           "url": "https://www.aibase.com/news/30102",
           "source": "AIbase",
@@ -1915,15 +1858,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9667,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1939,7 +1882,7 @@
         "title_zh": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
         "title_en": null,
         "title_original": "CodeBuddy与WorkBuddy延长Hy3模型免费体验活动至8月31日",
-        "summary": "CodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nCodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nCodeBuddy and WorkBuddy officially announced that the limited-time free trial of the Hy3 model has been extended to August 31, 2026. Due to the enthusiastic use\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "CodeBuddy与WorkBuddy将Hy3模型免费体验延长至2026年8月31日，该模型仅支持文本任务，调用视频或图像生成时会自动切换多模态模型并消耗积分。",
         "url": "https://www.aibase.com/news/30102",
         "source": "AIbase",
@@ -1951,7 +1894,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-04T10:13:54.954220Z"
+        "scored_at": "2026-08-04T12:36:45.873306Z"
       }
     }
   ]
