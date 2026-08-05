@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T03:49:47.994779Z",
+  "generated_at": "2026-08-05T06:55:33.186093Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_07b0df6b2011",
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "story_id": "story_b2c075d30098",
+      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
+      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "4GB显存微调8B，听着像魔法，但得看是不是把量化、梯度检查点全算上才够。"
+          "review": "统一路由是刚需，但'支持'和'优化'是两码事，别急着吹。"
         },
         "paper-police": {
           "score": 45,
-          "review": "GitHub仓库在，但无论文无benchmark，4GB微调8B需复现验证。"
+          "review": "官方博客有细节但无论文代码，等第三方验证再定论。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "4GB显存能微调8B，低配党今天就能试，省下租卡钱。"
+          "review": "统一路由API今天就能接，省掉多模型适配代码，直接换。"
         }
       }
     }
