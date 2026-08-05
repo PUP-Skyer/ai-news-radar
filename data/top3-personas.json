@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:45:02.990586Z",
+  "generated_at": "2026-08-05T15:51:07.882130Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_bcfdafe93ce8",
-      "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "2.6B小模型敢喊随处部署，先跑个真实任务看看延迟和精度再说。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了模型细节和数字，但无代码无独立验证，等开源再评。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_07b0df6b2011",
       "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
       "url": "https://github.com/MakazhanAlpamys/Soup",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_b2c075d30098",
       "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
       "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "统一路由API今天就能接，省掉多模型适配代码，直接换。"
+        }
+      }
+    },
+    {
+      "story_id": "story_788cae258ab4",
+      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
+      "url": "https://www.aibase.com/news/30132",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "3B小模型跑审核，单卡16GB确实亲民，但SOTA水分得看基准怎么挑。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客给了数字但无代码无第三方验证，等开源复现再定论。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "16GB 单卡能跑多模态审核，内容安全团队今天就能试，省下 API 钱。"
         }
       }
     }

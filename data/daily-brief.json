@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:18:42.468553Z",
+  "generated_at": "2026-08-05T15:30:18.278860Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8492,
-      "importance": 0.8492,
-      "importance_score": 0.8492,
+      "score": 0.8429,
+      "importance": 0.8429,
+      "importance_score": 0.8429,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.97,
-        "recency": 0.7788,
+        "recency": 0.7437,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
+      }
+    },
+    {
+      "story_id": "story_880f77f03b61",
+      "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os",
+      "primary_url": "https://blog.cloudflare.com/cloudflare-os",
+      "source": "Cloudflare Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+          "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
+          "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+          "recommend_reason_zh": "Cloudflare OS开源平台让全员构建应用、自动化工作，内置共享技能库，并针对MCP服务器资源可见性漏洞重构安全基础，现已开放部署。",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:00Z"
+        },
+        {
+          "id": "bdb0f6938501a01ef359fac5fd5b334e0858b99f",
+          "title": "Cloudflare OS：面向Agent、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向Agent、应用与工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": "Text from tweet: Today we are releasing Cloudflare OS, a chatbot with connectors, just like every other tech company is doing. Except actually, it's different. This is a remake of Sandstorm[.]io, my startup from 10 years ago, except this time built on Cloudflare Workers (the platform I've spent the last 9 years building) and deeply leveraging AI. This is more or less the culmination of my secret 10-year master plan. This is a full-on personal app vibe coding platform, in which the sandbox is so ",
+          "recommend_reason_zh": "Cloudflare OS基于Workers重制十年前的Sandstorm，用Gadget粒度沙箱隔离每个文档实例，让AI无法引入严重安全漏洞，普通用户也能安全地自行改代码加功能。",
+          "url": "https://news.ycombinator.com/item?id=49182996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T15:32:03.298000Z"
+        },
+        {
+          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\nCloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\nCloudflare OS is an open-source platform that lets everyone in your company build apps, automa",
+          "recommend_reason_zh": "Cloudflare OS 开源平台让全员构建应用、自动化工作并安全访问内部系统。今年五月已在 Cloudflare 内部启用，数千名非工程员工每日使用，现正式开源。",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T13:58:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Cloudflare Blog",
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+          "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
+          "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+          "recommend_reason_zh": "Cloudflare OS开源平台让全员构建应用、自动化工作，内置共享技能库，并针对MCP服务器资源可见性漏洞重构安全基础，现已开放部署。",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Cloudflare Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:00:00Z"
+        },
+        {
+          "id": "bdb0f6938501a01ef359fac5fd5b334e0858b99f",
+          "title": "Cloudflare OS：面向Agent、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向Agent、应用与工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": "Text from tweet: Today we are releasing Cloudflare OS, a chatbot with connectors, just like every other tech company is doing. Except actually, it's different. This is a remake of Sandstorm[.]io, my startup from 10 years ago, except this time built on Cloudflare Workers (the platform I've spent the last 9 years building) and deeply leveraging AI. This is more or less the culmination of my secret 10-year master plan. This is a full-on personal app vibe coding platform, in which the sandbox is so ",
+          "recommend_reason_zh": "Cloudflare OS基于Workers重制十年前的Sandstorm，用Gadget粒度沙箱隔离每个文档实例，让AI无法引入严重安全漏洞，普通用户也能安全地自行改代码加功能。",
+          "url": "https://news.ycombinator.com/item?id=49182996",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-05T15:32:03.298000Z"
+        },
+        {
+          "id": "6c183fa93718937ee172fdf0fcf2aa8a3f25b132",
+          "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS: an open platform for agents, apps, and work",
+          "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+          "title_en": "Cloudflare OS: an open platform for agents, apps, and work",
+          "title_original": "Cloudflare OS: an open platform for agents, apps, and work",
+          "summary": "Cloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\nCloudflare OS is an open-source platform that lets everyone in your company build apps, automate work, and safely access internal systems, shaped around what your organization knows and how it operates.\nCloudflare OS is an open-source platform that lets everyone in your company build apps, automa",
+          "recommend_reason_zh": "Cloudflare OS 开源平台让全员构建应用、自动化工作并安全访问内部系统。今年五月已在 Cloudflare 内部启用，数千名非工程员工每日使用，现正式开源。",
+          "url": "https://blog.cloudflare.com/cloudflare-os",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-05T13:58:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9645,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:00:00Z",
+      "latest_at": "2026-08-05T15:32:03.298000Z",
+      "primary_item": {
+        "id": "6b3b53f5e4a8c0bc2a3d0e7a8c6b6cf7246ef39e",
+        "title": "Cloudflare OS：面向智能体、应用与工作的开放平台 / Cloudflare OS： an open platform for agents， apps， and work",
+        "title_zh": "Cloudflare OS：面向智能体、应用与工作的开放平台",
+        "title_en": "Cloudflare OS： an open platform for agents， apps， and work",
+        "title_original": "Cloudflare OS： an open platform for agents， apps， and work",
+        "summary": "Cloudflare 开源新版 Cloudflare OS，任何组织均可部署并连接内部系统。该平台为每位员工提供基于公司上下文与技能的智能体工作区，包含隔离运行时、安全治理框架及可共享修改的个人应用。此前内部版本已供数千名员工日常使用，新版针对协作中的信息暴露风险重建了安全基础。",
+        "recommend_reason_zh": "Cloudflare OS开源平台让全员构建应用、自动化工作，内置共享技能库，并针对MCP服务器资源可见性漏洞重构安全基础，现已开放部署。",
+        "url": "https://blog.cloudflare.com/cloudflare-os",
+        "source": "Cloudflare Blog",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "平台愿景听着大，但没给可用的API或SDK，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -163,15 +306,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8125,
-      "importance": 0.8125,
-      "importance_score": 0.8125,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7806,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +343,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -248,15 +391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8123,
-      "importance": 0.8123,
-      "importance_score": 0.8123,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7793,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,92 +428,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
-      }
-    },
-    {
-      "story_id": "story_bcfdafe93ce8",
-      "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_zh": "用LFM2.5-2.6B随处部署本地Agent",
-          "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "summary": null,
-          "recommend_reason_zh": "LFM2.5-2.6B 是仅26亿参数的端侧智能体模型，经34T token预训练、支持128K上下文，CPU解码达220 tokens/s，指令遵循和工具调用超越数倍大的模型，让智能体完全跑在本地设备上。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-          "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_zh": "用LFM2.5-2.6B随处部署本地Agent",
-          "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
-          "summary": null,
-          "recommend_reason_zh": "LFM2.5-2.6B 是仅26亿参数的端侧智能体模型，经34T token预训练、支持128K上下文，CPU解码达220 tokens/s，指令遵循和工具调用超越数倍大的模型，让智能体完全跑在本地设备上。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:58:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7243,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:58:29Z",
-      "latest_at": "2026-08-04T13:58:29Z",
-      "primary_item": {
-        "id": "29539b6fa902d9cb9ba640872a1c08e0b500f04e",
-        "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
-        "title_zh": "用LFM2.5-2.6B随处部署本地Agent",
-        "title_en": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "title_original": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "summary": null,
-        "recommend_reason_zh": "LFM2.5-2.6B 是仅26亿参数的端侧智能体模型，经34T token预训练、支持128K上下文，CPU解码达220 tokens/s，指令遵循和工具调用超越数倍大的模型，让智能体完全跑在本地设备上。",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -447,15 +505,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7961,
+      "importance": 0.7961,
+      "importance_score": 0.7961,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9453,
+        "recency": 0.9027,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -484,92 +542,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
-      }
-    },
-    {
-      "story_id": "story_8fcfc69e0c50",
-      "title": "我们2026年7月宣布的最新AI新闻 / The latest AI news we announced in July 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们2026年7月宣布的最新AI新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们2026年7月宣布的最新AI新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": "Google官方七月AI盘点值得一读：它具体列出了Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyber三款新模型，以及机器人推理模型Gemini Robotics ER 2，并说明Gemini Intelligence将随Samsung Galaxy Z Fold8系列设备首次落地。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-          "title": "我们2026年7月宣布的最新AI新闻 / The latest AI news we announced in July 2026",
-          "title_zh": "我们2026年7月宣布的最新AI新闻",
-          "title_en": "The latest AI news we announced in July 2026",
-          "title_original": "The latest AI news we announced in July 2026",
-          "summary": null,
-          "recommend_reason_zh": "Google官方七月AI盘点值得一读：它具体列出了Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyber三款新模型，以及机器人推理模型Gemini Robotics ER 2，并说明Gemini Intelligence将随Samsung Galaxy Z Fold8系列设备首次落地。",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-04T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7926,
-      "importance": 0.7926,
-      "importance_score": 0.7926,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7142,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-04T13:00:00Z",
-      "latest_at": "2026-08-04T13:00:00Z",
-      "primary_item": {
-        "id": "c1aae7eb61623d8b10f7a2bb098ea622e156fb5f",
-        "title": "我们2026年7月宣布的最新AI新闻 / The latest AI news we announced in July 2026",
-        "title_zh": "我们2026年7月宣布的最新AI新闻",
-        "title_en": "The latest AI news we announced in July 2026",
-        "title_original": "The latest AI news we announced in July 2026",
-        "summary": null,
-        "recommend_reason_zh": "Google官方七月AI盘点值得一读：它具体列出了Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyber三款新模型，以及机器人推理模型Gemini Robotics ER 2，并说明Gemini Intelligence将随Samsung Galaxy Z Fold8系列设备首次落地。",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "官宣汇总无细节，等具体API和价格再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -646,15 +619,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.7991,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -683,7 +656,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
+      }
+    },
+    {
+      "story_id": "story_049173f25374",
+      "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+      "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+      "primary_url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
+          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_en": null,
+          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+          "recommend_reason_zh": "SpaceX上市首份财报电话会上，Musk宣布明年将AI数据中心发射上太空，未来所有AI算力无论地面还是轨道，独家采用Nvidia Vera Rubin架构。这不是概念PPT，而是明确的发射时间表。",
+          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T14:30:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
+          "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "title_en": null,
+          "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+          "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+          "recommend_reason_zh": "SpaceX上市首份财报电话会上，Musk宣布明年将AI数据中心发射上太空，未来所有AI算力无论地面还是轨道，独家采用Nvidia Vera Rubin架构。这不是概念PPT，而是明确的发射时间表。",
+          "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T14:30:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9858,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T14:30:53Z",
+      "latest_at": "2026-08-05T14:30:53Z",
+      "primary_item": {
+        "id": "b9acd21b716065d1839066cf70e1b763bdd4a786",
+        "title": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "title_zh": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "title_en": null,
+        "title_original": "SpaceX 宣布 AI 算力上太空，独家采用 Nvidia Vera Rubin",
+        "summary": "SpaceX 在财报电话会上宣布，未来所有 AI 算力（地面及轨道）将独家采用 Nvidia Vera Rubin 架构，2026 年底总算力超 2GW，2027 年底接近 10GW。同步公布 Starmind 计划，2027 年起发射搭载 Rubin GPU 与 Vera CPU 的轨道 AI 卫星星座，明年开始发射，算力经星链激光链路回传。消息公布后 AMD 股价跌 8%。",
+        "recommend_reason_zh": "SpaceX上市首份财报电话会上，Musk宣布明年将AI数据中心发射上太空，未来所有AI算力无论地面还是轨道，独家采用Nvidia Vera Rubin架构。这不是概念PPT，而是明确的发射时间表。",
+        "url": "https://x.com/AYi_AInotes/status/2085010659150852220",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "太空算力离你太远，短期无API可调，等真落地再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -731,15 +788,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7802,
-      "importance": 0.7802,
-      "importance_score": 0.7802,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9702,
+        "recency": 0.9265,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -767,7 +824,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -815,15 +872,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.7984,
+      "importance": 0.7984,
+      "importance_score": 0.7984,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7817,
+        "recency": 0.7465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -852,7 +909,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -900,15 +957,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.772,
-      "importance": 0.772,
-      "importance_score": 0.772,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9746,
+        "recency": 0.9307,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -936,7 +993,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
+      }
+    },
+    {
+      "story_id": "story_609acf8848f0",
+      "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+      "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "primary_url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+      "source": "AI as Normal Technology（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+          "title_zh": "AI智能体尚无法开展开放式AI研究",
+          "title_en": "AI agents can't yet do open-ended AI research",
+          "title_original": "AI agents can't yet do open-ended AI research",
+          "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+          "recommend_reason_zh": "这篇研究让前沿AI agents用数千美元API额度和六天时间尝试回答两篇未发表论文的核心问题，结果均被原作者否决，且预算花不到50%，暴露其缺乏开放研究所需的判断力与回溯能力。",
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AI as Normal Technology（RSS）"
+      ],
+      "items": [
+        {
+          "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+          "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+          "title_zh": "AI智能体尚无法开展开放式AI研究",
+          "title_en": "AI agents can't yet do open-ended AI research",
+          "title_original": "AI agents can't yet do open-ended AI research",
+          "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+          "recommend_reason_zh": "这篇研究让前沿AI agents用数千美元API额度和六天时间尝试回答两篇未发表论文的核心问题，结果均被原作者否决，且预算花不到50%，暴露其缺乏开放研究所需的判断力与回溯能力。",
+          "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+          "source": "AI as Normal Technology（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-05T13:49:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-05T13:49:19Z",
+      "latest_at": "2026-08-05T13:49:19Z",
+      "primary_item": {
+        "id": "93b88ed2fb86fbd132d4f442b1e25617aa5f6407",
+        "title": "AI智能体尚无法开展开放式AI研究 / AI agents can't yet do open-ended AI research",
+        "title_zh": "AI智能体尚无法开展开放式AI研究",
+        "title_en": "AI agents can't yet do open-ended AI research",
+        "title_original": "AI agents can't yet do open-ended AI research",
+        "summary": "普林斯顿大学团队通过\"影子评估\"测试前沿AI智能体的开放式研究能力：让智能体在六天时间内、使用数千美元API额度和算力，回答两篇未发表论文的核心研究问题，结果两篇论文均被原作者明确拒绝。分析显示，智能体缺乏研究判断力、资源意识、创造性反馈应对能力和有效回溯能力，且未遵循具体指令。研究团队认为，开放式研究对前沿AI智能体仍具挑战性，但结果尚属初步，需扩大样本量并持续评估。",
+        "recommend_reason_zh": "这篇研究让前沿AI agents用数千美元API额度和六天时间尝试回答两篇未发表论文的核心问题，结果均被原作者否决，且预算花不到50%，暴露其缺乏开放研究所需的判断力与回溯能力。",
+        "url": "https://www.normaltech.ai/p/ai-agents-cant-yet-do-open-ended",
+        "source": "AI as Normal Technology（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "现状总结，无新工具或方案，做Agent的知道边界即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -984,15 +1125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9668,
+        "recency": 0.9232,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,7 +1161,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1068,15 +1209,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.923,
+        "recency": 0.8814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1104,7 +1245,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1181,22 +1322,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7709,
+        "recency": 0.7361,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-04T18:17:29.648000Z",
       "latest_at": "2026-08-04T18:17:29.648000Z",
@@ -1218,7 +1358,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1266,21 +1406,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7538,
-      "importance": 0.7538,
-      "importance_score": 0.7538,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8566,
+        "recency": 0.818,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-05T01:35:42Z",
       "latest_at": "2026-08-05T01:35:42Z",
@@ -1302,7 +1441,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1350,15 +1489,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7447,
-      "importance": 0.7447,
-      "importance_score": 0.7447,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.806,
+        "recency": 0.7697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1385,7 +1524,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1433,15 +1572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7398,
-      "importance": 0.7398,
-      "importance_score": 0.7398,
+      "score": 0.7338,
+      "importance": 0.7338,
+      "importance_score": 0.7338,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7458,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1468,7 +1607,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1516,15 +1655,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1551,7 +1690,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
@@ -1599,15 +1738,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.792,
+      "importance": 0.792,
+      "importance_score": 0.792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7449,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1636,146 +1775,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     },
     {
-      "story_id": "story_b35b3bd10fcc",
-      "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-      "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "story_id": "story_f817e433f480",
+      "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+      "url": "https://blog.cloudflare.com/the-agent-access-model",
+      "primary_url": "https://blog.cloudflare.com/the-agent-access-model",
+      "source": "Cloudflare Blog",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "3885c179393730962729bd20738be4f0771525ce",
-          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-          "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
-          "recommend_reason_zh": "Anthropic与成立仅数月的云初创Volta签下100亿美元计算大单，过去这类合同只属于Amazon、Microsoft或Google，本文解析这一颠覆性合作背后的行业变局。",
-          "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "title_en": "The Agent Access Model",
+          "title_original": "The Agent Access Model",
+          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+          "recommend_reason_zh": "本文提出Agent Access Model，以严格身份代理、持续中介与有状态信任保障任务级Agent，对比BeyondCorp的人类中心零信任，强调先收窄能力。",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T14:58:39Z"
+          "published_at": "2026-08-05T13:00:41Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
+        "Cloudflare Blog"
       ],
       "items": [
         {
-          "id": "3885c179393730962729bd20738be4f0771525ce",
-          "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-          "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-          "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
-          "recommend_reason_zh": "Anthropic与成立仅数月的云初创Volta签下100亿美元计算大单，过去这类合同只属于Amazon、Microsoft或Google，本文解析这一颠覆性合作背后的行业变局。",
-          "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+          "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+          "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+          "title_en": "The Agent Access Model",
+          "title_original": "The Agent Access Model",
+          "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+          "recommend_reason_zh": "本文提出Agent Access Model，以严格身份代理、持续中介与有状态信任保障任务级Agent，对比BeyondCorp的人类中心零信任，强调先收窄能力。",
+          "url": "https://blog.cloudflare.com/the-agent-access-model",
+          "source": "Cloudflare Blog",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-04T14:58:39Z"
+          "published_at": "2026-08-05T13:00:41Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.78,
+        "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7349,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-04T14:58:39Z",
-      "latest_at": "2026-08-04T14:58:39Z",
-      "primary_item": {
-        "id": "3885c179393730962729bd20738be4f0771525ce",
-        "title": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议 / Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-        "title_zh": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议",
-        "title_en": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-        "title_original": "Anthropic signs $10B computing deal with infrastructure startup Volta， a cloud company that is only …",
-        "summary": "Anthropic 与成立仅数月的云初创公司 Volta 签署 100 亿美元算力协议，约合每年 17 亿美元。Volta 估值 24 亿美元，硬件几乎全为租用：算力来自比特币矿商 Bitdeer 挪威 121MW 站点，芯片由 Nvidia 供应、Dell 组装。Anthropic 买的是交付速度，代价是承担超大规模云厂商合同从未有过的交易对手风险。",
-        "recommend_reason_zh": "Anthropic与成立仅数月的云初创Volta签下100亿美元计算大单，过去这类合同只属于Amazon、Microsoft或Google，本文解析这一颠覆性合作背后的行业变局。",
-        "url": "https://x.com/rohanpaul_ai/status/2084655258102546579",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "百亿算力协议是巨头布局，短期不改变你的API价格或选型，看看就行。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
-      }
-    },
-    {
-      "story_id": "story_f70d268aa3c8",
-      "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-      "url": "https://www.ithome.com/0/986/180.htm",
-      "primary_url": "https://www.ithome.com/0/986/180.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
-          "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-          "title_zh": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-          "title_en": null,
-          "title_original": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-          "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
-          "recommend_reason_zh": "本文报道华为引望参与起草我国首部L3/L4自动驾驶强制性国标GB 44721-2026，并首批完成L3准入试点，基于超190万辆量产车和130亿公里智驾数据提出标准化提案。",
-          "url": "https://www.ithome.com/0/986/180.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:18:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
-          "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-          "title_zh": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-          "title_en": null,
-          "title_original": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-          "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
-          "recommend_reason_zh": "本文报道华为引望参与起草我国首部L3/L4自动驾驶强制性国标GB 44721-2026，并首批完成L3准入试点，基于超190万辆量产车和130亿公里智驾数据提出标准化提案。",
-          "url": "https://www.ithome.com/0/986/180.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-05T10:18:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9646,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1783,27 +1839,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-05T10:18:17Z",
-      "latest_at": "2026-08-05T10:18:17Z",
+      "earliest_at": "2026-08-05T13:00:41Z",
+      "latest_at": "2026-08-05T13:00:41Z",
       "primary_item": {
-        "id": "a98cd5c2f4359447d8f401f5c6e022ed2f32fc1d",
-        "title": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-        "title_zh": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-        "title_en": null,
-        "title_original": "华为谈自动驾驶系统强制性国家标准发布，引望国内首批完成 L3 车型准入试点验证",
-        "summary": "工信部提出的 GB 44721-2026《智能网联汽车 自动驾驶系统安全要求》于 2026 年 7 月 30 日发布，是我国首部针对 L3 和 L4 自动驾驶系统的强制性国家标准，将于 2027 年 7 月 1 日实施。",
-        "recommend_reason_zh": "本文报道华为引望参与起草我国首部L3/L4自动驾驶强制性国标GB 44721-2026，并首批完成L3准入试点，基于超190万辆量产车和130亿公里智驾数据提出标准化提案。",
-        "url": "https://www.ithome.com/0/986/180.htm",
-        "source": "IT之家（RSS）",
+        "id": "a3b25cf2f6dcb85607a59953d7751fd25117f356",
+        "title": "Cloudflare 提出智能体访问模型（Agent Access Model） / The Agent Access Model",
+        "title_zh": "Cloudflare 提出智能体访问模型（Agent Access Model）",
+        "title_en": "The Agent Access Model",
+        "title_original": "The Agent Access Model",
+        "summary": "Cloudflare 发布《The Agent Access Model》论文，提出面向 AI 智能体的访问控制模型 AAM，核心规则是\"不信任运行\"，对任务执行图中的每个动作基于智能体身份、授权任务及已触达资源进行实时授权。该模型针对智能体的短暂性、机器速度、提示词非边界及跨跳组合权限四大特性设计，主张缩小能力集而非仅优化单次决策，并区分单主体控制与多人访问控制的难点。",
+        "recommend_reason_zh": "本文提出Agent Access Model，以严格身份代理、持续中介与有状态信任保障任务级Agent，对比BeyondCorp的人类中心零信任，强调先收窄能力。",
+        "url": "https://blog.cloudflare.com/the-agent-access-model",
+        "source": "Cloudflare Blog",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "标准落地利好合规，但L3量产还早，短期别指望换方案。",
+      "persona_score": 70,
+      "persona_review": "给智能体访问控制提供新思路，做企业级AI的可以看看方案。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-05T12:44:57.383075Z"
+        "scored_at": "2026-08-05T15:51:00.135730Z"
       }
     }
   ]
