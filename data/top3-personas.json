@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T15:51:07.882130Z",
+  "generated_at": "2026-08-05T18:16:22.760810Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_07b0df6b2011",
-      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
-      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "story_id": "story_3d42f575454c",
+      "title": "Codex CLI 0.146.1",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "4GB显存微调8B，听着像魔法，但得看是不是把量化、梯度检查点全算上才够。"
+          "review": "版本号刷得勤，但没提具体改了什么，八成是小修小补。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "GitHub仓库在，但无论文无benchmark，4GB微调8B需复现验证。"
+          "score": 55,
+          "review": "官方更新日志有版本号，但无论文代码或评测，细节不足难验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "4GB显存能微调8B，低配党今天就能试，省下租卡钱。"
-        }
-      }
-    },
-    {
-      "story_id": "story_b2c075d30098",
-      "title": "Google Cloud API Gateway 推出统一模型路由功能，支持 Gemini、Claude 与 OpenAI OSS-GPT / A unified API for AI model routing",
-      "url": "https://developers.googleblog.com/a-unified-api-for-ai-model-routing",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "统一路由是刚需，但'支持'和'优化'是两码事，别急着吹。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无论文代码，等第三方验证再定论。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "统一路由API今天就能接，省掉多模型适配代码，直接换。"
+          "score": 82,
+          "review": "Codex CLI 小版本迭代，查下 changelog 看有没有修 bug 或加参数，今天就能升级。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_788cae258ab4",
       "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
       "url": "https://www.aibase.com/news/30132",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "16GB 单卡能跑多模态审核，内容安全团队今天就能试，省下 API 钱。"
+        }
+      }
+    },
+    {
+      "story_id": "story_20b80d150b2a",
+      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
+      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "功能实用但宣传略浮夸，推理轨迹和工具调用是刚需，日志改进算加分项。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客有细节无代码无评测，等开源和复现再定论。"
+        },
+        "pragmatic": {
+          "score": 80,
+          "review": "CLI 工具更新，推理轨迹和 Responses 支持能直接提升调试效率，值得升级。"
         }
       }
     }

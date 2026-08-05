@@ -1,29 +1,11 @@
 {
   "version": 1,
   "entries": {
-    "story_720e8881c84d|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "经验总结而非工具，可当案例参考，今天用不上。",
-      "title_hash": "9bb5ee55",
-      "scored_at": "2026-07-15T17:48:51.982927Z"
-    },
     "story_dbadffdd21c6|pragmatic|0a5c5b24": {
       "score": 55,
       "review": "内部工具未开放，短期无直接影响，可关注后续接口。",
       "title_hash": "01957885",
       "scored_at": "2026-07-16T00:19:56.869886Z"
-    },
-    "story_7f12fb220449|pragmatic|0a5c5b24": {
-      "score": 73,
-      "review": "模型路由选型避坑指南，部署多模型时可参考，非今天能直接用。",
-      "title_hash": "61c5bfd4",
-      "scored_at": "2026-07-15T17:48:57.316195Z"
-    },
-    "story_ac16bc5670b9|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "政策动向需关注合规，但无即时工具可用。",
-      "title_hash": "8dd77aaf",
-      "scored_at": "2026-07-15T17:48:59.349077Z"
     },
     "story_dce0062539c4|pragmatic|0a5c5b24": {
       "score": 72,
@@ -5508,6 +5490,60 @@
       "review": "官方博客给了数字但无代码无第三方验证，等开源复现再定论。",
       "title_hash": "8a053ed5",
       "scored_at": "2026-08-05T15:51:07.882069Z"
+    },
+    "story_533217fe758f|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "AI 解数学题是研究进展，但没开源工具，今天用不上。",
+      "title_hash": "3350fc70",
+      "scored_at": "2026-08-05T18:16:12.506802Z"
+    },
+    "story_3d42f575454c|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "Codex CLI 小版本迭代，查下 changelog 看有没有修 bug 或加参数，今天就能升级。",
+      "title_hash": "0a296141",
+      "scored_at": "2026-08-05T18:16:13.952527Z"
+    },
+    "story_2d7cb4009c8c|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "人事变动不影响现有API和模型，等新方向落地再关注。",
+      "title_hash": "a593435a",
+      "scored_at": "2026-08-05T18:16:15.221872Z"
+    },
+    "story_a22d5ba3f7a7|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "高管转岗不写代码，等新模型或产品再说。",
+      "title_hash": "5385fb04",
+      "scored_at": "2026-08-05T18:16:16.399128Z"
+    },
+    "story_d002c5a4cf70|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "CEO卸任是人事变动，不写代码，等新方向落地再说。",
+      "title_hash": "8b576142",
+      "scored_at": "2026-08-05T18:16:17.810844Z"
+    },
+    "story_3d42f575454c|cynic|f4237a62": {
+      "score": 72,
+      "review": "版本号刷得勤，但没提具体改了什么，八成是小修小补。",
+      "title_hash": "0a296141",
+      "scored_at": "2026-08-05T18:16:19.055622Z"
+    },
+    "story_3d42f575454c|paper-police|966065bf": {
+      "score": 55,
+      "review": "官方更新日志有版本号，但无论文代码或评测，细节不足难验证。",
+      "title_hash": "0a296141",
+      "scored_at": "2026-08-05T18:16:20.279860Z"
+    },
+    "story_20b80d150b2a|cynic|f4237a62": {
+      "score": 72,
+      "review": "功能实用但宣传略浮夸，推理轨迹和工具调用是刚需，日志改进算加分项。",
+      "title_hash": "e0b82e84",
+      "scored_at": "2026-08-05T18:16:21.689476Z"
+    },
+    "story_20b80d150b2a|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客有细节无代码无评测，等开源和复现再定论。",
+      "title_hash": "e0b82e84",
+      "scored_at": "2026-08-05T18:16:22.760752Z"
     }
   }
 }
