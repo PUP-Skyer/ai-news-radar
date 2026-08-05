@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T10:15:16.118231Z",
+  "generated_at": "2026-08-05T12:45:02.990586Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_05bcbbcf4f82",
-      "title": "在单颗 AMD MI300X 上运行 DeepSeek V4 Flash",
-      "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "单卡跑通是本事，但'Flash'这名字听着就像阉割版，先晒个基准测试再说。"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "只有GitHub仓库，无论文无benchmark，单卡跑通不等于可复现，缺实测数据。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "单卡跑V4 Flash，部署成本直接砍半，有MI300X的今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_bcfdafe93ce8",
       "title": "用LFM2.5-2.6B随处部署本地Agent / Deploy local agents everywhere with LFM2.5-2.6B",
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,6 +33,26 @@
         "pragmatic": {
           "score": 85,
           "review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_07b0df6b2011",
+      "title": "Soup v0.72.4：在4 GB显存笔记本GPU上微调8B模型",
+      "url": "https://github.com/MakazhanAlpamys/Soup",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "4GB显存微调8B，听着像魔法，但得看是不是把量化、梯度检查点全算上才够。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "GitHub仓库在，但无论文无benchmark，4GB微调8B需复现验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "4GB显存能微调8B，低配党今天就能试，省下租卡钱。"
         }
       }
     },
