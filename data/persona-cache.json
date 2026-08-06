@@ -1,126 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_dbadffdd21c6|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "内部工具未开放，短期无直接影响，可关注后续接口。",
-      "title_hash": "01957885",
-      "scored_at": "2026-07-16T00:19:56.869886Z"
-    },
-    "story_a297969d5314|pragmatic|0a5c5b24": {
-      "score": 95,
-      "review": "能直接clone仓库看源码了，想魔改或自部署的今天就能动手。",
-      "title_hash": "c295d531",
-      "scored_at": "2026-07-16T00:19:58.480583Z"
-    },
-    "story_d0f563033be1|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "提醒注意AI语音安全，无直接工具或方案可用。",
-      "title_hash": "74faa8fe",
-      "scored_at": "2026-07-16T00:20:01.155311Z"
-    },
-    "story_cb1391ebd37c|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "在Claude Code里直接调MCP连接器做应用，今天就能试。",
-      "title_hash": "186fbb54",
-      "scored_at": "2026-07-16T00:20:04.835688Z"
-    },
-    "story_ddd1632f9351|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "内部安全测试工具，暂无直接用途，等后续模型安全更新再说。",
-      "title_hash": "a42067ac",
-      "scored_at": "2026-07-16T00:20:07.210587Z"
-    },
-    "story_3340fcf57dbe|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "研究论文，揭示潜在对齐问题，暂不直接影响日常开发。",
-      "title_hash": "7e0c7c58",
-      "scored_at": "2026-07-16T00:20:09.585836Z"
-    },
-    "story_ce19941f8cdf|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "发布不等于可用，等API或开源再试。",
-      "title_hash": "eae7ce4b",
-      "scored_at": "2026-07-16T00:20:11.997344Z"
-    },
-    "story_60c0396d28c0|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "开源方案可 clone 试，SSH 同步省去手动传模型步骤。",
-      "title_hash": "c335b7cf",
-      "scored_at": "2026-07-16T00:20:14.854078Z"
-    },
-    "story_a297969d5314|cynic|f4237a62": {
-      "score": 35,
-      "review": "又是“开源”一勺？权重和训练数据藏哪了？",
-      "title_hash": "c295d531",
-      "scored_at": "2026-07-16T00:20:18.775986Z"
-    },
-    "story_a297969d5314|paper-police|966065bf": {
-      "score": 70,
-      "review": "代码已开源，但缺论文和独立评测，有待验证性能。",
-      "title_hash": "c295d531",
-      "scored_at": "2026-07-16T00:20:22.070651Z"
-    },
-    "story_cb1391ebd37c|cynic|f4237a62": {
-      "score": 55,
-      "review": "MCP连接器听起来很牛，但能连几个真有用的服务？",
-      "title_hash": "186fbb54",
-      "scored_at": "2026-07-16T00:20:23.754930Z"
-    },
-    "story_cb1391ebd37c|paper-police|966065bf": {
-      "score": 25,
-      "review": "只有官方推文声称功能，无论文无代码无评测，无法验证。",
-      "title_hash": "186fbb54",
-      "scored_at": "2026-07-16T00:20:26.351956Z"
-    },
-    "story_affed1a668e3|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "小版本更新，升级看 changelog 再决定是否值得更新。",
-      "title_hash": "f8c444e8",
-      "scored_at": "2026-07-16T03:48:00.044776Z"
-    },
-    "story_6ecaedd1168a|pragmatic|0a5c5b24": {
-      "score": 92,
-      "review": "命令行画框图利器，克隆即用，省去截图烦恼。",
-      "title_hash": "23602459",
-      "scored_at": "2026-07-16T03:48:02.191136Z"
-    },
-    "story_684fc2044b87|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "安全方法论，暂无工具可抄，等具体方案出来再关注。",
-      "title_hash": "61068ccc",
-      "scored_at": "2026-07-16T03:48:04.742876Z"
-    },
-    "story_b336a63f1703|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "短剧创作者可试用，普通开发者观望即可。",
-      "title_hash": "a35f1d50",
-      "scored_at": "2026-07-16T03:48:07.926614Z"
-    },
-    "story_3eeca136967d|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "若附代码可照搬，否则仅思路参考，需自行调试拼接。",
-      "title_hash": "a7e3da43",
-      "scored_at": "2026-07-16T03:48:13.933971Z"
-    },
-    "story_e09d3aa61f5a|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "桌面端架构升级，金融模块快来了，用MiniMax Code的可以准备测试新特性。",
-      "title_hash": "e430bbe0",
-      "scored_at": "2026-07-16T03:48:16.839393Z"
-    },
-    "story_6ecaedd1168a|cynic|f4237a62": {
-      "score": 65,
-      "review": "附属工具当亮点，xAI 的 PR 团队该换个地方挖了。",
-      "title_hash": "23602459",
-      "scored_at": "2026-07-16T03:48:20.769080Z"
-    },
-    "story_6ecaedd1168a|paper-police|966065bf": {
-      "score": 25,
-      "review": "仅博客提及，无代码仓库或论文链接，无法验证。",
-      "title_hash": "23602459",
-      "scored_at": "2026-07-16T03:48:23.657651Z"
-    },
     "story_10cedf3ce9e3|pragmatic|0a5c5b24": {
       "score": 35,
       "review": "智商测试不靠谱，模型未开放，等能用了再激动。",
@@ -5514,6 +5394,72 @@
       "review": "贝叶斯MMM有现成工具可试，但落地要调参，先看文档再动手。",
       "title_hash": "f8640b36",
       "scored_at": "2026-08-05T23:34:48.708205Z"
+    },
+    "story_365bb32d4726|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源安全扫描插件，Vibe Coding 项目能直接集成，省得自己造轮子。",
+      "title_hash": "572075b6",
+      "scored_at": "2026-08-06T03:53:59.514686Z"
+    },
+    "story_c2e060323a54|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "技能工件跨模型迁移是实用方向，但暂无代码，等开源再动手。",
+      "title_hash": "adc3d23b",
+      "scored_at": "2026-08-06T03:54:00.793984Z"
+    },
+    "story_7101c5859f87|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "Meta编程智能体还没开放，先看它出什么再动手。",
+      "title_hash": "41ea8eb0",
+      "scored_at": "2026-08-06T03:54:01.873338Z"
+    },
+    "story_f35b1af635e4|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全测试事故值得知道，但没给可抄的方案，等官方修复指南。",
+      "title_hash": "8e1a4b2e",
+      "scored_at": "2026-08-06T03:54:03.028950Z"
+    },
+    "story_7445223c019d|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "电商流量结构在变，做SEO的得留意AI搜索渠道，但暂不用改架构。",
+      "title_hash": "795f25e4",
+      "scored_at": "2026-08-06T03:54:04.110348Z"
+    },
+    "story_0e6536a40e43|cynic|f4237a62": {
+      "score": 45,
+      "review": "漏洞报告挺吓人，但没见PoC和修复细节，先观望。",
+      "title_hash": "0a238809",
+      "scored_at": "2026-08-06T03:54:05.279018Z"
+    },
+    "story_0e6536a40e43|paper-police|966065bf": {
+      "score": 35,
+      "review": "仅有安全公司博客披露，无漏洞细节或PoC，需官方确认和复现。",
+      "title_hash": "0a238809",
+      "scored_at": "2026-08-06T03:54:06.428792Z"
+    },
+    "story_365bb32d4726|cynic|f4237a62": {
+      "score": 70,
+      "review": "开源是好事，但安全插件得先证明能拦住真漏洞，别只扫出玩具级问题。",
+      "title_hash": "572075b6",
+      "scored_at": "2026-08-06T03:54:07.652606Z"
+    },
+    "story_365bb32d4726|paper-police|966065bf": {
+      "score": 30,
+      "review": "仅公众号提及开源，无论文代码链接，性能未验证，证据不足。",
+      "title_hash": "572075b6",
+      "scored_at": "2026-08-06T03:54:08.726999Z"
+    },
+    "story_ef28a1340614|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源34B参数，总算没藏着掖着，但Robotaxi落地还早，别急着吹。",
+      "title_hash": "fe8d97e1",
+      "scored_at": "2026-08-06T03:54:10.138114Z"
+    },
+    "story_ef28a1340614|paper-police|966065bf": {
+      "score": 45,
+      "review": "开源模型但无论文代码链接，评测数字待独立验证。",
+      "title_hash": "fe8d97e1",
+      "scored_at": "2026-08-06T03:54:11.246714Z"
     }
   }
 }

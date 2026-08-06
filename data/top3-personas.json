@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:34:48.708344Z",
+  "generated_at": "2026-08-06T03:54:11.246772Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_3d42f575454c",
-      "title": "Codex CLI 0.146.1",
-      "url": "https://developers.openai.com/codex/changelog",
+      "story_id": "story_0e6536a40e43",
+      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
+      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "版本号刷得勤，但没提具体改了什么，八成是小修小补。"
+          "score": 45,
+          "review": "漏洞报告挺吓人，但没见PoC和修复细节，先观望。"
         },
         "paper-police": {
-          "score": 55,
-          "review": "官方更新日志有版本号，但无论文代码或评测，细节不足难验证。"
+          "score": 35,
+          "review": "仅有安全公司博客披露，无漏洞细节或PoC，需官方确认和复现。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "Codex CLI 小版本迭代，查下 changelog 看有没有修 bug 或加参数，今天就能升级。"
+          "score": 72,
+          "review": "用 Rovo 的团队先查数据暴露面，PoC 已出，补丁前别传敏感信息。"
         }
       }
     },
     {
-      "story_id": "story_788cae258ab4",
-      "title": "Mistral 推出 Shieldstral：3B 小模型单卡 16GB 跑起多模态审核，号称拿下开源 SOTA",
-      "url": "https://www.aibase.com/news/30132",
+      "story_id": "story_365bb32d4726",
+      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "3B小模型跑审核，单卡16GB确实亲民，但SOTA水分得看基准怎么挑。"
+          "score": 70,
+          "review": "开源是好事，但安全插件得先证明能拦住真漏洞，别只扫出玩具级问题。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给了数字但无代码无第三方验证，等开源复现再定论。"
+          "score": 30,
+          "review": "仅公众号提及开源，无论文代码链接，性能未验证，证据不足。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "16GB 单卡能跑多模态审核，内容安全团队今天就能试，省下 API 钱。"
+          "score": 72,
+          "review": "开源安全扫描插件，Vibe Coding 项目能直接集成，省得自己造轮子。"
         }
       }
     },
     {
-      "story_id": "story_20b80d150b2a",
-      "title": "LLM 0.32 发布：新增推理轨迹、OpenAI Responses、服务端工具与更智能的日志 / New release of LLM adds support for reasoning traces， OpenAI Responses， server-side tools， and smarter logging",
-      "url": "https://simonwillison.net/2026/Aug/4/new-release-of-llm",
+      "story_id": "story_ef28a1340614",
+      "title": "NVIDIA 发布 Alpamayo 2 Super：面向 Robotaxi 与自动驾驶的 34B 开源视觉-语言-动作模型 / NVIDIA Releases Alpamayo 2 Super： A 34B Open Vision-Language-Action Model for Robotaxis and Autonomous Driving Under OpenMDW-1.1",
+      "url": "https://www.marktechpost.com/2026/08/05/nvidia-alpamayo-2-super-open-vla-model-autonomous-driving",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "功能实用但宣传略浮夸，推理轨迹和工具调用是刚需，日志改进算加分项。"
+          "review": "开源34B参数，总算没藏着掖着，但Robotaxi落地还早，别急着吹。"
         },
         "paper-police": {
           "score": 45,
-          "review": "博客有细节无代码无评测，等开源和复现再定论。"
+          "review": "开源模型但无论文代码链接，评测数字待独立验证。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "CLI 工具更新，推理轨迹和 Responses 支持能直接提升调试效率，值得升级。"
+          "score": 72,
+          "review": "开源VLA模型可clone，做自动驾驶或机器人项目的能直接试，但34B部署成本不低。"
         }
       }
     }
