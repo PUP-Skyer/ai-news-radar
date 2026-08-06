@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T12:50:46.580931Z",
+  "generated_at": "2026-08-06T15:56:37.614684Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_0e6536a40e43",
-      "title": "Atlassian Rovo 被曝存在数据窃取漏洞，可绕过安全控制",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
+      "story_id": "story_539de7fead7f",
+      "title": "千问全网首发公测，全新 Wan3.0 来了！",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzYzNDE5MDEwMQ%3D%3D&mid=2247488240&idx=1&sn=3fea5624e07184f42661d5f3bc798873",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 45,
-          "review": "漏洞报告挺吓人，但没见PoC和修复细节，先观望。"
+          "review": "公测即全网首发，先跑个分再谈颠覆，别急着定义时代。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "仅有安全公司博客披露，无漏洞细节或PoC，需官方确认和复现。"
+          "score": 15,
+          "review": "仅官方公众号宣称公测，无论文无代码无第三方评测，证据不足。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "用 Rovo 的团队先查数据暴露面，PoC 已出，补丁前别传敏感信息。"
+          "score": 75,
+          "review": "Wan3.0公测，视频生成模型可上手试，做内容生成的今天就能测效果。"
         }
       }
     },
     {
-      "story_id": "story_365bb32d4726",
-      "title": "OpenAI 开源 Codex Security：Vibe Coding 产品必备的安全扫描插件",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647684990&idx=1&sn=86a6d71b133589916b49a9d57046c127",
+      "story_id": "story_70ce25d1d5bb",
+      "title": "Baseten 拥抱人脸推理提供商 🔥 / Baseten on Hugging Face Inference Providers 🔥",
+      "url": "https://huggingface.co/blog/baseten",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "开源是好事，但安全插件得先证明能拦住真漏洞，别只扫出玩具级问题。"
+          "score": 72,
+          "review": "抱团取暖，但推理成本和服务稳定性还没晒，先别急着吹。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅公众号提及开源，无论文代码链接，性能未验证，证据不足。"
+          "score": 20,
+          "review": "官方博客宣布合作，但无技术细节、论文或代码，无法验证实际能力。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "开源安全扫描插件，Vibe Coding 项目能直接集成，省得自己造轮子。"
+          "review": "Baseten 接入 HF 推理，部署选择更多，现有项目可评估迁移成本。"
         }
       }
     }
