@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:18:47.869333Z",
+  "generated_at": "2026-08-07T19:36:01.869659Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "终于承认Copilot审代码是摆设了？早该如此，省得浪费大家时间。"
+          "review": "API加个字段就敢叫更新，数据口径先公开再说。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方变更日志有链接但无技术细节，未开源未评测，仅属产品调整声明。"
+          "score": 70,
+          "review": "官方更新有文档，但缺代码和复现，等实际调用验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "工作流少一步噪音，但影响有限，看后续是否影响审查质量。"
+          "review": "API 新增 agent 活动数据，做 Copilot 用量统计的今天就能接。"
         }
       }
     }
