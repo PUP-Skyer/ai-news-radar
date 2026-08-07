@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-07T15:10:51.094224Z",
+  "generated_at": "2026-08-07T16:10:16.058887Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+          "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:07:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+          "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:07:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.985,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
+      "primary_item": {
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+        "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "工作流少一步噪音，但影响有限，看后续是否影响审查质量。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T16:22:33.986455Z"
+      }
+    },
     {
       "story_id": "story_75e54bde627b",
       "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8366,
-      "importance": 0.8366,
-      "importance_score": 0.8366,
+      "score": 0.8343,
+      "importance": 0.8343,
+      "importance_score": 0.8343,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9146,
+        "recency": 0.9016,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -133,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8306,
-      "importance": 0.8306,
-      "importance_score": 0.8306,
+      "score": 0.8285,
+      "importance": 0.8285,
+      "importance_score": 0.8285,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8031,
+        "recency": 0.7917,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -218,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8148,
-      "importance": 0.8148,
-      "importance_score": 0.8148,
+      "score": 0.8124,
+      "importance": 0.8124,
+      "importance_score": 0.8124,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -254,7 +339,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -302,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.8062,
+      "importance": 0.8062,
+      "importance_score": 0.8062,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7562,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,92 +424,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
-      }
-    },
-    {
-      "story_id": "story_2395f91ba6f9",
-      "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
-      "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "primary_url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-          "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
-          "title_zh": "在组织级设置 PR 限制",
-          "title_en": "Set pull request limits at the organization level",
-          "title_original": "Set pull request limits at the organization level",
-          "summary": "You can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at…\nYou can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at one time. If a user reaches that limit, they must close or merge an existing pull request before opening another.\nWith this update, you can manage pull request limits ",
-          "recommend_reason_zh": "GitHub 新增组织级 pull request 限制功能，可统一管理无写权限用户的开放 PR 数量，达到上限后需合并或关闭才能新建，避免逐仓库配置的繁琐。",
-          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T23:46:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-          "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
-          "title_zh": "在组织级设置 PR 限制",
-          "title_en": "Set pull request limits at the organization level",
-          "title_original": "Set pull request limits at the organization level",
-          "summary": "You can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at…\nYou can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at one time. If a user reaches that limit, they must close or merge an existing pull request before opening another.\nWith this update, you can manage pull request limits ",
-          "recommend_reason_zh": "GitHub 新增组织级 pull request 限制功能，可统一管理无写权限用户的开放 PR 数量，达到上限后需合并或关闭才能新建，避免逐仓库配置的繁琐。",
-          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T23:46:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8005,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T23:46:17Z",
-      "latest_at": "2026-08-06T23:46:17Z",
-      "primary_item": {
-        "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
-        "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
-        "title_zh": "在组织级设置 PR 限制",
-        "title_en": "Set pull request limits at the organization level",
-        "title_original": "Set pull request limits at the organization level",
-        "summary": "You can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at…\nYou can now set pull request limits at the organization level. Pull request limits let you define how many open pull requests a user without write access can have at one time. If a user reaches that limit, they must close or merge an existing pull request before opening another.\nWith this update, you can manage pull request limits ",
-        "recommend_reason_zh": "GitHub 新增组织级 pull request 限制功能，可统一管理无写权限用户的开放 PR 数量，达到上限后需合并或关闭才能新建，避免逐仓库配置的繁琐。",
-        "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "GitHub 组织级 PR 限制上线，管仓库的今天就能配，省心防刷屏。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -530,15 +530,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7861,
-      "importance": 0.7861,
-      "importance_score": 0.7861,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7919,
+        "recency": 0.7807,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -567,7 +567,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
+      }
+    },
+    {
+      "story_id": "story_2395f91ba6f9",
+      "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
+      "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
+      "primary_url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
+          "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
+          "title_zh": "在组织级设置 PR 限制",
+          "title_en": "Set pull request limits at the organization level",
+          "title_original": "Set pull request limits at the organization level",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 新增组织级 pull request 限制功能，可统一管理无写权限用户的开放 PR 数量，达到上限后需合并或关闭才能新建，避免逐仓库配置的繁琐。",
+          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T23:46:17Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
+          "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
+          "title_zh": "在组织级设置 PR 限制",
+          "title_en": "Set pull request limits at the organization level",
+          "title_original": "Set pull request limits at the organization level",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 新增组织级 pull request 限制功能，可统一管理无写权限用户的开放 PR 数量，达到上限后需合并或关闭才能新建，避免逐仓库配置的繁琐。",
+          "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T23:46:17Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.806,
+      "importance": 0.806,
+      "importance_score": 0.806,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7891,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T23:46:17Z",
+      "latest_at": "2026-08-06T23:46:17Z",
+      "primary_item": {
+        "id": "0d10a54b709871f077d32582f2d969eb02649d7d",
+        "title": "在组织级设置 PR 限制 / Set pull request limits at the organization level",
+        "title_zh": "在组织级设置 PR 限制",
+        "title_en": "Set pull request limits at the organization level",
+        "title_original": "Set pull request limits at the organization level",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 新增组织级 pull request 限制功能，可统一管理无写权限用户的开放 PR 数量，达到上限后需合并或关闭才能新建，避免逐仓库配置的繁琐。",
+        "url": "https://github.blog/changelog/2026-08-06-set-pull-request-limits-at-the-organization-level",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "GitHub 组织级 PR 限制上线，管仓库的今天就能配，省心防刷屏。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -615,15 +700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7736,
+      "importance": 0.7736,
+      "importance_score": 0.7736,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7247,
+        "recency": 0.7145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -651,92 +736,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
-      }
-    },
-    {
-      "story_id": "story_67de54450aab",
-      "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-          "title_zh": "Kimi K3现已登陆GitHub Copilot",
-          "title_en": "Kimi K3 is now available in GitHub Copilot",
-          "title_original": "Kimi K3 is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token $3、输出$15，但8月6日因GitHub Actions事故暂停上线，本文详解了模型能力与各套餐的启用政策。",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-          "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-          "title_zh": "Kimi K3现已登陆GitHub Copilot",
-          "title_en": "Kimi K3 is now available in GitHub Copilot",
-          "title_original": "Kimi K3 is now available in GitHub Copilot",
-          "summary": null,
-          "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token $3、输出$15，但8月6日因GitHub Actions事故暂停上线，本文详解了模型能力与各套餐的启用政策。",
-          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-06T17:27:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7307,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T17:27:25Z",
-      "latest_at": "2026-08-06T17:27:25Z",
-      "primary_item": {
-        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
-        "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-        "title_zh": "Kimi K3现已登陆GitHub Copilot",
-        "title_en": "Kimi K3 is now available in GitHub Copilot",
-        "title_original": "Kimi K3 is now available in GitHub Copilot",
-        "summary": null,
-        "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token $3、输出$15，但8月6日因GitHub Actions事故暂停上线，本文详解了模型能力与各套餐的启用政策。",
-        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "Kimi K3 进 Copilot，写代码能直接换模型，今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -784,15 +784,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7723,
-      "importance": 0.7723,
-      "importance_score": 0.7723,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8762,
+        "recency": 0.8638,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,91 +820,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
-      }
-    },
-    {
-      "story_id": "story_bea4ca41292c",
-      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-      "source": "公众号：蚂蚁百灵（Ling）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：蚂蚁百灵（Ling）"
-      ],
-      "items": [
-        {
-          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "title_en": null,
-          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-          "source": "公众号：蚂蚁百灵（Ling）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T12:02:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T12:02:16Z",
-      "latest_at": "2026-08-07T12:02:16Z",
-      "primary_item": {
-        "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
-        "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-        "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-        "title_en": null,
-        "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
-        "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
-        "source": "公众号：蚂蚁百灵（Ling）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "开源MoE模型可部署可调API，做私有化或高并发场景的今天能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -952,15 +868,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.835,
+        "recency": 0.8232,
         "story_heat": 0.0
       },
       "category": "official",
@@ -988,7 +904,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
+      }
+    },
+    {
+      "story_id": "story_bea4ca41292c",
+      "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+      "source": "公众号：蚂蚁百灵（Ling）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_en": null,
+          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：蚂蚁百灵（Ling）"
+      ],
+      "items": [
+        {
+          "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+          "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "title_en": null,
+          "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+          "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+          "source": "公众号：蚂蚁百灵（Ling）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-07T12:02:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9421,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T12:02:16Z",
+      "latest_at": "2026-08-07T12:02:16Z",
+      "primary_item": {
+        "id": "328b7ffe55b75e17b1c3672f7372d5a7cf947fb8",
+        "title": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "title_zh": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "title_en": null,
+        "title_original": "蚂蚁百灵开源 Ling-3.0-flash：124B 总参数 MoE 模型，支持 API、单机与高性能三种部署",
+        "summary": "蚂蚁百灵正式开源新一代原生混合推理模型 Ling-3.0-flash，采用 124B 总参数、5.1B 激活参数的 MoE 架构，并提供 FP8、FP4、INT4 等多个版本。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkyODk2MDQwNw%3D%3D&mid=2247487457&idx=1&sn=24ad4a355d81291e53fbe680ca987112",
+        "source": "公众号：蚂蚁百灵（Ling）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "开源MoE模型可部署可调API，做私有化或高并发场景的今天能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1036,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7616,
-      "importance": 0.7616,
-      "importance_score": 0.7616,
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9669,
+        "recency": 0.9532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1072,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1120,15 +1120,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9184,
+        "recency": 0.9053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1156,7 +1156,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1204,15 +1204,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7487,
-      "importance": 0.7487,
-      "importance_score": 0.7487,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.8823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,7 +1239,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
+      }
+    },
+    {
+      "story_id": "story_67de54450aab",
+      "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
+          "title_zh": "Kimi K3现已登陆GitHub Copilot",
+          "title_en": "Kimi K3 is now available in GitHub Copilot",
+          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token $3、输出$15，但8月6日因GitHub Actions事故暂停上线，本文详解了模型能力与各套餐的启用政策。",
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+          "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
+          "title_zh": "Kimi K3现已登陆GitHub Copilot",
+          "title_en": "Kimi K3 is now available in GitHub Copilot",
+          "title_original": "Kimi K3 is now available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token $3、输出$15，但8月6日因GitHub Actions事故暂停上线，本文详解了模型能力与各套餐的启用政策。",
+          "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-06T17:27:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8017,
+      "importance": 0.8017,
+      "importance_score": 0.8017,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7204,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T17:27:25Z",
+      "latest_at": "2026-08-06T17:27:25Z",
+      "primary_item": {
+        "id": "c855fc44324bb924734d7afac3b08a717102aa19",
+        "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
+        "title_zh": "Kimi K3现已登陆GitHub Copilot",
+        "title_en": "Kimi K3 is now available in GitHub Copilot",
+        "title_original": "Kimi K3 is now available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": "Kimi K3开放权重模型已登陆GitHub Copilot，定价每百万输入token $3、输出$15，但8月6日因GitHub Actions事故暂停上线，本文详解了模型能力与各套餐的启用政策。",
+        "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "Kimi K3 进 Copilot，写代码能直接换模型，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1287,15 +1372,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7442,
-      "importance": 0.7442,
-      "importance_score": 0.7442,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9725,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1322,7 +1407,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1370,15 +1455,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
+      "score": 0.7404,
+      "importance": 0.7404,
+      "importance_score": 0.7404,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8782,
+        "recency": 0.8657,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1405,7 +1490,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1453,15 +1538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7522,
+        "recency": 0.7415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1488,7 +1573,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1536,15 +1621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9277,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1571,7 +1656,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     },
     {
@@ -1619,15 +1704,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7258,
-      "importance": 0.7258,
-      "importance_score": 0.7258,
+      "score": 0.7236,
+      "importance": 0.7236,
+      "importance_score": 0.7236,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8846,
+        "recency": 0.872,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1654,91 +1739,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
-      }
-    },
-    {
-      "story_id": "story_ef262694eaa4",
-      "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-      "url": "https://www.aibase.com/news/30197",
-      "primary_url": "https://www.aibase.com/news/30197",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "summary": null,
-          "recommend_reason_zh": "8月7日在线路演中，Unitree Technology创始人Wang Xingxing称上市是新起点，将攻坚具身大模型、强化学习与高性能执行器，探索人形机器人、四足机器人等新品，让机器人承担高危劳动，值得一读。",
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T09:17:01.313775Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-          "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "title_en": null,
-          "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-          "summary": null,
-          "recommend_reason_zh": "8月7日在线路演中，Unitree Technology创始人Wang Xingxing称上市是新起点，将攻坚具身大模型、强化学习与高性能执行器，探索人形机器人、四足机器人等新品，让机器人承担高危劳动，值得一读。",
-          "url": "https://www.aibase.com/news/30197",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-07T09:17:01.313775Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9184,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T09:17:01.313775Z",
-      "latest_at": "2026-08-07T09:17:01.313775Z",
-      "primary_item": {
-        "id": "f67ac4ad10b07048c0e2b1beb1c90cada5355657",
-        "title": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "title_zh": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "title_en": null,
-        "title_original": "宇树科技王兴兴:将持续攻坚具身智能技术，探索人形机器人等新产品",
-        "summary": null,
-        "recommend_reason_zh": "8月7日在线路演中，Unitree Technology创始人Wang Xingxing称上市是新起点，将攻坚具身大模型、强化学习与高性能执行器，探索人形机器人、四足机器人等新品，让机器人承担高危劳动，值得一读。",
-        "url": "https://www.aibase.com/news/30197",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "愿景表态无产品细节，等真机发布再评估。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T15:23:52.372767Z"
+        "scored_at": "2026-08-07T16:22:33.986455Z"
       }
     }
   ]
