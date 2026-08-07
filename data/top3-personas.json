@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T09:34:22.222006Z",
+  "generated_at": "2026-08-07T10:34:46.605939Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_355aa101c777",
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "Sol 优化 Luna 扩容，免费用户终于能摸到边角料，但别指望白嫖到完整版。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方博客宣称优化和扩大访问，无论文无代码无评测，只有说法。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "免费用户能直接用 Luna 了，今天就能上手试，Sol 优化对日常对话也有感知。"
-        }
-      }
-    },
-    {
       "story_id": "story_5e12dcba5aeb",
       "title": "Codex CLI 0.147.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -60,7 +40,7 @@
       "story_id": "story_67de54450aab",
       "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "Kimi K3 进 Copilot，写代码能直接换模型，今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_660f27b6ec9e",
+      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
+      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "统一插件规范是好事，但巨头们各怀鬼胎，兼容性还得看落地。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方博客宣称规范，无论文无代码无第三方验证，仅凭一纸公告。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "统一插件规范能减少集成成本，但生态未成，先观望再动手。"
         }
       }
     }
