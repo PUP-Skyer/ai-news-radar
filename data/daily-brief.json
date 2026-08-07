@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-07T16:10:16.058887Z",
+  "generated_at": "2026-08-07T17:10:45.370802Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a76b3d3cb89d",
+      "title": "应对关键网络能力的新前沿 / Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "primary_url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+          "title": "应对关键网络能力的新前沿 / Responding to the next frontier of critical cyber capabilities",
+          "title_zh": "应对关键网络能力的新前沿",
+          "title_en": "Responding to the next frontier of critical cyber capabilities",
+          "title_original": "Responding to the next frontier of critical cyber capabilities",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nAugust 7, 2026\nCybersecurity is rapidly changing as models become more capabl",
+          "recommend_reason_zh": "OpenAI发布了对下一代模型Astra的初步网络安全评估：其智能体编程与网络攻防能力显著增强，按Preparedness Framework已无法排除达到Critical等级的可能，而此前GPT-5.6-Sol仅被评估为High。OpenAI正因此加强防护。",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:20:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+          "title": "应对关键网络能力的新前沿 / Responding to the next frontier of critical cyber capabilities",
+          "title_zh": "应对关键网络能力的新前沿",
+          "title_en": "Responding to the next frontier of critical cyber capabilities",
+          "title_original": "Responding to the next frontier of critical cyber capabilities",
+          "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nAugust 7, 2026\nCybersecurity is rapidly changing as models become more capabl",
+          "recommend_reason_zh": "OpenAI发布了对下一代模型Astra的初步网络安全评估：其智能体编程与网络攻防能力显著增强，按Preparedness Framework已无法排除达到Critical等级的可能，而此前GPT-5.6-Sol仅被评估为High。OpenAI正因此加强防护。",
+          "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T15:20:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9737,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T15:20:00Z",
+      "latest_at": "2026-08-07T15:20:00Z",
+      "primary_item": {
+        "id": "4dc1ecc054abc74f38d7891bb5d697470390768f",
+        "title": "应对关键网络能力的新前沿 / Responding to the next frontier of critical cyber capabilities",
+        "title_zh": "应对关键网络能力的新前沿",
+        "title_en": "Responding to the next frontier of critical cyber capabilities",
+        "title_original": "Responding to the next frontier of critical cyber capabilities",
+        "summary": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nOpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.\nAugust 7, 2026\nCybersecurity is rapidly changing as models become more capabl",
+        "recommend_reason_zh": "OpenAI发布了对下一代模型Astra的初步网络安全评估：其智能体编程与网络攻防能力显著增强，按Preparedness Framework已无法排除达到Critical等级的可能，而此前GPT-5.6-Sol仅被评估为High。OpenAI正因此加强防护。",
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "官方战略文，没产品没API，动手前不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T17:22:41.958554Z"
+      }
+    },
     {
       "story_id": "story_a3f464009da9",
       "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
@@ -17,7 +102,7 @@
           "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
           "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+          "summary": null,
           "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
           "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
@@ -37,7 +122,7 @@
           "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
           "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+          "summary": null,
           "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
           "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8493,
-      "importance": 0.8493,
-      "importance_score": 0.8493,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.985,
+        "recency": 0.9708,
         "story_heat": 0.0
       },
       "category": "official",
@@ -73,7 +158,7 @@
         "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
         "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
         "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "summary": "Enabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have…\nEnabling GitHub Code Quality on a repository no longer creates a ruleset that automatically requests a code review from GitHub Copilot on your pull requests. In repositories that already have that ruleset, we’ve turned off the settings we enabled.\nWhen Code Quality became generally available on July 20, 20",
+        "summary": null,
         "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
         "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
         "source": "GitHub Changelog",
@@ -85,92 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
-      }
-    },
-    {
-      "story_id": "story_75e54bde627b",
-      "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-      "url": "https://openai.com/index/hsp-gruppe",
-      "primary_url": "https://openai.com/index/hsp-gruppe",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
-          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "summary": null,
-          "recommend_reason_zh": "HSP GRUPPE 用 ChatGPT Enterprise 实现 98.6% 员工产能提升与 84% 周活跃率，六个月积累 50 万+对话，并打造 AI Client Communication 等定制 Agent，展现税务咨询业AI落地全貌。",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-          "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
-          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
-          "summary": null,
-          "recommend_reason_zh": "HSP GRUPPE 用 ChatGPT Enterprise 实现 98.6% 员工产能提升与 84% 周活跃率，六个月积累 50 万+对话，并打造 AI Client Communication 等定制 Agent，展现税务咨询业AI落地全貌。",
-          "url": "https://openai.com/index/hsp-gruppe",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9016,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T09:00:00Z",
-      "latest_at": "2026-08-07T09:00:00Z",
-      "primary_item": {
-        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
-        "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
-        "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
-        "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "summary": null,
-        "recommend_reason_zh": "HSP GRUPPE 用 ChatGPT Enterprise 实现 98.6% 员工产能提升与 84% 周活跃率，六个月积累 50 万+对话，并打造 AI Client Communication 等定制 Agent，展现税务咨询业AI落地全貌。",
-        "url": "https://openai.com/index/hsp-gruppe",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "案例参考价值有限，等具体方案或工具开放再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8285,
-      "importance": 0.8285,
-      "importance_score": 0.8285,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7917,
+        "recency": 0.7803,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8124,
-      "importance": 0.8124,
-      "importance_score": 0.8124,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9299,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,7 +339,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -387,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.8042,
+      "importance": 0.8042,
+      "importance_score": 0.8042,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7454,
+        "recency": 0.7347,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,150 +424,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
-      "story_id": "story_23b7800d7275",
-      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_75e54bde627b",
+      "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+      "url": "https://openai.com/index/hsp-gruppe",
+      "primary_url": "https://openai.com/index/hsp-gruppe",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
           "summary": null,
-          "recommend_reason_zh": "ChatGPT更新：Plus和Pro用户的GPT-5.6 Sol新增思考深度滑块，免费用户默认GPT-5.6 Luna并享无限文本聊天，每周10亿用户可受益。",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_original": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "summary": null,
-          "recommend_reason_zh": "本文报道ChatGPT升级GPT-5.6 Sol，增强事实准确度并提供思考量滑块；免费用户默认GPT-5.6 Luna，可无限文本聊天，每周覆盖10亿人。",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T17:02:04Z"
+          "recommend_reason_zh": "HSP GRUPPE 用 ChatGPT Enterprise 实现 98.6% 员工产能提升与 84% 周活跃率，六个月积累 50 万+对话，并打造 AI Client Communication 等定制 Agent，展现税务咨询业AI落地全貌。",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "openai.com"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
-          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
-          "title_en": null,
-          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+          "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
+          "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+          "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
           "summary": null,
-          "recommend_reason_zh": "ChatGPT更新：Plus和Pro用户的GPT-5.6 Sol新增思考深度滑块，免费用户默认GPT-5.6 Luna并享无限文本聊天，每周10亿用户可受益。",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-06T23:01:28.628000Z"
-        },
-        {
-          "id": "006698dd9d730d1e3a747fe3a98049a45f8b2803",
-          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-          "title_en": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "title_original": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-          "summary": null,
-          "recommend_reason_zh": "本文报道ChatGPT升级GPT-5.6 Sol，增强事实准确度并提供思考量滑块；免费用户默认GPT-5.6 Luna，可无限文本聊天，每周覆盖10亿人。",
-          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-06T17:02:04Z"
+          "recommend_reason_zh": "HSP GRUPPE 用 ChatGPT Enterprise 实现 98.6% 员工产能提升与 84% 周活跃率，六个月积累 50 万+对话，并打造 AI Client Communication 等定制 Agent，展现税务咨询业AI落地全貌。",
+          "url": "https://openai.com/index/hsp-gruppe",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T09:00:00Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7841,
-      "importance": 0.7841,
-      "importance_score": 0.7841,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8319,
+      "importance": 0.8319,
+      "importance_score": 0.8319,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.74,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7807,
-        "story_heat": 0.5
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8886,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-06T17:02:04Z",
-      "latest_at": "2026-08-06T23:01:28.628000Z",
+      "earliest_at": "2026-08-07T09:00:00Z",
+      "latest_at": "2026-08-07T09:00:00Z",
       "primary_item": {
-        "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
-        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-        "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-        "title_en": null,
-        "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
-        "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "678a4bd8bf5d6a1b6b3855f41fa13940c1b075a2",
+        "title": "HSP GRUPPE 如何为税务咨询构建 AI 能力 / How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_zh": "HSP GRUPPE 如何为税务咨询构建 AI 能力",
+        "title_en": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "title_original": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "summary": null,
+        "recommend_reason_zh": "HSP GRUPPE 用 ChatGPT Enterprise 实现 98.6% 员工产能提升与 84% 周活跃率，六个月积累 50 万+对话，并打造 AI Client Communication 等定制 Agent，展现税务咨询业AI落地全貌。",
+        "url": "https://openai.com/index/hsp-gruppe",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "免费用户能摸到 Luna 了，Sol 优化了但没给 API 细节，先试再定迁移。",
+      "persona_score": 45,
+      "persona_review": "案例参考价值有限，等具体方案或工具开放再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -615,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7891,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -652,91 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
-      }
-    },
-    {
-      "story_id": "story_660f27b6ec9e",
-      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
-      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-      "primary_url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
-          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
-          "title_zh": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-          "title_en": "Agent Plugins package your skills， tools， and more",
-          "title_original": "Agent Plugins package your skills， tools， and more",
-          "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
-          "recommend_reason_zh": "Agent Plugins 1.0.0由Google加入核心维护者，联合Amazon、Cursor、Microsoft、OpenAI等定义统一插件格式，用skills/目录和mcp.json实现组件独立加载与失败隔离。",
-          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T16:53:12.298000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
-          "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
-          "title_zh": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-          "title_en": "Agent Plugins package your skills， tools， and more",
-          "title_original": "Agent Plugins package your skills， tools， and more",
-          "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
-          "recommend_reason_zh": "Agent Plugins 1.0.0由Google加入核心维护者，联合Amazon、Cursor、Microsoft、OpenAI等定义统一插件格式，用skills/目录和mcp.json实现组件独立加载与失败隔离。",
-          "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-06T16:53:12.298000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7145,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-06T16:53:12.298000Z",
-      "latest_at": "2026-08-06T16:53:12.298000Z",
-      "primary_item": {
-        "id": "d86fba5a566a8c4722d04cf6c99ea2b0d56d5bde",
-        "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
-        "title_zh": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范",
-        "title_en": "Agent Plugins package your skills， tools， and more",
-        "title_original": "Agent Plugins package your skills， tools， and more",
-        "summary": "Agent Plugins 1.0.0 是一项由谷歌、亚马逊、微软等支持的中立目录规范，将 Agent Skills 和 MCP 服务器打包为单一可移植单元。通过标准化 plugin.json 清单和固定目录布局，开发者无需为不同 AI 编码智能体和 IDE 维护单独封装。谷歌已作为核心维护者加入，并在 Agents CLI 和 Data Agent Kit 中提供支持。",
-        "recommend_reason_zh": "Agent Plugins 1.0.0由Google加入核心维护者，联合Amazon、Cursor、Microsoft、OpenAI等定义统一插件格式，用skills/目录和mcp.json实现组件独立加载与失败隔离。",
-        "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "统一插件规范能减少集成成本，但生态未成，先观望再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -784,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7701,
-      "importance": 0.7701,
-      "importance_score": 0.7701,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8638,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -820,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -868,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.764,
+      "importance": 0.764,
+      "importance_score": 0.764,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8232,
+        "recency": 0.8113,
         "story_heat": 0.0
       },
       "category": "official",
@@ -904,7 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -952,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9421,
+        "recency": 0.9284,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -988,7 +846,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
+      }
+    },
+    {
+      "story_id": "story_b165e651d67a",
+      "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "primary_url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_en": null,
+          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "title_en": null,
+          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "summary": null,
+          "recommend_reason_zh": "ChatGPT更新：Plus和Pro用户的GPT-5.6 Sol新增思考深度滑块，免费用户默认GPT-5.6 Luna并享无限文本聊天，每周10亿用户可受益。",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+          "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "title_en": null,
+          "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+          "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        },
+        {
+          "id": "55069910b2b7c6cbbd5a1bfea11d6b412a3b7095",
+          "title": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "title_zh": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "title_en": null,
+          "title_original": "优化 ChatGPT 中的 GPT‑5.6 Sol，并扩大免费用户对 GPT‑5.6 Luna 的访问权限",
+          "summary": null,
+          "recommend_reason_zh": "ChatGPT更新：Plus和Pro用户的GPT-5.6 Sol新增思考深度滑块，免费用户默认GPT-5.6 Luna并享无限文本聊天，每周10亿用户可受益。",
+          "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-06T23:01:28.628000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.74,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7694,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-06T23:01:28.628000Z",
+      "latest_at": "2026-08-06T23:01:28.628000Z",
+      "primary_item": {
+        "id": "f71ed3ff4eb803dbb4d165a443499c1ef51cabb7",
+        "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+        "title_zh": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+        "title_en": null,
+        "title_original": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限",
+        "summary": "OpenAI 更新 ChatGPT：Plus 和 Pro 用户的 GPT-5.6 Sol 在事实准确性和回答聚焦度上有所提升，新增滑块可控制模型思考投入。免费用户默认模型升级为 GPT-5.6 Luna，并开放无限文本聊天，新增 Think 按钮以处理更复杂问题。",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "免费用户能试新模型，但没提具体能力变化，先观望再决定是否切换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1036,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7592,
-      "importance": 0.7592,
-      "importance_score": 0.7592,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.9394,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1072,7 +1044,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1120,21 +1092,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7482,
+      "importance": 0.7482,
+      "importance_score": 0.7482,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9053,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-07T09:17:01.313775Z",
       "latest_at": "2026-08-07T09:17:01.313775Z",
@@ -1156,7 +1127,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1204,15 +1175,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8823,
+        "recency": 0.8696,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,7 +1210,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1287,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7998,
+      "importance": 0.7998,
+      "importance_score": 0.7998,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7204,
+        "recency": 0.7099,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1324,7 +1295,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1372,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9725,
+        "recency": 0.9584,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1407,7 +1378,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1455,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8657,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1490,7 +1461,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1538,15 +1509,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7311,
+      "importance": 0.7311,
+      "importance_score": 0.7311,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7415,
+        "recency": 0.7308,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1573,7 +1544,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1621,15 +1592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7312,
-      "importance": 0.7312,
-      "importance_score": 0.7312,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9145,
+        "recency": 0.9013,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1656,7 +1627,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     },
     {
@@ -1704,15 +1675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7236,
-      "importance": 0.7236,
-      "importance_score": 0.7236,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.872,
+        "recency": 0.8594,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,7 +1710,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T16:22:33.986455Z"
+        "scored_at": "2026-08-07T17:22:41.958554Z"
       }
     }
   ]

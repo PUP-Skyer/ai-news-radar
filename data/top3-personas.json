@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T16:22:35.130971Z",
+  "generated_at": "2026-08-07T17:22:46.323184Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_660f27b6ec9e",
-      "title": "Agent Plugins 1.0.0 发布：谷歌、亚马逊、微软等支持的统一智能体插件规范 / Agent Plugins package your skills， tools， and more",
-      "url": "https://developers.googleblog.com/agent-plugins-package-your-skills-tools-and-more",
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "统一插件规范是好事，但巨头们各怀鬼胎，兼容性还得看落地。"
+          "review": "终于承认Copilot审代码是摆设了？早该如此，省得浪费大家时间。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称规范，无论文无代码无第三方验证，仅凭一纸公告。"
+          "score": 30,
+          "review": "官方变更日志有链接但无技术细节，未开源未评测，仅属产品调整声明。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "统一插件规范能减少集成成本，但生态未成，先观望再动手。"
+          "score": 72,
+          "review": "工作流少一步噪音，但影响有限，看后续是否影响审查质量。"
         }
       }
     }
