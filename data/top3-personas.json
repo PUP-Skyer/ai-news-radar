@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:14:29.487895Z",
+  "generated_at": "2026-08-07T22:08:13.135270Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_06de520f313d",
+      "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "工作量分级总算落地，但别指望它替你发现所有bug，省下的时间够你多喝杯咖啡。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客宣布功能可用，但无技术细节或评测，需等实际体验验证。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "代码审查能调工作量级别了，团队今天就能按需配置，省心。"
+        }
+      }
+    },
+    {
       "story_id": "story_879e30ce457c",
       "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
       "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "腾讯开源高性能算子库，SGLang 用户可白嫖推理加速，值得 clone 试试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_af6808a77d18",
-      "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "API加个字段就敢叫更新，数据口径先公开再说。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "官方更新有文档，但缺代码和复现，等实际调用验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "API 新增 agent 活动数据，做 Copilot 用量统计的今天就能接。"
         }
       }
     }
