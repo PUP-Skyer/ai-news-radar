@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T06:04:33.481571Z",
+  "generated_at": "2026-08-07T08:00:49.371368Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_f1559602cda7",
-      "title": "Qwen-Image-3.0 发布：高分辨率低至 0.03 美元 / Qwen-Image-3.0 is production-ready. 4.5K-token prompts. 100%+ text accuracy （no broken logos）. Nativ…",
-      "url": "https://x.com/alibaba_cloud/status/2085247637734002848",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "价格和精度看着实在，但“100%”这种话术得打个问号，等第三方跑分再说。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方推特宣称性能，无论文无代码无评测，无法验证。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "图像模型降价到0.03美元，文本准确率提升，做批量生成的今天就能换。"
-        }
-      }
-    },
-    {
       "story_id": "story_355aa101c777",
       "title": "OpenAI 优化 ChatGPT 中的 GPT-5.6 Sol，并扩大免费用户对 GPT-5.6 Luna 的访问权限 / Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
       "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_5e12dcba5aeb",
       "title": "Codex CLI 0.147.0",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "Codex CLI 更新，命令行干活的人直接升级试试新功能。"
+        }
+      }
+    },
+    {
+      "story_id": "story_67de54450aab",
+      "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "K3进Copilot是实打实的，但别急着吹，先看它写代码时翻不翻车。"
+        },
+        "paper-police": {
+          "score": 70,
+          "review": "官方渠道发布，但缺论文和独立评测，仅凭公告难证实力。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "Kimi K3 进 Copilot，写代码能直接换模型，今天就能试。"
         }
       }
     }
