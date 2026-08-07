@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_3c32cc962842|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "直接结合NeMo和Diffusers，大规模微调视频/图像模型今天就能上。",
-      "title_hash": "82c29098",
-      "scored_at": "2026-07-17T17:40:45.227661Z"
-    },
-    "story_73d08ef26c2b|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "效果虽好但没开放，等API或代码出来再激动。",
-      "title_hash": "5274857f",
-      "scored_at": "2026-07-17T17:40:47.826850Z"
-    },
-    "story_3f67571c4418|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "模型发布多但细节少，等具体API或开箱体验再看。",
-      "title_hash": "7c6268d5",
-      "scored_at": "2026-07-17T17:40:50.682242Z"
-    },
-    "story_1096f28474dc|pragmatic|0a5c5b24": {
-      "score": 50,
-      "review": "benchmark 新高但未说明开放，先观望，等API或开源再动手。",
-      "title_hash": "4b4a411a",
-      "scored_at": "2026-07-17T17:40:55.263531Z"
-    },
-    "story_835aee216500|pragmatic|0a5c5b24": {
-      "score": 52,
-      "review": "提醒你检查agent权限配置，别让API Key裸奔。",
-      "title_hash": "dca9cdcd",
-      "scored_at": "2026-07-17T17:40:57.771437Z"
-    },
-    "story_3c32cc962842|cynic|f4237a62": {
-      "score": 78,
-      "review": "组合拳不错，但“大规模”的代价和效果边界没敢细说。",
-      "title_hash": "82c29098",
-      "scored_at": "2026-07-17T17:41:00.265540Z"
-    },
-    "story_3c32cc962842|paper-police|966065bf": {
-      "score": 45,
-      "review": "博客有技术细节，但无独立论文和开源代码，需等完整发布验证。",
-      "title_hash": "82c29098",
-      "scored_at": "2026-07-17T17:41:08.940784Z"
-    },
     "story_90e9f1d2b782|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "诉讼不关工具的事，等有实际影响再关注。",
@@ -5502,6 +5460,42 @@
       "review": "官方变更日志有链接但无技术细节，未开源未评测，仅属产品调整声明。",
       "title_hash": "8505d4ba",
       "scored_at": "2026-08-07T17:22:46.323092Z"
+    },
+    "story_564ca3d42291|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "数据集和基准发布，做教育AI的可以看，但短期不改变选型。",
+      "title_hash": "6b55b482",
+      "scored_at": "2026-08-07T18:18:40.831133Z"
+    },
+    "story_cba5eebd8637|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "密钥扫描范围扩大，CI里漏配的token能早点暴露，今天就能查下仓库配置。",
+      "title_hash": "37cc730b",
+      "scored_at": "2026-08-07T18:18:42.145708Z"
+    },
+    "story_879e30ce457c|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "腾讯开源高性能算子库，SGLang 用户可白嫖推理加速，值得 clone 试试。",
+      "title_hash": "ab1f341b",
+      "scored_at": "2026-08-07T18:18:43.734410Z"
+    },
+    "story_3698283e20f1|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "托管版Deep Agents公测，省去自建编排，但先看定价和限制再接入。",
+      "title_hash": "318a0262",
+      "scored_at": "2026-08-07T18:18:45.049777Z"
+    },
+    "story_879e30ce457c|cynic|f4237a62": {
+      "score": 82,
+      "review": "开源算子还带生产验证，腾讯这次没光吹。但细节和对比基线还得再抠。",
+      "title_hash": "ab1f341b",
+      "scored_at": "2026-08-07T18:18:46.699597Z"
+    },
+    "story_879e30ce457c|paper-police|966065bf": {
+      "score": 72,
+      "review": "有开源库和部署事实，但缺论文与独立benchmark，复现性待验证。",
+      "title_hash": "ab1f341b",
+      "scored_at": "2026-08-07T18:18:47.869239Z"
     }
   }
 }

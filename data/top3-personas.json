@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T17:22:46.323184Z",
+  "generated_at": "2026-08-07T18:18:47.869333Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_67de54450aab",
-      "title": "Kimi K3现已登陆GitHub Copilot / Kimi K3 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot",
+      "story_id": "story_879e30ce457c",
+      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "K3进Copilot是实打实的，但别急着吹，先看它写代码时翻不翻车。"
+          "score": 82,
+          "review": "开源算子还带生产验证，腾讯这次没光吹。但细节和对比基线还得再抠。"
         },
         "paper-police": {
-          "score": 70,
-          "review": "官方渠道发布，但缺论文和独立评测，仅凭公告难证实力。"
+          "score": 72,
+          "review": "有开源库和部署事实，但缺论文与独立benchmark，复现性待验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "Kimi K3 进 Copilot，写代码能直接换模型，今天就能试。"
+          "score": 82,
+          "review": "腾讯开源高性能算子库，SGLang 用户可白嫖推理加速，值得 clone 试试。"
         }
       }
     },
