@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:57:44.175870Z",
+  "generated_at": "2026-08-07T22:56:51.194405Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8606,
-      "importance": 0.8606,
-      "importance_score": 0.8606,
+      "score": 0.8583,
+      "importance": 0.8583,
+      "importance_score": 0.8583,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9087,
+        "recency": 0.8959,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -163,15 +163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8497,
-      "importance": 0.8497,
-      "importance_score": 0.8497,
+      "score": 0.8473,
+      "importance": 0.8473,
+      "importance_score": 0.8473,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9429,
+        "recency": 0.9296,
         "story_heat": 0.0
       },
       "category": "official",
@@ -200,7 +200,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
+      }
+    },
+    {
+      "story_id": "story_2252b2f8dcb5",
+      "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
+          "title_zh": "Copilot 效果仪表盘新增投资回报率板块",
+          "title_en": "Copilot impact dashboard adds a return on investment section",
+          "title_original": "Copilot impact dashboard adds a return on investment section",
+          "summary": "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two…\nThe Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back.\nTwo cards compare developers by how deeply they have adopted Copilot: those working primarily in chat and code completions (i.e., “Passive users” and “P",
+          "recommend_reason_zh": "GitHub 的 Copilot impact dashboard 新增“潜在投资回报”板块，将 Copilot 花费与 pull request 产出直接关联，并用薪资选择器和阶段对比卡片，帮你按薪资假设评估早期与 agent-first 开发者的实际回报。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T21:05:37Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+          "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
+          "title_zh": "Copilot 效果仪表盘新增投资回报率板块",
+          "title_en": "Copilot impact dashboard adds a return on investment section",
+          "title_original": "Copilot impact dashboard adds a return on investment section",
+          "summary": "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two…\nThe Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back.\nTwo cards compare developers by how deeply they have adopted Copilot: those working primarily in chat and code completions (i.e., “Passive users” and “P",
+          "recommend_reason_zh": "GitHub 的 Copilot impact dashboard 新增“潜在投资回报”板块，将 Copilot 花费与 pull request 产出直接关联，并用薪资选择器和阶段对比卡片，帮你按薪资假设评估早期与 agent-first 开发者的实际回报。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-07T21:05:37Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9736,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-07T21:05:37Z",
+      "latest_at": "2026-08-07T21:05:37Z",
+      "primary_item": {
+        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
+        "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
+        "title_zh": "Copilot 效果仪表盘新增投资回报率板块",
+        "title_en": "Copilot impact dashboard adds a return on investment section",
+        "title_original": "Copilot impact dashboard adds a return on investment section",
+        "summary": "The Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back. What’s new Two…\nThe Copilot impact dashboard now includes a “Potential return on investment” section that connects what you spend on Copilot to the pull request output you get back.\nTwo cards compare developers by how deeply they have adopted Copilot: those working primarily in chat and code completions (i.e., “Passive users” and “P",
+        "recommend_reason_zh": "GitHub 的 Copilot impact dashboard 新增“潜在投资回报”板块，将 Copilot 花费与 pull request 产出直接关联，并用薪资选择器和阶段对比卡片，帮你按薪资假设评估早期与 agent-first 开发者的实际回报。",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "对用Copilot的团队有点用，能算ROI了，但个人开发者不用急。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -217,7 +302,7 @@
           "title_zh": "Copilot 代码审查的工作量级别现已全面可用。",
           "title_en": "Copilot code review effort levels are generally available",
           "title_original": "Copilot code review effort levels are generally available",
-          "summary": "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a…\nLite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a pull request.\nNot every pull request needs the same scrutiny. Documentation updates and small fixes may only need focused feedback, while complex logic, security-sensiti",
+          "summary": null,
           "recommend_reason_zh": "GitHub Copilot code review 的 Lite 与 Balanced 审查等级正式可用，可按 PR 复杂度和风险选择深度，管理员还能设置组织默认等级，低中级别也已更名。",
           "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
           "source": "GitHub Changelog",
@@ -237,7 +322,7 @@
           "title_zh": "Copilot 代码审查的工作量级别现已全面可用。",
           "title_en": "Copilot code review effort levels are generally available",
           "title_original": "Copilot code review effort levels are generally available",
-          "summary": "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a…\nLite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a pull request.\nNot every pull request needs the same scrutiny. Documentation updates and small fixes may only need focused feedback, while complex logic, security-sensiti",
+          "summary": null,
           "recommend_reason_zh": "GitHub Copilot code review 的 Lite 与 Balanced 审查等级正式可用，可按 PR 复杂度和风险选择深度，管理员还能设置组织默认等级，低中级别也已更名。",
           "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
           "source": "GitHub Changelog",
@@ -248,15 +333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8491,
-      "importance": 0.8491,
-      "importance_score": 0.8491,
+      "score": 0.8466,
+      "importance": 0.8466,
+      "importance_score": 0.8466,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9837,
+        "recency": 0.9698,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +358,7 @@
         "title_zh": "Copilot 代码审查的工作量级别现已全面可用。",
         "title_en": "Copilot code review effort levels are generally available",
         "title_original": "Copilot code review effort levels are generally available",
-        "summary": "Lite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a…\nLite and Balanced effort levels for GitHub Copilot code review are now generally available. They let you match the depth of a review to the complexity and risk of a pull request.\nNot every pull request needs the same scrutiny. Documentation updates and small fixes may only need focused feedback, while complex logic, security-sensiti",
+        "summary": null,
         "recommend_reason_zh": "GitHub Copilot code review 的 Lite 与 Balanced 审查等级正式可用，可按 PR 复杂度和风险选择深度，管理员还能设置组织默认等级，低中级别也已更名。",
         "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
         "source": "GitHub Changelog",
@@ -285,7 +370,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -333,15 +418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7282,
+        "recency": 0.7179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -370,7 +455,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -418,15 +503,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.971,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "official",
@@ -454,92 +539,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
-      }
-    },
-    {
-      "story_id": "story_af6808a77d18",
-      "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 新增 agent 应用活动数据",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 Copilot usage metrics API 新增报告第三方 agent 应用活动，通过 totals_by_3rd_party_agent 数组按单个 agent 细分，覆盖企业、组织及用户维度的 1 天和 28 天报告，方便对比 Claude、Codex 等 agent 的真实采用情况。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-          "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
-          "title_zh": "Copilot 使用指标 API 新增 agent 应用活动数据",
-          "title_en": "Copilot usage metrics API adds agent app activity",
-          "title_original": "Copilot usage metrics API adds agent app activity",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 Copilot usage metrics API 新增报告第三方 agent 应用活动，通过 totals_by_3rd_party_agent 数组按单个 agent 细分，覆盖企业、组织及用户维度的 1 天和 28 天报告，方便对比 Claude、Codex 等 agent 的真实采用情况。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T18:20:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8428,
-      "importance": 0.8428,
-      "importance_score": 0.8428,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9491,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T18:20:47Z",
-      "latest_at": "2026-08-07T18:20:47Z",
-      "primary_item": {
-        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
-        "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
-        "title_zh": "Copilot 使用指标 API 新增 agent 应用活动数据",
-        "title_en": "Copilot usage metrics API adds agent app activity",
-        "title_original": "Copilot usage metrics API adds agent app activity",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 的 Copilot usage metrics API 新增报告第三方 agent 应用活动，通过 totals_by_3rd_party_agent 数组按单个 agent 细分，覆盖企业、组织及用户维度的 1 天和 28 天报告，方便对比 Claude、Codex 等 agent 的真实采用情况。",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "API 新增 agent 活动数据，做 Copilot 用量统计的今天就能接。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -616,15 +616,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7998,
-      "importance": 0.7998,
-      "importance_score": 0.7998,
+      "score": 0.7974,
+      "importance": 0.7974,
+      "importance_score": 0.7974,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9434,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -653,7 +653,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -701,15 +701,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7968,
+      "importance": 0.7968,
+      "importance_score": 0.7968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8553,
+        "recency": 0.8432,
         "story_heat": 0.0
       },
       "category": "official",
@@ -737,7 +737,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -785,15 +785,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8293,
+        "recency": 0.8176,
         "story_heat": 0.0
       },
       "category": "official",
@@ -822,30 +822,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
-      "story_id": "story_a3f464009da9",
-      "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
-      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "story_id": "story_af6808a77d18",
+      "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
+      "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
+      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 新增 agent 应用活动数据",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
           "summary": null,
-          "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "recommend_reason_zh": "GitHub 的 Copilot usage metrics API 新增报告第三方 agent 应用活动，通过 totals_by_3rd_party_agent 数组按单个 agent 细分，覆盖企业、组织及用户维度的 1 天和 28 天报告，方便对比 Claude、Codex 等 agent 的真实采用情况。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
       "source_count": 1,
@@ -854,31 +854,31 @@
       ],
       "items": [
         {
-          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-          "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
-          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+          "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
+          "title_zh": "Copilot 使用指标 API 新增 agent 应用活动数据",
+          "title_en": "Copilot usage metrics API adds agent app activity",
+          "title_original": "Copilot usage metrics API adds agent app activity",
           "summary": null,
-          "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
-          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+          "recommend_reason_zh": "GitHub 的 Copilot usage metrics API 新增报告第三方 agent 应用活动，通过 totals_by_3rd_party_agent 数组按单个 agent 细分，覆盖企业、组织及用户维度的 1 天和 28 天报告，方便对比 Claude、Codex 等 agent 的真实采用情况。",
+          "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T15:07:25Z"
+          "published_at": "2026-08-07T18:20:47Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "score": 0.8404,
+      "importance": 0.8404,
+      "importance_score": 0.8404,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.906,
+        "recency": 0.9357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,27 +887,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T15:07:25Z",
-      "latest_at": "2026-08-07T15:07:25Z",
+      "earliest_at": "2026-08-07T18:20:47Z",
+      "latest_at": "2026-08-07T18:20:47Z",
       "primary_item": {
-        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
-        "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
-        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
-        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "id": "b5ca7b0374c5cdf52faaefed7bbfe9d814f6ea08",
+        "title": "Copilot 使用指标 API 新增 agent 应用活动数据 / Copilot usage metrics API adds agent app activity",
+        "title_zh": "Copilot 使用指标 API 新增 agent 应用活动数据",
+        "title_en": "Copilot usage metrics API adds agent app activity",
+        "title_original": "Copilot usage metrics API adds agent app activity",
         "summary": null,
-        "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
-        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+        "recommend_reason_zh": "GitHub 的 Copilot usage metrics API 新增报告第三方 agent 应用活动，通过 totals_by_3rd_party_agent 数组按单个 agent 细分，覆盖企业、组织及用户维度的 1 天和 28 天报告，方便对比 Claude、Codex 等 agent 的真实采用情况。",
+        "url": "https://github.blog/changelog/2026-08-07-copilot-usage-metrics-api-adds-agent-app-activity",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "工作流少一步噪音，但影响有限，看后续是否影响审查质量。",
+      "persona_review": "API 新增 agent 活动数据，做 Copilot 用量统计的今天就能接。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -955,15 +955,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7692,
-      "importance": 0.7692,
-      "importance_score": 0.7692,
+      "score": 0.7668,
+      "importance": 0.7668,
+      "importance_score": 0.7668,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9424,
+        "recency": 0.9291,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -991,7 +991,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1039,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9565,
+        "recency": 0.943,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1075,7 +1075,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1123,15 +1123,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7576,
-      "importance": 0.7576,
-      "importance_score": 0.7576,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7945,
+        "recency": 0.7832,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1159,7 +1159,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1207,15 +1207,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7571,
+        "recency": 0.7464,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1243,7 +1243,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1291,15 +1291,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8665,
+        "recency": 0.8542,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1327,7 +1327,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1375,15 +1375,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8767,
+        "recency": 0.8643,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,30 +1410,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
-      "story_id": "story_07e970ae06be",
-      "title": "Relates to”问题关联（公开预览）与多选字段现已全面可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-      "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
-      "primary_url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+      "story_id": "story_a3f464009da9",
+      "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+      "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
+      "primary_url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "Relates to”问题关联（公开预览）与多选字段现已全面可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_zh": "Relates to”问题关联（公开预览）与多选字段现已全面可用",
-          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
-          "recommend_reason_zh": "GitHub 让“Relates to” issue 关系进入公开预览，可在不暗示阻塞、重复、包含或关闭的前提下连接两个 issue；同时，issues 和 projects 中的多选字段正式可用，并有多项改进。这篇官方公告值得一读。",
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "source_count": 1,
@@ -1442,31 +1442,31 @@
       ],
       "items": [
         {
-          "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-          "title": "Relates to”问题关联（公开预览）与多选字段现已全面可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_zh": "Relates to”问题关联（公开预览）与多选字段现已全面可用",
-          "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-          "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+          "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+          "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
+          "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+          "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
           "summary": null,
-          "recommend_reason_zh": "GitHub 让“Relates to” issue 关系进入公开预览，可在不暗示阻塞、重复、包含或关闭的前提下连接两个 issue；同时，issues 和 projects 中的多选字段正式可用，并有多项改进。这篇官方公告值得一读。",
-          "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+          "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
+          "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-07T17:33:14Z"
+          "published_at": "2026-08-07T15:07:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8328,
+      "importance": 0.8328,
+      "importance_score": 0.8328,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9383,
+        "ai_relevance": 0.91,
+        "recency": 0.8932,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1475,27 +1475,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T17:33:14Z",
-      "latest_at": "2026-08-07T17:33:14Z",
+      "earliest_at": "2026-08-07T15:07:25Z",
+      "latest_at": "2026-08-07T15:07:25Z",
       "primary_item": {
-        "id": "65540384e1e76367ac2e5a7c2d23682bce9a432a",
-        "title": "Relates to”问题关联（公开预览）与多选字段现已全面可用 / “Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "title_zh": "Relates to”问题关联（公开预览）与多选字段现已全面可用",
-        "title_en": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
-        "title_original": "“Relates to” issue relationship in public preview and multi-select fields is generally available",
+        "id": "16c06fb6508c831ca57b7519d0029d33558c95e9",
+        "title": "GitHub Code Quality 不再把 Copilot 加为审查者 / GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_zh": "GitHub Code Quality 不再把 Copilot 加为审查者",
+        "title_en": "GitHub Code Quality no longer adds Copilot as a reviewer",
+        "title_original": "GitHub Code Quality no longer adds Copilot as a reviewer",
         "summary": null,
-        "recommend_reason_zh": "GitHub 让“Relates to” issue 关系进入公开预览，可在不暗示阻塞、重复、包含或关闭的前提下连接两个 issue；同时，issues 和 projects 中的多选字段正式可用，并有多项改进。这篇官方公告值得一读。",
-        "url": "https://github.blog/changelog/2026-08-07-connecting-issues-and-multi-select-field-support",
+        "recommend_reason_zh": "GitHub宣布Code Quality不再自动创建规则集将Copilot加为PR审查者，已禁用三项设置，改动仅限Enterprise Cloud和Team版，用户可自行重新启用。",
+        "url": "https://github.blog/changelog/2026-08-07-github-code-quality-no-longer-adds-copilot-as-a-reviewer",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "GitHub Issues 关联和多选字段上线，项目管理能少点折腾，但非刚需。",
+      "persona_score": 72,
+      "persona_review": "工作流少一步噪音，但影响有限，看后续是否影响审查质量。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1543,15 +1543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7375,
-      "importance": 0.7375,
-      "importance_score": 0.7375,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8327,
+        "recency": 0.8209,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1578,7 +1578,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1626,15 +1626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7316,
+      "importance": 0.7316,
+      "importance_score": 0.7316,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8115,
+        "recency": 0.8001,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1661,7 +1661,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     },
     {
@@ -1709,15 +1709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
+      "score": 0.7259,
+      "importance": 0.7259,
+      "importance_score": 0.7259,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7962,
+        "recency": 0.785,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1744,7 +1744,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-07T22:08:09.884987Z"
+        "scored_at": "2026-08-07T23:06:35.755444Z"
       }
     }
   ]
