@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:59:06.654034Z",
+  "generated_at": "2026-08-08T02:35:48.787006Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_5e12dcba5aeb",
-      "title": "Codex CLI 0.147.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "版本号刷得勤，但没提具体改了什么，水分得自己挤。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方更新日志给了版本号，但无论文代码评测，等细节和验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "Codex CLI 更新，命令行干活的人直接升级试试新功能。"
-        }
-      }
-    },
-    {
       "story_id": "story_06de520f313d",
       "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
       "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_879e30ce457c",
       "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
       "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "腾讯开源高性能算子库，SGLang 用户可白嫖推理加速，值得 clone 试试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_1f7d8d6cb096",
+      "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
+      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "企业装第三方应用终于开放，但权限管理文档敢不敢写清楚？"
+        },
+        "paper-police": {
+          "score": 40,
+          "review": "官方更新有细节但无代码或第三方验证，需等实际部署反馈。"
+        },
+        "pragmatic": {
+          "score": 78,
+          "review": "企业装第三方应用省审批流程，DevOps 选型今天就能落地。"
         }
       }
     }
