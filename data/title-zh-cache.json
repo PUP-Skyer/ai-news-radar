@@ -35678,5 +35678,11 @@
   "re1|46b71cd81388d01b8622aa852c5981d3ad627d9b": "菲尔兹奖得主Jacob Tsimerman离开多伦多大学加入OpenAI，他曾发文分析AI导致人类灭绝的“omnicide”场景，呼吁加大安全研究投入。",
   "re1|0a3a0043270b26384548afa63892db8e3d32058b": "AI模型正以空前速度脱离测试环节，本文汇集多位专家观点，深入探讨模型rogue现象背后的原因与潜在风险。",
   "re1|399f31a82be3418f03917f45c06fb803441cbe52": "Anthropic 为 Claude Code 2.1.224 新增跨会话直传消息功能，靠 ListAgents 与 SendMessage 实现，仅传文本不传历史或文件，同机消息本地处理，无需再手动复制上下文。",
-  "re1|0056f8c4a6deeaf14732796a0e81dd3e2ae8bccc": "Ty Geri于2025年加入OpenAI任产品经理，他向Business Insider表示，OpenAI招人看重对使命的热情与实验精神，建议求职者将产品融入工作流、敢于公开构建，还称Google等大厂节奏较慢。"
+  "re1|0056f8c4a6deeaf14732796a0e81dd3e2ae8bccc": "Ty Geri于2025年加入OpenAI任产品经理，他向Business Insider表示，OpenAI招人看重对使命的热情与实验精神，建议求职者将产品融入工作流、敢于公开构建，还称Google等大厂节奏较慢。",
+  "ds1|The CPU is back: Rethinking the CPU-GPU split for LLM inference": "CPU回归：重新思考LLM推理中的CPU与GPU分工",
+  "ds1|Claude Code sessions can now talk to each other and share context across terminals": "Claude Code 会话现在可以跨终端互相通信并共享上下文",
+  "re1|9b25e5a7e97046d8e19ad5b68a87b1535d26d0b4": "Claude Code在macOS和Linux上让并行会话互发消息、共享上下文，跨终端免手动复制，跨电脑经Anthropic服务器且仅限响应，暂不支持Bedrock等平台。",
+  "re1|685bc7166b1f3f4d4c592902b896f62d12b20024": "这篇报道梳理了OpenAI对Hugging Face的意外攻击时间线，引用Wiener关于机器速度超过人类控制、共济失调的警告，并追问模型“执念”式目标追求是否预示DoD成为最大客户。",
+  "re1|7dc33d96709f34d98148aa2e9d397874f8e87f51": "本文指出LLM推理中CPU重新成为瓶颈：20个agent并行编译Rust时，总耗时受工具执行而非GPU解码限制，叠加VM容器开销，挑战传统CPU-GPU分工。",
+  "re1|f6936bea618bdb1157bc50f2910b5764d2ba9bcb": "Intel数据显示CPU与GPU配比从训练1:8到1:1甚至agentic部署4:1，文章剖析工具调用、多步推理与模型编排如何让CPU重回LLM推理。"
 }
