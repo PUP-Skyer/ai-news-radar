@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T19:45:48.639388Z",
+  "generated_at": "2026-08-08T20:50:49.751354Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8628,
-      "importance": 0.8628,
-      "importance_score": 0.8628,
+      "score": 0.8602,
+      "importance": 0.8602,
+      "importance_score": 0.8602,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9143,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7438,
+        "recency": 0.7323,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,7 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -305,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7997,
+      "importance": 0.7997,
+      "importance_score": 0.7997,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7208,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -342,175 +342,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
-      }
-    },
-    {
-      "story_id": "story_2b97640ff5a6",
-      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "primary_url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "source": "X：Claude Devs (@ClaudeDevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "recommend_reason_zh": "Claude Code新增会话间通信功能：你无需重述背景，可让Claude把摘要直接发给另一会话，对方会在任务中途接收，且不共享历史或文件。",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Claude Devs (@ClaudeDevs)"
-      ],
-      "items": [
-        {
-          "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-          "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_zh": "Claude Code 会话间可互发消息",
-          "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-          "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-          "recommend_reason_zh": "Claude Code新增会话间通信功能：你无需重述背景，可让Claude把摘要直接发给另一会话，对方会在任务中途接收，且不共享历史或文件。",
-          "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-          "source": "X：Claude Devs (@ClaudeDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-07T19:55:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.73,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.7087,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T19:55:17Z",
-      "latest_at": "2026-08-07T19:55:17Z",
-      "primary_item": {
-        "id": "5cd73e6648ab0011ce4a2c20cda11a7b62663b44",
-        "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_zh": "Claude Code 会话间可互发消息",
-        "title_en": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "title_original": "New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-        "summary": "Claude Code 新功能：你的会话现在可以互相发送消息了。\n\n无需在另一个会话中重新解释自己，你现在可以让 Claude 代为传达。它会发送一份摘要（而非你的历史记录或文件），另一个会话会在任务进行中接收该摘要。",
-        "recommend_reason_zh": "Claude Code新增会话间通信功能：你无需重述背景，可让Claude把摘要直接发给另一会话，对方会在任务中途接收，且不共享历史或文件。",
-        "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-        "source": "X：Claude Devs (@ClaudeDevs)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "会话互通省去重复解释上下文，多任务协作能直接抄，但需实测稳定性。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
-      }
-    },
-    {
-      "story_id": "story_90b3cceba55e",
-      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-      "url": "https://www.ithome.com/0/987/438.htm",
-      "primary_url": "https://www.ithome.com/0/987/438.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "recommend_reason_zh": "Cloudflare财报披露AI非人类流量已于2026年5月超越人类，预计五年后达人类1000倍；同时Q2营收6.96亿美元同比增36%，净亏损扩大逾两倍，并对比超大规模云商GPU利用率问题。",
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "title_en": null,
-          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-          "recommend_reason_zh": "Cloudflare财报披露AI非人类流量已于2026年5月超越人类，预计五年后达人类1000倍；同时Q2营收6.96亿美元同比增36%，净亏损扩大逾两倍，并对比超大规模云商GPU利用率问题。",
-          "url": "https://www.ithome.com/0/987/438.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T13:38:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9154,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T13:38:40Z",
-      "latest_at": "2026-08-08T13:38:40Z",
-      "primary_item": {
-        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
-        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "title_en": null,
-        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
-        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
-        "recommend_reason_zh": "Cloudflare财报披露AI非人类流量已于2026年5月超越人类，预计五年后达人类1000倍；同时Q2营收6.96亿美元同比增36%，净亏损扩大逾两倍，并对比超大规模云商GPU利用率问题。",
-        "url": "https://www.ithome.com/0/987/438.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "流量趋势对运维选型有参考，但无具体工具或数据，暂不用行动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -558,15 +390,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7614,
-      "importance": 0.7614,
-      "importance_score": 0.7614,
+      "score": 0.759,
+      "importance": 0.759,
+      "importance_score": 0.759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8824,
+        "recency": 0.8687,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -594,92 +426,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
-      "story_id": "story_06de520f313d",
-      "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_90b3cceba55e",
+      "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+      "url": "https://www.ithome.com/0/987/438.htm",
+      "primary_url": "https://www.ithome.com/0/987/438.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
-          "title_zh": "Copilot 代码审查的工作量级别现已全面可用。",
-          "title_en": "Copilot code review effort levels are generally available",
-          "title_original": "Copilot code review effort levels are generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot code review 的 Lite 与 Balanced 审查等级正式可用，可按 PR 复杂度和风险选择深度，管理员还能设置组织默认等级，低中级别也已更名。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "recommend_reason_zh": "Cloudflare财报披露AI非人类流量已于2026年5月超越人类，预计五年后达人类1000倍；同时Q2营收6.96亿美元同比增36%，净亏损扩大逾两倍，并对比超大规模云商GPU利用率问题。",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "IT之家（RSS）"
       ],
       "items": [
         {
-          "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-          "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
-          "title_zh": "Copilot 代码审查的工作量级别现已全面可用。",
-          "title_en": "Copilot code review effort levels are generally available",
-          "title_original": "Copilot code review effort levels are generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot code review 的 Lite 与 Balanced 审查等级正式可用，可按 PR 复杂度和风险选择深度，管理员还能设置组织默认等级，低中级别也已更名。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T20:49:26Z"
+          "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+          "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "title_en": null,
+          "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+          "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+          "recommend_reason_zh": "Cloudflare财报披露AI非人类流量已于2026年5月超越人类，预计五年后达人类1000倍；同时Q2营收6.96亿美元同比增36%，净亏损扩大逾两倍，并对比超大规模云商GPU利用率问题。",
+          "url": "https://www.ithome.com/0/987/438.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T13:38:40Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
-      "importance_label": "官方更新",
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.718,
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-07T20:49:26Z",
-      "latest_at": "2026-08-07T20:49:26Z",
+      "earliest_at": "2026-08-08T13:38:40Z",
+      "latest_at": "2026-08-08T13:38:40Z",
       "primary_item": {
-        "id": "024339c5a1f2ab6b5c19f1748f4619f9ae332f7a",
-        "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
-        "title_zh": "Copilot 代码审查的工作量级别现已全面可用。",
-        "title_en": "Copilot code review effort levels are generally available",
-        "title_original": "Copilot code review effort levels are generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot code review 的 Lite 与 Balanced 审查等级正式可用，可按 PR 复杂度和风险选择深度，管理员还能设置组织默认等级，低中级别也已更名。",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "f5bc497562dfe1981697b7003a50e2b6c4c44767",
+        "title": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_zh": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "title_en": null,
+        "title_original": "Cloudflare：AI 机器人流量已超越人类，预计五年后人机流量比达 1：1000 近乎\"误差\"",
+        "summary": "Cloudflare 在 2026 年第二季度财报电话会议上披露，AI 机器人等非人类流量已于 2026 年 5 月正式超过人类流量，比 CEO 此前预测的 2027 年底大幅提前。公司预测若趋势延续，五年后非人类流量将达人类流量的 1000 倍，人类在互联网上的存在将变得微不足道。该季度营收 6.96 亿美元，同比增长 36%，净亏损 2.057 亿美元。",
+        "recommend_reason_zh": "Cloudflare财报披露AI非人类流量已于2026年5月超越人类，预计五年后达人类1000倍；同时Q2营收6.96亿美元同比增36%，净亏损扩大逾两倍，并对比超大规模云商GPU利用率问题。",
+        "url": "https://www.ithome.com/0/987/438.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "代码审查能调工作量级别了，团队今天就能按需配置，省心。",
+      "persona_score": 45,
+      "persona_review": "流量趋势对运维选型有参考，但无具体工具或数据，暂不用行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -727,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9535,
+        "recency": 0.9387,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,91 +593,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
-      }
-    },
-    {
-      "story_id": "story_e1fa47f5bc52",
-      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-      "url": "https://www.ithome.com/0/987/366.htm",
-      "primary_url": "https://www.ithome.com/0/987/366.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "recommend_reason_zh": "苹果官网更新Mac支持文档，确认Apple智能可配合阿里巴巴千问模型，适用于macOS 26.6及以上版本，仅限中国大陆设备，支持写作工具和Siri调用。",
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "title_en": null,
-          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-          "recommend_reason_zh": "苹果官网更新Mac支持文档，确认Apple智能可配合阿里巴巴千问模型，适用于macOS 26.6及以上版本，仅限中国大陆设备，支持写作工具和Siri调用。",
-          "url": "https://www.ithome.com/0/987/366.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-08T08:25:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8489,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-08T08:25:11Z",
-      "latest_at": "2026-08-08T08:25:11Z",
-      "primary_item": {
-        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
-        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "title_en": null,
-        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
-        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
-        "recommend_reason_zh": "苹果官网更新Mac支持文档，确认Apple智能可配合阿里巴巴千问模型，适用于macOS 26.6及以上版本，仅限中国大陆设备，支持写作工具和Siri调用。",
-        "url": "https://www.ithome.com/0/987/366.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "文档更新而已，没开放接口，等真上线再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -894,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7268,
+        "recency": 0.7155,
         "story_heat": 0.0
       },
       "category": "official",
@@ -931,7 +678,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
+      }
+    },
+    {
+      "story_id": "story_e1fa47f5bc52",
+      "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+      "url": "https://www.ithome.com/0/987/366.htm",
+      "primary_url": "https://www.ithome.com/0/987/366.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_en": null,
+          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+          "recommend_reason_zh": "苹果官网更新Mac支持文档，确认Apple智能可配合阿里巴巴千问模型，适用于macOS 26.6及以上版本，仅限中国大陆设备，支持写作工具和Siri调用。",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+          "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "title_en": null,
+          "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+          "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+          "recommend_reason_zh": "苹果官网更新Mac支持文档，确认Apple智能可配合阿里巴巴千问模型，适用于macOS 26.6及以上版本，仅限中国大陆设备，支持写作工具和Siri调用。",
+          "url": "https://www.ithome.com/0/987/366.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-08T08:25:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.76,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8357,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-08T08:25:11Z",
+      "latest_at": "2026-08-08T08:25:11Z",
+      "primary_item": {
+        "id": "39ae011c786ec99da87b989825c3aba421ec9838",
+        "title": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "title_zh": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "title_en": null,
+        "title_original": "苹果 Mac 简体中文支持文档更新，\"Apple 智能\"阿里千问扩展现身",
+        "summary": "苹果官网 Mac 简体中文使用手册新增《在 Mac 上配合 Apple 智能使用千问》支持文档，明确 Apple 智能可配合阿里巴巴千问模型工作。千问扩展适用于 macOS 26.6 或更高版本，需中国大陆 Apple 账户及机型，支持写作工具与 Siri，用户需登录千问账户使用。",
+        "recommend_reason_zh": "苹果官网更新Mac支持文档，确认Apple智能可配合阿里巴巴千问模型，适用于macOS 26.6及以上版本，仅限中国大陆设备，支持写作工具和Siri调用。",
+        "url": "https://www.ithome.com/0/987/366.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "文档更新而已，没开放接口，等真上线再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -979,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7425,
+        "recency": 0.731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +845,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -1119,15 +950,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6379,
-      "importance": 0.6379,
-      "importance_score": 0.6379,
+      "score": 0.6353,
+      "importance": 0.6353,
+      "importance_score": 0.6353,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9216,
+        "recency": 0.9073,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1154,7 +985,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -1185,7 +1016,7 @@
           "title_zh": "丹麦规定学生书面作业需口头答辩以防AI作弊。",
           "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": "Of course, woe betide those with social phobias....\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nI can see this being a problem in the US when it comes to \"accommodations\" in general. Students with an ADHD diagnosis can claim it causes just about any difficulty and get accommodations for it. The local (top ranked, but everyone's seen all the stories coming out of the Ivies...) college here gives students with ADHD double time on exams and has them take it in a special disabilities proctoring ",
+          "summary": null,
           "recommend_reason_zh": "丹麦新规要求学生对书面作业进行口头答辩以应对AI作弊，引发关于ADHD学生特殊考试安排是否助长作弊的争议，评论者指出美国高校超时考试反而催生虚假诊断。",
           "url": "https://news.ycombinator.com/item?id=49224294",
           "source": "hackernews",
@@ -1235,7 +1066,7 @@
           "title_zh": "丹麦规定学生书面作业需口头答辩以防AI作弊。",
           "title_en": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
           "title_original": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-          "summary": "Of course, woe betide those with social phobias....\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nI can see this being a problem in the US when it comes to \"accommodations\" in general. Students with an ADHD diagnosis can claim it causes just about any difficulty and get accommodations for it. The local (top ranked, but everyone's seen all the stories coming out of the Ivies...) college here gives students with ADHD double time on exams and has them take it in a special disabilities proctoring ",
+          "summary": null,
           "recommend_reason_zh": "丹麦新规要求学生对书面作业进行口头答辩以应对AI作弊，引发关于ADHD学生特殊考试安排是否助长作弊的争议，评论者指出美国高校超时考试反而催生虚假诊断。",
           "url": "https://news.ycombinator.com/item?id=49224294",
           "source": "hackernews",
@@ -1260,15 +1091,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9954,
+        "recency": 0.98,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1295,7 +1126,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -1401,15 +1232,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5666,
-      "importance": 0.5666,
-      "importance_score": 0.5666,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9765,
+        "recency": 0.9613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1436,7 +1267,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
+      }
+    },
+    {
+      "story_id": "story_56cf4cefef8c",
+      "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49222824",
+      "primary_url": "https://news.ycombinator.com/item?id=49222824",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+          "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:52:33.854000Z"
+        },
+        {
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nFetch the complete docu",
+          "recommend_reason_zh": "这篇介绍Claude Code新功能：可列出并给同一台机器上的其他Claude Code会话发消息，通过Remote Control还能回复其他机器或网页上的会话，实现跨设备消息互通。",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+          "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
+          "url": "https://news.ycombinator.com/item?id=49222824",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-08T20:52:33.854000Z"
+        },
+        {
+          "id": "791785f6eb5df43737e935bb32ce700080603158",
+          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+          "title_zh": "给你的其他 Claude Code 会话发消息",
+          "title_en": "Message your other Claude Code sessions",
+          "title_original": "Message your other Claude Code sessions",
+          "summary": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nFetch the complete docu",
+          "recommend_reason_zh": "这篇介绍Claude Code新功能：可列出并给同一台机器上的其他Claude Code会话发消息，通过Remote Control还能回复其他机器或网页上的会话，实现跨设备消息互通。",
+          "url": "https://code.claude.com/docs/en/cross-session-messaging",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-08T15:34:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-08T15:34:49Z",
+      "latest_at": "2026-08-08T20:52:33.854000Z",
+      "primary_item": {
+        "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
+        "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+        "title_zh": "给你的其他 Claude Code 会话发消息",
+        "title_en": "Message your other Claude Code sessions",
+        "title_original": "Message your other Claude Code sessions",
+        "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+        "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
+        "url": "https://news.ycombinator.com/item?id=49222824",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "跨会话通信能直接提升多任务协作效率，但要看具体实现是否稳定。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     },
     {
@@ -1513,15 +1456,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5261,
+      "importance": 0.5261,
+      "importance_score": 0.5261,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9049,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,119 +1491,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
-      }
-    },
-    {
-      "story_id": "story_0a07367e7420",
-      "title": "手机落在办公室了，Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-      "url": "https://news.ycombinator.com/item?id=49215786",
-      "primary_url": "https://news.ycombinator.com/item?id=49215786",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "手机落在办公室了，Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "手机落在办公室了，Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "从用Claude通过hcitool rssi找手机，到担忧AI生成代码的质量，再到seL4内核的形式化验证，本文引人思考。",
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T23:30:17.250000Z"
-        },
-        {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
-          "title": "手机落在办公室了，Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "手机落在办公室了，Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "在办公室弄丢手机，Find My被MDM禁用后苦找30分钟无果，作者转而求助Claude，后者提出追踪蓝牙信号强度并在一分钟内写出测量工具，让寻找柳暗花明。",
-          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T20:25:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-          "title": "手机落在办公室了，Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "手机落在办公室了，Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "从用Claude通过hcitool rssi找手机，到担忧AI生成代码的质量，再到seL4内核的形式化验证，本文引人思考。",
-          "url": "https://news.ycombinator.com/item?id=49215786",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-07T23:30:17.250000Z"
-        },
-        {
-          "id": "d40cded2ab916f1d2037fb7e9959ee271c12514f",
-          "title": "手机落在办公室了，Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_zh": "手机落在办公室了，Claude 建议追踪蓝牙信号强度",
-          "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-          "summary": null,
-          "recommend_reason_zh": "在办公室弄丢手机，Find My被MDM禁用后苦找30分钟无果，作者转而求助Claude，后者提出追踪蓝牙信号强度并在一分钟内写出测量工具，让寻找柳暗花明。",
-          "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-07T20:25:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5001,
-      "importance": 0.5001,
-      "importance_score": 0.5001,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7464,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-07T20:25:04Z",
-      "latest_at": "2026-08-07T23:30:17.250000Z",
-      "primary_item": {
-        "id": "bf1c65cc89430e279d3f9d693afb7b50b23ef1e2",
-        "title": "手机落在办公室了，Claude 建议追踪蓝牙信号强度 / Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "title_zh": "手机落在办公室了，Claude 建议追踪蓝牙信号强度",
-        "title_en": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "title_original": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
-        "summary": null,
-        "recommend_reason_zh": "从用Claude通过hcitool rssi找手机，到担忧AI生成代码的质量，再到seL4内核的形式化验证，本文引人思考。",
-        "url": "https://news.ycombinator.com/item?id=49215786",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "个人求助帖，无通用方案，对开发者没实际价值。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-08T19:51:56.895400Z"
+        "scored_at": "2026-08-08T20:57:41.805964Z"
       }
     }
   ]

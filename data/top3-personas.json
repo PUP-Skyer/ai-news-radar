@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:51:58.375346Z",
+  "generated_at": "2026-08-08T20:57:48.486675Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_06de520f313d",
-      "title": "Copilot 代码审查的工作量级别现已全面可用。 / Copilot code review effort levels are generally available",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-code-review-effort-levels-are-generally-available",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "工作量分级总算落地，但别指望它替你发现所有bug，省下的时间够你多喝杯咖啡。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客宣布功能可用，但无技术细节或评测，需等实际体验验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "代码审查能调工作量级别了，团队今天就能按需配置，省心。"
-        }
-      }
-    },
-    {
       "story_id": "story_1f7d8d6cb096",
       "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
       "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -57,22 +37,42 @@
       }
     },
     {
-      "story_id": "story_2b97640ff5a6",
-      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
-      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
-      "rank": 3,
+      "story_id": "story_56cf4cefef8c",
+      "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
+      "url": "https://news.ycombinator.com/item?id=49222824",
+      "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "会话互发消息省了复制粘贴，但别吹成什么智能协作，顶多是便利贴。"
+          "score": 55,
+          "review": "给自家会话传纸条，这功能隔壁终端早有了，换个壳就算新？"
         },
         "paper-police": {
-          "score": 15,
-          "review": "只有官方推文宣称功能，无论文无代码无评测，等文档和实测。"
+          "score": 0,
+          "review": "无论文无代码无评测，只有标题，等于什么都没说。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "会话互通省去重复解释上下文，多任务协作能直接抄，但需实测稳定性。"
+          "review": "跨会话通信能直接提升多任务协作效率，但要看具体实现是否稳定。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5a089134551b",
+      "title": "GitHub Copilot 每周发布 — 8月3日 / GitHub Copilot weekly releases — August 3",
+      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "周更流水账，亮点得自己扒，水分不大但干货也有限。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方更新日志无具体技术细节，缺论文代码评测，仅可作参考。"
+        },
+        "pragmatic": {
+          "score": 65,
+          "review": "Copilot 周更，看具体更新项再决定是否升级，别急着改工作流。"
         }
       }
     }
