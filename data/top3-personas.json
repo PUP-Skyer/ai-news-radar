@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T20:57:48.486675Z",
+  "generated_at": "2026-08-08T21:53:00.417130Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_1f7d8d6cb096",
-      "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "企业装第三方应用终于开放，但权限管理文档敢不敢写清楚？"
-        },
-        "paper-police": {
-          "score": 40,
-          "review": "官方更新有细节但无代码或第三方验证，需等实际部署反馈。"
-        },
-        "pragmatic": {
-          "score": 78,
-          "review": "企业装第三方应用省审批流程，DevOps 选型今天就能落地。"
-        }
-      }
-    },
-    {
       "story_id": "story_56cf4cefef8c",
       "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
       "url": "https://news.ycombinator.com/item?id=49222824",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -60,7 +40,7 @@
       "story_id": "story_5a089134551b",
       "title": "GitHub Copilot 每周发布 — 8月3日 / GitHub Copilot weekly releases — August 3",
       "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 65,
           "review": "Copilot 周更，看具体更新项再决定是否升级，别急着改工作流。"
+        }
+      }
+    },
+    {
+      "story_id": "story_8d401dc43acf",
+      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
+      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "多一天预警确实有用，但别急着封神，真实风暴里再遛遛。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "报道称多一天预警，但无论文代码，数字待独立验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "预报员多一天预警，但开发者今天用不上，等API或开源再看。"
         }
       }
     }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-08T20:50:49.751354Z",
+  "generated_at": "2026-08-08T21:48:03.971291Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_adfff91a73dc",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8602,
-      "importance": 0.8602,
-      "importance_score": 0.8602,
+      "score": 0.8579,
+      "importance": 0.8579,
+      "importance_score": 0.8579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9143,
+        "recency": 0.9018,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -172,7 +172,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -220,15 +220,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7323,
+        "recency": 0.7222,
         "story_heat": 0.0
       },
       "category": "official",
@@ -257,92 +257,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
-      }
-    },
-    {
-      "story_id": "story_2252b2f8dcb5",
-      "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
-      "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "primary_url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "Copilot 效果仪表盘新增投资回报率板块",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 Copilot impact dashboard 新增“潜在投资回报”板块，将 Copilot 花费与 pull request 产出直接关联，并用薪资选择器和阶段对比卡片，帮你按薪资假设评估早期与 agent-first 开发者的实际回报。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-          "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
-          "title_zh": "Copilot 效果仪表盘新增投资回报率板块",
-          "title_en": "Copilot impact dashboard adds a return on investment section",
-          "title_original": "Copilot impact dashboard adds a return on investment section",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 的 Copilot impact dashboard 新增“潜在投资回报”板块，将 Copilot 花费与 pull request 产出直接关联，并用薪资选择器和阶段对比卡片，帮你按薪资假设评估早期与 agent-first 开发者的实际回报。",
-          "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:05:37Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7096,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:05:37Z",
-      "latest_at": "2026-08-07T21:05:37Z",
-      "primary_item": {
-        "id": "cdfa89f56debfbcfa3d975dcc56be6da85f460ea",
-        "title": "Copilot 效果仪表盘新增投资回报率板块 / Copilot impact dashboard adds a return on investment section",
-        "title_zh": "Copilot 效果仪表盘新增投资回报率板块",
-        "title_en": "Copilot impact dashboard adds a return on investment section",
-        "title_original": "Copilot impact dashboard adds a return on investment section",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 的 Copilot impact dashboard 新增“潜在投资回报”板块，将 Copilot 花费与 pull request 产出直接关联，并用薪资选择器和阶段对比卡片，帮你按薪资假设评估早期与 agent-first 开发者的实际回报。",
-        "url": "https://github.blog/changelog/2026-08-07-copilot-impact-dashboard-adds-a-return-on-investment-section",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "对用Copilot的团队有点用，能算ROI了，但个人开发者不用急。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -390,15 +305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.759,
-      "importance": 0.759,
-      "importance_score": 0.759,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.8568,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -426,7 +341,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -474,15 +389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9012,
+        "recency": 0.8889,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -510,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -558,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7386,
-      "importance": 0.7386,
-      "importance_score": 0.7386,
+      "score": 0.7362,
+      "importance": 0.7362,
+      "importance_score": 0.7362,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9387,
+        "recency": 0.9258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -593,92 +508,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
-      }
-    },
-    {
-      "story_id": "story_1f7d8d6cb096",
-      "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
-      "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可安装第三方 GitHub 应用",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
-          "summary": null,
-          "recommend_reason_zh": "GitHub企业账户现可安装第三方GitHub Apps，第三方集成商可构建企业管理应用，但带“企业组织安装”权限的应用不能跨企业安装，值得开发者关注。",
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-          "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
-          "title_zh": "企业现在可安装第三方 GitHub 应用",
-          "title_en": "Enterprises can now install third-party GitHub Apps",
-          "title_original": "Enterprises can now install third-party GitHub Apps",
-          "summary": null,
-          "recommend_reason_zh": "GitHub企业账户现可安装第三方GitHub Apps，第三方集成商可构建企业管理应用，但带“企业组织安装”权限的应用不能跨企业安装，值得开发者关注。",
-          "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-07T21:40:03Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7928,
-      "importance": 0.7928,
-      "importance_score": 0.7928,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7155,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-07T21:40:03Z",
-      "latest_at": "2026-08-07T21:40:03Z",
-      "primary_item": {
-        "id": "7bc118bdf0a3018dcfa206e173dd4cda67b95246",
-        "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
-        "title_zh": "企业现在可安装第三方 GitHub 应用",
-        "title_en": "Enterprises can now install third-party GitHub Apps",
-        "title_original": "Enterprises can now install third-party GitHub Apps",
-        "summary": null,
-        "recommend_reason_zh": "GitHub企业账户现可安装第三方GitHub Apps，第三方集成商可构建企业管理应用，但带“企业组织安装”权限的应用不能跨企业安装，值得开发者关注。",
-        "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "企业装第三方应用省审批流程，DevOps 选型今天就能落地。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -726,21 +556,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8357,
+        "recency": 0.8243,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-08T08:25:11Z",
       "latest_at": "2026-08-08T08:25:11Z",
@@ -762,7 +591,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -810,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.731,
+        "recency": 0.721,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -845,7 +674,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -950,15 +779,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6353,
-      "importance": 0.6353,
-      "importance_score": 0.6353,
+      "score": 0.6331,
+      "importance": 0.6331,
+      "importance_score": 0.6331,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.54,
         "source_tier": 0.5,
         "ai_relevance": 0.75,
-        "recency": 0.9073,
+        "recency": 0.8949,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -985,7 +814,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -1091,15 +920,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5648,
+      "importance": 0.5648,
+      "importance_score": 0.5648,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.98,
+        "recency": 0.9666,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1126,7 +955,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -1232,15 +1061,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5638,
-      "importance": 0.5638,
-      "importance_score": 0.5638,
+      "score": 0.5615,
+      "importance": 0.5615,
+      "importance_score": 0.5615,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9613,
+        "recency": 0.9481,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1267,7 +1096,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -1284,7 +1113,7 @@
           "title_zh": "给你的其他 Claude Code 会话发消息",
           "title_en": "Message your other Claude Code sessions",
           "title_original": "Message your other Claude Code sessions",
-          "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+          "summary": null,
           "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
           "url": "https://news.ycombinator.com/item?id=49222824",
           "source": "hackernews",
@@ -1298,7 +1127,7 @@
           "title_zh": "给你的其他 Claude Code 会话发消息",
           "title_en": "Message your other Claude Code sessions",
           "title_original": "Message your other Claude Code sessions",
-          "summary": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nFetch the complete docu",
+          "summary": null,
           "recommend_reason_zh": "这篇介绍Claude Code新功能：可列出并给同一台机器上的其他Claude Code会话发消息，通过Remote Control还能回复其他机器或网页上的会话，实现跨设备消息互通。",
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
           "source": "Hacker News",
@@ -1319,7 +1148,7 @@
           "title_zh": "给你的其他 Claude Code 会话发消息",
           "title_en": "Message your other Claude Code sessions",
           "title_original": "Message your other Claude Code sessions",
-          "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+          "summary": null,
           "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
           "url": "https://news.ycombinator.com/item?id=49222824",
           "source": "hackernews",
@@ -1333,7 +1162,7 @@
           "title_zh": "给你的其他 Claude Code 会话发消息",
           "title_en": "Message your other Claude Code sessions",
           "title_original": "Message your other Claude Code sessions",
-          "summary": "Let Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nLet Claude list and message your other Claude Code sessions on one machine, and reply to your sessions on other machines or on the web through Remote Control.\nFetch the complete docu",
+          "summary": null,
           "recommend_reason_zh": "这篇介绍Claude Code新功能：可列出并给同一台机器上的其他Claude Code会话发消息，通过Remote Control还能回复其他机器或网页上的会话，实现跨设备消息互通。",
           "url": "https://code.claude.com/docs/en/cross-session-messaging",
           "source": "Hacker News",
@@ -1344,15 +1173,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9867,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,7 +1196,7 @@
         "title_zh": "给你的其他 Claude Code 会话发消息",
         "title_en": "Message your other Claude Code sessions",
         "title_original": "Message your other Claude Code sessions",
-        "summary": "It worked, but clunky. Way clunky compared to codex.\nreply\nUnrelated: when my Claude/Codex finishes cooking (or needs my attention), it pings a local HTTP endpoint that plays a frog sound on my laptop. I found this massively boosts quality of life.\nreply\nreply\nreply\nreply\nreply\n> hold swarm, I prepare safe exfil\nreply\nreply",
+        "summary": null,
         "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
         "url": "https://news.ycombinator.com/item?id=49222824",
         "source": "hackernews",
@@ -1379,7 +1208,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     },
     {
@@ -1456,15 +1285,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8908,
+        "recency": 0.8786,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1491,7 +1320,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-08T20:57:41.805964Z"
+        "scored_at": "2026-08-08T21:52:58.448672Z"
       }
     }
   ]
