@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:56:26.590607Z",
+  "generated_at": "2026-08-08T23:51:46.728438Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_7bfb99629928",
+      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
+      "url": "https://www.ithome.com/0/987/452.htm",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "语音操控电脑听着唬人，实际就几个预设动作，离'多步骤'还差得远。"
+        },
+        "paper-police": {
+          "score": 15,
+          "review": "仅官方宣称，无论文代码或第三方评测，功能细节待验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "桌面端语音操控多步骤任务，自动化场景能直接试，但需确认API和稳定性。"
+        }
+      }
+    },
+    {
       "story_id": "story_56cf4cefef8c",
       "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
       "url": "https://news.ycombinator.com/item?id=49222824",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 72,
           "review": "跨会话通信能直接提升多任务协作效率，但要看具体实现是否稳定。"
-        }
-      }
-    },
-    {
-      "story_id": "story_5a089134551b",
-      "title": "GitHub Copilot 每周发布 — 8月3日 / GitHub Copilot weekly releases — August 3",
-      "url": "https://github.blog/changelog/2026-08-07-github-copilot-weekly-releases-august-3",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "周更流水账，亮点得自己扒，水分不大但干货也有限。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方更新日志无具体技术细节，缺论文代码评测，仅可作参考。"
-        },
-        "pragmatic": {
-          "score": 65,
-          "review": "Copilot 周更，看具体更新项再决定是否升级，别急着改工作流。"
         }
       }
     },
