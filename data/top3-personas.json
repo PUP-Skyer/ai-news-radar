@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:55:32.125382Z",
+  "generated_at": "2026-08-08T19:06:35.221079Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_879e30ce457c",
-      "title": "HPC-Ops × SGLang：腾讯混元开源高性能 Attention、Router GEMM 与 MoE 算子 / Blog HPC-Ops × SGLang： High-Performance Attention， Router GEMM， and MoE Kernels from Tencent Hunyuan HPC-Ops is an open-source operator library for LLM inference， deployed in Tencent's large-scale production serving. Its core operators， including Dynamic Attention and Fused MoE， play a critical role … Tencent Hunyuan AI Infra and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-07-hpc-ops-sglang",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "开源算子还带生产验证，腾讯这次没光吹。但细节和对比基线还得再抠。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "有开源库和部署事实，但缺论文与独立benchmark，复现性待验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "腾讯开源高性能算子库，SGLang 用户可白嫖推理加速，值得 clone 试试。"
-        }
-      }
-    },
-    {
       "story_id": "story_1f7d8d6cb096",
       "title": "企业现在可安装第三方 GitHub 应用 / Enterprises can now install third-party GitHub Apps",
       "url": "https://github.blog/changelog/2026-08-07-enterprises-can-now-install-third-party-github-apps",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 78,
           "review": "企业装第三方应用省审批流程，DevOps 选型今天就能落地。"
+        }
+      }
+    },
+    {
+      "story_id": "story_2b97640ff5a6",
+      "title": "Claude Code 会话间可互发消息 / New in Claude Code： your sessions can now message each other. Instead of having to re-explain yours…",
+      "url": "https://x.com/ClaudeDevs/status/2085817074816070014",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "会话互发消息省了复制粘贴，但别吹成什么智能协作，顶多是便利贴。"
+        },
+        "paper-police": {
+          "score": 15,
+          "review": "只有官方推文宣称功能，无论文无代码无评测，等文档和实测。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "会话互通省去重复解释上下文，多任务协作能直接抄，但需实测稳定性。"
         }
       }
     }
