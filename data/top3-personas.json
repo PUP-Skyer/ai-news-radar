@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:43:34.604913Z",
+  "generated_at": "2026-08-09T06:04:55.728271Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_c679b82f6543",
+      "title": "实时 MCP 拦截器，可阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
+      "url": "https://news.ycombinator.com/item?id=49228086",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "拦截器思路对，但只防.env和危险命令，Agent绕过手段多着呢，先别急着邀功。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "只有标题和链接，无代码无评测，拦截效果无从验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "安全拦截器能直接防泄漏，接 MCP 的团队今天就能加一层。"
+        }
+      }
+    },
+    {
       "story_id": "story_56cf4cefef8c",
       "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
       "url": "https://news.ycombinator.com/item?id=49222824",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "跨会话通信能直接提升多任务协作效率，但要看具体实现是否稳定。"
-        }
-      }
-    },
-    {
-      "story_id": "story_8d401dc43acf",
-      "title": "DeepMind 的 WeatherNext 飓风模型为预报员争取到额外一天预警时间 / DeepMind's hurricane model bought forecasters an extra day",
-      "url": "https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "多一天预警确实有用，但别急着封神，真实风暴里再遛遛。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "报道称多一天预警，但无论文代码，数字待独立验证。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "预报员多一天预警，但开发者今天用不上，等API或开源再看。"
         }
       }
     }
