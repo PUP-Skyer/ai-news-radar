@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:04:16.165480Z",
+  "generated_at": "2026-08-09T15:55:07.763255Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_56cf4cefef8c",
-      "title": "向您其他“克劳德代码”会话发送消息",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "跨会话消息这功能听着新鲜，但 demo 里就俩窗口互发，实用性存疑。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方文档功能说明，无论文代码评测，仅多源讨论，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "跨会话传消息能省点切换成本，但得看API稳不稳，先小范围试。"
-        }
-      }
-    },
-    {
       "story_id": "story_c679b82f6543",
       "title": "实时 MCP 拦截器，可阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
       "url": "https://news.ycombinator.com/item?id=49228086",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "安全拦截器能直接防泄漏，接 MCP 的团队今天就能加一层。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5ce40a057274",
+      "title": "ChatGPT开始拦截直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
+      "url": "https://news.ycombinator.com/item?id=49227718",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "拦文风模仿是好事，但别只做表面功夫，训练数据里的版权问题才是真坑。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅官方或社区宣称拦截行为，无技术报告或测试证据，无法验证。"
+        },
+        "pragmatic": {
+          "score": 60,
+          "review": "对写手是保护，对开发者是提示：API 风控在收紧，做仿写工具得绕道。"
         }
       }
     }

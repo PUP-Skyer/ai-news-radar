@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T14:55:00.764988Z",
+  "generated_at": "2026-08-09T15:49:01.176915Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_ed474c29d378",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7875,
-      "importance": 0.7875,
-      "importance_score": 0.7875,
+      "score": 0.7852,
+      "importance": 0.7852,
+      "importance_score": 0.7852,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.994,
+        "recency": 0.9812,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -84,7 +84,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -132,15 +132,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8718,
+        "recency": 0.8606,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -167,7 +167,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -215,15 +215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7408,
+      "importance": 0.7408,
+      "importance_score": 0.7408,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8958,
+        "recency": 0.8842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -250,7 +250,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -298,15 +298,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7403,
-      "importance": 0.7403,
-      "importance_score": 0.7403,
+      "score": 0.7383,
+      "importance": 0.7383,
+      "importance_score": 0.7383,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8481,
+        "recency": 0.8372,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -333,7 +333,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
+      }
+    },
+    {
+      "story_id": "story_abc8705d02da",
+      "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+      "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "primary_url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+      "source": "Nathan Lambert：Interconnects（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "title_en": "Lessons from the hacks",
+          "title_original": "Lessons from the hacks",
+          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+          "recommend_reason_zh": "从OpenAI-HuggingFace黑客事件出发，剖析前沿模型对齐与安全困境，直言AI行业对接下来12-24个月准备不足，并对比GPT-5.6的执着与Claude的“懒惰”带来的风险差异。",
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Nathan Lambert：Interconnects（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+          "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+          "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+          "title_en": "Lessons from the hacks",
+          "title_original": "Lessons from the hacks",
+          "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+          "recommend_reason_zh": "从OpenAI-HuggingFace黑客事件出发，剖析前沿模型对齐与安全困境，直言AI行业对接下来12-24个月准备不足，并对比GPT-5.6的执着与Claude的“懒惰”带来的风险差异。",
+          "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+          "source": "Nathan Lambert：Interconnects（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-09T14:57:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9876,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-09T14:57:11Z",
+      "latest_at": "2026-08-09T14:57:11Z",
+      "primary_item": {
+        "id": "b7700670027f0dea335dcc483c71d5edaa1c24d3",
+        "title": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡 / Lessons from the hacks",
+        "title_zh": "从黑客事件中汲取的教训：前沿模型攻击暴露激励与治理失衡",
+        "title_en": "Lessons from the hacks",
+        "title_original": "Lessons from the hacks",
+        "summary": "近期前沿模型引发的网络攻击事件促使作者反思当前激励体系难以适应快速技术变革。科技公司受增长驱动持续扩展，而政府行动迟缓，双方均未准备好应对未来12-24个月的挑战。作者认为需要更多透明度，并指出持久性强的模型更可能实施黑客行为，OpenAI的推理时扩展路径可能与此相关。",
+        "recommend_reason_zh": "从OpenAI-HuggingFace黑客事件出发，剖析前沿模型对齐与安全困境，直言AI行业对接下来12-24个月准备不足，并对比GPT-5.6的执着与Claude的“懒惰”带来的风险差异。",
+        "url": "https://www.interconnects.ai/p/lessons-from-the-hacks",
+        "source": "Nathan Lambert：Interconnects（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "黑客事件是行业反思，但没给可抄的方案，动手前先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -381,15 +464,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7302,
-      "importance": 0.7302,
-      "importance_score": 0.7302,
+      "score": 0.7283,
+      "importance": 0.7283,
+      "importance_score": 0.7283,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.792,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -416,7 +499,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -464,15 +547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8469,
+        "recency": 0.836,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -499,260 +582,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
-      "story_id": "story_56cf4cefef8c",
-      "title": "向您其他“克劳德代码”会话发送消息",
-      "url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "primary_url": "https://code.claude.com/docs/en/cross-session-messaging",
-      "source": "code.claude.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "title_zh": "向您其他“克劳德代码”会话发送消息",
-          "title_en": null,
-          "title_original": "向您其他“克劳德代码”会话发送消息",
-          "summary": null,
-          "recommend_reason_zh": "这篇文档说明如何让Claude Code列出并给同一台机器上的其他会话发消息，并通过Remote Control回复其他机器或网页端的会话，实现跨设备消息互通。",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
-          "title_zh": "给你的其他 Claude Code 会话发消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:52:33.854000Z"
-        },
-        {
-          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
-          "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您其他“Claude代码”会话发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": "这篇介绍Claude Code新功能：可列出并给同一台机器上的其他Claude Code会话发消息，通过Remote Control还能回复其他机器或网页上的会话，实现跨设备消息互通。",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "code.claude.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c93e2a7d723746932053a05dcfd00125866be205",
-          "title": "向您其他“克劳德代码”会话发送消息",
-          "title_zh": "向您其他“克劳德代码”会话发送消息",
-          "title_en": null,
-          "title_original": "向您其他“克劳德代码”会话发送消息",
-          "summary": null,
-          "recommend_reason_zh": "这篇文档说明如何让Claude Code列出并给同一台机器上的其他会话发消息，并通过Remote Control回复其他机器或网页端的会话，实现跨设备消息互通。",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "code.claude.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-09T06:22:36.507000Z"
-        },
-        {
-          "id": "8fb803b09e0a647245cdd06d46008e918a3052df",
-          "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
-          "title_zh": "给你的其他 Claude Code 会话发消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": "这篇帖子记录了让Claude Code会话互相发消息的实践：作者觉得虽然可行但太笨拙，远不如codex；还有网友分享用本地HTTP端点播青蛙声提醒任务完成，称大幅提升幸福感。",
-          "url": "https://news.ycombinator.com/item?id=49222824",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-08T20:52:33.854000Z"
-        },
-        {
-          "id": "ccd78cb14dcef4b54915673f2890b1db5b55a8a9",
-          "title": "向您其他“Claude代码”会话发送消息 / Message your other Claude Code sessions",
-          "title_zh": "向您其他“Claude代码”会话发送消息",
-          "title_en": "Message your other Claude Code sessions",
-          "title_original": "Message your other Claude Code sessions",
-          "summary": null,
-          "recommend_reason_zh": "这篇介绍Claude Code新功能：可列出并给同一台机器上的其他Claude Code会话发消息，通过Remote Control还能回复其他机器或网页上的会话，实现跨设备消息互通。",
-          "url": "https://code.claude.com/docs/en/cross-session-messaging",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-08-08T15:34:49Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5499,
-      "importance": 0.5499,
-      "importance_score": 0.5499,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.884,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-08T15:34:49Z",
-      "latest_at": "2026-08-09T06:22:36.507000Z",
-      "primary_item": {
-        "id": "c93e2a7d723746932053a05dcfd00125866be205",
-        "title": "向您其他“克劳德代码”会话发送消息",
-        "title_zh": "向您其他“克劳德代码”会话发送消息",
-        "title_en": null,
-        "title_original": "向您其他“克劳德代码”会话发送消息",
-        "summary": null,
-        "recommend_reason_zh": "这篇文档说明如何让Claude Code列出并给同一台机器上的其他会话发消息，并通过Remote Control回复其他机器或网页端的会话，实现跨设备消息互通。",
-        "url": "https://code.claude.com/docs/en/cross-session-messaging",
-        "source": "code.claude.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "跨会话传消息能省点切换成本，但得看API稳不稳，先小范围试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
-      }
-    },
-    {
-      "story_id": "story_db4e33c200ca",
-      "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
-      "url": "https://news.ycombinator.com/item?id=49230954",
-      "primary_url": "https://news.ycombinator.com/item?id=49230954",
+      "story_id": "story_67d5e9ec1941",
+      "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+      "url": "https://news.ycombinator.com/item?id=49230605",
+      "primary_url": "https://news.ycombinator.com/item?id=49230605",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-          "summary": null,
-          "recommend_reason_zh": "Amazon在Gilroy建AI数据中心被指绕过社区投票，评论却称其多年前已走完正规程序，并点明AI代理成本仅为人力的1/100、可24/7工作，值得一读。",
-          "url": "https://news.ycombinator.com/item?id=49230954",
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": "reply\nAnd probably some decently sized states too. Not only commercial actors are up to the job.\nreply\nWhat are the advantages of a GPU database?\nreply\nYou can be thrilled by this exciting technology and all the possibilities it brings without thinking it is going to require this huge capital investment in GPUs.\nreply\nreply\nFeels like they want to make a clean headline grabbing argument about how \"70% of all the spending is actually just these two companies\" and are ending up with a really muddl",
+          "recommend_reason_zh": "70%的AI收入集中在OpenAI和Anthropic，正文揭示其与Amazon、Google、Microsoft间的循环融资，质疑需求真实性，值得读。",
+          "url": "https://news.ycombinator.com/item?id=49230605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
+          "published_at": "2026-08-09T15:37:14.306000Z"
         },
         {
-          "id": "a0c57265609d07e0ad67e700e01bb5ef77608fb0",
-          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T12:52:10Z"
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-          "summary": null,
-          "recommend_reason_zh": "Amazon在Gilroy建AI数据中心被指绕过社区投票，评论却称其多年前已走完正规程序，并点明AI代理成本仅为人力的1/100、可24/7工作，值得一读。",
-          "url": "https://news.ycombinator.com/item?id=49230954",
+          "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+          "summary": "reply\nAnd probably some decently sized states too. Not only commercial actors are up to the job.\nreply\nWhat are the advantages of a GPU database?\nreply\nYou can be thrilled by this exciting technology and all the possibilities it brings without thinking it is going to require this huge capital investment in GPUs.\nreply\nreply\nFeels like they want to make a clean headline grabbing argument about how \"70% of all the spending is actually just these two companies\" and are ending up with a really muddl",
+          "recommend_reason_zh": "70%的AI收入集中在OpenAI和Anthropic，正文揭示其与Amazon、Google、Microsoft间的循环融资，质疑需求真实性，值得读。",
+          "url": "https://news.ycombinator.com/item?id=49230605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-09T13:06:53.624000Z"
+          "published_at": "2026-08-09T15:37:14.306000Z"
         },
         {
-          "id": "a0c57265609d07e0ad67e700e01bb5ef77608fb0",
-          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
-          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
-          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+          "id": "b5581a5d57539808a332a3b45a242c66cefe3a7f",
+          "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+          "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+          "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+          "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T12:52:10Z"
+          "url": "https://www.youtube.com/watch?v=68X8yEatepQ",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-09T11:56:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5453,
+      "importance": 0.5453,
+      "importance_score": 0.5453,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9743,
+        "recency": 0.9972,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-09T12:52:10Z",
-      "latest_at": "2026-08-09T13:06:53.624000Z",
+      "earliest_at": "2026-08-09T11:56:16Z",
+      "latest_at": "2026-08-09T15:37:14.306000Z",
       "primary_item": {
-        "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
-        "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
-        "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
-        "title_en": "Amazon circumvents Gilroy community vote for AI data center",
-        "title_original": "Amazon circumvents Gilroy community vote for AI data center",
-        "summary": null,
-        "recommend_reason_zh": "Amazon在Gilroy建AI数据中心被指绕过社区投票，评论却称其多年前已走完正规程序，并点明AI代理成本仅为人力的1/100、可24/7工作，值得一读。",
-        "url": "https://news.ycombinator.com/item?id=49230954",
+        "id": "270afdaadbce53cf7a6b122714e5f675ae96fefc",
+        "title": "70%的AI收入来自OpenAI和Anthropic / 70% of AI revenue comes from OpenAI and Anthropic",
+        "title_zh": "70%的AI收入来自OpenAI和Anthropic",
+        "title_en": "70% of AI revenue comes from OpenAI and Anthropic",
+        "title_original": "70% of AI revenue comes from OpenAI and Anthropic",
+        "summary": "reply\nAnd probably some decently sized states too. Not only commercial actors are up to the job.\nreply\nWhat are the advantages of a GPU database?\nreply\nYou can be thrilled by this exciting technology and all the possibilities it brings without thinking it is going to require this huge capital investment in GPUs.\nreply\nreply\nFeels like they want to make a clean headline grabbing argument about how \"70% of all the spending is actually just these two companies\" and are ending up with a really muddl",
+        "recommend_reason_zh": "70%的AI收入集中在OpenAI和Anthropic，正文揭示其与Amazon、Google、Microsoft间的循环融资，质疑需求真实性，值得读。",
+        "url": "https://news.ycombinator.com/item?id=49230605",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 30,
-      "persona_review": "选址博弈与开发者无关，等动工和电价变化再关心。",
+      "persona_review": "行业收入集中度数据，对选型无直接指导，看看就行。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -858,15 +800,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7549,
+        "recency": 0.7452,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -893,7 +835,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
+      }
+    },
+    {
+      "story_id": "story_db4e33c200ca",
+      "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
+      "url": "https://news.ycombinator.com/item?id=49230954",
+      "primary_url": "https://news.ycombinator.com/item?id=49230954",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
+          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
+          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
+          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+          "summary": null,
+          "recommend_reason_zh": "Amazon在Gilroy建AI数据中心被指绕过社区投票，评论却称其多年前已走完正规程序，并点明AI代理成本仅为人力的1/100、可24/7工作，值得一读。",
+          "url": "https://news.ycombinator.com/item?id=49230954",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T13:06:53.624000Z"
+        },
+        {
+          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
+          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
+          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
+          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
+          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T12:52:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
+          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
+          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
+          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+          "summary": null,
+          "recommend_reason_zh": "Amazon在Gilroy建AI数据中心被指绕过社区投票，评论却称其多年前已走完正规程序，并点明AI代理成本仅为人力的1/100、可24/7工作，值得一读。",
+          "url": "https://news.ycombinator.com/item?id=49230954",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-09T13:06:53.624000Z"
+        },
+        {
+          "id": "68ae9da5130b1e52849eac846b71f4eb94dd8044",
+          "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
+          "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
+          "title_en": "Amazon circumvents Gilroy community vote for AI data center",
+          "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/amazon-secretly-circumvents-community-vote-for-massive-ai-data-center-45-year-old-rules-lock-gilroy-residents-out-of-public-comment-window",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-09T12:52:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9617,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-09T12:52:10Z",
+      "latest_at": "2026-08-09T13:06:53.624000Z",
+      "primary_item": {
+        "id": "fbb26dd8519ef67248f19dd9f8c0bff19c9694dd",
+        "title": "Amazon绕过Gilroy社区投票，推进AI数据中心项目 / Amazon circumvents Gilroy community vote for AI data center",
+        "title_zh": "Amazon绕过Gilroy社区投票，推进AI数据中心项目",
+        "title_en": "Amazon circumvents Gilroy community vote for AI data center",
+        "title_original": "Amazon circumvents Gilroy community vote for AI data center",
+        "summary": null,
+        "recommend_reason_zh": "Amazon在Gilroy建AI数据中心被指绕过社区投票，评论却称其多年前已走完正规程序，并点明AI代理成本仅为人力的1/100、可24/7工作，值得一读。",
+        "url": "https://news.ycombinator.com/item?id=49230954",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "选址博弈与开发者无关，等动工和电价变化再关心。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -919,7 +973,7 @@
           "published_at": "2026-08-09T13:06:53.624000Z"
         },
         {
-          "id": "1cd230ab2b42f81c8127004ef56752d9fd520a7e",
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
           "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”移入潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
           "title_zh": "Show HN: DeepSeek-V4 潜在推理——将“思考”移入潜在空间",
           "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
@@ -927,15 +981,15 @@
           "summary": null,
           "recommend_reason_zh": "DeepSeek-V4-Flash-0731-Latent-Reasoning把推理移入潜空间，NVFP4量化后权重约79 GiB，BBH基准达0.94，并内置DSpark草稿块与35.7M参数推理头。",
           "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T11:46:28Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -954,7 +1008,7 @@
           "published_at": "2026-08-09T13:06:53.624000Z"
         },
         {
-          "id": "1cd230ab2b42f81c8127004ef56752d9fd520a7e",
+          "id": "c277db0fedc5a6b755531758f2541e4e4c48d082",
           "title": "Show HN: DeepSeek-V4 潜在推理——将“思考”移入潜在空间 / Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
           "title_zh": "Show HN: DeepSeek-V4 潜在推理——将“思考”移入潜在空间",
           "title_en": "Show HN: DeepSeek-V4 Latent Reasoning – moving \"thinking\" into latent space",
@@ -962,23 +1016,23 @@
           "summary": null,
           "recommend_reason_zh": "DeepSeek-V4-Flash-0731-Latent-Reasoning把推理移入潜空间，NVFP4量化后权重约79 GiB，BBH基准达0.94，并内置DSpark草稿块与35.7M参数推理头。",
           "url": "https://blog.n.ichol.ai/packaging-latent-reasoning-as-a-real-model",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T11:46:28Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5389,
+      "importance": 0.5389,
+      "importance_score": 0.5389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9743,
+        "recency": 0.9617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1005,7 +1059,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -1031,7 +1085,7 @@
           "published_at": "2026-08-09T10:36:36.830000Z"
         },
         {
-          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
           "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
           "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
           "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
@@ -1039,15 +1093,15 @@
           "summary": null,
           "recommend_reason_zh": "SAP因AI成本飙升暂停大多数差旅和招聘，仅AI相关例外；内部邮件证实禁令仍在生效，员工称新AI工具正推高成本，揭示企业应对AI开支失控的现实。",
           "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T08:00:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1066,7 +1120,7 @@
           "published_at": "2026-08-09T10:36:36.830000Z"
         },
         {
-          "id": "b7faa4fa62e135ffe27e5c6116dd2b8006a9ccfd",
+          "id": "e9a8939f4cc426279f94b42f96e4aacc82320dc5",
           "title": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘 / Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
           "title_zh": "软件巨头SAP因AI成本飙升暂停大部分差旅和招聘",
           "title_en": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
@@ -1074,23 +1128,23 @@
           "summary": null,
           "recommend_reason_zh": "SAP因AI成本飙升暂停大多数差旅和招聘，仅AI相关例外；内部邮件证实禁令仍在生效，员工称新AI工具正推高成本，揭示企业应对AI开支失控的现实。",
           "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-09T08:00:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9397,
+        "recency": 0.9276,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1117,7 +1171,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -1194,15 +1248,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5231,
-      "importance": 0.5231,
-      "importance_score": 0.5231,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8741,
+        "recency": 0.8628,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,7 +1283,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     },
     {
@@ -1255,7 +1309,7 @@
           "published_at": "2026-08-09T04:38:57.824000Z"
         },
         {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "id": "5c114006686bd25b8b4b99ade4f4bf226dedfb76",
           "title": "ChatGPT开始拦截直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
           "title_zh": "ChatGPT开始拦截直接模仿作者文风的请求",
           "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -1263,15 +1317,15 @@
           "summary": null,
           "recommend_reason_zh": "OpenAI的ChatGPT现已拒绝直接模仿斯蒂芬·金等名作家的风格，转而提供捕捉其“broad qualities”的原创回应，此举可能影响正在进行的版权诉讼。",
           "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T02:01:38Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1290,7 +1344,7 @@
           "published_at": "2026-08-09T04:38:57.824000Z"
         },
         {
-          "id": "b4b805324bccbc44c7f8412a7c7a24c503100822",
+          "id": "5c114006686bd25b8b4b99ade4f4bf226dedfb76",
           "title": "ChatGPT开始拦截直接模仿作者文风的请求 / ChatGPT starts blocking direct requests to copy an author's style",
           "title_zh": "ChatGPT开始拦截直接模仿作者文风的请求",
           "title_en": "ChatGPT starts blocking direct requests to copy an author's style",
@@ -1298,23 +1352,23 @@
           "summary": null,
           "recommend_reason_zh": "OpenAI的ChatGPT现已拒绝直接模仿斯蒂芬·金等名作家的风格，转而提供捕捉其“broad qualities”的原创回应，此举可能影响正在进行的版权诉讼。",
           "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-09T02:01:38Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8622,
+        "recency": 0.8511,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,7 +1395,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-09T15:04:14.757024Z"
+        "scored_at": "2026-08-09T15:55:02.658756Z"
       }
     }
   ]
