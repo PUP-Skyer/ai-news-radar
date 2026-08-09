@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T06:04:55.728271Z",
+  "generated_at": "2026-08-09T07:30:04.960106Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_56cf4cefef8c",
+      "title": "向您其他“克劳德代码”会话发送消息",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "跨会话消息这功能听着新鲜，但 demo 里就俩窗口互发，实用性存疑。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方文档功能说明，无论文代码评测，仅多源讨论，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "跨会话传消息能省点切换成本，但得看API稳不稳，先小范围试。"
+        }
+      }
+    },
+    {
       "story_id": "story_c679b82f6543",
       "title": "实时 MCP 拦截器，可阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
       "url": "https://news.ycombinator.com/item?id=49228086",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "安全拦截器能直接防泄漏，接 MCP 的团队今天就能加一层。"
-        }
-      }
-    },
-    {
-      "story_id": "story_56cf4cefef8c",
-      "title": "给你的其他 Claude Code 会话发消息 / Message your other Claude Code sessions",
-      "url": "https://news.ycombinator.com/item?id=49222824",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "给自家会话传纸条，这功能隔壁终端早有了，换个壳就算新？"
-        },
-        "paper-police": {
-          "score": 0,
-          "review": "无论文无代码无评测，只有标题，等于什么都没说。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "跨会话通信能直接提升多任务协作效率，但要看具体实现是否稳定。"
         }
       }
     }
