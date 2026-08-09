@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:56:02.445578Z",
+  "generated_at": "2026-08-09T21:01:15.258987Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_7bfb99629928",
-      "title": "OpenAI 桌面端 ChatGPT 上线语音交互功能，可语音操控电脑执行多步骤任务",
-      "url": "https://www.ithome.com/0/987/452.htm",
+      "story_id": "story_7742a97ea427",
+      "title": "Anthropic 默认开启 Claude Code 自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "语音操控电脑听着唬人，实际就几个预设动作，离'多步骤'还差得远。"
+          "score": 55,
+          "review": "默认开自动模式，出事了算谁的？先看看回滚按钮藏哪了。"
         },
         "paper-police": {
           "score": 15,
-          "review": "仅官方宣称，无论文代码或第三方评测，功能细节待验证。"
+          "review": "官方博客宣称默认开启，无论文无代码无第三方评测，只有说法。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "桌面端语音操控多步骤任务，自动化场景能直接试，但需确认API和稳定性。"
+          "review": "默认开自动模式省事，但得盯紧权限和误操作，老项目先测再升。"
         }
       }
     },
