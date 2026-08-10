@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T06:49:22.967780Z",
+  "generated_at": "2026-08-10T09:08:16.792055Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_9e6aa6c559d9",
-      "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
-      "url": "https://www.aibase.com/news/30213",
+      "story_id": "story_d10e608ddfc9",
+      "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
+      "url": "https://www.docker.com/products/docker-sandboxes",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "跨会话消息传递算实用更新，但'进化'二字用得太慷慨，先跑通再说。"
+          "score": 72,
+          "review": "沙箱不新鲜，但Docker这波给AI代理加隔离，总算没光喊口号。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅官方博客宣称版本更新，无论文无代码无第三方评测，跨会话消息传递细节待验证。"
+          "review": "官方产品页无论文无代码，仅宣传概念，缺独立验证。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "跨会话消息传递能省不少上下文切换成本，但得看API稳不稳，先小范围试。"
+          "score": 82,
+          "review": "AI代理隔离沙箱直接可用，跑不可信代码或并行任务省心，今天就能试。"
         }
       }
     }
