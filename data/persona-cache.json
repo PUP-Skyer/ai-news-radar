@@ -7,24 +7,6 @@
       "title_hash": "faa039be",
       "scored_at": "2026-07-20T19:15:44.115004Z"
     },
-    "story_c88404f53f8e|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "对 Copilot 付费用户有用，方便监控用量避免超支，今天就能查。",
-      "title_hash": "9577c17d",
-      "scored_at": "2026-07-20T16:51:06.814404Z"
-    },
-    "story_1d380b987a08|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "Excel 用户直接装插件，自然语言写公式省时间，今天就能试。",
-      "title_hash": "a3334cc1",
-      "scored_at": "2026-07-20T16:51:07.877609Z"
-    },
-    "story_f88669e85914|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "Replit 用户今天就能用上集成数据库和双因素认证，省去手动配置的麻烦。",
-      "title_hash": "f9b854c4",
-      "scored_at": "2026-07-20T16:51:08.933631Z"
-    },
     "story_36e0334205c9|cynic|f4237a62": {
       "score": 72,
       "review": "4B参数开源世界模型，实时推理？先看看demo里延迟多少秒吧。",
@@ -36,18 +18,6 @@
       "review": "Hugging Face博客有技术细节和模型链接，但缺论文和独立评测，证据中等。",
       "title_hash": "faa039be",
       "scored_at": "2026-07-20T19:15:54.669818Z"
-    },
-    "story_c88404f53f8e|cynic|f4237a62": {
-      "score": 45,
-      "review": "终于能看额度了，下一步是不是该给个充值提醒？",
-      "title_hash": "9577c17d",
-      "scored_at": "2026-07-20T16:51:12.205175Z"
-    },
-    "story_c88404f53f8e|paper-police|966065bf": {
-      "score": 10,
-      "review": "功能更新公告，无论文无代码无评测，纯产品说明。",
-      "title_hash": "9577c17d",
-      "scored_at": "2026-07-20T16:51:13.298668Z"
     },
     "story_07607b1511cb|pragmatic|0a5c5b24": {
       "score": 45,
@@ -5576,10 +5546,10 @@
       "scored_at": "2026-08-10T13:59:55.715307Z"
     },
     "story_1ad67226f47b|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "给州长的信，没产品没API，开发者不用动。",
-      "title_hash": "79f98e21",
-      "scored_at": "2026-08-10T15:32:40.438705Z"
+      "score": 20,
+      "review": "公开信不写代码，等有具体政策或项目再关注。",
+      "title_hash": "0f09f3ed",
+      "scored_at": "2026-08-10T17:31:20.477970Z"
     },
     "story_3a4cba53dc81|pragmatic|0a5c5b24": {
       "score": 45,
@@ -5598,6 +5568,60 @@
       "review": "数据报告看看就行，没给可复现基准，动手前别当真。",
       "title_hash": "08c35b5c",
       "scored_at": "2026-08-10T15:32:43.870657Z"
+    },
+    "story_b385166df3f8|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "开放权重可自部署，低延迟多语言语音Agent今天就能落地，值得试。",
+      "title_hash": "55270147",
+      "scored_at": "2026-08-10T17:31:21.601735Z"
+    },
+    "story_ea01cc68f0f3|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "网页版 Copilot 对话控制增强，日常用 GitHub 的可以顺手试试，影响不大。",
+      "title_hash": "f3a5fd45",
+      "scored_at": "2026-08-10T17:31:22.918848Z"
+    },
+    "story_4efc9ada130f|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "OpenAI 内部实践分享，有参考价值但无直接可用的工具或方案。",
+      "title_hash": "9b620b3d",
+      "scored_at": "2026-08-10T17:31:24.202494Z"
+    },
+    "story_fca31970616e|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "自动模式默认开，少点确认直接跑，批量任务效率提升明显。",
+      "title_hash": "e27be057",
+      "scored_at": "2026-08-10T17:31:25.217126Z"
+    },
+    "story_b21a5deb85d6|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "路由选模型能省心省事，但效果得实测，别急着全切。",
+      "title_hash": "33ba035d",
+      "scored_at": "2026-08-10T17:31:26.453076Z"
+    },
+    "story_b385166df3f8|cynic|f4237a62": {
+      "score": 72,
+      "review": "开放权重是亮点，但低延迟多语言得看实测，别光看宣传。",
+      "title_hash": "55270147",
+      "scored_at": "2026-08-10T17:31:27.602120Z"
+    },
+    "story_b385166df3f8|paper-police|966065bf": {
+      "score": 72,
+      "review": "官方博客有细节和数字，但缺论文和代码链接，需等开源仓库验证。",
+      "title_hash": "55270147",
+      "scored_at": "2026-08-10T17:31:28.661099Z"
+    },
+    "story_fca31970616e|cynic|f4237a62": {
+      "score": 72,
+      "review": "默认免审批是省事，但翻车时别怪用户没盯着。",
+      "title_hash": "e27be057",
+      "scored_at": "2026-08-10T17:31:30.032096Z"
+    },
+    "story_fca31970616e|paper-police|966065bf": {
+      "score": 10,
+      "review": "仅官方推文宣称默认开启，无技术细节或代码佐证，等文档和实测。",
+      "title_hash": "e27be057",
+      "scored_at": "2026-08-10T17:31:31.504392Z"
     }
   }
 }

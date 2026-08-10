@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T15:32:43.870839Z",
+  "generated_at": "2026-08-10T17:31:31.504450Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_b385166df3f8",
+      "title": "构建低延迟多语言语音Agent：NVIDIA Magpie TTS提供开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开放权重是亮点，但低延迟多语言得看实测，别光看宣传。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "官方博客有细节和数字，但缺论文和代码链接，需等开源仓库验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "开放权重可自部署，低延迟多语言语音Agent今天就能落地，值得试。"
+        }
+      }
+    },
+    {
       "story_id": "story_895e60ee83c3",
       "title": "Meta携Muse Glimmer回归：本地、智能体、多模态、开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "url": "https://huggingface.co/blog/muse-glimmer",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_db693db10af6",
-      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
-      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "450毫秒轮换算快，但开源模型跑起来得看显存，别光看PPT。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "有技术博客和数字，但无论文无代码，450毫秒待复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "开源全双工语音模型，450ms延迟可上手，适合做实时语音Agent，今天就能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_3711c7beb745",
-      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
-      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
+      "story_id": "story_fca31970616e",
+      "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
+      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "Day-0支持算诚意，但优化细节没晒数据，先跑个基准再说。"
+          "review": "默认免审批是省事，但翻车时别怪用户没盯着。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客宣布支持，但无论文无代码无评测，等开源和跑分再定。"
+          "score": 10,
+          "review": "仅官方推文宣称默认开启，无技术细节或代码佐证，等文档和实测。"
         },
         "pragmatic": {
-          "score": 78,
-          "review": "SGLang 当天支持新模型，本地跑智能体工作流可立即换用，值得试。"
+          "score": 85,
+          "review": "自动模式默认开，少点确认直接跑，批量任务效率提升明显。"
         }
       }
     }
