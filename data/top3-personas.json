@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T10:52:35.202389Z",
+  "generated_at": "2026-08-10T12:19:31.588905Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_cca82cecf2ae",
-      "title": "“自动模式”现已成为 Claude Code 的默认设置",
-      "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+      "story_id": "story_895e60ee83c3",
+      "title": "Meta携Muse Glimmer回归：本地、智能体、多模态、开源 / Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "默认自动模式听着省心，可翻车时谁背锅？先跑通再说。"
+          "score": 72,
+          "review": "开源多模态智能体，本地跑得动再说；宣传词比demo亮眼。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称默认设置，无代码无评测，仅可查文档，待独立验证。"
+          "score": 72,
+          "review": "官方博客有细节但缺论文和代码，等开源仓库和跑分再定级。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "默认自动模式直接改工作流，跑批任务能省事，但得盯紧权限边界。"
+          "review": "开源多模态模型，本地可跑，直接去仓库看能不能用。"
         }
       }
     },
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_d10e608ddfc9",
-      "title": "Docker 沙箱——适用于 AI 代理的一次性、隔离式沙箱",
-      "url": "https://www.docker.com/products/docker-sandboxes",
+      "story_id": "story_3711c7beb745",
+      "title": "SGLang 为 Muse Glimmer 提供 Day-0 支持，针对本地智能体工作流优化推理 / Blog SGLang Adds Day-0 Support for Muse Glimmer， a Multimodal Model Built for Local Agentic Workflows We're excited to partner with Meta Superintelligence Labs to bring Day-0 support for Muse Glimmer to SGLang， with dedicated optimizations tailored for high-performance inference of agentic workflows o… Meta Superintelligence Labs and the SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-10-meta-muse-glimmer",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "沙箱不新鲜，但Docker这波给AI代理加隔离，总算没光喊口号。"
+          "review": "Day-0支持算诚意，但优化细节没晒数据，先跑个基准再说。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方产品页无论文无代码，仅宣传概念，缺独立验证。"
+          "score": 45,
+          "review": "官方博客宣布支持，但无论文无代码无评测，等开源和跑分再定。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "AI代理隔离沙箱直接可用，跑不可信代码或并行任务省心，今天就能试。"
+          "score": 78,
+          "review": "SGLang 当天支持新模型，本地跑智能体工作流可立即换用，值得试。"
         }
       }
     }
