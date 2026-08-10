@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:53:19.432980Z",
+  "generated_at": "2026-08-10T02:44:22.100481Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_7742a97ea427",
-      "title": "Anthropic 默认开启 Claude Code 自动模式 / Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "story_id": "story_db693db10af6",
+      "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B： An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+      "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "默认开自动模式，出事了算谁的？先看看回滚按钮藏哪了。"
+          "score": 72,
+          "review": "450毫秒轮换算快，但开源模型跑起来得看显存，别光看PPT。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "官方博客宣称默认开启，无论文无代码无第三方评测，只有说法。"
+          "score": 45,
+          "review": "有技术博客和数字，但无论文无代码，450毫秒待复现。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "默认开自动模式省事，但得盯紧权限和误操作，老项目先测再升。"
+          "score": 82,
+          "review": "开源全双工语音模型，450ms延迟可上手，适合做实时语音Agent，今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_c679b82f6543",
-      "title": "实时 MCP 拦截器，可阻止 Agent 读取 .env 文件和执行危险命令 / Real-time MCP interceptor that blocks .env reads and dangerous commands agents",
-      "url": "https://news.ycombinator.com/item?id=49228086",
+      "story_id": "story_638e0ee7c5f7",
+      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+      "url": "https://www.aibase.com/news/30207",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "拦截器思路对，但只防.env和危险命令，Agent绕过手段多着呢，先别急着邀功。"
+          "review": "多步骤语音操控听着唬人，先看看demo里是不是只点了自家网页。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "只有标题和链接，无代码无评测，拦截效果无从验证。"
+          "score": 20,
+          "review": "仅媒体转述官方发布，无论文代码或独立评测，功能细节待验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "安全拦截器能直接防泄漏，接 MCP 的团队今天就能加一层。"
+          "review": "桌面端语音操控多步骤任务，能直接省手动操作，但需实测稳定性再上生产。"
         }
       }
     },
     {
-      "story_id": "story_fe7d41da32c5",
-      "title": "Anthropic 称已基本解决提示注入攻击 / Prompt injection is the most common way that scammers attack people and agents： your agent visits ht…",
-      "url": "https://x.com/bcherny/status/2086520950259118464",
+      "story_id": "story_ad5a6d38f4aa",
+      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+      "url": "https://www.aibase.com/news/30202",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
-          "review": "基本解决？等第三方复现再说，demo 和现实隔着十万八千里。"
+          "review": "泄露对标DeepSeek，先跑赢再谈性价比，别光放PPT。"
         },
         "paper-police": {
-          "score": 15,
-          "review": "仅推特宣称，无论文无代码无评测，提示注入解决需实证。"
+          "score": 8,
+          "review": "泄露消息无论文无代码无评测，200万token只是传闻，性价比无从谈起。"
         },
         "pragmatic": {
-          "score": 55,
-          "review": "提示注入是当前痛点，但仅称解决无细节，等具体方案再动手。"
+          "score": 72,
+          "review": "泄露参数未实装，等官方发布再评估，别急着换。"
         }
       }
     }
