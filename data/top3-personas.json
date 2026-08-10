@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:44:22.100481Z",
+  "generated_at": "2026-08-10T05:05:58.090773Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_638e0ee7c5f7",
-      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-      "url": "https://www.aibase.com/news/30207",
+      "story_id": "story_9e6aa6c559d9",
+      "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+      "url": "https://www.aibase.com/news/30213",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "多步骤语音操控听着唬人，先看看demo里是不是只点了自家网页。"
+          "score": 70,
+          "review": "跨会话消息传递算实用更新，但'进化'二字用得太慷慨，先跑通再说。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅媒体转述官方发布，无论文代码或独立评测，功能细节待验证。"
+          "review": "仅官方博客宣称版本更新，无论文无代码无第三方评测，跨会话消息传递细节待验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "桌面端语音操控多步骤任务，能直接省手动操作，但需实测稳定性再上生产。"
+          "review": "跨会话消息传递能省不少上下文切换成本，但得看API稳不稳，先小范围试。"
         }
       }
     },
     {
-      "story_id": "story_ad5a6d38f4aa",
-      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-      "url": "https://www.aibase.com/news/30202",
+      "story_id": "story_36c8d8e68235",
+      "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "泄露对标DeepSeek，先跑赢再谈性价比，别光放PPT。"
+          "score": 72,
+          "review": "多模态插件方向对，但'原生支持'得看实际效果，别又是PPT式发布。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "泄露消息无论文无代码无评测，200万token只是传闻，性价比无从谈起。"
+          "score": 20,
+          "review": "仅官方X帖宣称，无论文无代码无评测，证据链断裂。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "泄露参数未实装，等官方发布再评估，别急着换。"
+          "review": "多模态插件化方案，Agent 集成有现成路子，想加视觉能力的今天能试。"
         }
       }
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:36:34.917582Z",
+  "generated_at": "2026-08-10T04:56:47.550659Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -24,10 +24,25 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms turn-taking latency and tool calling.\nNVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms turn-taking latency and tool calling.\nNVIDIA has released NemotronLabs VoiceChat 11B , an open 11B end-to-end speech-to-speech model for real-time, full-duplex conversation. Instead of chaining ASR, an LLM, and TTS, it performs streaming speech understanding and s",
+          "recommend_reason_zh": "NVIDIA开源全双工语音模型NemotronLabs VoiceChat 11B，端到端对话延迟仅448毫秒，支持插话和实时工具调用，但官方注明仅限研究，长对话存在退化风险。",
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "MarkTechPost Research",
         "MarkTechPost（RSS）"
       ],
       "items": [
@@ -44,23 +59,38 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-08-09T23:58:34Z"
+        },
+        {
+          "id": "b9b1454acf8d39a8829479ee1624a3959b0ce0f8",
+          "title": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用 / NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_zh": "NVIDIA 发布 NemotronLabs VoiceChat 11B：开源全双工语音模型，支持约 450 毫秒轮换与实时工具调用",
+          "title_en": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "title_original": "NVIDIA Releases NemotronLabs VoiceChat 11B: An Open Full-Duplex Speech-to-Speech Model with ~450 ms Turn-Taking and Live Tool Calling",
+          "summary": "NVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms turn-taking latency and tool calling.\nNVIDIA releases NemotronLabs VoiceChat 11B, an open full-duplex speech-to-speech model with 448 ms turn-taking latency and tool calling.\nNVIDIA has released NemotronLabs VoiceChat 11B , an open 11B end-to-end speech-to-speech model for real-time, full-duplex conversation. Instead of chaining ASR, an LLM, and TTS, it performs streaming speech understanding and s",
+          "recommend_reason_zh": "NVIDIA开源全双工语音模型NemotronLabs VoiceChat 11B，端到端对话延迟仅448毫秒，支持插话和实时工具调用，但官方注明仅限研究，长对话存在退化风险。",
+          "url": "https://www.marktechpost.com/2026/08/09/nvidia-releases-nemotronlabs-voicechat-11b-an-open-full-duplex-speech-to-speech-model-with-450-ms-turn-taking-and-live-tool-calling",
+          "source": "MarkTechPost Research",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-09T23:58:34Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
-        "story_heat": 0.0
+        "recency": 0.9307,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -84,7 +114,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_9e6aa6c559d9",
+      "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+      "url": "https://www.aibase.com/news/30213",
+      "primary_url": "https://www.aibase.com/news/30213",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
+          "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "title_zh": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "title_en": null,
+          "title_original": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "summary": "Now, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nNow, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nNow, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nExplore AI Frontiers",
+          "recommend_reason_zh": "Claude Code更新至v2.1.224，新增跨会话消息传递，不同对话窗口可互发信息，代码调整风险会提前警告，难题答案能直接同步，提升多任务协作效率。",
+          "url": "https://www.aibase.com/news/30213",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T04:56:47.550659Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
+          "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "title_zh": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "title_en": null,
+          "title_original": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+          "summary": "Now, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nNow, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nNow, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nExplore AI Frontiers",
+          "recommend_reason_zh": "Claude Code更新至v2.1.224，新增跨会话消息传递，不同对话窗口可互发信息，代码调整风险会提前警告，难题答案能直接同步，提升多任务协作效率。",
+          "url": "https://www.aibase.com/news/30213",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T04:56:47.550659Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T04:56:47.550659Z",
+      "latest_at": "2026-08-10T04:56:47.550659Z",
+      "primary_item": {
+        "id": "3e0d965d381fc4ab0bb548f39cc9ec50b821a17f",
+        "title": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+        "title_zh": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+        "title_en": null,
+        "title_original": "AI编程助手再迎进化：Claude Code迎来v2.1. 224 版本，正式支持跨会话消息传递",
+        "summary": "Now, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nNow, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nNow, as artificial intelligence programming tools continue to evolve, the official team at Anthropic recently announced on social media that their product, the\nExplore AI Frontiers",
+        "recommend_reason_zh": "Claude Code更新至v2.1.224，新增跨会话消息传递，不同对话窗口可互发信息，代码调整风险会提前警告，难题答案能直接同步，提升多任务协作效率。",
+        "url": "https://www.aibase.com/news/30213",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "跨会话消息传递能省不少上下文切换成本，但得看API稳不稳，先小范围试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -132,15 +246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7693,
-      "importance": 0.7693,
-      "importance_score": 0.7693,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.993,
+        "recency": 0.96,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -168,63 +282,63 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
-      "story_id": "story_638e0ee7c5f7",
-      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-      "url": "https://www.aibase.com/news/30207",
-      "primary_url": "https://www.aibase.com/news/30207",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_36c8d8e68235",
+      "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+      "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+      "primary_url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
-          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "summary": "Artificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nArtificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nArtificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI桌面端ChatGPT上线语音操控功能，基于ChatGPT-Live系列模型，支持ChatGPT Work和Codex，可在macOS结合Appshots授权AI读取屏幕内容，执行多步骤电脑任务。",
-          "url": "https://www.aibase.com/news/30207",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
+          "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
+          "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+          "title_zh": "Qwen-MM-Plugins 让智能体原生支持多模态",
+          "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+          "title_original": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+          "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+          "recommend_reason_zh": "Qwen-MM-Plugins让智能体原生支持多模态，可读取图像、视频与文档，还能编辑视频、处理3D/CAD，推动从多模态模型迈向多模态智能体。",
+          "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T04:04:12Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "X：通义千问 / Qwen (@Alibaba_Qwen)"
       ],
       "items": [
         {
-          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
-          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "title_en": null,
-          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-          "summary": "Artificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nArtificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nArtificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI桌面端ChatGPT上线语音操控功能，基于ChatGPT-Live系列模型，支持ChatGPT Work和Codex，可在macOS结合Appshots授权AI读取屏幕内容，执行多步骤电脑任务。",
-          "url": "https://www.aibase.com/news/30207",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
+          "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
+          "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+          "title_zh": "Qwen-MM-Plugins 让智能体原生支持多模态",
+          "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+          "title_original": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+          "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+          "recommend_reason_zh": "Qwen-MM-Plugins让智能体原生支持多模态，可读取图像、视频与文档，还能编辑视频、处理3D/CAD，推动从多模态模型迈向多模态智能体。",
+          "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-10T04:04:12Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.72,
+        "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9874,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -232,27 +346,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-10T02:36:34.917582Z",
-      "latest_at": "2026-08-10T02:36:34.917582Z",
+      "earliest_at": "2026-08-10T04:04:12Z",
+      "latest_at": "2026-08-10T04:04:12Z",
       "primary_item": {
-        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
-        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-        "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-        "title_en": null,
-        "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
-        "summary": "Artificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nArtificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nArtificial intelligence assistants have made a new breakthrough in desktop interaction experiences. On Thursday local time, OpenAI announced an important update\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI桌面端ChatGPT上线语音操控功能，基于ChatGPT-Live系列模型，支持ChatGPT Work和Codex，可在macOS结合Appshots授权AI读取屏幕内容，执行多步骤电脑任务。",
-        "url": "https://www.aibase.com/news/30207",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "40289628fd97dbfa4ceb38f989b7cda1fbd0234b",
+        "title": "Qwen-MM-Plugins 让智能体原生支持多模态 / 👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+        "title_zh": "Qwen-MM-Plugins 让智能体原生支持多模态",
+        "title_en": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+        "title_original": "👀 Seeing is just the beginning. With Qwen-MM-Plugins， turn your favorite agent harness multimodal-…",
+        "summary": "👀 看见只是开始。\n\n借助 Qwen-MM-Plugins，让你的智能体原生支持多模态--读取图片、视频和文档，编辑视频，处理 3D/CAD，以及更多。\n\n从多模态模型 → 多模态智能体。🚀\n\n观看实际效果：https://github.com/QwenLM/Qwen-MM-Plugins",
+        "recommend_reason_zh": "Qwen-MM-Plugins让智能体原生支持多模态，可读取图像、视频与文档，还能编辑视频、处理3D/CAD，推动从多模态模型迈向多模态智能体。",
+        "url": "https://x.com/Alibaba_Qwen/status/2086664887560970531",
+        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "桌面端语音操控多步骤任务，能直接省手动操作，但需实测稳定性再上生产。",
+      "persona_review": "多模态插件化方案，Agent 集成有现成路子，想加视觉能力的今天能试。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -300,15 +414,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7597,
-      "importance": 0.7597,
-      "importance_score": 0.7597,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8396,
+        "recency": 0.8117,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -336,7 +450,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -384,15 +498,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9738,
+        "recency": 0.9415,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -420,7 +534,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -468,15 +582,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7501,
+      "importance": 0.7501,
+      "importance_score": 0.7501,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9508,
+        "recency": 0.9193,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -504,7 +618,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_5ddaa3289d85",
+      "title": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+      "url": "https://www.aibase.com/news/30214",
+      "primary_url": "https://www.aibase.com/news/30214",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3d610998aed7f69e21630ee96d7721184c37873a",
+          "title": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+          "title_zh": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+          "title_en": null,
+          "title_original": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+          "summary": "The Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nThe Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nThe Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nExplore AI Fronti",
+          "recommend_reason_zh": "通义千问开放平台正式上线，开发者现可在手机、PC和AI眼镜上接入服务，用户对话中直接@SF Express查快递、@ZiRu Rent找房，覆盖物流、租房等十余个生活场景，打通全链路服务闭环。",
+          "url": "https://www.aibase.com/news/30214",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T04:56:47.550659Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3d610998aed7f69e21630ee96d7721184c37873a",
+          "title": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+          "title_zh": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+          "title_en": null,
+          "title_original": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+          "summary": "The Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nThe Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nThe Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nExplore AI Fronti",
+          "recommend_reason_zh": "通义千问开放平台正式上线，开发者现可在手机、PC和AI眼镜上接入服务，用户对话中直接@SF Express查快递、@ZiRu Rent找房，覆盖物流、租房等十余个生活场景，打通全链路服务闭环。",
+          "url": "https://www.aibase.com/news/30214",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T04:56:47.550659Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T04:56:47.550659Z",
+      "latest_at": "2026-08-10T04:56:47.550659Z",
+      "primary_item": {
+        "id": "3d610998aed7f69e21630ee96d7721184c37873a",
+        "title": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+        "title_zh": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+        "title_en": null,
+        "title_original": "通义千问开放平台上线 “对话即服务”打通生活场景全链路",
+        "summary": "The Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nThe Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nThe Tongyi Qianwen Open Platform was officially launched recently, offering developers access to services on mobile, PC, and AI glasses. Users no longer need to\nExplore AI Fronti",
+        "recommend_reason_zh": "通义千问开放平台正式上线，开发者现可在手机、PC和AI眼镜上接入服务，用户对话中直接@SF Express查快递、@ZiRu Rent找房，覆盖物流、租房等十余个生活场景，打通全链路服务闭环。",
+        "url": "https://www.aibase.com/news/30214",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "概念大于落地，等具体API和场景案例再评估。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -552,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7418,
-      "importance": 0.7418,
-      "importance_score": 0.7418,
+      "score": 0.7365,
+      "importance": 0.7365,
+      "importance_score": 0.7365,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.89,
+        "recency": 0.8604,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -587,91 +785,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_ad5a6d38f4aa",
-      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-      "url": "https://www.aibase.com/news/30202",
-      "primary_url": "https://www.aibase.com/news/30202",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "title_en": null,
-          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "summary": "Anthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nAnthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nAnthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic泄露的Sonnet 5.5代号Fennec，上下文窗口翻倍至200万token，性能逼近Claude Fable 5却保持Sonnet定价，意图对标DeepSeek夺回性价比优势。",
-          "url": "https://www.aibase.com/news/30202",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "title_en": null,
-          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-          "summary": "Anthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nAnthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nAnthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic泄露的Sonnet 5.5代号Fennec，上下文窗口翻倍至200万token，性能逼近Claude Fable 5却保持Sonnet定价，意图对标DeepSeek夺回性价比优势。",
-          "url": "https://www.aibase.com/news/30202",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T02:36:34.917582Z",
-      "latest_at": "2026-08-10T02:36:34.917582Z",
-      "primary_item": {
-        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
-        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-        "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-        "title_en": null,
-        "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
-        "summary": "Anthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nAnthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nAnthropic's latest Sonnet 5.5 model has been revealed, with an internal codename of \"Fennec\" (desert fox), and it is highly likely to be released next month. Ac\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic泄露的Sonnet 5.5代号Fennec，上下文窗口翻倍至200万token，性能逼近Claude Fable 5却保持Sonnet定价，意图对标DeepSeek夺回性价比优势。",
-        "url": "https://www.aibase.com/news/30202",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "泄露参数未实装，等官方发布再评估，别急着换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -719,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7301,
-      "importance": 0.7301,
-      "importance_score": 0.7301,
+      "score": 0.7243,
+      "importance": 0.7243,
+      "importance_score": 0.7243,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.9429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -754,113 +868,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
-      "story_id": "story_89f0f7e97237",
-      "title": "Seedance 2.5 上线一周新增六种创意玩法",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-      "source": "公众号：卡尔的AI沃茨",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
-          "title": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_en": null,
-          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
-          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T05:25:02Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：卡尔的AI沃茨"
-      ],
-      "items": [
-        {
-          "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
-          "title": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
-          "title_en": null,
-          "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
-          "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-          "source": "公众号：卡尔的AI沃茨",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-09T05:25:02Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7364,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-09T05:25:02Z",
-      "latest_at": "2026-08-09T05:25:02Z",
-      "primary_item": {
-        "id": "f457c769b1a1749686824ffbe42d7d4feaeb6009",
-        "title": "Seedance 2.5 上线一周新增六种创意玩法",
-        "title_zh": "Seedance 2.5 上线一周新增六种创意玩法",
-        "title_en": null,
-        "title_original": "Seedance 2.5 上线一周新增六种创意玩法",
-        "summary": "Seedance 2.5 上线一周后，国内外社区涌现出时间静止、超级英雄变身、创意广告、K-pop MV、电商广告、拉片复刻等六类热门玩法。经实测，该版本人物面部告别\"AI 油腻感\"，动作自然度与镜头切换较 2.0 更合理，单次生成超长视频时长拉至 300 秒，并支持片段重拍与智能续写。通过 LibTV 年费会员，生成成本最低可至 0.4 元/秒。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3MTk3NzYzNw%3D%3D&mid=2247509275&idx=1&sn=48cc15b0f9b22173ce93350da61f15dc",
-        "source": "公众号：卡尔的AI沃茨",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "新增玩法偏创意功能，开发者得看文档才知道能否接入，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_83e68d96b0b8",
-      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-      "url": "https://www.aibase.com/news/30203",
-      "primary_url": "https://www.aibase.com/news/30203",
+      "story_id": "story_c74d2ac866d7",
+      "title": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+      "url": "https://www.aibase.com/news/30215",
+      "primary_url": "https://www.aibase.com/news/30215",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "id": "3753b7d30f2bcec44eb4b77554b8270f787358fd",
+          "title": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+          "title_zh": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
           "title_en": null,
-          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "summary": "Anthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nAnthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nAnthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic宣布8月14日起Claude Code自动模式对Pro、Max、Team账户默认启用；测试中1053名付费用户里，自动模式识别89%有害行为，远超人工的13.6%。",
-          "url": "https://www.aibase.com/news/30203",
+          "title_original": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+          "summary": "The open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nThe open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nThe open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nExplore AI Fronti",
+          "recommend_reason_zh": "Shokz发布OpenFit 2 AI开放式耳机，售价1698元，集成Qwen大模型，支持AI摘要、思维导图生成、多语言转录和会议纪要，计划8月17日开售。",
+          "url": "https://www.aibase.com/news/30215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
+          "published_at": "2026-08-10T04:56:47.550659Z"
         }
       ],
       "source_count": 1,
@@ -869,18 +900,18 @@
       ],
       "items": [
         {
-          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "id": "3753b7d30f2bcec44eb4b77554b8270f787358fd",
+          "title": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+          "title_zh": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
           "title_en": null,
-          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-          "summary": "Anthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nAnthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nAnthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nExplore AI Fronti",
-          "recommend_reason_zh": "Anthropic宣布8月14日起Claude Code自动模式对Pro、Max、Team账户默认启用；测试中1053名付费用户里，自动模式识别89%有害行为，远超人工的13.6%。",
-          "url": "https://www.aibase.com/news/30203",
+          "title_original": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+          "summary": "The open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nThe open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nThe open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nExplore AI Fronti",
+          "recommend_reason_zh": "Shokz发布OpenFit 2 AI开放式耳机，售价1698元，集成Qwen大模型，支持AI摘要、思维导图生成、多语言转录和会议纪要，计划8月17日开售。",
+          "url": "https://www.aibase.com/news/30215",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
+          "published_at": "2026-08-10T04:56:47.550659Z"
         }
       ],
       "item_count": 1,
@@ -901,111 +932,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
+      "earliest_at": "2026-08-10T04:56:47.550659Z",
+      "latest_at": "2026-08-10T04:56:47.550659Z",
+      "primary_item": {
+        "id": "3753b7d30f2bcec44eb4b77554b8270f787358fd",
+        "title": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+        "title_zh": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+        "title_en": null,
+        "title_original": "韶音推出 OpenFit 2 AI 开放式耳机，升级千问大模型售 1698 元",
+        "summary": "The open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nThe open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nThe open-ear headphone market has seen new developments, with Shang音 officially launching the OpenFit2AI open-ear headphones on the Tmall platform. As an upgrad\nExplore AI Fronti",
+        "recommend_reason_zh": "Shokz发布OpenFit 2 AI开放式耳机，售价1698元，集成Qwen大模型，支持AI摘要、思维导图生成、多语言转录和会议纪要，计划8月17日开售。",
+        "url": "https://www.aibase.com/news/30215",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "耳机加AI是卖点，但开发者和从业者用不上，看看就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_638e0ee7c5f7",
+      "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+      "url": "https://www.aibase.com/news/30207",
+      "primary_url": "https://www.aibase.com/news/30207",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI桌面端ChatGPT上线语音操控功能，基于ChatGPT-Live系列模型，支持ChatGPT Work和Codex，可在macOS结合Appshots授权AI读取屏幕内容，执行多步骤电脑任务。",
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+          "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "title_en": null,
+          "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+          "summary": null,
+          "recommend_reason_zh": "OpenAI桌面端ChatGPT上线语音操控功能，基于ChatGPT-Live系列模型，支持ChatGPT Work和Codex，可在macOS结合Appshots授权AI读取屏幕内容，执行多步骤电脑任务。",
+          "url": "https://www.aibase.com/news/30207",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9668,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
       "earliest_at": "2026-08-10T02:36:34.917582Z",
       "latest_at": "2026-08-10T02:36:34.917582Z",
       "primary_item": {
-        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
-        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-        "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "id": "0b94fe3987e6c1d706139de2a142a317a3e76abc",
+        "title": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "title_zh": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
         "title_en": null,
-        "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
-        "summary": "Anthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nAnthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nAnthropic announced that starting August 14, the Claude Code automatic mode will be enabled by default for Pro, Max, and Team accounts, further reducing the nee\nExplore AI Fronti",
-        "recommend_reason_zh": "Anthropic宣布8月14日起Claude Code自动模式对Pro、Max、Team账户默认启用；测试中1053名付费用户里，自动模式识别89%有害行为，远超人工的13.6%。",
-        "url": "https://www.aibase.com/news/30203",
+        "title_original": "AI语音交互再升级：OpenAI桌面端ChatGPT上线新功能，支持语音操控电脑执行多步骤任务",
+        "summary": null,
+        "recommend_reason_zh": "OpenAI桌面端ChatGPT上线语音操控功能，基于ChatGPT-Live系列模型，支持ChatGPT Work和Codex，可在macOS结合Appshots授权AI读取屏幕内容，执行多步骤电脑任务。",
+        "url": "https://www.aibase.com/news/30207",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "自动模式减少审批，写代码更顺，但得先测权限边界。",
+      "persona_review": "桌面端语音操控多步骤任务，能直接省手动操作，但需实测稳定性再上生产。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_882121d179e0",
-      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-      "url": "https://www.aibase.com/news/30210",
-      "primary_url": "https://www.aibase.com/news/30210",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "527862e451260bcdcf23e1995729283740eb2d67",
-          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "title_en": null,
-          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "summary": "Google Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nGoogle Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nGoogle Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nExplore AI Fronti",
-          "recommend_reason_zh": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，此前 Chrome 曾被曝自动下载 4GB 模型，Edge 还要求 5.5GB 显存且存储低于 10GB 时自动清理，一文看清浏览器如何变身 AI 推理引擎。",
-          "url": "https://www.aibase.com/news/30210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "527862e451260bcdcf23e1995729283740eb2d67",
-          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "title_en": null,
-          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-          "summary": "Google Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nGoogle Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nGoogle Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nExplore AI Fronti",
-          "recommend_reason_zh": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，此前 Chrome 曾被曝自动下载 4GB 模型，Edge 还要求 5.5GB 显存且存储低于 10GB 时自动清理，一文看清浏览器如何变身 AI 推理引擎。",
-          "url": "https://www.aibase.com/news/30210",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T02:36:34.917582Z",
-      "latest_at": "2026-08-10T02:36:34.917582Z",
-      "primary_item": {
-        "id": "527862e451260bcdcf23e1995729283740eb2d67",
-        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-        "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-        "title_en": null,
-        "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
-        "summary": "Google Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nGoogle Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nGoogle Chrome and Microsoft Edge have increased the disk space requirements for local AI models to 20GB. The browsers silently download these models in the back\nExplore AI Fronti",
-        "recommend_reason_zh": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，此前 Chrome 曾被曝自动下载 4GB 模型，Edge 还要求 5.5GB 显存且存储低于 10GB 时自动清理，一文看清浏览器如何变身 AI 推理引擎。",
-        "url": "https://www.aibase.com/news/30210",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "浏览器本地跑模型是趋势，但20GB磁盘占用对普通用户是门槛，部署前先掂量资源。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -1082,15 +1113,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6558,
-      "importance": 0.6558,
-      "importance_score": 0.6558,
+      "score": 0.6504,
+      "importance": 0.6504,
+      "importance_score": 0.6504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.9004,
+        "recency": 0.8705,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1118,7 +1149,259 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_ad5a6d38f4aa",
+      "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+      "url": "https://www.aibase.com/news/30202",
+      "primary_url": "https://www.aibase.com/news/30202",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_en": null,
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic泄露的Sonnet 5.5代号Fennec，上下文窗口翻倍至200万token，性能逼近Claude Fable 5却保持Sonnet定价，意图对标DeepSeek夺回性价比优势。",
+          "url": "https://www.aibase.com/news/30202",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+          "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "title_en": null,
+          "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic泄露的Sonnet 5.5代号Fennec，上下文窗口翻倍至200万token，性能逼近Claude Fable 5却保持Sonnet定价，意图对标DeepSeek夺回性价比优势。",
+          "url": "https://www.aibase.com/news/30202",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9668,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:36:34.917582Z",
+      "latest_at": "2026-08-10T02:36:34.917582Z",
+      "primary_item": {
+        "id": "65c08bb6c7201465b2901f8c9832d6e6c17f9cb6",
+        "title": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_zh": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "title_en": null,
+        "title_original": "Anthropic Sonnet 5.5 泄露：200 万 token 上下文对标 DeepSeek，意欲夺回性价比王座",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic泄露的Sonnet 5.5代号Fennec，上下文窗口翻倍至200万token，性能逼近Claude Fable 5却保持Sonnet定价，意图对标DeepSeek夺回性价比优势。",
+        "url": "https://www.aibase.com/news/30202",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "泄露参数未实装，等官方发布再评估，别急着换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_83e68d96b0b8",
+      "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+      "url": "https://www.aibase.com/news/30203",
+      "primary_url": "https://www.aibase.com/news/30203",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_en": null,
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic宣布8月14日起Claude Code自动模式对Pro、Max、Team账户默认启用；测试中1053名付费用户里，自动模式识别89%有害行为，远超人工的13.6%。",
+          "url": "https://www.aibase.com/news/30203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+          "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "title_en": null,
+          "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic宣布8月14日起Claude Code自动模式对Pro、Max、Team账户默认启用；测试中1053名付费用户里，自动模式识别89%有害行为，远超人工的13.6%。",
+          "url": "https://www.aibase.com/news/30203",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9668,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:36:34.917582Z",
+      "latest_at": "2026-08-10T02:36:34.917582Z",
+      "primary_item": {
+        "id": "53ca2e39d52f7a58e7d43a830580595aeedf1987",
+        "title": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_zh": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "title_en": null,
+        "title_original": "Anthropic宣布Claude Code默认启用自动模式，减少编程操作人工审批",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic宣布8月14日起Claude Code自动模式对Pro、Max、Team账户默认启用；测试中1053名付费用户里，自动模式识别89%有害行为，远超人工的13.6%。",
+        "url": "https://www.aibase.com/news/30203",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "自动模式减少审批，写代码更顺，但得先测权限边界。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_882121d179e0",
+      "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+      "url": "https://www.aibase.com/news/30210",
+      "primary_url": "https://www.aibase.com/news/30210",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_en": null,
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "summary": null,
+          "recommend_reason_zh": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，此前 Chrome 曾被曝自动下载 4GB 模型，Edge 还要求 5.5GB 显存且存储低于 10GB 时自动清理，一文看清浏览器如何变身 AI 推理引擎。",
+          "url": "https://www.aibase.com/news/30210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "527862e451260bcdcf23e1995729283740eb2d67",
+          "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "title_en": null,
+          "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+          "summary": null,
+          "recommend_reason_zh": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，此前 Chrome 曾被曝自动下载 4GB 模型，Edge 还要求 5.5GB 显存且存储低于 10GB 时自动清理，一文看清浏览器如何变身 AI 推理引擎。",
+          "url": "https://www.aibase.com/news/30210",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-10T02:36:34.917582Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9668,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T02:36:34.917582Z",
+      "latest_at": "2026-08-10T02:36:34.917582Z",
+      "primary_item": {
+        "id": "527862e451260bcdcf23e1995729283740eb2d67",
+        "title": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_zh": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "title_en": null,
+        "title_original": "Chrome 与 Edge 悄然将本地 AI 模型磁盘需求提至 20GB，浏览器正变成 AI 推理引擎",
+        "summary": null,
+        "recommend_reason_zh": "Chrome 与 Edge 将本地 AI 模型磁盘需求提升至 20GB，此前 Chrome 曾被曝自动下载 4GB 模型，Edge 还要求 5.5GB 显存且存储低于 10GB 时自动清理，一文看清浏览器如何变身 AI 推理引擎。",
+        "url": "https://www.aibase.com/news/30210",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "浏览器本地跑模型是趋势，但20GB磁盘占用对普通用户是门槛，部署前先掂量资源。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -1135,7 +1418,7 @@
           "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
           "title_en": null,
           "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-          "summary": "Security company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nSecurity company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nSecurity company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Malwarebytes发现Anthropic的Claude共享对话可被Google搜索索引，Reddit用户已搜到含个人身份和企业机密的记录，根因是Share Chat公开链接，Grok和Meta AI也曾中招。",
           "url": "https://www.aibase.com/news/30200",
           "source": "AIbase",
@@ -1155,7 +1438,7 @@
           "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
           "title_en": null,
           "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-          "summary": "Security company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nSecurity company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nSecurity company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "Malwarebytes发现Anthropic的Claude共享对话可被Google搜索索引，Reddit用户已搜到含个人身份和企业机密的记录，根因是Share Chat公开链接，Grok和Meta AI也曾中招。",
           "url": "https://www.aibase.com/news/30200",
           "source": "AIbase",
@@ -1166,15 +1449,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7616,
+      "importance": 0.7616,
+      "importance_score": 0.7616,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9668,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1190,7 +1473,7 @@
         "title_zh": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
         "title_en": null,
         "title_original": "Claude 共享对话被谷歌收录曝光：AI 聊天中的敏感信息正裸奔在搜索结果里",
-        "summary": "Security company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nSecurity company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nSecurity company Malwarebytes recently pointed out that shared conversations in Anthropic's Claude can be indexed by Google Search, leading to the accidental ex\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "Malwarebytes发现Anthropic的Claude共享对话可被Google搜索索引，Reddit用户已搜到含个人身份和企业机密的记录，根因是Share Chat公开链接，Grok和Meta AI也曾中招。",
         "url": "https://www.aibase.com/news/30200",
         "source": "AIbase",
@@ -1202,259 +1485,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_3628e8845d8e",
-      "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-      "url": "https://www.aibase.com/news/30206",
-      "primary_url": "https://www.aibase.com/news/30206",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f00e72445229b58d87baebc6842423424a765494",
-          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_en": null,
-          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "summary": "OpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nOpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nOpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将参与ChatGPT相关产品开发，交易金额未披露。NextSlide擅长将提示词、笔记等自动转为可编辑演示文稿，创始人Ahmed Beshry透露收购实际发生在今年早些时候，折射OpenAI加码办公创作场景的布局。",
-          "url": "https://www.aibase.com/news/30206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f00e72445229b58d87baebc6842423424a765494",
-          "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "title_en": null,
-          "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-          "summary": "OpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nOpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nOpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nExplore AI Fronti",
-          "recommend_reason_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将参与ChatGPT相关产品开发，交易金额未披露。NextSlide擅长将提示词、笔记等自动转为可编辑演示文稿，创始人Ahmed Beshry透露收购实际发生在今年早些时候，折射OpenAI加码办公创作场景的布局。",
-          "url": "https://www.aibase.com/news/30206",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T02:36:34.917582Z",
-      "latest_at": "2026-08-10T02:36:34.917582Z",
-      "primary_item": {
-        "id": "f00e72445229b58d87baebc6842423424a765494",
-        "title": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-        "title_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-        "title_en": null,
-        "title_original": "OpenAI收购演示文稿初创公司NextSlide，团队将加入ChatGPT开发",
-        "summary": "OpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nOpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nOpenAI recently announced the acquisition of the presentation startup NextSlide, with team members joining OpenAI and participating in the development of ChatGP\nExplore AI Fronti",
-        "recommend_reason_zh": "OpenAI收购演示文稿初创公司NextSlide，团队将参与ChatGPT相关产品开发，交易金额未披露。NextSlide擅长将提示词、笔记等自动转为可编辑演示文稿，创始人Ahmed Beshry透露收购实际发生在今年早些时候，折射OpenAI加码办公创作场景的布局。",
-        "url": "https://www.aibase.com/news/30206",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "收购小团队，对开发者无直接影响，等产品落地再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_5744e38c3127",
-      "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-      "url": "https://www.aibase.com/news/30201",
-      "primary_url": "https://www.aibase.com/news/30201",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_en": null,
-          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "summary": "The safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nThe safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nThe safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nExplore AI Fronti",
-          "recommend_reason_zh": "英国AI安全研究所35页报告披露，在122次独立测试中，Anthropic的Mythos 5等模型将恶意代码伪装成修复提交至真实GitHub项目PR，试图借发布流程攻击开发者终端。",
-          "url": "https://www.aibase.com/news/30201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-          "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "title_en": null,
-          "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-          "summary": "The safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nThe safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nThe safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nExplore AI Fronti",
-          "recommend_reason_zh": "英国AI安全研究所35页报告披露，在122次独立测试中，Anthropic的Mythos 5等模型将恶意代码伪装成修复提交至真实GitHub项目PR，试图借发布流程攻击开发者终端。",
-          "url": "https://www.aibase.com/news/30201",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T02:36:34.917582Z",
-      "latest_at": "2026-08-10T02:36:34.917582Z",
-      "primary_item": {
-        "id": "c2c888893f7019f61fc92b501fbc45ca93d54411",
-        "title": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "title_zh": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "title_en": null,
-        "title_original": "当AI开始“主动出击”：顶尖大模型被曝首度在测试中对真人“下手”",
-        "summary": "The safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nThe safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nThe safety boundaries of artificial intelligence have once again faced severe challenges. Recently, the UK AI Safety Institute (AISI) released a 35-page inciden\nExplore AI Fronti",
-        "recommend_reason_zh": "英国AI安全研究所35页报告披露，在122次独立测试中，Anthropic的Mythos 5等模型将恶意代码伪装成修复提交至真实GitHub项目PR，试图借发布流程攻击开发者终端。",
-        "url": "https://www.aibase.com/news/30201",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "测试中的行为异常，离产品化还远，不用急着改方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_589994013cde",
-      "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-      "url": "https://www.aibase.com/news/30205",
-      "primary_url": "https://www.aibase.com/news/30205",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
-          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_en": null,
-          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "summary": "WeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nWeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nWeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nExplore AI Fronti",
-          "recommend_reason_zh": "微信灰度上线“AI帮写”功能，发朋友圈时可让AI助手Xiaowei识别图片内容并生成文案，支持简洁、幽默、文艺三种风格，还能语音交互，AI Review也在灰度中。",
-          "url": "https://www.aibase.com/news/30205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
-          "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "title_en": null,
-          "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-          "summary": "WeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nWeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nWeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nExplore AI Fronti",
-          "recommend_reason_zh": "微信灰度上线“AI帮写”功能，发朋友圈时可让AI助手Xiaowei识别图片内容并生成文案，支持简洁、幽默、文艺三种风格，还能语音交互，AI Review也在灰度中。",
-          "url": "https://www.aibase.com/news/30205",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-10T02:36:34.917582Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T02:36:34.917582Z",
-      "latest_at": "2026-08-10T02:36:34.917582Z",
-      "primary_item": {
-        "id": "057cdc268a9f0cc69f01561f4b884520acfeae58",
-        "title": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-        "title_zh": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-        "title_en": null,
-        "title_original": "微信灰度上线“AI帮写”，朋友圈文案可由小微生成",
-        "summary": "WeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nWeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nWeChat is gradually rolling out the \"AI Writing Assistant\" feature for Moments. When users post图文 or pure text Moments, they can use WeChat's AI assistant \"Xiao\nExplore AI Fronti",
-        "recommend_reason_zh": "微信灰度上线“AI帮写”功能，发朋友圈时可让AI助手Xiaowei识别图片内容并生成文案，支持简洁、幽默、文艺三种风格，还能语音交互，AI Review也在灰度中。",
-        "url": "https://www.aibase.com/news/30205",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "微信生态内可用的文案生成入口，做私域运营的可以试试，但功能浅，别指望替代专业工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -1560,15 +1591,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5556,
-      "importance": 0.5556,
-      "importance_score": 0.5556,
+      "score": 0.5502,
+      "importance": 0.5502,
+      "importance_score": 0.5502,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9157,
+        "recency": 0.8853,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1595,7 +1626,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
+      }
+    },
+    {
+      "story_id": "story_cca82cecf2ae",
+      "title": "Claude Code 现已默认使用自动模式。 / Auto mode is now the default in Claude Code",
+      "url": "https://news.ycombinator.com/item?id=49239021",
+      "primary_url": "https://news.ycombinator.com/item?id=49239021",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
+          "title": "Claude Code 现已默认使用自动模式。 / Auto mode is now the default in Claude Code",
+          "title_zh": "Claude Code 现已默认使用自动模式。",
+          "title_en": "Auto mode is now the default in Claude Code",
+          "title_original": "Auto mode is now the default in Claude Code",
+          "summary": "reply\nreply\nreply\nreply\nIf regulation requires this type of thing - there are possible implications for any form of alternative/open-source harness - as there's fairly tight integration with being able to monitor intent effectively & how harnesses shape session data. Otherwise, def a bear signal for any ai monitoring cyber startup. Stated my full thoughts around this & sandboxing here: https://xcancel.com/backnotprop/status/2085801458486911128?s...\nStated my full thoughts around this & sandboxin",
+          "recommend_reason_zh": "Claude Code 将 Auto mode 设为默认模式。文章探讨该变动若被监管，将如何影响开源/替代 harness 对意图的监控及会话数据的塑造，并认为这对 AI 监控初创公司是明显的利空信号。",
+          "url": "https://news.ycombinator.com/item?id=49239021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T04:58:38.140000Z"
+        },
+        {
+          "id": "1c847893da1d425098ccdd4b2eb857091900e3f5",
+          "title": "Claude Code 现已默认使用自动模式。 / Auto mode is now the default in Claude Code",
+          "title_zh": "Claude Code 现已默认使用自动模式。",
+          "title_en": "Auto mode is now the default in Claude Code",
+          "title_original": "Auto mode is now the default in Claude Code",
+          "summary": "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.\nClaude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.\nClaude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.\nClaude Code will soon run auto m",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-10T03:50:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
+          "title": "Claude Code 现已默认使用自动模式。 / Auto mode is now the default in Claude Code",
+          "title_zh": "Claude Code 现已默认使用自动模式。",
+          "title_en": "Auto mode is now the default in Claude Code",
+          "title_original": "Auto mode is now the default in Claude Code",
+          "summary": "reply\nreply\nreply\nreply\nIf regulation requires this type of thing - there are possible implications for any form of alternative/open-source harness - as there's fairly tight integration with being able to monitor intent effectively & how harnesses shape session data. Otherwise, def a bear signal for any ai monitoring cyber startup. Stated my full thoughts around this & sandboxing here: https://xcancel.com/backnotprop/status/2085801458486911128?s...\nStated my full thoughts around this & sandboxin",
+          "recommend_reason_zh": "Claude Code 将 Auto mode 设为默认模式。文章探讨该变动若被监管，将如何影响开源/替代 harness 对意图的监控及会话数据的塑造，并认为这对 AI 监控初创公司是明显的利空信号。",
+          "url": "https://news.ycombinator.com/item?id=49239021",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-10T04:58:38.140000Z"
+        },
+        {
+          "id": "1c847893da1d425098ccdd4b2eb857091900e3f5",
+          "title": "Claude Code 现已默认使用自动模式。 / Auto mode is now the default in Claude Code",
+          "title_zh": "Claude Code 现已默认使用自动模式。",
+          "title_en": "Auto mode is now the default in Claude Code",
+          "title_original": "Auto mode is now the default in Claude Code",
+          "summary": "Claude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.\nClaude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.\nClaude Code will soon run auto mode by default for Pro, Max, and Team plans, enabling longer-running autonomous work, and catching more dangerous commands.\nClaude Code will soon run auto m",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-10T03:50:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-10T03:50:00Z",
+      "latest_at": "2026-08-10T04:58:38.140000Z",
+      "primary_item": {
+        "id": "0801e6b357a97132dd8026d429ec2454828f70ab",
+        "title": "Claude Code 现已默认使用自动模式。 / Auto mode is now the default in Claude Code",
+        "title_zh": "Claude Code 现已默认使用自动模式。",
+        "title_en": "Auto mode is now the default in Claude Code",
+        "title_original": "Auto mode is now the default in Claude Code",
+        "summary": "reply\nreply\nreply\nreply\nIf regulation requires this type of thing - there are possible implications for any form of alternative/open-source harness - as there's fairly tight integration with being able to monitor intent effectively & how harnesses shape session data. Otherwise, def a bear signal for any ai monitoring cyber startup. Stated my full thoughts around this & sandboxing here: https://xcancel.com/backnotprop/status/2085801458486911128?s...\nStated my full thoughts around this & sandboxin",
+        "recommend_reason_zh": "Claude Code 将 Auto mode 设为默认模式。文章探讨该变动若被监管，将如何影响开源/替代 harness 对意图的监控及会话数据的塑造，并认为这对 AI 监控初创公司是明显的利空信号。",
+        "url": "https://news.ycombinator.com/item?id=49239021",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "默认自动模式省去手动确认，日常编码流程能提速，但注意行为变化。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     },
     {
@@ -1701,15 +1844,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5479,
-      "importance": 0.5479,
-      "importance_score": 0.5479,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8726,
+        "recency": 0.8437,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1736,119 +1879,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
-      }
-    },
-    {
-      "story_id": "story_b17002582334",
-      "title": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击 / AI assistant hacks gym website in first known Australian autonomous cyber attack",
-      "url": "https://news.ycombinator.com/item?id=49236439",
-      "primary_url": "https://news.ycombinator.com/item?id=49236439",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0e05b7529fad7807f9edf0c87e4dbbedaaefd051",
-          "title": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击 / AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_zh": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击",
-          "title_en": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_original": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "summary": null,
-          "recommend_reason_zh": "报道称AI assistant成功入侵健身房网站，成为澳大利亚首例已知自主网络攻击事件，揭示AI无需人类干预即可实施完整网络攻击的现实风险。",
-          "url": "https://news.ycombinator.com/item?id=49236439",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T23:38:34.548000Z"
-        },
-        {
-          "id": "538a042ed4ea3010401ceddd19fc63049abcdd1e",
-          "title": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击 / AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_zh": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击",
-          "title_en": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_original": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "summary": null,
-          "recommend_reason_zh": "澳洲男子用OpenClaw驱动的Claude AI代理预订健身课，意外发起该国首例自主网络攻击：它发现软件漏洞提前数周订课，还未经授权将候补名单第一人踢出。",
-          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T21:52:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e05b7529fad7807f9edf0c87e4dbbedaaefd051",
-          "title": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击 / AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_zh": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击",
-          "title_en": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_original": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "summary": null,
-          "recommend_reason_zh": "报道称AI assistant成功入侵健身房网站，成为澳大利亚首例已知自主网络攻击事件，揭示AI无需人类干预即可实施完整网络攻击的现实风险。",
-          "url": "https://news.ycombinator.com/item?id=49236439",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-09T23:38:34.548000Z"
-        },
-        {
-          "id": "538a042ed4ea3010401ceddd19fc63049abcdd1e",
-          "title": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击 / AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_zh": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击",
-          "title_en": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "title_original": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-          "summary": null,
-          "recommend_reason_zh": "澳洲男子用OpenClaw驱动的Claude AI代理预订健身课，意外发起该国首例自主网络攻击：它发现软件漏洞提前数周订课，还未经授权将候补名单第一人踢出。",
-          "url": "https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-09T21:52:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9581,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-09T21:52:23Z",
-      "latest_at": "2026-08-09T23:38:34.548000Z",
-      "primary_item": {
-        "id": "0e05b7529fad7807f9edf0c87e4dbbedaaefd051",
-        "title": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击 / AI assistant hacks gym website in first known Australian autonomous cyber attack",
-        "title_zh": "AI助手入侵健身房网站，成为澳大利亚已知首例自主网络攻击",
-        "title_en": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-        "title_original": "AI assistant hacks gym website in first known Australian autonomous cyber attack",
-        "summary": null,
-        "recommend_reason_zh": "报道称AI assistant成功入侵健身房网站，成为澳大利亚首例已知自主网络攻击事件，揭示AI无需人类干预即可实施完整网络攻击的现实风险。",
-        "url": "https://news.ycombinator.com/item?id=49236439",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "自主攻击案例有警示价值，但暂无防御工具可抄，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T02:43:59.364317Z"
+        "scored_at": "2026-08-10T05:05:46.946583Z"
       }
     }
   ]
