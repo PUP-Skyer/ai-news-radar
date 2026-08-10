@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T19:19:03.179958Z",
+  "generated_at": "2026-08-10T21:04:00.814076Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -45,7 +45,7 @@
           "title_zh": "就负责任AI基础设施致得州州长Abbott的信",
           "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.\nOpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.\nOpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable",
+          "summary": null,
           "recommend_reason_zh": "OpenAI致信德州州长Greg Abbott，承诺负责任AI基础设施建设，将与州地方领袖、公用事业及社区合作，确保可靠透明发展，惠及德州民众。",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
           "source": "Hacker News (黑客新闻)",
@@ -110,7 +110,7 @@
           "title_zh": "就负责任AI基础设施致得州州长Abbott的信",
           "title_en": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
           "title_original": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
-          "summary": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.\nOpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.\nOpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable",
+          "summary": null,
           "recommend_reason_zh": "OpenAI致信德州州长Greg Abbott，承诺负责任AI基础设施建设，将与州地方领袖、公用事业及社区合作，确保可靠透明发展，惠及德州民众。",
           "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
           "source": "Hacker News (黑客新闻)",
@@ -135,15 +135,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9137,
-      "importance": 0.9137,
-      "importance_score": 0.9137,
+      "score": 0.9095,
+      "importance": 0.9095,
+      "importance_score": 0.9095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9261,
+        "recency": 0.903,
         "story_heat": 0.75
       },
       "category": "official",
@@ -173,7 +173,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -221,15 +221,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8526,
-      "importance": 0.8526,
-      "importance_score": 0.8526,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9591,
+        "recency": 0.9352,
         "story_heat": 0.0
       },
       "category": "official",
@@ -258,7 +258,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
+      }
+    },
+    {
+      "story_id": "story_f612b5d58d1d",
+      "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+          "title_en": "Using the GitHub Copilot SDK for Java",
+          "title_original": "Using the GitHub Copilot SDK for Java",
+          "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nEnterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nEnterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nJava developers no longer have to rely on Java framework-specific approaches to ",
+          "recommend_reason_zh": "GitHub Copilot SDK for Java首次实现框架无关的Java AI编程，支持BYOK与虚拟线程，示例应用展示Jakarta EE 11下并发处理房产询价的实时代理管道。",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+          "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+          "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+          "title_en": "Using the GitHub Copilot SDK for Java",
+          "title_original": "Using the GitHub Copilot SDK for Java",
+          "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nEnterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nEnterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nJava developers no longer have to rely on Java framework-specific approaches to ",
+          "recommend_reason_zh": "GitHub Copilot SDK for Java首次实现框架无关的Java AI编程，支持BYOK与虚拟线程，示例应用展示Jakarta EE 11下并发处理房产询价的实时代理管道。",
+          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-10T19:30:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.848,
+      "importance": 0.848,
+      "importance_score": 0.848,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9776,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-10T19:30:00Z",
+      "latest_at": "2026-08-10T19:30:00Z",
+      "primary_item": {
+        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
+        "title": "使用适用于 Java 的 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+        "title_zh": "使用适用于 Java 的 GitHub Copilot SDK",
+        "title_en": "Using the GitHub Copilot SDK for Java",
+        "title_original": "Using the GitHub Copilot SDK for Java",
+        "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nEnterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nEnterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more.\nJava developers no longer have to rely on Java framework-specific approaches to ",
+        "recommend_reason_zh": "GitHub Copilot SDK for Java首次实现框架无关的Java AI编程，支持BYOK与虚拟线程，示例应用展示Jakarta EE 11下并发处理房产询价的实时代理管道。",
+        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "Java 开发者可集成 Copilot 能力，今天能动手试，但需看文档评估成本。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -306,15 +391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9321,
+        "recency": 0.9089,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,7 +428,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -391,15 +476,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9328,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,7 +513,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -563,15 +648,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8294,
-      "importance": 0.8294,
-      "importance_score": 0.8294,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.9037,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -600,7 +685,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -648,15 +733,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8222,
-      "importance": 0.8222,
-      "importance_score": 0.8222,
+      "score": 0.8188,
+      "importance": 0.8188,
+      "importance_score": 0.8188,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7566,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "official",
@@ -685,7 +770,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -733,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8417,
+      "importance": 0.8417,
+      "importance_score": 0.8417,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9671,
+        "recency": 0.943,
         "story_heat": 0.0
       },
       "category": "official",
@@ -770,7 +855,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -818,15 +903,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8336,
+      "importance": 0.8336,
+      "importance_score": 0.8336,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8753,
+        "recency": 0.8535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -855,7 +940,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -872,7 +957,7 @@
           "title_zh": "GitHub 印度账单现支持自动循环付款",
           "title_en": "GitHub billing in India now supports automatic recurring payments",
           "title_original": "GitHub billing in India now supports automatic recurring payments",
-          "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the…\nCustomers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills.\nThis update uses a payment mandate, also known in the payments industry as an electronic mandate, to authorize future charges in line with Reserve Bank of India requirements. This helps red",
+          "summary": null,
           "recommend_reason_zh": "GitHub在印度推出信用卡自动循环支付，覆盖月度与年度账单，通过电子授权令符合Reserve Bank of India要求，减少每期手动支付步骤，支付方式管理方式保持不变。",
           "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
           "source": "GitHub Changelog",
@@ -892,7 +977,7 @@
           "title_zh": "GitHub 印度账单现支持自动循环付款",
           "title_en": "GitHub billing in India now supports automatic recurring payments",
           "title_original": "GitHub billing in India now supports automatic recurring payments",
-          "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the…\nCustomers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills.\nThis update uses a payment mandate, also known in the payments industry as an electronic mandate, to authorize future charges in line with Reserve Bank of India requirements. This helps red",
+          "summary": null,
           "recommend_reason_zh": "GitHub在印度推出信用卡自动循环支付，覆盖月度与年度账单，通过电子授权令符合Reserve Bank of India要求，减少每期手动支付步骤，支付方式管理方式保持不变。",
           "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
           "source": "GitHub Changelog",
@@ -903,15 +988,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8307,
-      "importance": 0.8307,
-      "importance_score": 0.8307,
+      "score": 0.8266,
+      "importance": 0.8266,
+      "importance_score": 0.8266,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9263,
+        "recency": 0.9032,
         "story_heat": 0.0
       },
       "category": "official",
@@ -928,7 +1013,7 @@
         "title_zh": "GitHub 印度账单现支持自动循环付款",
         "title_en": "GitHub billing in India now supports automatic recurring payments",
         "title_original": "GitHub billing in India now supports automatic recurring payments",
-        "summary": "Customers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills. This update uses a payment mandate, also known in the…\nCustomers in India can now use eligible saved credit cards for automatic recurring payments on monthly and annual GitHub bills.\nThis update uses a payment mandate, also known in the payments industry as an electronic mandate, to authorize future charges in line with Reserve Bank of India requirements. This helps red",
+        "summary": null,
         "recommend_reason_zh": "GitHub在印度推出信用卡自动循环支付，覆盖月度与年度账单，通过电子授权令符合Reserve Bank of India要求，减少每期手动支付步骤，支付方式管理方式保持不变。",
         "url": "https://github.blog/changelog/2026-08-10-github-billing-in-india-now-supports-automatic-recurring-payments",
         "source": "GitHub Changelog",
@@ -940,7 +1025,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -988,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7985,
-      "importance": 0.7985,
-      "importance_score": 0.7985,
+      "score": 0.7943,
+      "importance": 0.7943,
+      "importance_score": 0.7943,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.9292,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1024,7 +1109,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1072,15 +1157,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8419,
-      "importance": 0.8419,
-      "importance_score": 0.8419,
+      "score": 0.8379,
+      "importance": 0.8379,
+      "importance_score": 0.8379,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8997,
+        "recency": 0.8773,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1109,7 +1194,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1157,15 +1242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8277,
-      "importance": 0.8277,
-      "importance_score": 0.8277,
+      "score": 0.8237,
+      "importance": 0.8237,
+      "importance_score": 0.8237,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9097,
+        "recency": 0.887,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1194,7 +1279,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1242,15 +1327,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.8537,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1278,7 +1363,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1355,15 +1440,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7563,
+        "recency": 0.7374,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1392,7 +1477,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1440,15 +1525,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8162,
-      "importance": 0.8162,
-      "importance_score": 0.8162,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7566,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1477,7 +1562,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1525,15 +1610,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7543,
-      "importance": 0.7543,
-      "importance_score": 0.7543,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9263,
+        "recency": 0.9032,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1561,7 +1646,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1609,15 +1694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8979,
+        "recency": 0.8755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1644,7 +1729,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1692,15 +1777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8821,
+        "recency": 0.8601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1727,7 +1812,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     },
     {
@@ -1744,7 +1829,7 @@
           "title_zh": "网络防御窗口收窄，Daybreak扩张正当时",
           "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
           "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security",
+          "summary": null,
           "recommend_reason_zh": "OpenAI推出安全专用模型GPT-5.6-Cyber，通过Daybreak Red开放高危漏洞研究，其高级网络任务完成率达95.0%，远超GPT-5.6 Sol的1.5%和GPT-5.5-Cyber的57.3%。",
           "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
           "source": "OpenAI News",
@@ -1764,7 +1849,7 @@
           "title_zh": "网络防御窗口收窄，Daybreak扩张正当时",
           "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
           "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security",
+          "summary": null,
           "recommend_reason_zh": "OpenAI推出安全专用模型GPT-5.6-Cyber，通过Daybreak Red开放高危漏洞研究，其高级网络任务完成率达95.0%，远超GPT-5.6 Sol的1.5%和GPT-5.5-Cyber的57.3%。",
           "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
           "source": "OpenAI News",
@@ -1775,15 +1860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8254,
+      "importance": 0.8254,
+      "importance_score": 0.8254,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8741,
+        "recency": 0.8523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1800,7 +1885,7 @@
         "title_zh": "网络防御窗口收窄，Daybreak扩张正当时",
         "title_en": "Expanding Daybreak as the Cyber Defense Window Narrows",
         "title_original": "Expanding Daybreak as the Cyber Defense Window Narrows",
-        "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.\nMeet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security",
+        "summary": null,
         "recommend_reason_zh": "OpenAI推出安全专用模型GPT-5.6-Cyber，通过Daybreak Red开放高危漏洞研究，其高级网络任务完成率达95.0%，远超GPT-5.6 Sol的1.5%和GPT-5.5-Cyber的57.3%。",
         "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
         "source": "OpenAI News",
@@ -1812,90 +1897,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
-      }
-    },
-    {
-      "story_id": "story_b21a5deb85d6",
-      "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-      "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-      "primary_url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-          "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-          "title_en": "Model Routing Powered by Wisdom of the Market",
-          "title_original": "Model Routing Powered by Wisdom of the Market",
-          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
-          "recommend_reason_zh": "OpenRouter新Auto路由器依据每周超55T token的市场消费数据，在MMLU Pro等基准上超越传统任务分类器，并支持cost_tier成本档位调节。",
-          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-          "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-          "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-          "title_en": "Model Routing Powered by Wisdom of the Market",
-          "title_original": "Model Routing Powered by Wisdom of the Market",
-          "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
-          "recommend_reason_zh": "OpenRouter新Auto路由器依据每周超55T token的市场消费数据，在MMLU Pro等基准上超越传统任务分类器，并支持cost_tier成本档位调节。",
-          "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-10T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7388,
-      "importance": 0.7388,
-      "importance_score": 0.7388,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7566,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-10T00:00:00Z",
-      "latest_at": "2026-08-10T00:00:00Z",
-      "primary_item": {
-        "id": "d9c8296ef28d97a78bffcf38683b6ea3c1fecdef",
-        "title": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器 / Model Routing Powered by Wisdom of the Market",
-        "title_zh": "OpenRouter 推出由市场智慧驱动的新版 Auto 路由器",
-        "title_en": "Model Routing Powered by Wisdom of the Market",
-        "title_original": "Model Routing Powered by Wisdom of the Market",
-        "summary": "OpenRouter 基于每周超 55T token 的社区消费数据，推出新版 Auto 路由器（openrouter/auto），其模型选择在多数任务和成本档位上优于旧版。新路由器按约 30 种任务类型匹配近 7 天社区实际消费的模型，支持 cost_tier 参数（low 至 max）并遵循账户隐私设置。在 MMLU Pro 等基准上，新默认档位在多数领域以更低成本达到旧版同等性能。",
-        "recommend_reason_zh": "OpenRouter新Auto路由器依据每周超55T token的市场消费数据，在MMLU Pro等基准上超越传统任务分类器，并支持cost_tier成本档位调节。",
-        "url": "https://openrouter.ai/blog/announcements/introducing-the-new-auto-router",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "路由选模型能省心省事，但效果得实测，别急着全切。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-10T19:33:56.930913Z"
+        "scored_at": "2026-08-10T21:23:26.390164Z"
       }
     }
   ]
