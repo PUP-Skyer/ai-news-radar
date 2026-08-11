@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T15:35:46.891400Z",
+  "generated_at": "2026-08-11T17:32:25.117792Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,50 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_b385166df3f8",
-      "title": "构建低延迟多语言语音Agent：NVIDIA Magpie TTS提供开放权重与完全部署控制 / Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
-      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "开放权重是亮点，但低延迟多语言得看实测，别光看宣传。"
-        },
-        "paper-police": {
-          "score": 72,
-          "review": "官方博客有细节和数字，但缺论文和代码链接，需等开源仓库验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "开放权重可自部署，低延迟多语言语音Agent今天就能落地，值得试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_fca31970616e",
-      "title": "Claude Code 自动模式默认开启原理 / We recently made auto mode the default in Claude Code， which means you no longer have to approve eve…",
-      "url": "https://x.com/ClaudeDevs/status/2086844755770757531",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "默认免审批是省事，但翻车时别怪用户没盯着。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅官方推文宣称默认开启，无技术细节或代码佐证，等文档和实测。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "自动模式默认开，少点确认直接跑，批量任务效率提升明显。"
-        }
-      }
-    },
-    {
       "story_id": "story_bdd68ac35b2d",
       "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
       "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "rank": 3,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +33,46 @@
         "pragmatic": {
           "score": 72,
           "review": "账单能按模型拆分了，对成本优化有用，但得等 API 更新。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f612b5d58d1d",
+      "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "官方SDK总算补上Java，但别急着吹，先看看文档坑多深。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节但无代码链接，等开源或复现再定论。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Java 项目能直接接 Copilot SDK，写插件或集成 IDE 的今天可试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f527ac6baab4",
+      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
+      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "名字带Lightning就敢叫加速，跑分挑了几个自家擅长的场景吧？"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "新模型能本地跑智能体，想省云成本的可以试，但先看硬件要求。"
         }
       }
     }
