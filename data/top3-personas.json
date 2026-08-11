@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T17:32:25.117792Z",
+  "generated_at": "2026-08-11T18:25:12.584240Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_f1aeb278b794",
+      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "数字是真的，但拿自家虚拟机对比裸机，这基线挑得可真贴心。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了数字但无论文代码，加速效果待第三方复现。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "macOS 虚拟机跑 LLM 提速明显，有 Apple Silicon 的今天就能照着配。"
+        }
+      }
+    },
+    {
       "story_id": "story_bdd68ac35b2d",
       "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
       "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_f612b5d58d1d",
       "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
       "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "Java 项目能直接接 Copilot SDK，写插件或集成 IDE 的今天可试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f527ac6baab4",
-      "title": "NVIDIA 推出 Nemotron 3.5 Lightning，加速本地智能体任务 / NVIDIA and Local AI Community Fuel Open Source Models and Intelligent Agents",
-      "url": "https://blogs.nvidia.com/blog/local-ai-open-source-models-agents-nemotron",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "名字带Lightning就敢叫加速，跑分挑了几个自家擅长的场景吧？"
-        },
-        "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称性能，无论文无代码无第三方评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "新模型能本地跑智能体，想省云成本的可以试，但先看硬件要求。"
         }
       }
     }
