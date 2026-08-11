@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:06:44.891873Z",
+  "generated_at": "2026-08-11T15:35:46.891400Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f612b5d58d1d",
-      "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
+      "story_id": "story_bdd68ac35b2d",
+      "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
+      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "官方SDK总算补上Java，但别急着吹，先看看文档坑多深。"
+          "review": "终于肯把token账本摊开，但也就比之前多列几行数字，别急着邀功。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无代码链接，等开源或复现再定论。"
+          "score": 35,
+          "review": "官方更新但无论文代码，仅使用报告细节，缺独立验证。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "Java 项目能直接接 Copilot SDK，写插件或集成 IDE 的今天可试。"
+          "review": "账单能按模型拆分了，对成本优化有用，但得等 API 更新。"
         }
       }
     }

@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_bc14d188634a|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "直接抄：Tag 减提示词 80%，工程 PR 提效 65%，今天就能用。",
-      "title_hash": "efe494b6",
-      "scored_at": "2026-07-21T14:28:57.987722Z"
-    },
-    "story_9e0727a388db|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "多任务统一模型有潜力，但未开源或开放API前，对开发者无实际用处。",
-      "title_hash": "565de666",
-      "scored_at": "2026-07-21T14:28:59.176295Z"
-    },
-    "story_167a1baccc90|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "短片不能当工具用，等API开放或开源再说。",
-      "title_hash": "df88c5cd",
-      "scored_at": "2026-07-21T14:29:00.554969Z"
-    },
-    "story_bc14d188634a|cynic|f4237a62": {
-      "score": 72,
-      "review": "65% PR 工程？那剩下的 35% 是写文档还是修 bug？系统提示词砍 80% 倒是实在。",
-      "title_hash": "efe494b6",
-      "scored_at": "2026-07-21T14:29:01.928912Z"
-    },
-    "story_bc14d188634a|paper-police|966065bf": {
-      "score": 12,
-      "review": "只有博客转述内部透露，无论文无代码无benchmark，无法验证。",
-      "title_hash": "efe494b6",
-      "scored_at": "2026-07-21T14:29:03.278458Z"
-    },
     "story_7e78ee445fab|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "新模型已发布，API可用，立刻测试替换旧版，注意定价和限速变化。",
@@ -5616,6 +5586,48 @@
       "review": "官方博客有细节但无代码链接，等开源或复现再定论。",
       "title_hash": "db67190a",
       "scored_at": "2026-08-11T14:06:44.891812Z"
+    },
+    "story_bdd68ac35b2d|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "账单能按模型拆分了，对成本优化有用，但得等 API 更新。",
+      "title_hash": "faebdc49",
+      "scored_at": "2026-08-11T15:35:39.753862Z"
+    },
+    "story_5ce5e8a5042c|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "开源模型路线图，等发布再评估，现在不用动。",
+      "title_hash": "da73503e",
+      "scored_at": "2026-08-11T15:35:40.949515Z"
+    },
+    "story_2b0f68d1ef21|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "SGLang 当天支持新模型，跑推理的可以立刻换，但得先看是否兼容现有部署。",
+      "title_hash": "9a452965",
+      "scored_at": "2026-08-11T15:35:42.198047Z"
+    },
+    "story_98891a5c0ebf|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "混合模型前缀缓存优化，做推理服务的可参考实现，短期收益有限。",
+      "title_hash": "77602c10",
+      "scored_at": "2026-08-11T15:35:43.305056Z"
+    },
+    "story_e5745a33fcfd|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "30B稠密模型开源，本地部署门槛降低，可先跑通再谈落地。",
+      "title_hash": "78ec6d7c",
+      "scored_at": "2026-08-11T15:35:44.372242Z"
+    },
+    "story_bdd68ac35b2d|cynic|f4237a62": {
+      "score": 72,
+      "review": "终于肯把token账本摊开，但也就比之前多列几行数字，别急着邀功。",
+      "title_hash": "faebdc49",
+      "scored_at": "2026-08-11T15:35:45.877268Z"
+    },
+    "story_bdd68ac35b2d|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方更新但无论文代码，仅使用报告细节，缺独立验证。",
+      "title_hash": "faebdc49",
+      "scored_at": "2026-08-11T15:35:46.891349Z"
     }
   }
 }
