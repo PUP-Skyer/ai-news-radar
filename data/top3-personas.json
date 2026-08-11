@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:23:42.572851Z",
+  "generated_at": "2026-08-11T22:19:52.364437Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_761a27a82638",
+      "title": "Daybreak 模型现已登陆 AWS / Daybreak models are now available on AWS",
+      "url": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "上云是常规操作，但没提性能对比，水分还是有的。"
+        },
+        "paper-police": {
+          "score": 40,
+          "review": "官方公告无论文无代码，仅平台上线，缺独立验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "模型上云了，AWS用户今天就能调API，省去自建部署。"
+        }
+      }
+    },
+    {
       "story_id": "story_d21fb74b185b",
       "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
       "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "JetBrains 用户今天就能用上记忆和本地模型，省 API 费且离线可用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f1aeb278b794",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "数字是真的，但拿自家虚拟机对比裸机，这基线挑得可真贴心。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了数字但无论文代码，加速效果待第三方复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "macOS 虚拟机跑 LLM 提速明显，有 Apple Silicon 的今天就能照着配。"
         }
       }
     }
