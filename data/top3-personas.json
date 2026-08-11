@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:13:42.695915Z",
+  "generated_at": "2026-08-11T14:06:44.891873Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_88c4bb049e16",
-      "title": "Model ML 借助 GPT-5.6 Sol 更高效完成金融工作 / Model ML completes finance work more efficiently with GPT-5.6 Sol",
-      "url": "https://openai.com/index/model-ml",
+      "story_id": "story_f612b5d58d1d",
+      "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
+      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "GPT-5.6 Sol 的金融效率提升，基准测试选得真巧，换个场景试试？"
+          "score": 72,
+          "review": "官方SDK总算补上Java，但别急着吹，先看看文档坑多深。"
         },
         "paper-police": {
-          "score": 8,
-          "review": "无论文无代码无评测，仅官方新闻稿，GPT-5.6 Sol 性能无从验证。"
+          "score": 45,
+          "review": "官方博客有细节但无代码链接，等开源或复现再定论。"
         },
         "pragmatic": {
-          "score": 75,
-          "review": "GPT-5.6 Sol 针对金融场景优化，做量化或报表的可以试试，但需确认 API 是否已开放。"
+          "score": 72,
+          "review": "Java 项目能直接接 Copilot SDK，写插件或集成 IDE 的今天可试。"
         }
       }
     }
