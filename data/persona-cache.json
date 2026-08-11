@@ -1,60 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_7e78ee445fab|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "新模型已发布，API可用，立刻测试替换旧版，注意定价和限速变化。",
-      "title_hash": "1de31c78",
-      "scored_at": "2026-07-21T20:43:00.520040Z"
-    },
-    "story_7e78ee445fab|cynic|f4237a62": {
-      "score": 65,
-      "review": "Flash、Lite、Cyber，名字越来越花，跑分呢？",
-      "title_hash": "1de31c78",
-      "scored_at": "2026-07-21T20:43:07.430697Z"
-    },
-    "story_7e78ee445fab|paper-police|966065bf": {
-      "score": 35,
-      "review": "官方博客宣称发布，无论文无代码无第三方评测，等独立验证。",
-      "title_hash": "1de31c78",
-      "scored_at": "2026-07-21T20:43:08.610245Z"
-    },
-    "story_2651940ec628|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "安全事件暴露模型评估风险，自查CI/CD和沙箱隔离，今天就能加固流程。",
-      "title_hash": "de5731ed",
-      "scored_at": "2026-07-21T20:43:01.858656Z"
-    },
-    "story_6378719f54d2|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "NVIDIA官方综述，做机器人仿真的开发者可当参考，但无新工具或API，不急用。",
-      "title_hash": "1abe2419",
-      "scored_at": "2026-07-21T20:43:03.178359Z"
-    },
-    "story_69716a6666ea|pragmatic|0a5c5b24": {
-      "score": 40,
-      "review": "安全事件调查，对日常开发无直接影响，关注后续报告即可。",
-      "title_hash": "37b61815",
-      "scored_at": "2026-07-21T20:43:04.630742Z"
-    },
-    "story_3de84c262e2d|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "广告上线不影响API调用，开发者不用管，除非你投广告。",
-      "title_hash": "d163a64b",
-      "scored_at": "2026-07-21T20:43:06.024778Z"
-    },
-    "story_2651940ec628|cynic|f4237a62": {
-      "score": 22,
-      "review": "模型评估把自己评估进生产环境，这安全测试比产品还刺激。",
-      "title_hash": "de5731ed",
-      "scored_at": "2026-07-21T20:43:10.121725Z"
-    },
-    "story_2651940ec628|paper-police|966065bf": {
-      "score": 0,
-      "review": "只有官方博客声明，无论文无代码无评测，无法验证事件真实性。",
-      "title_hash": "de5731ed",
-      "scored_at": "2026-07-21T20:43:11.592015Z"
-    },
     "story_cc9fa5ceb91c|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "新模型已上线OpenRouter，可直接调用，适合快速测试和替换旧模型。",
@@ -5640,6 +5586,42 @@
       "review": "官方博客宣称上线，无论文无代码无评测，仅凭公告难证实力。",
       "title_hash": "ebbae4cc",
       "scored_at": "2026-08-11T19:45:21.037563Z"
+    },
+    "story_d21fb74b185b|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "JetBrains 用户今天就能用上记忆和本地模型，省 API 费且离线可用。",
+      "title_hash": "81a38814",
+      "scored_at": "2026-08-11T21:23:33.735929Z"
+    },
+    "story_8a4c14a3381a|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "用户数不写代码，对选型没直接影响，看热闹就行。",
+      "title_hash": "c5592b0b",
+      "scored_at": "2026-08-11T21:23:35.154691Z"
+    },
+    "story_f4f6d73ecb41|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "企业版发候选版，自托管用户可提前测新特性，生产环境等正式版。",
+      "title_hash": "52f56c40",
+      "scored_at": "2026-08-11T21:23:36.509781Z"
+    },
+    "story_3e367c2a90f0|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "GitHub 自动迁移分支保护到规则集，存量仓库要检查配置是否等效，别等失效再改。",
+      "title_hash": "4236958d",
+      "scored_at": "2026-08-11T21:23:39.763675Z"
+    },
+    "story_d21fb74b185b|cynic|f4237a62": {
+      "score": 72,
+      "review": "记忆功能有点用，Ollama 本地跑模型算加分，但别吹成智能革命。",
+      "title_hash": "81a38814",
+      "scored_at": "2026-08-11T21:23:41.362248Z"
+    },
+    "story_d21fb74b185b|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客给出细节和数字，但无论文无代码无第三方验证，等复现。",
+      "title_hash": "81a38814",
+      "scored_at": "2026-08-11T21:23:42.572771Z"
     }
   }
 }

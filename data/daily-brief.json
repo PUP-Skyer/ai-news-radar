@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:27:50.892815Z",
+  "generated_at": "2026-08-11T21:05:48.163561Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8627,
-      "importance": 0.8627,
-      "importance_score": 0.8627,
+      "score": 0.8587,
+      "importance": 0.8587,
+      "importance_score": 0.8587,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.965,
+        "recency": 0.9426,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,30 +115,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
-      "story_id": "story_c246dedc40ae",
-      "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "story_id": "story_d21fb74b185b",
+      "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "primary_url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-          "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_zh": "MAI-Code-1.1-Flash现已登陆GitHub Copilot",
-          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "summary": "MAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers improvements across coding quality,…\nMAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers improvements across coding quality, instruction following, tool u",
-          "recommend_reason_zh": "微软MAI-Code-1.1-Flash登陆GitHub Copilot，新增原生视觉理解，价格比前代MAI-Code-1-Flash降低73%，年度订阅者按0.25倍请求乘数计费，兼顾轻量编程效率与成本。",
-          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama",
+          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "summary": "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers,…\nThis update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers, terminals, customizations, and cloud agents.\nAdministrators have more ser",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 新增跨会话持久记忆，支持 Ollama 作为 BYOK 提供方，并修复了 MCP 与终端的可靠性问题。",
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T18:13:56Z"
+          "published_at": "2026-08-11T20:15:55Z"
         }
       ],
       "source_count": 1,
@@ -147,31 +147,31 @@
       ],
       "items": [
         {
-          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-          "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_zh": "MAI-Code-1.1-Flash现已登陆GitHub Copilot",
-          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
-          "summary": "MAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers improvements across coding quality,…\nMAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers improvements across coding quality, instruction following, tool u",
-          "recommend_reason_zh": "微软MAI-Code-1.1-Flash登陆GitHub Copilot，新增原生视觉理解，价格比前代MAI-Code-1-Flash降低73%，年度订阅者按0.25倍请求乘数计费，兼顾轻量编程效率与成本。",
-          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+          "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_zh": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama",
+          "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+          "summary": "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers,…\nThis update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers, terminals, customizations, and cloud agents.\nAdministrators have more ser",
+          "recommend_reason_zh": "GitHub Copilot for JetBrains 新增跨会话持久记忆，支持 Ollama 作为 BYOK 提供方，并修复了 MCP 与终端的可靠性问题。",
+          "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-11T18:13:56Z"
+          "published_at": "2026-08-11T20:15:55Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.8499,
+      "importance": 0.8499,
+      "importance_score": 0.8499,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9824,
+        "recency": 0.9881,
         "story_heat": 0.0
       },
       "category": "official",
@@ -180,27 +180,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T18:13:56Z",
-      "latest_at": "2026-08-11T18:13:56Z",
+      "earliest_at": "2026-08-11T20:15:55Z",
+      "latest_at": "2026-08-11T20:15:55Z",
       "primary_item": {
-        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
-        "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
-        "title_zh": "MAI-Code-1.1-Flash现已登陆GitHub Copilot",
-        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
-        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
-        "summary": "MAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers improvements across coding quality,…\nMAI-Code-1.1-Flash, Microsoft’s latest small-tier coding model, is now rolling out in GitHub Copilot. Building on MAI-Code-1-Flash, it adds native vision support for image understanding and delivers improvements across coding quality, instruction following, tool u",
-        "recommend_reason_zh": "微软MAI-Code-1.1-Flash登陆GitHub Copilot，新增原生视觉理解，价格比前代MAI-Code-1-Flash降低73%，年度订阅者按0.25倍请求乘数计费，兼顾轻量编程效率与成本。",
-        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "id": "ca6e0d7202fb1ebe8762e92b584b426237dda742",
+        "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "title_zh": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama",
+        "title_en": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "title_original": "Copilot memory and Ollama in GitHub Copilot for JetBrains",
+        "summary": "This update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers,…\nThis update brings persistent memory, local model access, and more enterprise controls to GitHub Copilot for JetBrains. It also improves everyday chat workflows and resolves reliability issues across MCP servers, terminals, customizations, and cloud agents.\nAdministrators have more ser",
+        "recommend_reason_zh": "GitHub Copilot for JetBrains 新增跨会话持久记忆，支持 Ollama 作为 BYOK 提供方，并修复了 MCP 与终端的可靠性问题。",
+        "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "新模型直接进 Copilot，写代码的今天就能切，白嫖新能力。",
+      "persona_score": 82,
+      "persona_review": "JetBrains 用户今天就能用上记忆和本地模型，省 API 费且离线可用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -248,15 +248,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9191,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,7 +285,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -420,15 +420,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8385,
-      "importance": 0.8385,
-      "importance_score": 0.8385,
+      "score": 0.8345,
+      "importance": 0.8345,
+      "importance_score": 0.8345,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9607,
+        "recency": 0.9383,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -457,7 +457,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -505,15 +505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8723,
+        "recency": 0.8519,
         "story_heat": 0.0
       },
       "category": "official",
@@ -542,7 +542,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
+      }
+    },
+    {
+      "story_id": "story_c246dedc40ae",
+      "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash现已登陆GitHub Copilot",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": "微软MAI-Code-1.1-Flash登陆GitHub Copilot，新增原生视觉理解，价格比前代MAI-Code-1-Flash降低73%，年度订阅者按0.25倍请求乘数计费，兼顾轻量编程效率与成本。",
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+          "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_zh": "MAI-Code-1.1-Flash现已登陆GitHub Copilot",
+          "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+          "summary": null,
+          "recommend_reason_zh": "微软MAI-Code-1.1-Flash登陆GitHub Copilot，新增原生视觉理解，价格比前代MAI-Code-1-Flash降低73%，年度订阅者按0.25倍请求乘数计费，兼顾轻量编程效率与成本。",
+          "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T18:13:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8447,
+      "importance": 0.8447,
+      "importance_score": 0.8447,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9595,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T18:13:56Z",
+      "latest_at": "2026-08-11T18:13:56Z",
+      "primary_item": {
+        "id": "20b4d04d7ca16e68614fdf21c759a417df28eacb",
+        "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_zh": "MAI-Code-1.1-Flash现已登陆GitHub Copilot",
+        "title_en": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "title_original": "MAI-Code-1.1-Flash available in GitHub Copilot",
+        "summary": null,
+        "recommend_reason_zh": "微软MAI-Code-1.1-Flash登陆GitHub Copilot，新增原生视觉理解，价格比前代MAI-Code-1-Flash降低73%，年度订阅者按0.25倍请求乘数计费，兼顾轻量编程效率与成本。",
+        "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "新模型直接进 Copilot，写代码的今天就能切，白嫖新能力。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -590,15 +675,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8145,
-      "importance": 0.8145,
-      "importance_score": 0.8145,
+      "score": 0.8104,
+      "importance": 0.8104,
+      "importance_score": 0.8104,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9919,
+        "recency": 0.9688,
         "story_heat": 0.0
       },
       "category": "official",
@@ -626,92 +711,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
-      }
-    },
-    {
-      "story_id": "story_001fb8b1c23d",
-      "title": "Upcoming deprecation of MAI-Code-1-Flash",
-      "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
-      "primary_url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ecbe4d5296f2077390e25615e94d18721ab6cf50",
-          "title": "Upcoming deprecation of MAI-Code-1-Flash",
-          "title_zh": null,
-          "title_en": "Upcoming deprecation of MAI-Code-1-Flash",
-          "title_original": "Upcoming deprecation of MAI-Code-1-Flash",
-          "summary": "With the launch of MAI-Code-1.1-Flash, we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026: Model Deprecation date Suggested alternative MAI-Code-1-Flash 9-10-2026 MAI-Code-1.1-Flash Please update your workflows…\nWith the launch of MAI-Code-1.1-Flash , we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026:\nPlease update your workflows and integrations to use the new model before September 10. Copilot Enterprise a",
-          "recommend_reason_zh": "GitHub宣布将于2026年9月10日弃用MAI-Code-1-Flash，建议用户与集成迁移至MAI-Code-1.1-Flash，并提醒Copilot Enterprise管理员需在设置中启用替代模型。",
-          "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T18:50:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ecbe4d5296f2077390e25615e94d18721ab6cf50",
-          "title": "Upcoming deprecation of MAI-Code-1-Flash",
-          "title_zh": null,
-          "title_en": "Upcoming deprecation of MAI-Code-1-Flash",
-          "title_original": "Upcoming deprecation of MAI-Code-1-Flash",
-          "summary": "With the launch of MAI-Code-1.1-Flash, we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026: Model Deprecation date Suggested alternative MAI-Code-1-Flash 9-10-2026 MAI-Code-1.1-Flash Please update your workflows…\nWith the launch of MAI-Code-1.1-Flash , we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026:\nPlease update your workflows and integrations to use the new model before September 10. Copilot Enterprise a",
-          "recommend_reason_zh": "GitHub宣布将于2026年9月10日弃用MAI-Code-1-Flash，建议用户与集成迁移至MAI-Code-1.1-Flash，并提醒Copilot Enterprise管理员需在设置中启用替代模型。",
-          "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T18:50:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8424,
-      "importance": 0.8424,
-      "importance_score": 0.8424,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9911,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T18:50:42Z",
-      "latest_at": "2026-08-11T18:50:42Z",
-      "primary_item": {
-        "id": "ecbe4d5296f2077390e25615e94d18721ab6cf50",
-        "title": "Upcoming deprecation of MAI-Code-1-Flash",
-        "title_zh": null,
-        "title_en": "Upcoming deprecation of MAI-Code-1-Flash",
-        "title_original": "Upcoming deprecation of MAI-Code-1-Flash",
-        "summary": "With the launch of MAI-Code-1.1-Flash, we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026: Model Deprecation date Suggested alternative MAI-Code-1-Flash 9-10-2026 MAI-Code-1.1-Flash Please update your workflows…\nWith the launch of MAI-Code-1.1-Flash , we will deprecate MAI-Code-1-Flash across all GitHub Copilot experiences on September 10, 2026:\nPlease update your workflows and integrations to use the new model before September 10. Copilot Enterprise a",
-        "recommend_reason_zh": "GitHub宣布将于2026年9月10日弃用MAI-Code-1-Flash，建议用户与集成迁移至MAI-Code-1.1-Flash，并提醒Copilot Enterprise管理员需在设置中启用替代模型。",
-        "url": "https://github.blog/changelog/2026-08-11-upcoming-deprecation-of-mai-code-1-flash",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "模型要下线，依赖它的项目得赶紧找替代，迁移要排期。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -742,7 +742,7 @@
           "title_zh": "Google Gemini 应用月活用户突破 10 亿",
           "title_en": "Google’s Gemini app surges to one billion users",
           "title_original": "Google’s Gemini app surges to one billion users",
-          "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.\nGemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportation\nVenture\n",
+          "summary": null,
           "recommend_reason_zh": "本文报道Google的Gemini应用用户数突破10亿，与OpenAI的ChatGPT并驾齐驱，后者早在6月就达到10亿月活，对比两者增长态势。",
           "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
           "source": "TechCrunch AI",
@@ -777,7 +777,7 @@
           "title_zh": "Google Gemini 应用月活用户突破 10 亿",
           "title_en": "Google’s Gemini app surges to one billion users",
           "title_original": "Google’s Gemini app surges to one billion users",
-          "summary": "Gemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.\nGemini is keeping pace with OpenAI’s ChatGPT, which hit 1 billion monthly active users back in June.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportation\nVenture\n",
+          "summary": null,
           "recommend_reason_zh": "本文报道Google的Gemini应用用户数突破10亿，与OpenAI的ChatGPT并驾齐驱，后者早在6月就达到10亿月活，对比两者增长态势。",
           "url": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users",
           "source": "TechCrunch AI",
@@ -788,15 +788,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9907,
+        "recency": 0.9677,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -825,92 +825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
-      }
-    },
-    {
-      "story_id": "story_f612b5d58d1d",
-      "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-      "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "primary_url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "title_zh": "在 Java 中使用 GitHub Copilot SDK",
-          "title_en": "Using the GitHub Copilot SDK for Java",
-          "title_original": "Using the GitHub Copilot SDK for Java",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot SDK for Java首次实现框架无关的Java AI编程，支持BYOK与虚拟线程，示例应用展示Jakarta EE 11下并发处理房产询价的实时代理管道。",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-          "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-          "title_zh": "在 Java 中使用 GitHub Copilot SDK",
-          "title_en": "Using the GitHub Copilot SDK for Java",
-          "title_original": "Using the GitHub Copilot SDK for Java",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot SDK for Java首次实现框架无关的Java AI编程，支持BYOK与虚拟线程，示例应用展示Jakarta EE 11下并发处理房产询价的实时代理管道。",
-          "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-10T19:30:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7075,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-10T19:30:00Z",
-      "latest_at": "2026-08-10T19:30:00Z",
-      "primary_item": {
-        "id": "24acb4029cb84001e3b5f778e74906def87075dc",
-        "title": "在 Java 中使用 GitHub Copilot SDK / Using the GitHub Copilot SDK for Java",
-        "title_zh": "在 Java 中使用 GitHub Copilot SDK",
-        "title_en": "Using the GitHub Copilot SDK for Java",
-        "title_original": "Using the GitHub Copilot SDK for Java",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot SDK for Java首次实现框架无关的Java AI编程，支持BYOK与虚拟线程，示例应用展示Jakarta EE 11下并发处理房产询价的实时代理管道。",
-        "url": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Java 项目能直接接 Copilot SDK，写插件或集成 IDE 的今天可试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -958,15 +873,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.984,
+        "recency": 0.9611,
         "story_heat": 0.0
       },
       "category": "official",
@@ -994,7 +909,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
+      }
+    },
+    {
+      "story_id": "story_8a4c14a3381a",
+      "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "recommend_reason_zh": "ChatGPT与Gemini相继突破10亿月活用户，本文引用双方官方数据与增速对比，并指出Gemini在iOS活跃用户超1亿，揭示AI聊天机器人赛道竞争正在急剧收紧。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+          "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+          "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+          "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+          "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+          "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+          "recommend_reason_zh": "ChatGPT与Gemini相继突破10亿月活用户，本文引用双方官方数据与增速对比，并指出Gemini在iOS活跃用户超1亿，揭示AI聊天机器人赛道竞争正在急剧收紧。",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-11T19:41:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.98,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T19:41:42Z",
+      "latest_at": "2026-08-11T19:41:42Z",
+      "primary_item": {
+        "id": "f56bfcc71250208c330bf2efc941ba00dcdf020e",
+        "title": "ChatGPT 与 Gemini 双双突破 10 亿用户 / ChatGPT and Gemini both just passed 1 billion users",
+        "title_zh": "ChatGPT 与 Gemini 双双突破 10 亿用户",
+        "title_en": "ChatGPT and Gemini both just passed 1 billion users",
+        "title_original": "ChatGPT and Gemini both just passed 1 billion users",
+        "summary": "OpenAI 与 Google 的聊天机器人均跨过 10 亿用户门槛。OpenAI 在 8 月 6 日的博文中披露 ChatGPT 月活用户超 10 亿，Google CEO 皮查伊则宣布 Gemini 月活达 10 亿，成为其史上增长最快的产品。OpenAI 称 ChatGPT 在 7 月周活用户已达 10 亿，而 Gemini 在 2 月月活为 7.5 亿，增长势头更猛。",
+        "recommend_reason_zh": "ChatGPT与Gemini相继突破10亿月活用户，本文引用双方官方数据与增速对比，并指出Gemini在iOS活跃用户超1亿，揭示AI聊天机器人赛道竞争正在急剧收紧。",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/978113/chatgpt-gemini-1-billion-users",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "用户数不写代码，对选型没直接影响，看热闹就行。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1042,15 +1041,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7869,
-      "importance": 0.7869,
-      "importance_score": 0.7869,
+      "score": 0.7829,
+      "importance": 0.7829,
+      "importance_score": 0.7829,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9741,
+        "recency": 0.9514,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1078,7 +1077,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
+      }
+    },
+    {
+      "story_id": "story_f4f6d73ecb41",
+      "title": "GitHub Enterprise Server 3.22 发布候选版本 / GitHub Enterprise Server 3.22 release candidate",
+      "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "primary_url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 发布候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.22 发布候选版本",
+          "title_en": "GitHub Enterprise Server 3.22 release candidate",
+          "title_original": "GitHub Enterprise Server 3.22 release candidate",
+          "summary": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to…\nGitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release:\nEnterprise Teams, previously in public preview, is now generally available. Enterprise owners can use Enterprise Teams to manage users and their ac",
+          "recommend_reason_zh": "GitHub Enterprise Server 3.22发布：Enterprise Teams正式可用，仓库规则集支持按个人绕过及按分支文件强制指定审查者，secret scanning请求可按日期排序，开发者可在issue侧栏看到发布状态。",
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+          "title": "GitHub Enterprise Server 3.22 发布候选版本 / GitHub Enterprise Server 3.22 release candidate",
+          "title_zh": "GitHub Enterprise Server 3.22 发布候选版本",
+          "title_en": "GitHub Enterprise Server 3.22 release candidate",
+          "title_original": "GitHub Enterprise Server 3.22 release candidate",
+          "summary": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to…\nGitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release:\nEnterprise Teams, previously in public preview, is now generally available. Enterprise owners can use Enterprise Teams to manage users and their ac",
+          "recommend_reason_zh": "GitHub Enterprise Server 3.22发布：Enterprise Teams正式可用，仓库规则集支持按个人绕过及按分支文件强制指定审查者，secret scanning请求可按日期排序，开发者可在issue侧栏看到发布状态。",
+          "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T20:26:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8423,
+      "importance": 0.8423,
+      "importance_score": 0.8423,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9906,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-11T20:26:26Z",
+      "latest_at": "2026-08-11T20:26:26Z",
+      "primary_item": {
+        "id": "4988a39b0e311f8d37c6b27d1943e810e0a6703f",
+        "title": "GitHub Enterprise Server 3.22 发布候选版本 / GitHub Enterprise Server 3.22 release candidate",
+        "title_zh": "GitHub Enterprise Server 3.22 发布候选版本",
+        "title_en": "GitHub Enterprise Server 3.22 release candidate",
+        "title_original": "GitHub Enterprise Server 3.22 release candidate",
+        "summary": "GitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release: Administrators can configure Copilot CLI to…\nGitHub Enterprise Server (GHES) 3.22 is now available and introduces new capabilities across the platform. Here are a few highlights in the 3.22 release:\nEnterprise Teams, previously in public preview, is now generally available. Enterprise owners can use Enterprise Teams to manage users and their ac",
+        "recommend_reason_zh": "GitHub Enterprise Server 3.22发布：Enterprise Teams正式可用，仓库规则集支持按个人绕过及按分支文件强制指定审查者，secret scanning请求可按日期排序，开发者可在issue侧栏看到发布状态。",
+        "url": "https://github.blog/changelog/2026-08-11-github-enterprise-server-3-22-release-candidate",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "企业版发候选版，自托管用户可提前测新特性，生产环境等正式版。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1184,15 +1268,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8122,
-      "importance": 0.8122,
-      "importance_score": 0.8122,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9869,
+        "recency": 0.9639,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1221,7 +1305,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1269,15 +1353,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9652,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1305,92 +1389,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
-      }
-    },
-    {
-      "story_id": "story_bdd68ac35b2d",
-      "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
-      "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "primary_url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
-          "title_zh": "使用报告中的各模型 Token 明细",
-          "title_en": "Per-model token breakdown in the usage report",
-          "title_original": "Per-model token breakdown in the usage report",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot的usage report新增per-model token分解，逐项显示input、output、cache read和cache write tokens及对应AI credits，管理员可下载用于核对成本，解决此前仅有AI credits无法追溯的问题。",
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-          "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
-          "title_zh": "使用报告中的各模型 Token 明细",
-          "title_en": "Per-model token breakdown in the usage report",
-          "title_original": "Per-model token breakdown in the usage report",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Copilot的usage report新增per-model token分解，逐项显示input、output、cache read和cache write tokens及对应AI credits，管理员可下载用于核对成本，解决此前仅有AI credits无法追溯的问题。",
-          "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-11T14:41:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.832,
-      "importance": 0.832,
-      "importance_score": 0.832,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9335,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-11T14:41:52Z",
-      "latest_at": "2026-08-11T14:41:52Z",
-      "primary_item": {
-        "id": "361545eaea5b5eb01fee9d78ba476877bb902c4f",
-        "title": "使用报告中的各模型 Token 明细 / Per-model token breakdown in the usage report",
-        "title_zh": "使用报告中的各模型 Token 明细",
-        "title_en": "Per-model token breakdown in the usage report",
-        "title_original": "Per-model token breakdown in the usage report",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Copilot的usage report新增per-model token分解，逐项显示input、output、cache read和cache write tokens及对应AI credits，管理员可下载用于核对成本，解决此前仅有AI credits无法追溯的问题。",
-        "url": "https://github.blog/changelog/2026-08-11-per-model-token-breakdown-in-the-usage-report",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "账单能按模型拆分了，对成本优化有用，但得等 API 更新。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1438,15 +1437,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9363,
+        "recency": 0.9145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1474,7 +1473,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1522,15 +1521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7598,
+      "importance": 0.7598,
+      "importance_score": 0.7598,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.911,
+        "recency": 0.8897,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1558,7 +1557,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1606,15 +1605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7557,
+      "importance": 0.7557,
+      "importance_score": 0.7557,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9223,
+        "recency": 0.9008,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1642,7 +1641,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1690,15 +1689,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9512,
+        "recency": 0.929,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1726,91 +1725,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
-      "story_id": "story_025a725a5231",
-      "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_3e367c2a90f0",
+      "title": "自动将分支保护规则迁移到仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+      "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "primary_url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-          "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-          "title_en": "The AI takeover of mathematics has begun",
-          "title_original": "The AI takeover of mathematics has begun",
-          "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
-          "recommend_reason_zh": "OpenAI用未发布模型Astra解开10道长期未决数学题，涵盖球体堆积与纠错码；Fields Medal得主James Maynard等数学家兴奋之余，也担忧领域未来。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T11:00:00Z"
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "title_zh": "自动将分支保护规则迁移到仓库规则集",
+          "title_en": "Automatically migrate branch protection rules to repository rulesets",
+          "title_original": "Automatically migrate branch protection rules to repository rulesets",
+          "summary": "You can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without…\nYou can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without manually recreating each rule.\nAs we continue investing in rulesets as the foundati",
+          "recommend_reason_zh": "GitHub 新功能可将分支保护规则一键转为 repository rulesets，自动映射 required reviews、status checks 和 push restrictions，免去手动重建，迁移至更灵活可扩展的策略框架。",
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Verge：AI（RSS）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-          "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-          "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-          "title_en": "The AI takeover of mathematics has begun",
-          "title_original": "The AI takeover of mathematics has begun",
-          "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
-          "recommend_reason_zh": "OpenAI用未发布模型Astra解开10道长期未决数学题，涵盖球体堆积与纠错码；Fields Medal得主James Maynard等数学家兴奋之余，也担忧领域未来。",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-11T11:00:00Z"
+          "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+          "title": "自动将分支保护规则迁移到仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+          "title_zh": "自动将分支保护规则迁移到仓库规则集",
+          "title_en": "Automatically migrate branch protection rules to repository rulesets",
+          "title_original": "Automatically migrate branch protection rules to repository rulesets",
+          "summary": "You can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without…\nYou can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without manually recreating each rule.\nAs we continue investing in rulesets as the foundati",
+          "recommend_reason_zh": "GitHub 新功能可将分支保护规则一键转为 repository rulesets，自动映射 required reviews、status checks 和 push restrictions，免去手动重建，迁移至更灵活可扩展的策略框架。",
+          "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-11T19:03:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7559,
-      "importance": 0.7559,
-      "importance_score": 0.7559,
-      "importance_label": "行业动态",
+      "score": 0.8388,
+      "importance": 0.8388,
+      "importance_score": 0.8388,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.75,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8849,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-11T11:00:00Z",
-      "latest_at": "2026-08-11T11:00:00Z",
+      "earliest_at": "2026-08-11T19:03:57Z",
+      "latest_at": "2026-08-11T19:03:57Z",
       "primary_item": {
-        "id": "079cd24c1c86473636689d6b518f7737f7c0d59c",
-        "title": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧 / The AI takeover of mathematics has begun",
-        "title_zh": "OpenAI 用 Astra 模型攻克 10 道数学难题，数学家既兴奋又担忧",
-        "title_en": "The AI takeover of mathematics has begun",
-        "title_original": "The AI takeover of mathematics has begun",
-        "summary": "OpenAI 宣布其未发布的 Astra 模型解决了 10 道长期悬而未决的数学难题，涵盖球体堆积、纠错码、非 sofic 群存在性等领域，并发布超 250 页论文及 Lean 验证结果。",
-        "recommend_reason_zh": "OpenAI用未发布模型Astra解开10道长期未决数学题，涵盖球体堆积与纠错码；Fields Medal得主James Maynard等数学家兴奋之余，也担忧领域未来。",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977273/the-ai-takeover-of-mathematics-has-begun",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "9218b35fb343b8ac2d17e453ef63046d41d017ef",
+        "title": "自动将分支保护规则迁移到仓库规则集 / Automatically migrate branch protection rules to repository rulesets",
+        "title_zh": "自动将分支保护规则迁移到仓库规则集",
+        "title_en": "Automatically migrate branch protection rules to repository rulesets",
+        "title_original": "Automatically migrate branch protection rules to repository rulesets",
+        "summary": "You can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without…\nYou can now convert your existing branch protection rules to repository rulesets directly from your repository settings. This helps you migrate to GitHub’s more flexible and scalable policy framework without manually recreating each rule.\nAs we continue investing in rulesets as the foundati",
+        "recommend_reason_zh": "GitHub 新功能可将分支保护规则一键转为 repository rulesets，自动映射 required reviews、status checks 和 push restrictions，免去手动重建，迁移至更灵活可扩展的策略框架。",
+        "url": "https://github.blog/changelog/2026-08-11-automatically-migrate-branch-protection-rules-to-repository-rulesets",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "数学突破离工程落地还远，看个热闹，别急着改技术栈。",
+      "persona_score": 72,
+      "persona_review": "GitHub 自动迁移分支保护到规则集，存量仓库要检查配置是否等效，别等失效再改。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     },
     {
@@ -1858,15 +1858,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7395,
+      "importance": 0.7395,
+      "importance_score": 0.7395,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8639,
+        "recency": 0.8438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1893,7 +1893,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-11T19:45:09.640742Z"
+        "scored_at": "2026-08-11T21:23:32.341501Z"
       }
     }
   ]
