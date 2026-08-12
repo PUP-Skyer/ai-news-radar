@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T19:50:34.514169Z",
+  "generated_at": "2026-08-12T21:21:13.097135Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_d21fb74b185b",
-      "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
-      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
+      "story_id": "story_094f6572bd5f",
+      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "记忆功能有点用，Ollama 本地跑模型算加分，但别吹成智能革命。"
+          "review": "1.0 总算来了，但插件生态的坑，怕是还得填一阵。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客给出细节和数字，但无论文无代码无第三方验证，等复现。"
+          "score": 35,
+          "review": "官方博客宣称功能，无论文代码或第三方评测，仅凭更新日志难证实力。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "JetBrains 用户今天就能用上记忆和本地模型，省 API 费且离线可用。"
+          "score": 85,
+          "review": "插件1.0落地，VS Code和CLI直接可用，定制Copilot工作流今天就能上手。"
         }
       }
     }
