@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T21:21:13.097135Z",
+  "generated_at": "2026-08-12T22:20:49.887142Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -58,21 +58,21 @@
     },
     {
       "story_id": "story_094f6572bd5f",
-      "title": "VS Code、Copilot CLI 和 Copilot 应用程序中的代理插件 1.0 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
       "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "1.0 总算来了，但插件生态的坑，怕是还得填一阵。"
+          "review": "插件1.0来了，但别急着欢呼，先看看文档里藏了多少坑。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方博客宣称功能，无论文代码或第三方评测，仅凭更新日志难证实力。"
+          "score": 30,
+          "review": "官方博客宣称功能，无论文代码评测，仅凭更新日志难证实力。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "插件1.0落地，VS Code和CLI直接可用，定制Copilot工作流今天就能上手。"
+          "score": 82,
+          "review": "插件1.0落地三大入口，Agent工作流今天就能接，先看兼容性再动手。"
         }
       }
     }
