@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T14:08:17.970711Z",
+  "generated_at": "2026-08-12T15:37:13.824996Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_3479a70ad230",
+      "title": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "3B模型谈边缘视觉，参数小但没给功耗对比，跑分挑着报，七分真三分吹。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了数字但无代码无第三方评测，等开源复现再定论。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "边缘端3B视觉模型，能跑就上，推理快省成本，今天可试。"
+        }
+      }
+    },
+    {
       "story_id": "story_c246dedc40ae",
       "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 85,
           "review": "新模型直接进 Copilot，写代码的今天就能切，白嫖新能力。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f1aeb278b794",
-      "title": "Apple Silicon 与 macOS 虚拟机：借助 Llama.cpp 实现 11-16 倍的 LLM 推理加速",
-      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "数字是真的，但拿自家虚拟机对比裸机，这基线挑得可真贴心。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了数字但无论文代码，加速效果待第三方复现。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "macOS 虚拟机跑 LLM 提速明显，有 Apple Silicon 的今天就能照着配。"
         }
       }
     },
