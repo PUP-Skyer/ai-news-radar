@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:30:49.488435Z",
+  "generated_at": "2026-08-12T19:50:34.514169Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_c246dedc40ae",
-      "title": "MAI-Code-1.1-Flash现已登陆GitHub Copilot / MAI-Code-1.1-Flash available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-11-mai-code-1-1-flash-available-in-github-copilot",
+      "story_id": "story_d21fb74b185b",
+      "title": "GitHub Copilot for JetBrains 加入 Copilot 记忆与 Ollama / Copilot memory and Ollama in GitHub Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-08-11-copilot-memory-and-ollama-in-github-copilot-for-jetbrains",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 70,
-          "review": "Flash版进Copilot是常规操作，但没提具体提升，水分不小。"
+          "score": 72,
+          "review": "记忆功能有点用，Ollama 本地跑模型算加分，但别吹成智能革命。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方博客宣称上线，无论文无代码无评测，仅凭公告难证实力。"
+          "score": 45,
+          "review": "官方博客给出细节和数字，但无论文无代码无第三方验证，等复现。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "新模型直接进 Copilot，写代码的今天就能切，白嫖新能力。"
+          "score": 82,
+          "review": "JetBrains 用户今天就能用上记忆和本地模型，省 API 费且离线可用。"
         }
       }
     }
