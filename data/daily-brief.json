@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:29:47.585772Z",
+  "generated_at": "2026-08-13T12:01:12.783115Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8208,
+      "importance": 0.8208,
+      "importance_score": 0.8208,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7995,
+        "recency": 0.7821,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.744,
+        "recency": 0.7278,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8152,
-      "importance": 0.8152,
-      "importance_score": 0.8152,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7955,
+        "recency": 0.7782,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7979,
-      "importance": 0.7979,
-      "importance_score": 0.7979,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7442,
+        "recency": 0.728,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
+      }
+    },
+    {
+      "story_id": "story_804890f5e6d9",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+          "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+          "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9893,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T11:16:42.199000Z",
+      "latest_at": "2026-08-13T11:16:42.199000Z",
+      "primary_item": {
+        "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+        "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "Agent 能力增强，API 已上线，做 Agent 的今天就能换模型试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -388,15 +472,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8183,
-      "importance": 0.8183,
-      "importance_score": 0.8183,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7683,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +509,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -473,15 +557,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8069,
-      "importance": 0.8069,
-      "importance_score": 0.8069,
+      "score": 0.8038,
+      "importance": 0.8038,
+      "importance_score": 0.8038,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7938,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -558,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7753,
-      "importance": 0.7753,
-      "importance_score": 0.7753,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9926,
+        "recency": 0.971,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -594,7 +678,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -611,7 +695,7 @@
           "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
           "title_en": null,
           "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "summary": "xAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nxAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nxAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
           "url": "https://www.aibase.com/news/30323",
           "source": "AIbase",
@@ -631,7 +715,7 @@
           "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
           "title_en": null,
           "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "summary": "xAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nxAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nxAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
           "url": "https://www.aibase.com/news/30323",
           "source": "AIbase",
@@ -642,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,7 +750,7 @@
         "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
         "title_en": null,
         "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-        "summary": "xAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nxAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nxAI officially released Grok 4.6, which scored 61 on the AI Intelligence Index, tying with GPT-5.6 Sol (Max), and ranking just behind Claude Opus 5 (63 points)\nExplore AI Frontiers",
+        "summary": null,
         "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
         "url": "https://www.aibase.com/news/30323",
         "source": "AIbase",
@@ -678,7 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -726,15 +810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8762,
+        "recency": 0.8572,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -762,7 +846,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -810,15 +894,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7598,
-      "importance": 0.7598,
-      "importance_score": 0.7598,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7876,
+        "recency": 0.7704,
         "story_heat": 0.0
       },
       "category": "official",
@@ -846,7 +930,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -863,7 +947,7 @@
           "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
           "title_en": null,
           "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "summary": "Recently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nRecently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nRecently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "WorkBuddy 5.3.11上线AI原生资料库，支持HTML与Markdown双格式协作：HTML可多人和AI共编，Markdown新增审阅模式，AI建议逐条确认后生效，破解一次性AI产物痛点。",
           "url": "https://www.aibase.com/news/30322",
           "source": "AIbase",
@@ -883,7 +967,7 @@
           "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
           "title_en": null,
           "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-          "summary": "Recently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nRecently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nRecently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nExplore AI Frontiers",
+          "summary": null,
           "recommend_reason_zh": "WorkBuddy 5.3.11上线AI原生资料库，支持HTML与Markdown双格式协作：HTML可多人和AI共编，Markdown新增审阅模式，AI建议逐条确认后生效，破解一次性AI产物痛点。",
           "url": "https://www.aibase.com/news/30322",
           "source": "AIbase",
@@ -894,15 +978,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -918,7 +1002,7 @@
         "title_zh": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
         "title_en": null,
         "title_original": "WorkBuddy发布5.3.11版本:AI原生资料库上线，终结“一次性AI产物”痛点",
-        "summary": "Recently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nRecently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nRecently, WorkBuddy, hailed as the \"Office of the AI era,\" officially released version 5.3.11, announcing a major upgrade to its core \"Knowledge Base\" feature,\nExplore AI Frontiers",
+        "summary": null,
         "recommend_reason_zh": "WorkBuddy 5.3.11上线AI原生资料库，支持HTML与Markdown双格式协作：HTML可多人和AI共编，Markdown新增审阅模式，AI建议逐条确认后生效，破解一次性AI产物痛点。",
         "url": "https://www.aibase.com/news/30322",
         "source": "AIbase",
@@ -930,90 +1014,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
-      }
-    },
-    {
-      "story_id": "story_f9c6869f48c8",
-      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "title_en": null,
-          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T04:32:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7318,
-      "importance": 0.7318,
-      "importance_score": 0.7318,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9176,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-13T04:32:24Z",
-      "latest_at": "2026-08-13T04:32:24Z",
-      "primary_item": {
-        "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
-        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "title_en": null,
-        "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
-        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "远程控制功能对Agent落地有用，但需看是否开放API和定价。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1061,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7674,
+        "recency": 0.7507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1096,7 +1097,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
+      }
+    },
+    {
+      "story_id": "story_f9c6869f48c8",
+      "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_en": null,
+          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T04:32:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+          "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "title_en": null,
+          "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+          "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T04:32:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7282,
+      "importance": 0.7282,
+      "importance_score": 0.7282,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.65,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8976,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T04:32:24Z",
+      "latest_at": "2026-08-13T04:32:24Z",
+      "primary_item": {
+        "id": "2571375dcadbbf520fa81aad5cc32df8f7fb48ff",
+        "title": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_zh": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "title_en": null,
+        "title_original": "WorkBuddy上线远程控制，国内也有了最丝滑的Agent工作方式",
+        "summary": "WorkBuddy更新上线远程控制功能，将PC、App和小程序打通，手机端可实时同步电脑端的任务、对话、工作空间和产物，支持一台手机连接多台电脑并随时切换。App需升级至1.2.0及以上，电脑端需升级至5.3.8及以上，连接无需扫码。本次更新还新增资料库（我的文档与团队空间）、Markdown多人共同编辑、AI原生审阅模式，以及将资料库内容生成可发布链接的HTML网站。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685179&idx=1&sn=4cbee32b677b57a9dc6ec2a79d6f72c7",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 60,
+      "persona_review": "远程控制功能对Agent落地有用，但需看是否开放API和定价。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1113,7 +1197,7 @@
           "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
           "title_en": null,
           "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "summary": "Recently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nRecently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nRecently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "下一代Gemini因算力紧张及内部团队在开发重点和资源分配上分歧，发布推迟两个月；Sergey Brin近期频繁介入核心训练，推动“递归自我改进”方向。",
           "url": "https://www.aibase.com/news/30324",
           "source": "AIbase",
@@ -1133,7 +1217,7 @@
           "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
           "title_en": null,
           "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-          "summary": "Recently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nRecently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nRecently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "下一代Gemini因算力紧张及内部团队在开发重点和资源分配上分歧，发布推迟两个月；Sergey Brin近期频繁介入核心训练，推动“递归自我改进”方向。",
           "url": "https://www.aibase.com/news/30324",
           "source": "AIbase",
@@ -1144,15 +1228,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9782,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1168,7 +1252,7 @@
         "title_zh": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
         "title_en": null,
         "title_original": "下一代Gemini延期内情曝光：算力紧张，内部团队在开发重点和资源分配上存在分歧",
-        "summary": "Recently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nRecently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nRecently, the highly anticipated next-generation Gemini model has been reported to be delayed. According to , due to disagreements within the internal team on d\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "下一代Gemini因算力紧张及内部团队在开发重点和资源分配上分歧，发布推迟两个月；Sergey Brin近期频繁介入核心训练，推动“递归自我改进”方向。",
         "url": "https://www.aibase.com/news/30324",
         "source": "AIbase",
@@ -1180,7 +1264,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1228,15 +1312,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8394,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,7 +1347,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1311,15 +1395,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1347,7 +1431,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1373,6 +1457,20 @@
           "published_at": "2026-08-12T22:26:37Z"
         },
         {
+          "id": "efc931ed7b5335890d58d5f06e7d2c8238e6a703",
+          "title": "Claude 用户很不满，因为 Anthropic 的新水印会逮到他们使用 Claude。 / Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_zh": "Claude 用户很不满，因为 Anthropic 的新水印会逮到他们使用 Claude。",
+          "title_en": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_original": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.\nIs Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportat",
+          "recommend_reason_zh": "Anthropic给Claude引入新水印系统后，用户涌上社交媒体抱怨，担心自己的使用行为会被识别追踪。这篇报道聚焦这一争议，讲清用户不满的核心所在。",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-13T10:23:51Z"
+        },
+        {
           "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
           "title": "一些 Claude 用户不满 Anthropic 的新水印会让他们在上班或上课时作弊被抓住 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
           "title_zh": "一些 Claude 用户不满 Anthropic 的新水印会让他们在上班或上课时作弊被抓住",
@@ -1387,8 +1485,9 @@
           "published_at": "2026-08-12T22:26:37Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News",
         "TechCrunch",
         "TechCrunch AI"
       ],
@@ -1408,6 +1507,20 @@
           "published_at": "2026-08-12T22:26:37Z"
         },
         {
+          "id": "efc931ed7b5335890d58d5f06e7d2c8238e6a703",
+          "title": "Claude 用户很不满，因为 Anthropic 的新水印会逮到他们使用 Claude。 / Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_zh": "Claude 用户很不满，因为 Anthropic 的新水印会逮到他们使用 Claude。",
+          "title_en": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "title_original": "Claude users are mad that Anthropic's new watermarks will catch them using it",
+          "summary": "Is Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.\nIs Anthropic's new watermarking system a travesty? Some have taken to social media to complain that it is.\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportat",
+          "recommend_reason_zh": "Anthropic给Claude引入新水印系统后，用户涌上社交媒体抱怨，担心自己的使用行为会被识别追踪。这篇报道聚焦这一争议，讲清用户不满的核心所在。",
+          "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-13T10:23:51Z"
+        },
+        {
           "id": "ca8495aa3f2663da155feaa9edf5dd84db4ae4e7",
           "title": "一些 Claude 用户不满 Anthropic 的新水印会让他们在上班或上课时作弊被抓住 / Some Claude users are mad that Anthropic’s new watermarks will catch them cheating at their jobs, classes",
           "title_zh": "一些 Claude 用户不满 Anthropic 的新水印会让他们在上班或上课时作弊被抓住",
@@ -1422,26 +1535,26 @@
           "published_at": "2026-08-12T22:26:37Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.645,
-      "importance": 0.645,
-      "importance_score": 0.645,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.6667,
+      "importance": 0.6667,
+      "importance_score": 0.6667,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8403,
-        "story_heat": 0.25
+        "recency": 0.822,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-08-12T22:26:37Z",
-      "latest_at": "2026-08-12T22:26:37Z",
+      "latest_at": "2026-08-13T10:23:51Z",
       "primary_item": {
         "id": "ba04b292f882d774f76209dc8c842a0dd0159311",
         "title": "一些Claude用户对Anthropic的新水印感到恼火：它会暴露他们在工作和上课时使用Claude / Some Claude users are mad that Anthropic’s new watermarks will catch them using it at their jobs, classes",
@@ -1460,7 +1573,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1508,15 +1621,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1544,7 +1657,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     },
     {
@@ -1592,15 +1705,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7631,
-      "importance": 0.7631,
-      "importance_score": 0.7631,
+      "score": 0.7593,
+      "importance": 0.7593,
+      "importance_score": 0.7593,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9751,
+        "recency": 0.9539,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1628,119 +1741,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
-      }
-    },
-    {
-      "story_id": "story_5a8bd64f4250",
-      "title": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-      "primary_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
-          "title": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "title_zh": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
-          "title_en": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "title_original": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-12T14:20:33Z"
-        },
-        {
-          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
-          "title": "Google 在 Made by Google 2026 发布 Pixel 11 系列、AirTag 竞品及 Gemini 新功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
-          "title_zh": "Google 在 Made by Google 2026 发布 Pixel 11 系列、AirTag 竞品及 Gemini 新功能",
-          "title_en": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
-          "title_original": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
-          "summary": null,
-          "recommend_reason_zh": "本文汇总Made by Google 2026发布会亮点，涵盖Pixel 11系列、对标Apple AirTag的全新追踪器，以及Gemini新增功能，一文速览谷歌硬件与AI最新动态。",
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T14:20:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
-          "title": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "title_zh": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
-          "title_en": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "title_original": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-12T14:20:33Z"
-        },
-        {
-          "id": "714bbdc216ff742f3bf981a7ea6ba25f3ad209a0",
-          "title": "Google 在 Made by Google 2026 发布 Pixel 11 系列、AirTag 竞品及 Gemini 新功能 / Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
-          "title_zh": "Google 在 Made by Google 2026 发布 Pixel 11 系列、AirTag 竞品及 Gemini 新功能",
-          "title_en": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
-          "title_original": "Google unveils Pixel 11 lineup, new AirTag rival, and Gemini features at Made by Google 2026",
-          "summary": null,
-          "recommend_reason_zh": "本文汇总Made by Google 2026发布会亮点，涵盖Pixel 11系列、对标Apple AirTag的全新追踪器，以及Gemini新增功能，一文速览谷歌硬件与AI最新动态。",
-          "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-12T14:20:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5688,
-        "source_tier": 0.58,
-        "ai_relevance": 0.79,
-        "recency": 0.7475,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-12T14:20:33Z",
-      "latest_at": "2026-08-12T14:20:33Z",
-      "primary_item": {
-        "id": "3392d53d8e320f02171fbe08d83c8e0a085008e0",
-        "title": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能 / Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-        "title_zh": "Made by Google '26 发布会全部亮点：Pixel 11、Pixel Watch 5、Pixel Tag 以及大量 Gemini 功能",
-        "title_en": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-        "title_original": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "硬件和Gemini功能对开发者影响有限，等API和文档出来再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T10:47:49.793043Z"
+        "scored_at": "2026-08-13T12:22:26.705457Z"
       }
     }
   ]

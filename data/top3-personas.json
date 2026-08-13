@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T10:47:57.148438Z",
+  "generated_at": "2026-08-13T12:22:30.126442Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_804890f5e6d9",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "Agent 增强是实打实，但'大幅'这词得看基准，别又是自家旧版。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方更新日志宣称增强，无论文无代码无评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "Agent 能力增强，API 已上线，做 Agent 的今天就能换模型试。"
+        }
+      }
+    },
+    {
       "story_id": "story_9fd2d6d4a7de",
       "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
       "url": "https://www.aibase.com/news/30323",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_dc9722a7a353",
       "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
       "url": "https://www.ithome.com/0/989/001.htm",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "权重已开放，MoE 架构能直接部署，256K 上下文适合长文档场景，今天就能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_3479a70ad230",
-      "title": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "3B模型谈边缘视觉，参数小但没给功耗对比，跑分挑着报，七分真三分吹。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了数字但无代码无第三方评测，等开源复现再定论。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "边缘端3B视觉模型，能跑就上，推理快省成本，今天可试。"
         }
       }
     }
