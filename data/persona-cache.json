@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_f1c63e292752|pragmatic|0a5c5b24": {
-      "score": 70,
-      "review": "全闪存方案省90%硬件成本，做向量检索的团队可参考架构，但需自建或改造。",
-      "title_hash": "d5e9dfbb",
-      "scored_at": "2026-07-23T06:46:19.687730Z"
-    },
-    "story_5eb84f7dcb33|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "财报数字好看，但对你写代码没任何直接影响。",
-      "title_hash": "c9571a29",
-      "scored_at": "2026-07-23T06:46:20.765832Z"
-    },
-    "story_2ab6c199acf5|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "学术争议，对日常开发无直接影响，等官方回应或修复补丁。",
-      "title_hash": "80d5c03b",
-      "scored_at": "2026-07-23T06:46:21.892989Z"
-    },
-    "story_87d814e4f245|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "政策文件，对写代码没直接影响，等具体细则和补贴再说。",
-      "title_hash": "b0df15dd",
-      "scored_at": "2026-07-23T06:46:23.045143Z"
-    },
-    "story_737071755d64|cynic|f4237a62": {
-      "score": 70,
-      "review": "改个上传流程也值得发 changelog？好歹是官方通知，比画饼强点。",
-      "title_hash": "70eca04d",
-      "scored_at": "2026-07-23T06:46:24.323914Z"
-    },
-    "story_737071755d64|paper-police|966065bf": {
-      "score": 0,
-      "review": "无论文无代码无评测，只有官方公告，无法验证。",
-      "title_hash": "70eca04d",
-      "scored_at": "2026-07-23T06:46:25.354475Z"
-    },
-    "story_f1c63e292752|cynic|f4237a62": {
-      "score": 55,
-      "review": "全闪存省90%成本？怕不是跟机械硬盘比，那我也能省99%。",
-      "title_hash": "d5e9dfbb",
-      "scored_at": "2026-07-23T06:46:26.686071Z"
-    },
-    "story_f1c63e292752|paper-police|966065bf": {
-      "score": 25,
-      "review": "仅有公众号文章，无论文无代码无benchmark，成本节省90%无从验证。",
-      "title_hash": "d5e9dfbb",
-      "scored_at": "2026-07-23T06:46:28.027058Z"
-    },
     "story_b7a2b487977e|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "4位扩散推理集成到Diffusers，显存占用大降，低配卡也能跑图了。",
@@ -5628,6 +5580,36 @@
       "review": "监管风向变了，开源模型出海前先评估合规成本，短期不影响本地开发。",
       "title_hash": "c0f762f9",
       "scored_at": "2026-08-13T05:20:35.747264Z"
+    },
+    "story_9d6996b57c59|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "高管反思不解决代码问题，裁员决策参考价值有限。",
+      "title_hash": "135bb72c",
+      "scored_at": "2026-08-13T07:00:54.033373Z"
+    },
+    "story_2a89c494b2df|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "融资数字不写代码，等产品开放再看不迟。",
+      "title_hash": "a4d31db8",
+      "scored_at": "2026-08-13T07:00:55.269135Z"
+    },
+    "story_ca4c0ac9dd3e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "手语识别进手机是实用进展，但消费级落地还早，开发者可先看SDK。",
+      "title_hash": "b365fddc",
+      "scored_at": "2026-08-13T07:00:56.317235Z"
+    },
+    "story_e1347d34c9f3|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "新模型发布但没提开放API或开源，先观望，等能上手再动。",
+      "title_hash": "00cf2441",
+      "scored_at": "2026-08-13T07:00:57.346395Z"
+    },
+    "story_3ca49d37b707|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "AI助手进支付App是趋势，但公测阶段对开发者无直接接口可用，观望即可。",
+      "title_hash": "35280e1c",
+      "scored_at": "2026-08-13T07:00:58.692188Z"
     }
   }
 }
