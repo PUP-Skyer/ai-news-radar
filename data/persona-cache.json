@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_b7a2b487977e|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "4位扩散推理集成到Diffusers，显存占用大降，低配卡也能跑图了。",
-      "title_hash": "f2e022b1",
-      "scored_at": "2026-07-23T09:46:32.143456Z"
-    },
-    "story_1022d965cfc1|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "语音模式选更强模型，对API调用者有用，但等正式上线再动手。",
-      "title_hash": "b662576c",
-      "scored_at": "2026-07-23T09:46:33.359035Z"
-    },
-    "story_b7a2b487977e|cynic|f4237a62": {
-      "score": 72,
-      "review": "4位推理省显存，但速度损失和画质衰减你们demo里可没提。",
-      "title_hash": "f2e022b1",
-      "scored_at": "2026-07-23T09:46:34.839353Z"
-    },
-    "story_b7a2b487977e|paper-police|966065bf": {
-      "score": 45,
-      "review": "博客有技术细节但无论文代码，等开源验证再定论。",
-      "title_hash": "f2e022b1",
-      "scored_at": "2026-07-23T09:46:36.188205Z"
-    },
     "story_389dbf0b1f6b|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "端侧模型落地旗舰机，做移动端AI的可以直接参考其量化部署方案。",
@@ -5646,6 +5622,42 @@
       "review": "硬件和Gemini功能对开发者影响有限，等API和文档出来再动手。",
       "title_hash": "ece50f7e",
       "scored_at": "2026-08-13T09:07:10.409313Z"
+    },
+    "story_cab5ba4e8224|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源 TTS 模型可 clone 试跑，做语音合成的今天能上手验证效果。",
+      "title_hash": "b26c93b5",
+      "scored_at": "2026-08-13T10:47:50.879399Z"
+    },
+    "story_9fd2d6d4a7de|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "性价比直接拉满，跑批量任务或做产品选型的今天就能换。",
+      "title_hash": "f6ffb3b6",
+      "scored_at": "2026-08-13T10:47:52.158737Z"
+    },
+    "story_fe80c6938485|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "资料库功能对工作流有增量价值，但需看是否开源或API开放。",
+      "title_hash": "bf2e7271",
+      "scored_at": "2026-08-13T10:47:53.401612Z"
+    },
+    "story_f803e81923df|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "延期和内部扯皮不写代码，等真发布看效果再说。",
+      "title_hash": "b6789663",
+      "scored_at": "2026-08-13T10:47:54.614594Z"
+    },
+    "story_9fd2d6d4a7de|cynic|f4237a62": {
+      "score": 72,
+      "review": "追平旗舰还便宜六成？跑分基准选得巧，真机上手再吹不迟。",
+      "title_hash": "f6ffb3b6",
+      "scored_at": "2026-08-13T10:47:56.031977Z"
+    },
+    "story_9fd2d6d4a7de|paper-police|966065bf": {
+      "score": 25,
+      "review": "只有媒体宣称，无论文无代码无评测，性价比榜数据来源不明。",
+      "title_hash": "f6ffb3b6",
+      "scored_at": "2026-08-13T10:47:57.148336Z"
     }
   }
 }
