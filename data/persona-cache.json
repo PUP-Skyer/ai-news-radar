@@ -1,18 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_63e67b950746|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "用户数再大也不代表API好用，等降价或开放新能力再说。",
-      "title_hash": "8ed7153f",
-      "scored_at": "2026-07-23T16:56:06.408202Z"
-    },
-    "story_1e66172c71dc|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "开源仓库可clone，设备端置信度路由方案直接抄，省API成本。",
-      "title_hash": "1f2d08da",
-      "scored_at": "2026-07-23T16:56:07.654286Z"
-    },
     "story_4f34c54c72e5|pragmatic|0a5c5b24": {
       "score": 65,
       "review": "ChatGPT新增健康功能，做健康类应用可关注API变化，但功能细节待实测。",
@@ -5652,6 +5640,48 @@
       "review": "仅官方推文宣称开源上线，无论文代码链接，证据不足。",
       "title_hash": "cf6a8228",
       "scored_at": "2026-08-13T15:34:50.499477Z"
+    },
+    "story_230b99496aae|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "新模型已发布，API 开放就能直接换，跑推理任务先测延迟和成本。",
+      "title_hash": "a424c772",
+      "scored_at": "2026-08-13T17:34:09.685175Z"
+    },
+    "story_55c454217558|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "速度翻倍直接省时间，API 用户今天就能测，延迟敏感场景立省。",
+      "title_hash": "fab604c8",
+      "scored_at": "2026-08-13T17:34:10.811303Z"
+    },
+    "story_ff650fa8bd8f|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "复现实验的坑和结论可直接参考，做研究的省排查时间。",
+      "title_hash": "db64da75",
+      "scored_at": "2026-08-13T17:34:11.901085Z"
+    },
+    "story_54d692d2c27d|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "高管任命不写代码，对开发者选型无直接影响。",
+      "title_hash": "6e627eb4",
+      "scored_at": "2026-08-13T17:34:13.217311Z"
+    },
+    "story_b36ce0a79f35|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "开源权重可自部署，做音乐生成应用的今天就能试，但生产级还得看文档踩坑。",
+      "title_hash": "22200566",
+      "scored_at": "2026-08-13T17:34:14.574794Z"
+    },
+    "story_230b99496aae|cynic|f4237a62": {
+      "score": 72,
+      "review": "Flash 版又来了，参数没提，先跑个分再说。",
+      "title_hash": "a424c772",
+      "scored_at": "2026-08-13T17:34:15.660157Z"
+    },
+    "story_230b99496aae|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客宣称性能，无论文无代码无第三方评测，数字待验证。",
+      "title_hash": "a424c772",
+      "scored_at": "2026-08-13T17:34:16.815295Z"
     }
   }
 }
