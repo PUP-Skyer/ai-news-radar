@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T14:15:46.295809Z",
+  "generated_at": "2026-08-13T15:34:50.499536Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_dc9722a7a353",
-      "title": "阿里开放 Qwen3.8-2.4T-A95B 模型权重：2.4T MoE、激活 95B、原生 256K 上下文",
-      "url": "https://www.ithome.com/0/989/001.htm",
+      "story_id": "story_829dd1cf861d",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 82,
-          "review": "参数敢全晒，MoE和长上下文是硬货，但别急着封神，跑分和成本还没见底。"
+          "score": 78,
+          "review": "开源即上线，速度够快。但参数和性能细节藏着掖着，先跑个基准再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "权重开放但缺论文和评测细节，等第三方复现再定论。"
+          "score": 20,
+          "review": "仅官方推文宣称开源上线，无论文代码链接，证据不足。"
         },
         "pragmatic": {
           "score": 88,
-          "review": "权重已开放，MoE 架构能直接部署，256K 上下文适合长文档场景，今天就能试。"
+          "review": "开源模型当天上线API，直接能跑，省去部署成本，今天就能试。"
         }
       }
     }

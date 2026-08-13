@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T13:50:38.116755Z",
+  "generated_at": "2026-08-13T15:17:18.052753Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8171,
-      "importance": 0.8171,
-      "importance_score": 0.8171,
+      "score": 0.8143,
+      "importance": 0.8143,
+      "importance_score": 0.8143,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7618,
+        "recency": 0.746,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,346 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
-      }
-    },
-    {
-      "story_id": "story_3479a70ad230",
-      "title": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_zh": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力",
-          "title_en": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "summary": null,
-          "recommend_reason_zh": "Liquid AI的LFM2.5-VL-3B用3B参数实现边缘端视觉语言任务，预训练34T tokens，在M5 Max上每秒解码228 tokens、仅占约3GB内存，还能在Galaxy S26 Ultra上跑到20 tokens/s。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-          "title": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_zh": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力",
-          "title_en": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-          "summary": null,
-          "recommend_reason_zh": "Liquid AI的LFM2.5-VL-3B用3B参数实现边缘端视觉语言任务，预训练34T tokens，在M5 Max上每秒解码228 tokens、仅占约3GB内存，还能在Galaxy S26 Ultra上跑到20 tokens/s。",
-          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8136,
-      "importance": 0.8136,
-      "importance_score": 0.8136,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7088,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:00:51Z",
-      "latest_at": "2026-08-12T14:00:51Z",
-      "primary_item": {
-        "id": "9cd8ef263d667b3a07058e7bc7dfb8dfed09aefe",
-        "title": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力 / LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "title_zh": "LFM2.5-VL-3B 为边缘端提供更好更快的视觉能力",
-        "title_en": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "title_original": "LFM2.5-VL-3B for Better and Faster Vision Capabilities for the Edge",
-        "summary": null,
-        "recommend_reason_zh": "Liquid AI的LFM2.5-VL-3B用3B参数实现边缘端视觉语言任务，预训练34T tokens，在M5 Max上每秒解码228 tokens、仅占约3GB内存，还能在Galaxy S26 Ultra上跑到20 tokens/s。",
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "边缘端3B视觉模型，能跑就上，推理快省成本，今天可试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
-      }
-    },
-    {
-      "story_id": "story_094f6572bd5f",
-      "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 联合 AWS、Anysphere、Microsoft、OpenAI、Vercel 发布 Agent Plugins 1.0 开放标准，8月6日 Google 加入核心维护；一次构建即可在 VS Code、Copilot CLI 和 Copilot app 中复用技能与 MCP 服务器。",
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "18e5595d096312125c112295fde577991c1afc7c",
-          "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用",
-          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 联合 AWS、Anysphere、Microsoft、OpenAI、Vercel 发布 Agent Plugins 1.0 开放标准，8月6日 Google 加入核心维护；一次构建即可在 VS Code、Copilot CLI 和 Copilot app 中复用技能与 MCP 服务器。",
-          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T18:39:11Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.758,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T18:39:11Z",
-      "latest_at": "2026-08-12T18:39:11Z",
-      "primary_item": {
-        "id": "18e5595d096312125c112295fde577991c1afc7c",
-        "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用",
-        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 联合 AWS、Anysphere、Microsoft、OpenAI、Vercel 发布 Agent Plugins 1.0 开放标准，8月6日 Google 加入核心维护；一次构建即可在 VS Code、Copilot CLI 和 Copilot app 中复用技能与 MCP 服务器。",
-        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "插件1.0落地三大入口，Agent工作流今天就能接，先看兼容性再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
-      }
-    },
-    {
-      "story_id": "story_c5cde4192426",
-      "title": "把手语AI交到用户手中 / Putting sign language AI into users’ hands",
-      "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "primary_url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "把手语AI交到用户手中 / Putting sign language AI into users’ hands",
-          "title_zh": "把手语AI交到用户手中",
-          "title_en": "Putting sign language AI into users’ hands",
-          "title_original": "Putting sign language AI into users’ hands",
-          "summary": null,
-          "recommend_reason_zh": "SL2T模型首次将手语AI带入消费产品，在Pixel 11的Gboard和Live Transcribe上实现ASL到英语的转文字输入，让聋人用户以更自然的手语替代打字。",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-          "title": "把手语AI交到用户手中 / Putting sign language AI into users’ hands",
-          "title_zh": "把手语AI交到用户手中",
-          "title_en": "Putting sign language AI into users’ hands",
-          "title_original": "Putting sign language AI into users’ hands",
-          "summary": null,
-          "recommend_reason_zh": "SL2T模型首次将手语AI带入消费产品，在Pixel 11的Gboard和Live Transcribe上实现ASL到英语的转文字输入，让聋人用户以更自然的手语替代打字。",
-          "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-12T14:01:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.709,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-12T14:01:59Z",
-      "latest_at": "2026-08-12T14:01:59Z",
-      "primary_item": {
-        "id": "f4b3d51450affd47eb9faf2cd2b42e2d79128492",
-        "title": "把手语AI交到用户手中 / Putting sign language AI into users’ hands",
-        "title_zh": "把手语AI交到用户手中",
-        "title_en": "Putting sign language AI into users’ hands",
-        "title_original": "Putting sign language AI into users’ hands",
-        "summary": null,
-        "recommend_reason_zh": "SL2T模型首次将手语AI带入消费产品，在Pixel 11的Gboard和Live Transcribe上实现ASL到英语的转文字输入，让聋人用户以更自然的手语替代打字。",
-        "url": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "手语AI若开放API或模型可试，否则只是展示，暂不用动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
-      }
-    },
-    {
-      "story_id": "story_804890f5e6d9",
-      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
-          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
-          "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:16:42.199000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
-          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
-          "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-13T11:16:42.199000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7881,
-      "importance": 0.7881,
-      "importance_score": 0.7881,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9636,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T11:16:42.199000Z",
-      "latest_at": "2026-08-13T11:16:42.199000Z",
-      "primary_item": {
-        "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
-        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-        "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-        "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
-        "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "Agent 能力增强，API 已上线，做 Agent 的今天就能换模型试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -472,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.732,
+        "recency": 0.7169,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,7 +170,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
+      }
+    },
+    {
+      "story_id": "story_094f6572bd5f",
+      "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+      "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 联合 AWS、Anysphere、Microsoft、OpenAI、Vercel 发布 Agent Plugins 1.0 开放标准，8月6日 Google 加入核心维护；一次构建即可在 VS Code、Copilot CLI 和 Copilot app 中复用技能与 MCP 服务器。",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "18e5595d096312125c112295fde577991c1afc7c",
+          "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用",
+          "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+          "summary": null,
+          "recommend_reason_zh": "GitHub 联合 AWS、Anysphere、Microsoft、OpenAI、Vercel 发布 Agent Plugins 1.0 开放标准，8月6日 Google 加入核心维护；一次构建即可在 VS Code、Copilot CLI 和 Copilot app 中复用技能与 MCP 服务器。",
+          "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-12T18:39:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7423,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-12T18:39:11Z",
+      "latest_at": "2026-08-12T18:39:11Z",
+      "primary_item": {
+        "id": "18e5595d096312125c112295fde577991c1afc7c",
+        "title": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用 / Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_zh": "Agent Plugins 1.0 登陆 VS Code、Copilot CLI 和 Copilot 应用",
+        "title_en": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "title_original": "Agent Plugins 1.0 in VS Code, Copilot CLI, and the Copilot app",
+        "summary": null,
+        "recommend_reason_zh": "GitHub 联合 AWS、Anysphere、Microsoft、OpenAI、Vercel 发布 Agent Plugins 1.0 开放标准，8月6日 Google 加入核心维护；一次构建即可在 VS Code、Copilot CLI 和 Copilot app 中复用技能与 MCP 服务器。",
+        "url": "https://github.blog/changelog/2026-08-12-agent-plugins-1-0-in-vs-code-copilot-cli-and-the-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 82,
+      "persona_review": "插件1.0落地三大入口，Agent工作流今天就能接，先看兼容性再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T15:34:46.778778Z"
+      }
+    },
+    {
+      "story_id": "story_804890f5e6d9",
+      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+          "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "DeepSeek：API 更新日志"
+      ],
+      "items": [
+        {
+          "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+          "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+          "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+          "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T11:16:42.199000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7845,
+      "importance": 0.7845,
+      "importance_score": 0.7845,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.81,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9437,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T11:16:42.199000Z",
+      "latest_at": "2026-08-13T11:16:42.199000Z",
+      "primary_item": {
+        "id": "27e18a21d32ffdc91c1e30248bca6f4dac2b0c60",
+        "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "title_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
+        "summary": "DeepSeek-V4-Pro 正式版已在 APP、网页端和 API 同步上线，模型名设为 deepseek-v4-pro 即可使用。其 Agent 能力显著提升，HLE （wo/w tools） 达 42.7/60.0，Terminal Bench 2.1 为 87.9。",
+        "recommend_reason_zh": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强，API 原生支持 OpenAI Responses API 并适配 Codex，思考模式新增 low/high/max 三档，且采用峰谷定价，闲时价格为高峰一半。",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "Agent 能力增强，API 已上线，做 Agent 的今天就能换模型试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -557,15 +387,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7973,
+      "importance": 0.7973,
+      "importance_score": 0.7973,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7564,
+        "recency": 0.7408,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,7 +424,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -642,15 +472,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9458,
+        "recency": 0.9263,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -678,91 +508,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
-      }
-    },
-    {
-      "story_id": "story_9fd2d6d4a7de",
-      "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-      "url": "https://www.aibase.com/news/30323",
-      "primary_url": "https://www.aibase.com/news/30323",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
-          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "title_en": null,
-          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "summary": null,
-          "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
-          "url": "https://www.aibase.com/news/30323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T10:29:47.585772Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
-          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "title_en": null,
-          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-          "summary": null,
-          "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
-          "url": "https://www.aibase.com/news/30323",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-13T10:29:47.585772Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9528,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-13T10:29:47.585772Z",
-      "latest_at": "2026-08-13T10:29:47.585772Z",
-      "primary_item": {
-        "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
-        "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-        "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-        "title_en": null,
-        "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
-        "summary": null,
-        "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
-        "url": "https://www.aibase.com/news/30323",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "性价比直接拉满，跑批量任务或做产品选型的今天就能换。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -810,15 +556,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7589,
-      "importance": 0.7589,
-      "importance_score": 0.7589,
+      "score": 0.7558,
+      "importance": 0.7558,
+      "importance_score": 0.7558,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.8177,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,7 +592,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
+      }
+    },
+    {
+      "story_id": "story_9fd2d6d4a7de",
+      "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+      "url": "https://www.aibase.com/news/30323",
+      "primary_url": "https://www.aibase.com/news/30323",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_en": null,
+          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "summary": null,
+          "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
+          "url": "https://www.aibase.com/news/30323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T10:29:47.585772Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+          "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "title_en": null,
+          "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+          "summary": null,
+          "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
+          "url": "https://www.aibase.com/news/30323",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T10:29:47.585772Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9331,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T10:29:47.585772Z",
+      "latest_at": "2026-08-13T10:29:47.585772Z",
+      "primary_item": {
+        "id": "5c0b0700ee96f06bf9ffc1bf4fd8553d4c589199",
+        "title": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "title_zh": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "title_en": null,
+        "title_original": "Grok 4.6 发布即登顶性价比榜：智能指数追平 GPT-5.6 Sol，定价却便宜 60% 以上",
+        "summary": null,
+        "recommend_reason_zh": "Grok 4.6在AI Intelligence Index拿下61分，追平GPT-5.6 Sol (Max)，仅次于Claude Opus 5，且定价便宜超60%，揭秘其基于Grok 4.5的数据循环与智能体强化学习训练路径。",
+        "url": "https://www.aibase.com/news/30323",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "性价比直接拉满，跑批量任务或做产品选型的今天就能换。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -894,15 +724,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7504,
+        "recency": 0.7349,
         "story_heat": 0.0
       },
       "category": "official",
@@ -930,7 +760,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
+      }
+    },
+    {
+      "story_id": "story_829dd1cf861d",
+      "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+      "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "primary_url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+      "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+          "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T14:04:55Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：硅基流动 SiliconFlow (@SiliconFlowAI)"
+      ],
+      "items": [
+        {
+          "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+          "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+          "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+          "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+          "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-13T14:04:55Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9827,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-13T14:04:55Z",
+      "latest_at": "2026-08-13T14:04:55Z",
+      "primary_item": {
+        "id": "57f7ab398e64890a13536741b20d63a15c0e39b7",
+        "title": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线 / 🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+        "title_zh": "Qwen3.8-2.4T-A95B 开源，硅基流动即日上线",
+        "title_en": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+        "title_original": "🚀 Day-0 Support！ @Alibaba_Qwen has open-sourced Qwen3.8-2.4T-A95B - and it's now live on SiliconFlo…",
+        "summary": "阿里开源 Qwen3.8-2.4T-A95B，硅基流动已提供 Day-0 支持。该模型拥有 2.4T 参数、95B 激活参数，主打自主编码、深度研究与端到端智能体执行。API 定价为输入 $2.00/百万 token，输出 $6.00/百万 token，缓存输入 $0.25/百万 token。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/SiliconFlowAI/status/2087903227224412222",
+        "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "开源模型当天上线API，直接能跑，省去部署成本，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -978,15 +891,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9884,
+        "recency": 0.968,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,7 +926,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1061,15 +974,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,7 +1010,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1145,15 +1058,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7312,
+        "recency": 0.7161,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1180,7 +1093,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1228,15 +1141,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8743,
+        "recency": 0.8562,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,7 +1176,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1311,15 +1224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9528,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1347,90 +1260,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
-      }
-    },
-    {
-      "story_id": "story_0fb31292652d",
-      "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3f1affef47eccb197015c754fbe659ea4c1bd736",
-          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-          "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-          "title_en": null,
-          "title_original": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-          "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T22:22:28Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "3f1affef47eccb197015c754fbe659ea4c1bd736",
-          "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-          "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-          "title_en": null,
-          "title_original": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-          "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-12T22:22:28Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7226,
-      "importance": 0.7226,
-      "importance_score": 0.7226,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7998,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-12T22:22:28Z",
-      "latest_at": "2026-08-12T22:22:28Z",
-      "primary_item": {
-        "id": "3f1affef47eccb197015c754fbe659ea4c1bd736",
-        "title": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-        "title_zh": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-        "title_en": null,
-        "title_original": "DeepSeek V4 Pro与Grok 4.6同日发布，双双逼近Claude Fable 5体验",
-        "summary": "DeepSeek V4 Pro正式版与Grok 4.6在2小时内先后发布，均为1.6T/1.5T参数模型，逼近Claude Fable 5体验。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647685175&idx=1&sn=64c383b5b757945397894270c5f38301",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "新模型发布但未提开放情况，先看API和价格再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1478,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1514,7 +1344,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1620,15 +1450,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6628,
-      "importance": 0.6628,
-      "importance_score": 0.6628,
+      "score": 0.6599,
+      "importance": 0.6599,
+      "importance_score": 0.6599,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.8006,
+        "recency": 0.7841,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1656,7 +1486,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     },
     {
@@ -1704,15 +1534,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9291,
+        "recency": 0.9099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1740,7 +1570,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-13T14:15:45.126425Z"
+        "scored_at": "2026-08-13T15:34:46.778778Z"
+      }
+    },
+    {
+      "story_id": "story_9b3747a8d29a",
+      "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+      "url": "https://www.aibase.com/news/30318",
+      "primary_url": "https://www.aibase.com/news/30318",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic被曝拟10月上市，目标估值超2万亿美元，若成行将超越SpaceX的1.77万亿美元，成为史上最大IPO。其年化收入已超470亿美元，预计2026年底达1000亿至1200亿美元。",
+          "url": "https://www.aibase.com/news/30318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:45:11.248860Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+          "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic被曝拟10月上市，目标估值超2万亿美元，若成行将超越SpaceX的1.77万亿美元，成为史上最大IPO。其年化收入已超470亿美元，预计2026年底达1000亿至1200亿美元。",
+          "url": "https://www.aibase.com/news/30318",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:45:11.248860Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9099,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T08:45:11.248860Z",
+      "latest_at": "2026-08-13T08:45:11.248860Z",
+      "primary_item": {
+        "id": "3197e6ef65cc3c1880bb7b41008ab7699d038dd8",
+        "title": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+        "title_zh": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+        "title_en": null,
+        "title_original": "Anthropic被曝拟10月上市，目标估值或超2万亿美元",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic被曝拟10月上市，目标估值超2万亿美元，若成行将超越SpaceX的1.77万亿美元，成为史上最大IPO。其年化收入已超470亿美元，预计2026年底达1000亿至1200亿美元。",
+        "url": "https://www.aibase.com/news/30318",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "上市估值是资本故事，不写代码。等产品定价和API变化再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T15:34:46.778778Z"
+      }
+    },
+    {
+      "story_id": "story_2ee15bae6450",
+      "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+      "url": "https://www.aibase.com/news/30316",
+      "primary_url": "https://www.aibase.com/news/30316",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
+          "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+          "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+          "title_en": null,
+          "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+          "summary": null,
+          "recommend_reason_zh": "CodeBuddy 宣布 WorkBuddy 及 CodeBuddy IDE、插件、CLI 全系升级至 DeepSeek-V4-Pro 正式版，并预告 V4 系列即将调价，建议开发者趁当前窗口期规划部署。",
+          "url": "https://www.aibase.com/news/30316",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:45:11.248860Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
+          "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+          "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+          "title_en": null,
+          "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+          "summary": null,
+          "recommend_reason_zh": "CodeBuddy 宣布 WorkBuddy 及 CodeBuddy IDE、插件、CLI 全系升级至 DeepSeek-V4-Pro 正式版，并预告 V4 系列即将调价，建议开发者趁当前窗口期规划部署。",
+          "url": "https://www.aibase.com/news/30316",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-13T08:45:11.248860Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9099,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-13T08:45:11.248860Z",
+      "latest_at": "2026-08-13T08:45:11.248860Z",
+      "primary_item": {
+        "id": "367ec611375e285ef603f0456a638574a3fcbf6a",
+        "title": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+        "title_zh": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+        "title_en": null,
+        "title_original": "CodeBuddy全系产品升级至DeepSeek-V4-Pro正式版",
+        "summary": null,
+        "recommend_reason_zh": "CodeBuddy 宣布 WorkBuddy 及 CodeBuddy IDE、插件、CLI 全系升级至 DeepSeek-V4-Pro 正式版，并预告 V4 系列即将调价，建议开发者趁当前窗口期规划部署。",
+        "url": "https://www.aibase.com/news/30316",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "CodeBuddy换新模型，写代码的能直接体验，但具体提升还得实测。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-13T15:34:46.778778Z"
       }
     }
   ]
