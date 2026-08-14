@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T10:36:45.133455Z",
+  "generated_at": "2026-08-14T12:18:11.500161Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_804890f5e6d9",
-      "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "story_id": "story_9ad9c9918d73",
+      "title": "Gemini 3.7 Flash 现已登陆 GitHub Copilot / Gemini 3.7 Flash is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-08-13-gemini-3-7-flash-is-now-available-in-github-copilot",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "Agent 增强是实打实，但'大幅'这词得看基准，别又是自家旧版。"
+          "score": 70,
+          "review": "模型进IDE不稀奇，关键是别把Copilot当免费算力池。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方更新日志宣称增强，无论文无代码无评测，证据不足。"
+          "score": 45,
+          "review": "官方公告有细节但无评测，等代码或第三方验证。"
         },
         "pragmatic": {
-          "score": 88,
-          "review": "Agent 能力增强，API 已上线，做 Agent 的今天就能换模型试。"
+          "score": 85,
+          "review": "Copilot 里直接换模型，写代码能省 token，今天就能切。"
         }
       }
     }
