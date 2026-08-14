@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T06:57:45.088121Z",
+  "generated_at": "2026-08-14T08:59:43.454435Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_a55195371b1b",
+      "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
+      "url": "https://www.aibase.com/news/30358",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "百万上下文和低价缓存是实打实的，但三档推理强度听着像套餐营销。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "仅媒体宣称，无论文代码评测，价格可信度待验证。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "缓存价低到能直接换，长上下文任务今天就能在硅基流动跑起来。"
+        }
+      }
+    },
+    {
       "story_id": "story_804890f5e6d9",
       "title": "DeepSeek-V4-Pro 正式版上线，Agent 能力大幅增强",
       "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "Agent 能力增强，API 已上线，做 Agent 的今天就能换模型试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_3fd84efeedff",
-      "title": "GPT-5.6 构建者指南：如何以更低成本实现前沿智能体性能 / The builder’s guide to GPT‑5.6",
-      "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "降本增效是真的，但'前沿'二字得看基线，别急着高潮。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方博客指南，无论文无代码无评测，性能数字无从验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "官方指南直接给降本方案，做智能体的今天就能照着调。"
         }
       }
     }
