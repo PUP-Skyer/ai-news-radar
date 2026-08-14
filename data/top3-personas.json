@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T16:23:15.035352Z",
+  "generated_at": "2026-08-14T17:29:36.707545Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_230b99496aae",
-      "title": "Google DeepMind 推出 Gemini 3.7 Flash：面向编程与智能体的最强工作模型 / Introducing Gemini 3.7 Flash",
-      "url": "https://deepmind.google/blog/introducing-gemini-3-7-flash",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 78,
-          "review": "编程和智能体确实能打，但'最强'这词儿，先让基准测试别挑食。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客宣称性能，无论文无代码无第三方评测，等复现再定论。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "新模型已发布，编程和智能体场景今天就能试，API 文档直接看。"
-        }
-      }
-    },
-    {
       "story_id": "story_a5a9de1a4652",
       "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
       "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -60,7 +40,7 @@
       "story_id": "story_a55195371b1b",
       "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
       "url": "https://www.aibase.com/news/30358",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 88,
           "review": "缓存价低到能直接换，长上下文任务今天就能在硅基流动跑起来。"
+        }
+      }
+    },
+    {
+      "story_id": "story_203ecf6e9943",
+      "title": "如何借助Agent apps将软件交付工作流迁移到GitHub / How to bring your software delivery workflow into GitHub with agent apps",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "GitHub 又画饼，agent apps 听着玄乎，先看看能不能真把 CI/CD 跑顺。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节无代码，迁移流程待复现，缺独立验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "GitHub官方方案，迁移工作流可参考，但需看具体适配成本。"
         }
       }
     }
