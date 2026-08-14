@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T15:27:00.083105Z",
+  "generated_at": "2026-08-14T16:23:15.035352Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_a5a9de1a4652",
+      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
+      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "开源权重是实打实的，但27B的‘原生多模态’别又是挑着demo吹。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅官方推文宣称开源，无论文无代码链接，缺实测证据。"
+        },
+        "pragmatic": {
+          "score": 90,
+          "review": "开源权重直接可下，多模态27B今天就能跑，动手党别错过。"
+        }
+      }
+    },
+    {
       "story_id": "story_a55195371b1b",
       "title": "DeepSeek V4 Pro 登陆硅基流动：百万级上下文窗口配三档推理强度，缓存命中每百万 token 只要 0.44 美元",
       "url": "https://www.aibase.com/news/30358",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 88,
           "review": "缓存价低到能直接换，长上下文任务今天就能在硅基流动跑起来。"
-        }
-      }
-    },
-    {
-      "story_id": "story_02bf18388430",
-      "title": "DeepSeek V4 Pro 登陆硅基流动，1M 上下文 / This time， it's official. DeepSeek V4 Pro just landed. 🚀 @deepseek_ai DeepSeek-V4-Pro-0813 is now l…",
-      "url": "https://x.com/SiliconFlowAI/status/2088127458558271885",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "1M上下文听着唬人，先跑个长文档检索基准再说，别又是营销号狂欢。"
-        },
-        "paper-police": {
-          "score": 10,
-          "review": "仅一条推文宣称发布，无论文无代码无评测，证据为零。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "1M上下文直接可用，长文档和Agent场景今天就能换，赶紧测。"
         }
       }
     }
