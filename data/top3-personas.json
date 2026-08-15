@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:47:53.320860Z",
+  "generated_at": "2026-08-15T16:57:11.534200Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_3ded9ed73b65",
-      "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "进 Copilot 是好事，但别指望它帮你写代码不翻车。"
-        },
-        "paper-police": {
-          "score": 65,
-          "review": "官方博客宣布集成，无模型细节或评测，缺独立验证，证据中等。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "写代码的今天就能在 Copilot 里切模型，白嫖新能力，值得一试。"
-        }
-      }
-    },
-    {
       "story_id": "story_e27bfcf013b4",
       "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
       "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_b8125cc46db3",
       "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
       "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "水印机制影响AI文本检测，做内容审核或合规的今天就得看。"
+        }
+      }
+    },
+    {
+      "story_id": "story_d572412cd374",
+      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
+      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "232倍提升听着唬人，但没给基线配置和复现细节，水分得自己挤。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "博客宣称提速232倍，无论文无代码，仅个人叙述，待复现验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Codex 自动研究提速 232 倍是具体案例，可参考其流程，但需自行验证复现。"
         }
       }
     }
