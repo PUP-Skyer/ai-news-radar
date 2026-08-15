@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:40:50.788584Z",
+  "generated_at": "2026-08-15T01:51:55.799297Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
+      "score": 0.8368,
+      "importance": 0.8368,
+      "importance_score": 0.8368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8989,
+        "recency": 0.8709,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8342,
-      "importance": 0.8342,
-      "importance_score": 0.8342,
+      "score": 0.8289,
+      "importance": 0.8289,
+      "importance_score": 0.8289,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9398,
+        "recency": 0.9106,
         "story_heat": 0.5
       },
       "category": "official",
@@ -228,122 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
-      }
-    },
-    {
-      "story_id": "story_0276dc6b6132",
-      "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "primary_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": null,
-          "recommend_reason_zh": "2026年夏季开源模型报告显示，模型库半年增至296万，中国实验室月度最大参数达2.78T，AMD与NVIDIA各发布超200个新模型，解析Qwen成社区基座。",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": "2026年夏季开源模型报告显示中国实验室月最大模型达2.78万亿参数，美国五个月低于1300亿；Qwen成社区基座，AMD与NVIDIA各发布超200个模型仓库，小模型仍是实用层。",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models: Summer 2026 Observations",
-          "title_original": "State of Open Models: Summer 2026 Observations",
-          "summary": null,
-          "recommend_reason_zh": "2026年夏季开源模型报告显示，模型库半年增至296万，中国实验室月度最大参数达2.78T，AMD与NVIDIA各发布超200个新模型，解析Qwen成社区基座。",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T00:00:00Z"
-        },
-        {
-          "id": "030a229abe0fb0d1c5720cf82ffdce5bc90379c4",
-          "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models： Summer 2026 Observations",
-          "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-          "title_en": "State of Open Models： Summer 2026 Observations",
-          "title_original": "State of Open Models： Summer 2026 Observations",
-          "summary": "2026年1至8月，Hugging Face公开模型仓库从243万增至296万，但85.6%的模型下载量不足200次，1.5%的仓库占据99.2%下载量。中国实验室月度最大开源模型参数规模在754B至2.78万亿之间，美国实验室七个月中五个月低于130B。AMD与NVIDIA各发布超200个新模型仓库，成为发布开源模型最多的机构。",
-          "recommend_reason_zh": "2026年夏季开源模型报告显示中国实验室月最大模型达2.78万亿参数，美国五个月低于1300亿；Qwen成社区基座，AMD与NVIDIA各发布超200个模型仓库，小模型仍是实用层。",
-          "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7104,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T00:00:00Z",
-      "latest_at": "2026-08-14T00:00:00Z",
-      "primary_item": {
-        "id": "5cb7bd528d053cbf111887875eb8aa6f728e8205",
-        "title": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量 / State of Open Models: Summer 2026 Observations",
-        "title_zh": "2026年夏季开源模型生态观察：中国前沿模型规模领先，AMD与NVIDIA主导发布量",
-        "title_en": "State of Open Models: Summer 2026 Observations",
-        "title_original": "State of Open Models: Summer 2026 Observations",
-        "summary": null,
-        "recommend_reason_zh": "2026年夏季开源模型报告显示，模型库半年增至296万，中国实验室月度最大参数达2.78T，AMD与NVIDIA各发布超200个新模型，解析Qwen成社区基座。",
-        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 70,
-      "persona_review": "生态格局参考，选型前扫一眼，但无即用工具。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -391,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.895,
+        "recency": 0.8672,
         "story_heat": 0.0
       },
       "category": "official",
@@ -428,7 +313,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -445,7 +330,7 @@
           "title_zh": "OAuth 应用支持多个重定向 URI 和令牌刷新",
           "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
           "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nWe’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development:\nOAuth apps can now request a short-lived token during the user authentication flow. If an app opts in, they get an access token that lives for eight hours and a refresh token that’s valid for six months.",
+          "summary": null,
           "recommend_reason_zh": "GitHub更新OAuth与GitHub App平台：OAuth应用可选用8小时短期访问令牌和6个月刷新令牌，最多注册10个redirect URI，并支持通配符匹配；这些改进已纳入GitHub Enterprise Server 3.23。",
           "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
@@ -465,7 +350,7 @@
           "title_zh": "OAuth 应用支持多个重定向 URI 和令牌刷新",
           "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
           "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nWe’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development:\nOAuth apps can now request a short-lived token during the user authentication flow. If an app opts in, they get an access token that lives for eight hours and a refresh token that’s valid for six months.",
+          "summary": null,
           "recommend_reason_zh": "GitHub更新OAuth与GitHub App平台：OAuth应用可选用8小时短期访问令牌和6个月刷新令牌，最多注册10个redirect URI，并支持通配符匹配；这些改进已纳入GitHub Enterprise Server 3.23。",
           "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
           "source": "GitHub Changelog",
@@ -476,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8415,
-      "importance": 0.8415,
-      "importance_score": 0.8415,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9863,
+        "recency": 0.9557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -501,7 +386,7 @@
         "title_zh": "OAuth 应用支持多个重定向 URI 和令牌刷新",
         "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
         "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-        "summary": "We’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development: OAuth apps can opt in to expiring access tokens and refresh tokens.…\nWe’ve released multiple updates to the OAuth app and GitHub App platforms to support more secure app development:\nOAuth apps can now request a short-lived token during the user authentication flow. If an app opts in, they get an access token that lives for eight hours and a refresh token that’s valid for six months.",
+        "summary": null,
         "recommend_reason_zh": "GitHub更新OAuth与GitHub App平台：OAuth应用可选用8小时短期访问令牌和6个月刷新令牌，最多注册10个redirect URI，并支持通配符匹配；这些改进已纳入GitHub Enterprise Server 3.23。",
         "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
         "source": "GitHub Changelog",
@@ -513,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -561,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7594,
-      "importance": 0.7594,
-      "importance_score": 0.7594,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8378,
+        "recency": 0.8118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -597,7 +482,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -645,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -681,7 +566,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -729,15 +614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8578,
+        "recency": 0.8311,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -765,7 +650,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -842,22 +727,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8448,
+        "recency": 0.8185,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-14T12:00:00Z",
       "latest_at": "2026-08-14T17:14:04.421000Z",
@@ -879,7 +763,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -927,15 +811,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.806,
-      "importance": 0.806,
-      "importance_score": 0.806,
+      "score": 0.8019,
+      "importance": 0.8019,
+      "importance_score": 0.8019,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7447,
+        "recency": 0.7215,
         "story_heat": 0.0
       },
       "category": "official",
@@ -964,7 +848,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1012,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8828,
+        "recency": 0.8554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1047,7 +931,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1095,15 +979,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1130,7 +1014,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1178,15 +1062,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9227,
+        "recency": 0.894,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1213,7 +1097,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1261,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7693,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1296,7 +1180,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1344,15 +1228,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.7989,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1263,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1427,15 +1311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8049,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1462,7 +1346,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1510,15 +1394,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8049,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1545,7 +1429,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1622,15 +1506,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6304,
-      "importance": 0.6304,
-      "importance_score": 0.6304,
+      "score": 0.6254,
+      "importance": 0.6254,
+      "importance_score": 0.6254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.898,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1657,7 +1541,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1705,15 +1589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8049,
+        "recency": 0.7799,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1740,7 +1624,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     },
     {
@@ -1816,15 +1700,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6106,
-      "importance": 0.6106,
-      "importance_score": 0.6106,
+      "score": 0.6056,
+      "importance": 0.6056,
+      "importance_score": 0.6056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.9036,
+        "recency": 0.8755,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1851,7 +1735,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-14T23:51:25.348972Z"
+        "scored_at": "2026-08-15T02:03:53.467142Z"
+      }
+    },
+    {
+      "story_id": "story_71eae7f8ef8d",
+      "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+      "url": "https://www.aibase.com/news/30357",
+      "primary_url": "https://www.aibase.com/news/30357",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_en": null,
+          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "summary": null,
+          "recommend_reason_zh": "本文介绍百灵团队联合AReno在DGX Spark上对Ling-3.0-tiny（7.9B参数、1.3B激活）进行后训练，用井字棋任务打通单机环境下的智能体强化学习闭环，验证了本地部署模型的落地潜力。",
+          "url": "https://www.aibase.com/news/30357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T08:39:01.219226Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+          "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "title_en": null,
+          "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+          "summary": null,
+          "recommend_reason_zh": "本文介绍百灵团队联合AReno在DGX Spark上对Ling-3.0-tiny（7.9B参数、1.3B激活）进行后训练，用井字棋任务打通单机环境下的智能体强化学习闭环，验证了本地部署模型的落地潜力。",
+          "url": "https://www.aibase.com/news/30357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-14T08:39:01.219226Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.728,
+      "importance": 0.728,
+      "importance_score": 0.728,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7799,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-14T08:39:01.219226Z",
+      "latest_at": "2026-08-14T08:39:01.219226Z",
+      "primary_item": {
+        "id": "62b23d859a312442d8d155de51afd3b7e70d5535",
+        "title": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "title_zh": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "title_en": null,
+        "title_original": "告别单机模型“虚胖”：百灵团队联合AReno打通本地智能体强化学习闭环",
+        "summary": null,
+        "recommend_reason_zh": "本文介绍百灵团队联合AReno在DGX Spark上对Ling-3.0-tiny（7.9B参数、1.3B激活）进行后训练，用井字棋任务打通单机环境下的智能体强化学习闭环，验证了本地部署模型的落地潜力。",
+        "url": "https://www.aibase.com/news/30357",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "本地强化学习闭环有参考价值，但无开源或API，暂不用动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T02:03:53.467142Z"
       }
     }
   ]
