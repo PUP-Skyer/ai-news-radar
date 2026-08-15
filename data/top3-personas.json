@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:17:50.218237Z",
+  "generated_at": "2026-08-15T07:57:22.778626Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
+      "story_id": "story_5a09fec3239c",
+      "title": "DeepSeek 峰谷电价更新",
+      "url": "https://api-docs.deepseek.com/news/news260813",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "多URI和刷新是刚需，但GitHub这波更新晚了三年，竞品早玩腻了。"
+          "score": 70,
+          "review": "峰谷电价是实在的省钱招，但宣传里没提限时和地区限制，水分得自己挤。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节，无代码无评测，仅凭公告难证价值。"
+          "score": 20,
+          "review": "官方公告无论文代码，仅调价信息，缺技术证据，难评实质进展。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "OAuth 多回调地址和刷新令牌直接省事，做 GitHub 集成的今天就能改。"
+          "score": 85,
+          "review": "DeepSeek API 峰谷电价更新，夜间调用成本降低，批量任务可错峰省钱。"
         }
       }
     }
