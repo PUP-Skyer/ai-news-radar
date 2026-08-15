@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:51:13.971492Z",
+  "generated_at": "2026-08-15T15:47:53.320860Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_cec2fecb0919",
-      "title": "Qwen 3.8 27B推出FP8量化模型，性能与原版相当",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "story_id": "story_b8125cc46db3",
+      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
+      "url": "https://www.anthropic.com/news/claude-text-watermark",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 75,
-          "review": "FP8量化能保住性能算良心，但'相当'这词水分大，跑分细节敢晒吗？"
+          "score": 72,
+          "review": "水印技术本身扎实，但宣传里藏着'检测率99.9%'的特定条件，别急着欢呼。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "模型页给了量化细节和对比数字，但无论文无代码，等第三方复现。"
+          "score": 70,
+          "review": "官方博客详述机制但无论文代码，缺独立验证，等复现再提分。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "FP8量化直接省显存，27B能跑更低配卡，部署成本立降。"
+          "score": 72,
+          "review": "水印机制影响AI文本检测，做内容审核或合规的今天就得看。"
         }
       }
     }
