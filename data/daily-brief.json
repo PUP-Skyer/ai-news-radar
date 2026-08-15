@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:41:56.121296Z",
+  "generated_at": "2026-08-15T11:36:25.503502Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7666,
+        "recency": 0.7566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -191,15 +191,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8015,
+        "recency": 0.7911,
         "story_heat": 0.5
       },
       "category": "official",
@@ -228,7 +228,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -276,15 +276,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7634,
+        "recency": 0.7534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -313,7 +313,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -361,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8154,
-      "importance": 0.8154,
-      "importance_score": 0.8154,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8413,
+        "recency": 0.8303,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,90 +398,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
-      "story_id": "story_5634b0a754f6",
-      "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-      "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-      "source": "公众号：小红书技术（dots.llm）",
+      "story_id": "story_e50ea4ab6859",
+      "title": "AI生成的书正淹没亚马逊，导致人类作者销量大跌 / AI-generated books are flooding Amazon and tanking sales for human authors",
+      "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "primary_url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+      "source": "The Decoder：AI News（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI生成的书正淹没亚马逊，导致人类作者销量大跌 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_zh": "AI生成的书正淹没亚马逊，导致人类作者销量大跌",
+          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm data their cases against AI companies have been missing.\nAI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is droppin",
+          "recommend_reason_zh": "新研究分析Amazon 1.4万本自出版书发现，AI生成书籍占目录20%却仅带来12.1%销售额，且八个类型中七个的人类作者单书收入下滑，为AI版权案提供市场损害数据。",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
+          "published_at": "2026-08-15T11:00:50Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：小红书技术（dots.llm）"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-          "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "title_en": null,
-          "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-          "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-          "source": "公众号：小红书技术（dots.llm）",
+          "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+          "title": "AI生成的书正淹没亚马逊，导致人类作者销量大跌 / AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_zh": "AI生成的书正淹没亚马逊，导致人类作者销量大跌",
+          "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+          "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm data their cases against AI companies have been missing.\nAI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is droppin",
+          "recommend_reason_zh": "新研究分析Amazon 1.4万本自出版书发现，AI生成书籍占目录20%却仅带来12.1%销售额，且八个类型中七个的人类作者单书收入下滑，为AI版权案提供市场损害数据。",
+          "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+          "source": "The Decoder：AI News（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-08-14T11:25:29Z"
+          "published_at": "2026-08-15T11:00:50Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7601,
+      "importance": 0.7601,
+      "importance_score": 0.7601,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.79,
+        "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7146,
+        "recency": 0.9915,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-14T11:25:29Z",
-      "latest_at": "2026-08-14T11:25:29Z",
+      "earliest_at": "2026-08-15T11:00:50Z",
+      "latest_at": "2026-08-15T11:00:50Z",
       "primary_item": {
-        "id": "a059b7702912fcb0e95b0fff5d2a7da4864b1da9",
-        "title": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_zh": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "title_en": null,
-        "title_original": "dots3-note Preview 开源：280B 参数轻量模型，主打长程智能体与多模态推理",
-        "summary": "小红书技术开源 dots3-note Preview，这是 dots3 系列最轻量模型，总参数 280B、激活参数 16B，支持 512K 上下文及文本、视觉、语音多模态理解，并针对复杂推理和长程 Agent 任务优化。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=Mzg4OTc2MzczNg%3D%3D&mid=2247496140&idx=1&sn=5239a5fbb115c58d2ae0056bb32789ff",
-        "source": "公众号：小红书技术（dots.llm）",
+        "id": "d7799803fcf09767f5fac7c966f8170274cdec44",
+        "title": "AI生成的书正淹没亚马逊，导致人类作者销量大跌 / AI-generated books are flooding Amazon and tanking sales for human authors",
+        "title_zh": "AI生成的书正淹没亚马逊，导致人类作者销量大跌",
+        "title_en": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "title_original": "AI-generated books are flooding Amazon and tanking sales for human authors",
+        "summary": "AI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is dropping for human-written titles too, in seven of eight genres. The findings could give copyright plaintiffs the market-harm data their cases against AI companies have been missing.\nAI-generated books make up 20 percent of Amazon's self-published catalog but bring in only 12 percent of sales. A new study finds that revenue per book is droppin",
+        "recommend_reason_zh": "新研究分析Amazon 1.4万本自出版书发现，AI生成书籍占目录20%却仅带来12.1%销售额，且八个类型中七个的人类作者单书收入下滑，为AI版权案提供市场损害数据。",
+        "url": "https://the-decoder.com/ai-generated-books-are-flooding-amazon-and-tanking-sales-for-human-authors",
+        "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "280B开源模型能跑长程任务，但先看显存和推理成本再决定是否上手。",
+      "persona_score": 45,
+      "persona_review": "对开发者无直接影响，但做出版AI工具的可关注市场变化。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -529,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7343,
-      "importance": 0.7343,
-      "importance_score": 0.7343,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7316,
+        "recency": 0.722,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -564,7 +565,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -612,15 +613,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
+      "score": 0.7322,
+      "importance": 0.7322,
+      "importance_score": 0.7322,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7465,
+        "recency": 0.7368,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -647,7 +648,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -724,15 +725,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.7286,
+      "importance": 0.7286,
+      "importance_score": 0.7286,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7205,
+        "recency": 0.7111,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -760,90 +761,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
-      }
-    },
-    {
-      "story_id": "story_a5a9de1a4652",
-      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_zh": "通义千问开源 Qwen3.8 系列模型",
-          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-          "recommend_reason_zh": "Qwen3.8-27B是27B参数的原生多模态模型，整体超越Qwen3.7-Plus，编码办公表现亮眼，262K上下文可扩至1M，开放权重已兑现。",
-          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-          "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_zh": "通义千问开源 Qwen3.8 系列模型",
-          "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-          "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-          "recommend_reason_zh": "Qwen3.8-27B是27B参数的原生多模态模型，整体超越Qwen3.7-Plus，编码办公表现亮眼，262K上下文可扩至1M，开放权重已兑现。",
-          "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-14T15:02:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7529,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-14T15:02:48Z",
-      "latest_at": "2026-08-14T15:02:48Z",
-      "primary_item": {
-        "id": "ef74b668854b5a5fd23bf9ef2f74ec6cf633a6ad",
-        "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "title_zh": "通义千问开源 Qwen3.8 系列模型",
-        "title_en": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "title_original": "We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-        "summary": "通义千问兑现承诺，开源 Qwen3.8 系列模型。其中 Qwen3.8-27B 为原生多模态稠密模型，仅 27B 参数即全面超越 Qwen3.7-Plus，原生支持 262K 上下文，可通过 YaRN 扩展至 1M tokens，采用 Apache 2.0 许可。Max 级 Qwen3.8-2.4T-A95B 的开放权重也已同步发布。",
-        "recommend_reason_zh": "Qwen3.8-27B是27B参数的原生多模态模型，整体超越Qwen3.7-Plus，编码办公表现亮眼，262K上下文可扩至1M，开放权重已兑现。",
-        "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 90,
-      "persona_review": "开源权重直接可下，多模态27B今天就能跑，动手党别错过。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -920,15 +838,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6066,
-      "importance": 0.6066,
-      "importance_score": 0.6066,
+      "score": 0.6048,
+      "importance": 0.6048,
+      "importance_score": 0.6048,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7659,
+        "recency": 0.7559,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -955,7 +873,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -1031,15 +949,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5867,
-      "importance": 0.5867,
-      "importance_score": 0.5867,
+      "score": 0.5849,
+      "importance": 0.5849,
+      "importance_score": 0.5849,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5112,
         "source_tier": 0.58,
         "ai_relevance": 0.71,
-        "recency": 0.7707,
+        "recency": 0.7606,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1066,119 +984,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
-      "story_id": "story_9b3a42a6069d",
-      "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "url": "https://news.ycombinator.com/item?id=49308553",
-      "primary_url": "https://news.ycombinator.com/item?id=49308553",
+      "story_id": "story_e4e112615ce7",
+      "title": "Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+      "url": "https://news.ycombinator.com/item?id=49309050",
+      "primary_url": "https://news.ycombinator.com/item?id=49309050",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
-          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": null,
-          "recommend_reason_zh": "男子怀疑法庭用AI审案，竟在诉讼文件中注入提示词试图影响判决，并质疑LexisNexis这类AI公司对司法系统的直接操控力，点出其总部实际在纽约而非硅谷。",
-          "url": "https://news.ycombinator.com/item?id=49308553",
+          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+          "title": "Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 开始就 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+          "summary": "reply\nChoice 7 says \"The proposal does not cover indirect contributions, i.e. those originating from upstream works.\". It's only making requirements on Debian work specifically. Choice 8 says \"We also acknowledge that LLM usage can be hard if not impossible to detect and that Debian as a distribution cannot really impose LLM policies on other projects we package and distribute. Therefore this text is just a position statement.\" It doesn't impose any requirements at all on anybody, even for debia",
+          "recommend_reason_zh": "Debian正就AI/LLM贡献政策投票，选项包括不约束上游间接贡献、仅作立场声明，并承认LLM使用几乎无法检测，还讨论了版权风险与99.99%开源项目的现实。",
+          "url": "https://news.ycombinator.com/item?id=49309050",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T09:21:23.610000Z"
+          "published_at": "2026-08-15T11:38:13.162000Z"
         },
         {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
-          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "title": "Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 开始就 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
           "summary": null,
-          "recommend_reason_zh": "康涅狄格法官Walter Spader Jr.首次发现原告Matthew Elliott以白底白字隐藏提示词，试图向AI植入指令赢得诉讼；但该州法院不用AI，他最终被认定严重滥用诉讼并遭制裁。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T07:31:46Z"
+          "recommend_reason_zh": null,
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
-          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "summary": null,
-          "recommend_reason_zh": "男子怀疑法庭用AI审案，竟在诉讼文件中注入提示词试图影响判决，并质疑LexisNexis这类AI公司对司法系统的直接操控力，点出其总部实际在纽约而非硅谷。",
-          "url": "https://news.ycombinator.com/item?id=49308553",
+          "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+          "title": "Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 开始就 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+          "summary": "reply\nChoice 7 says \"The proposal does not cover indirect contributions, i.e. those originating from upstream works.\". It's only making requirements on Debian work specifically. Choice 8 says \"We also acknowledge that LLM usage can be hard if not impossible to detect and that Debian as a distribution cannot really impose LLM policies on other projects we package and distribute. Therefore this text is just a position statement.\" It doesn't impose any requirements at all on anybody, even for debia",
+          "recommend_reason_zh": "Debian正就AI/LLM贡献政策投票，选项包括不约束上游间接贡献、仅作立场声明，并承认LLM使用几乎无法检测，还讨论了版权风险与99.99%开源项目的现实。",
+          "url": "https://news.ycombinator.com/item?id=49309050",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T09:21:23.610000Z"
+          "published_at": "2026-08-15T11:38:13.162000Z"
         },
         {
-          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
-          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
-          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "id": "6d0b897897483914c3e12234f6b9757a33d2c3ae",
+          "title": "Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+          "title_zh": "Debian 开始就 AI/LLM 贡献的未来进行投票",
+          "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+          "title_original": "Debian has begun voting on the future of AI/LLM contributions",
           "summary": null,
-          "recommend_reason_zh": "康涅狄格法官Walter Spader Jr.首次发现原告Matthew Elliott以白底白字隐藏提示词，试图向AI植入指令赢得诉讼；但该州法院不用AI，他最终被认定严重滥用诉讼并遭制裁。",
-          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T07:31:46Z"
+          "recommend_reason_zh": null,
+          "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T09:20:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9808,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T07:31:46Z",
-      "latest_at": "2026-08-15T09:21:23.610000Z",
+      "earliest_at": "2026-08-15T09:20:07Z",
+      "latest_at": "2026-08-15T11:38:13.162000Z",
       "primary_item": {
-        "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
-        "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
-        "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "summary": null,
-        "recommend_reason_zh": "男子怀疑法庭用AI审案，竟在诉讼文件中注入提示词试图影响判决，并质疑LexisNexis这类AI公司对司法系统的直接操控力，点出其总部实际在纽约而非硅谷。",
-        "url": "https://news.ycombinator.com/item?id=49308553",
+        "id": "94f2e65cd326a0283f944003ccb96821966d0bff",
+        "title": "Debian 开始就 AI/LLM 贡献的未来进行投票 / Debian has begun voting on the future of AI/LLM contributions",
+        "title_zh": "Debian 开始就 AI/LLM 贡献的未来进行投票",
+        "title_en": "Debian has begun voting on the future of AI/LLM contributions",
+        "title_original": "Debian has begun voting on the future of AI/LLM contributions",
+        "summary": "reply\nChoice 7 says \"The proposal does not cover indirect contributions, i.e. those originating from upstream works.\". It's only making requirements on Debian work specifically. Choice 8 says \"We also acknowledge that LLM usage can be hard if not impossible to detect and that Debian as a distribution cannot really impose LLM policies on other projects we package and distribute. Therefore this text is just a position statement.\" It doesn't impose any requirements at all on anybody, even for debia",
+        "recommend_reason_zh": "Debian正就AI/LLM贡献政策投票，选项包括不约束上游间接贡献、仅作立场声明，并承认LLM使用几乎无法检测，还讨论了版权风险与99.99%开源项目的现实。",
+        "url": "https://news.ycombinator.com/item?id=49309050",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 30,
-      "persona_review": "行为艺术式对抗，对开发者无实操价值，看个乐。",
+      "persona_score": 45,
+      "persona_review": "投票结果影响 Debian 打包政策，短期不碍事，等结论再动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -1284,15 +1202,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8357,
+        "recency": 0.8248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1319,7 +1237,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -1425,15 +1343,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8015,
+        "recency": 0.791,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1460,7 +1378,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -1566,15 +1484,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5285,
-      "importance": 0.5285,
-      "importance_score": 0.5285,
+      "score": 0.5268,
+      "importance": 0.5268,
+      "importance_score": 0.5268,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7653,
+        "recency": 0.7553,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1601,7 +1519,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -1627,7 +1545,7 @@
           "published_at": "2026-08-15T02:42:14Z"
         },
         {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
           "title": "Show HN: Deltix – AI驱动的测试 / Show HN: Deltix – AI Driven Testing",
           "title_zh": "Show HN: Deltix – AI驱动的测试",
           "title_en": "Show HN: Deltix – AI Driven Testing",
@@ -1635,16 +1553,16 @@
           "summary": null,
           "recommend_reason_zh": "Deltix用自然语言描述任务，AI代理在Mac模拟器上运行测试，判断真实用户能否完成；成功流程保存为Playbook，可在CI重放，免费无信用卡无邀请。",
           "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T02:42:14Z"
         }
       ],
       "source_count": 2,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
@@ -1662,7 +1580,7 @@
           "published_at": "2026-08-15T02:42:14Z"
         },
         {
-          "id": "8b505a81e3065b1d92b7679c3db0826cae05db8a",
+          "id": "e205e722bde4dc4eca5649c78b23bcab4873c0e7",
           "title": "Show HN: Deltix – AI驱动的测试 / Show HN: Deltix – AI Driven Testing",
           "title_zh": "Show HN: Deltix – AI驱动的测试",
           "title_en": "Show HN: Deltix – AI Driven Testing",
@@ -1670,23 +1588,23 @@
           "summary": null,
           "recommend_reason_zh": "Deltix用自然语言描述任务，AI代理在Mac模拟器上运行测试，判断真实用户能否完成；成功流程保存为Playbook，可在CI重放，免费无信用卡无邀请。",
           "url": "https://app.deltix.ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T02:42:14Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.891,
+        "recency": 0.8794,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1713,7 +1631,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -1790,15 +1708,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8199,
+        "recency": 0.8092,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1825,44 +1743,44 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
-      "story_id": "story_b004ea508d1a",
-      "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-      "url": "https://news.ycombinator.com/item?id=49307700",
-      "primary_url": "https://news.ycombinator.com/item?id=49307700",
+      "story_id": "story_9b3a42a6069d",
+      "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "url": "https://news.ycombinator.com/item?id=49308553",
+      "primary_url": "https://news.ycombinator.com/item?id=49308553",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
+          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49307700",
+          "recommend_reason_zh": "男子怀疑法庭用AI审案，竟在诉讼文件中注入提示词试图影响判决，并质疑LexisNexis这类AI公司对司法系统的直接操控力，点出其总部实际在纽约而非硅谷。",
+          "url": "https://news.ycombinator.com/item?id=49308553",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T07:00:28.808000Z"
+          "published_at": "2026-08-15T09:21:23.610000Z"
         },
         {
-          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
-          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "summary": null,
-          "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，删除一条边后提示词减了47个token，回答随之改变，且桌面版内置本地引擎，无需Node或终端。",
-          "url": "https://chenxiachan.github.io/thoughtdag",
+          "recommend_reason_zh": "康涅狄格法官Walter Spader Jr.首次发现原告Matthew Elliott以白底白字隐藏提示词，试图向AI植入指令赢得诉讼；但该州法院不用AI，他最终被认定严重滥用诉讼并遭制裁。",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T04:42:07Z"
+          "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "source_count": 2,
@@ -1872,72 +1790,72 @@
       ],
       "items": [
         {
-          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
+          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49307700",
+          "recommend_reason_zh": "男子怀疑法庭用AI审案，竟在诉讼文件中注入提示词试图影响判决，并质疑LexisNexis这类AI公司对司法系统的直接操控力，点出其总部实际在纽约而非硅谷。",
+          "url": "https://news.ycombinator.com/item?id=49308553",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T07:00:28.808000Z"
+          "published_at": "2026-08-15T09:21:23.610000Z"
         },
         {
-          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
-          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
-          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "id": "af15888dbcee63ada971de5f84e713e501dc3fcf",
+          "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
+          "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
           "summary": null,
-          "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，删除一条边后提示词减了47个token，回答随之改变，且桌面版内置本地引擎，无需Node或终端。",
-          "url": "https://chenxiachan.github.io/thoughtdag",
+          "recommend_reason_zh": "康涅狄格法官Walter Spader Jr.首次发现原告Matthew Elliott以白底白字隐藏提示词，试图向AI植入指令赢得诉讼；但该州法院不用AI，他最终被认定严重滥用诉讼并遭制裁。",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T04:42:07Z"
+          "published_at": "2026-08-15T07:31:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9481,
+        "recency": 0.968,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T04:42:07Z",
-      "latest_at": "2026-08-15T07:00:28.808000Z",
+      "earliest_at": "2026-08-15T07:31:46Z",
+      "latest_at": "2026-08-15T09:21:23.610000Z",
       "primary_item": {
-        "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
-        "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
-        "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
-        "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "id": "c30f8573a51fc6a0016a46508904b90a17de31ff",
+        "title": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉 / Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "title_zh": "怀疑法院使用AI，男子向法庭文件注入提示词试图胜诉",
+        "title_en": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "title_original": "Suspecting court of using AI, man injected prompts in filings to try to win case",
         "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49307700",
+        "recommend_reason_zh": "男子怀疑法庭用AI审案，竟在诉讼文件中注入提示词试图影响判决，并质疑LexisNexis这类AI公司对司法系统的直接操控力，点出其总部实际在纽约而非硅谷。",
+        "url": "https://news.ycombinator.com/item?id=49308553",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 62,
-      "persona_review": "可编辑上下文图谱思路有用，但没开源没API，先观望。",
+      "persona_score": 30,
+      "persona_review": "行为艺术式对抗，对开发者无实操价值，看个乐。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -2014,15 +1932,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7741,
+        "recency": 0.764,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2049,7 +1967,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
+      }
+    },
+    {
+      "story_id": "story_b004ea508d1a",
+      "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+      "url": "https://news.ycombinator.com/item?id=49307700",
+      "primary_url": "https://news.ycombinator.com/item?id=49307700",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T07:00:28.808000Z"
+        },
+        {
+          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
+          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，删除一条边后提示词减了47个token，回答随之改变，且桌面版内置本地引擎，无需Node或终端。",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49307700",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T07:00:28.808000Z"
+        },
+        {
+          "id": "21d03b11a1381fa674680da4e209d300ad0d8009",
+          "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
+          "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+          "summary": null,
+          "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，删除一条边后提示词减了47个token，回答随之改变，且桌面版内置本地引擎，无需Node或终端。",
+          "url": "https://chenxiachan.github.io/thoughtdag",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T04:42:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5342,
+      "importance": 0.5342,
+      "importance_score": 0.5342,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9357,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T04:42:07Z",
+      "latest_at": "2026-08-15T07:00:28.808000Z",
+      "primary_item": {
+        "id": "cb0602853d5df9ee0d0d7b05adab8514f2668d56",
+        "title": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱 / Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "title_zh": "Show HN：ThoughtDAG —— 面向 LLM 对话的可编辑上下文图谱",
+        "title_en": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "title_original": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49307700",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "可编辑上下文图谱思路有用，但没开源没API，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     },
     {
@@ -2126,15 +2156,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.853,
+        "recency": 0.8419,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2161,7 +2191,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T10:52:49.211083Z"
+        "scored_at": "2026-08-15T11:48:26.236156Z"
       }
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:52:50.125054Z",
+  "generated_at": "2026-08-15T11:48:31.078886Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_a5a9de1a4652",
-      "title": "通义千问开源 Qwen3.8 系列模型 / We promised open weights for Qwen3.8. Now， time to meet them！ 🎉 ⚡ Qwen3.8-27B： - A native multimod…",
-      "url": "https://x.com/Alibaba_Qwen/status/2088280182356611304",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 82,
-          "review": "开源权重是实打实的，但27B的‘原生多模态’别又是挑着demo吹。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方推文宣称开源，无论文无代码链接，缺实测证据。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "开源权重直接可下，多模态27B今天就能跑，动手党别错过。"
-        }
-      }
-    },
-    {
       "story_id": "story_3ded9ed73b65",
       "title": "Grok 4.6 现已登陆 GitHub Copilot / Grok 4.6 is now available in GitHub Copilot",
       "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_e27bfcf013b4",
       "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
       "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "OAuth 多回调地址和刷新令牌直接省事，做 GitHub 集成的今天就能改。"
+        }
+      }
+    },
+    {
+      "story_id": "story_cec2fecb0919",
+      "title": "Qwen 3.8 27B推出FP8量化模型，性能与原版相当",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 75,
+          "review": "FP8量化能保住性能算良心，但'相当'这词水分大，跑分细节敢晒吗？"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "模型页给了量化细节和对比数字，但无论文无代码，等第三方复现。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "FP8量化直接省显存，27B能跑更低配卡，部署成本立降。"
         }
       }
     }
