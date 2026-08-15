@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T19:37:31.464487Z",
+  "generated_at": "2026-08-15T20:41:06.722632Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7971,
-      "importance": 0.7971,
-      "importance_score": 0.7971,
+      "score": 0.7951,
+      "importance": 0.7951,
+      "importance_score": 0.7951,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7395,
+        "recency": 0.7283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,121 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
+      }
+    },
+    {
+      "story_id": "story_fe87bc97dd0a",
+      "title": "Cursor 正式被 SpaceX 收购",
+      "url": "https://cursor.com/blog/joining-spacex",
+      "primary_url": "https://cursor.com/blog/joining-spacex",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "Cursor正式被SpaceX收购，始于4月的流程完成。报道详述双方将利用全球最大GPU集群训练模型，并发布Grok 4.6展示成果，看AI编程如何借力大规模算力。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": "Cursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。这标志着始于 4 月的收购流程正式完成。当时，我们宣布与 SpaceXAI 建立合作，以加速模型训练。\n自 Cursor 创办以来，更优秀的模型不断拓展人们能够构建的边界。Cursor 已从补全接下来的几行代码，发展到 构建 AI 队友 ，让你可以将实际工作交给它们。\n与 SpaceX 携手，我们将把这一雄心推进得更远。我们将可使用全球最大的 GPU 集群，获得构建更强大且运行成本更低的模型所需的算力。\n这意味着我们能以更低的成本为客户提供能力更强的模型。我们于 周三发布的 Grok 4.6 ，初步展示了我们如今能够共同打造的成果。SpaceX 正在构建所需的计算能力，将智能扩展到远超当今水平的规模。Cursor 将成为让这种智能发挥实用价值的场所之一。\n对我们而言，这开启了远比最初更广阔的前景，同时也让我们继续从事熟悉的工作。我们依然希望帮助怀揣宏大创意的人们少花时间编写代码，多花时间解决更具挑战性的问题",
+          "recommend_reason_zh": "Cursor正式成为SpaceX一部分，4月启动的收购完成。借助全球最大GPU集群发布Grok 4.6，从代码补全走向AI队友，以更低成本提供更强模型。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "cursor.com"
+      ],
+      "items": [
+        {
+          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+          "title": "Cursor 正式被 SpaceX 收购",
+          "title_zh": "Cursor 正式被 SpaceX 收购",
+          "title_en": null,
+          "title_original": "Cursor 正式被 SpaceX 收购",
+          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+          "recommend_reason_zh": "Cursor正式被SpaceX收购，始于4月的流程完成。报道详述双方将利用全球最大GPU集群训练模型，并发布Grok 4.6展示成果，看AI编程如何借力大规模算力。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        },
+        {
+          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
+          "title": "Cursor 现已成为 SpaceX 的一部分",
+          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
+          "title_en": null,
+          "title_original": "Cursor 现已成为 SpaceX 的一部分",
+          "summary": "Cursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。\nCursor 已正式被 SpaceX 收购。这标志着始于 4 月的收购流程正式完成。当时，我们宣布与 SpaceXAI 建立合作，以加速模型训练。\n自 Cursor 创办以来，更优秀的模型不断拓展人们能够构建的边界。Cursor 已从补全接下来的几行代码，发展到 构建 AI 队友 ，让你可以将实际工作交给它们。\n与 SpaceX 携手，我们将把这一雄心推进得更远。我们将可使用全球最大的 GPU 集群，获得构建更强大且运行成本更低的模型所需的算力。\n这意味着我们能以更低的成本为客户提供能力更强的模型。我们于 周三发布的 Grok 4.6 ，初步展示了我们如今能够共同打造的成果。SpaceX 正在构建所需的计算能力，将智能扩展到远超当今水平的规模。Cursor 将成为让这种智能发挥实用价值的场所之一。\n对我们而言，这开启了远比最初更广阔的前景，同时也让我们继续从事熟悉的工作。我们依然希望帮助怀揣宏大创意的人们少花时间编写代码，多花时间解决更具挑战性的问题",
+          "recommend_reason_zh": "Cursor正式成为SpaceX一部分，4月启动的收购完成。借助全球最大GPU集群发布Grok 4.6，从代码补全走向AI队友，以更低成本提供更强模型。",
+          "url": "https://cursor.com/blog/joining-spacex",
+          "source": "cursor.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:05:54.703000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-15T20:05:54.703000Z",
+      "latest_at": "2026-08-15T20:05:54.703000Z",
+      "primary_item": {
+        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
+        "title": "Cursor 正式被 SpaceX 收购",
+        "title_zh": "Cursor 正式被 SpaceX 收购",
+        "title_en": null,
+        "title_original": "Cursor 正式被 SpaceX 收购",
+        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
+        "recommend_reason_zh": "Cursor正式被SpaceX收购，始于4月的流程完成。报道详述双方将利用全球最大GPU集群训练模型，并发布Grok 4.6展示成果，看AI编程如何借力大规模算力。",
+        "url": "https://cursor.com/blog/joining-spacex",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "收购新闻不写代码，等产品路线图出来再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -133,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7381,
+      "importance": 0.7381,
+      "importance_score": 0.7381,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8831,
+        "recency": 0.8697,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -168,7 +282,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -185,7 +299,7 @@
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": null,
           "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "summary": null,
           "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "davidepiffer.com",
@@ -235,7 +349,7 @@
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": null,
           "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+          "summary": null,
           "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "davidepiffer.com",
@@ -274,15 +388,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5672,
+      "importance": 0.5672,
+      "importance_score": 0.5672,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9802,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -297,7 +411,7 @@
         "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
         "title_en": null,
         "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-        "summary": "The key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nThe key advantage may not be superior reasoning, but a virtually unlimited symbolic working memory.\nWhen an AI system solves a difficult mathematical problem, the usual explanation is that it has become more intelligent.\nPerhaps it has absorbed millions of mathematical examples. Perhaps reinforcemen",
+        "summary": null,
         "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
         "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
         "source": "davidepiffer.com",
@@ -309,7 +423,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -415,15 +529,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9577,
+        "recency": 0.9432,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -450,7 +564,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -556,15 +670,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5567,
-      "importance": 0.5567,
-      "importance_score": 0.5567,
+      "score": 0.5542,
+      "importance": 0.5542,
+      "importance_score": 0.5542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9215,
+        "recency": 0.9075,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -591,231 +705,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
-      "story_id": "story_f64b1a3994c2",
-      "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-      "url": "https://news.ycombinator.com/item?id=49311445",
-      "primary_url": "https://news.ycombinator.com/item?id=49311445",
+      "story_id": "story_7ea48d24e4f7",
+      "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "summary": null,
-          "recommend_reason_zh": "本文探讨AI设计功能性病毒的能力与风险，指出即便拿到基因组，表达出感染性病毒仍非易事，但已有公司提供50-100kb片段组装服务，从序列到活病毒仅需数日台架工作。",
-          "url": "https://news.ycombinator.com/item?id=49311445",
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": "reply\nits slow-release oral minoxidil formulation called MINX. AI helped with the formulation [1]. its in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is VDPHL01 (also an extended-release oral formulation). [1] https://x.com/anagenxyz/status/2071601868841595082\nits in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is",
+          "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T16:44:16.325000Z"
+          "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
-          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "summary": null,
-          "recommend_reason_zh": "斯坦福团队用Evo 2模型从头设计出16个功能性噬菌体，可感染已耐药的大肠杆菌，展现定制噬菌体疗法前景，也引发生物武器与监管担忧。",
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T15:32:25Z"
+          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": "Applications of artificial intelligence (AI) in drug discovery have attracted high interest in recent years, but evidence for clinically relevant impact so far is limited. This Perspective discusses potential reasons, including an insufficient focus on clinical translation during model development and difficulties with applying AI algorithms on conditional life science data, and provides recommendations for the development of AI in drug discovery.\nArtificial intelligence (AI) in drug discovery h",
+          "recommend_reason_zh": "这篇Perspective指出，AI在药物发现领域虽吸引广泛兴趣，但临床相关影响的证据仍有限，剖析了模型开发忽视临床转化、算法难以处理条件性生命科学数据等症结，并建议将基准测试重心转向决策改进。",
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "summary": null,
-          "recommend_reason_zh": "本文探讨AI设计功能性病毒的能力与风险，指出即便拿到基因组，表达出感染性病毒仍非易事，但已有公司提供50-100kb片段组装服务，从序列到活病毒仅需数日台架工作。",
-          "url": "https://news.ycombinator.com/item?id=49311445",
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": "reply\nits slow-release oral minoxidil formulation called MINX. AI helped with the formulation [1]. its in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is VDPHL01 (also an extended-release oral formulation). [1] https://x.com/anagenxyz/status/2071601868841595082\nits in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is",
+          "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T16:44:16.325000Z"
+          "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
-          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
-          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-          "summary": null,
-          "recommend_reason_zh": "斯坦福团队用Evo 2模型从头设计出16个功能性噬菌体，可感染已耐药的大肠杆菌，展现定制噬菌体疗法前景，也引发生物武器与监管担忧。",
-          "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T15:32:25Z"
+          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": "Applications of artificial intelligence (AI) in drug discovery have attracted high interest in recent years, but evidence for clinically relevant impact so far is limited. This Perspective discusses potential reasons, including an insufficient focus on clinical translation during model development and difficulties with applying AI algorithms on conditional life science data, and provides recommendations for the development of AI in drug discovery.\nArtificial intelligence (AI) in drug discovery h",
+          "recommend_reason_zh": "这篇Perspective指出，AI在药物发现领域虽吸引广泛兴趣，但临床相关影响的证据仍有限，剖析了模型开发忽视临床转化、算法难以处理条件性生命科学数据等症结，并建议将基准测试重心转向决策改进。",
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9592,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T15:32:25Z",
-      "latest_at": "2026-08-15T16:44:16.325000Z",
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:41:27.680000Z",
       "primary_item": {
-        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
-        "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
-        "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
-        "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
-        "summary": null,
-        "recommend_reason_zh": "本文探讨AI设计功能性病毒的能力与风险，指出即便拿到基因组，表达出感染性病毒仍非易事，但已有公司提供50-100kb片段组装服务，从序列到活病毒仅需数日台架工作。",
-        "url": "https://news.ycombinator.com/item?id=49311445",
+        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+        "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+        "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+        "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+        "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+        "summary": "reply\nits slow-release oral minoxidil formulation called MINX. AI helped with the formulation [1]. its in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is VDPHL01 (also an extended-release oral formulation). [1] https://x.com/anagenxyz/status/2071601868841595082\nits in in similar category as VDPHL01. Hundreds of millions if not a billion dollars has been invested into Veradermics, and their main product is",
+        "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
+        "url": "https://news.ycombinator.com/item?id=49313367",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "研究进展但无工具落地，做安全的可以留意，其他人不用动。",
+      "persona_review": "综述性质，无新工具或数据，开发者不用急着行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
-      "story_id": "story_7fbd0e2e70a1",
-      "title": "软件开发中的AI现状",
-      "url": "https://news.ycombinator.com/item?id=49310755",
-      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "story_id": "story_79edf3446ec2",
+      "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
+      "url": "https://news.ycombinator.com/item?id=49313519",
+      "primary_url": "https://news.ycombinator.com/item?id=49313519",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的AI现状",
-          "title_zh": "软件开发中的AI现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技大佬们接连发布AI宣言",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": "reply\nreply\nreply\nreply\nEspecially in the current incarnation of AI, where they are more or less controlled by corporations and government. > The average American has \"three people that they would consider friends,\" he said. \"And the average person has demand for meaningfully more. I think it's, like, 15.\" https://www.cnbc.com/amp/2025/05/09/mark-zuckerberg-says-ai-...\n> The average American has \"three people that they would consider friends,\" he said. \"And the average person has demand for mean",
+          "recommend_reason_zh": "科技大佬为何热衷发表AI宣言？文章引用Mark Zuckerberg称美国人平均仅3位朋友、却渴望15位的说法，聚焦AI能否填补社交空缺，也回应了“AI不是真人”的激烈争议。",
+          "url": "https://news.ycombinator.com/item?id=49313519",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T16:44:16.325000Z"
+          "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
-          "title": "软件开发中的AI现状：提示、上下文窗口与压缩",
-          "title_zh": "软件开发中的AI现状：提示、上下文窗口与压缩",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "本文探讨AI编程的提示策略，建议采用只解释关键难点的中间方式，并指出3000字4页的详细规格反而不易被遵循，开发者仍需花时间设计，只是实现从写代码变为用文字。",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:12:27Z"
+          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技大佬们接连发布AI宣言",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.\nMeta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.\nMeta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.\nThis past week, Meta CEO Mark Zuckerberg published a 6,500 word open letter entitled \"The Future is for Everyone\".\nTo some, it's an expression of hope in AI's promise. To others, it's litt",
+          "recommend_reason_zh": "本文以Zuckerberg的6500字公开信为引，串起Andreessen、Altman、Amodei的AI宣言，对照IMF警告的40%岗位风险和Meta裁员8000人，揭示科技巨头AI乐观论背后的公关动机，值得细读。",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:30:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News (黑客新闻)",
         "hackernews"
       ],
       "items": [
         {
-          "id": "b69f22b0fea2154dedef501019cccae418782581",
-          "title": "软件开发中的AI现状",
-          "title_zh": "软件开发中的AI现状",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49310755",
+          "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+          "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技大佬们接连发布AI宣言",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": "reply\nreply\nreply\nreply\nEspecially in the current incarnation of AI, where they are more or less controlled by corporations and government. > The average American has \"three people that they would consider friends,\" he said. \"And the average person has demand for meaningfully more. I think it's, like, 15.\" https://www.cnbc.com/amp/2025/05/09/mark-zuckerberg-says-ai-...\n> The average American has \"three people that they would consider friends,\" he said. \"And the average person has demand for mean",
+          "recommend_reason_zh": "科技大佬为何热衷发表AI宣言？文章引用Mark Zuckerberg称美国人平均仅3位朋友、却渴望15位的说法，聚焦AI能否填补社交空缺，也回应了“AI不是真人”的激烈争议。",
+          "url": "https://news.ycombinator.com/item?id=49313519",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T16:44:16.325000Z"
+          "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
-          "title": "软件开发中的AI现状：提示、上下文窗口与压缩",
-          "title_zh": "软件开发中的AI现状：提示、上下文窗口与压缩",
-          "title_en": "The AI Situation in Software Development",
-          "title_original": "The AI Situation in Software Development",
-          "summary": null,
-          "recommend_reason_zh": "本文探讨AI编程的提示策略，建议采用只解释关键难点的中间方式，并指出3000字4页的详细规格反而不易被遵循，开发者仍需花时间设计，只是实现从写代码变为用文字。",
-          "url": "https://srikanth.ch/posts/the-ai-situation",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T14:12:27Z"
+          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
+          "title_zh": "为什么科技大佬们接连发布AI宣言",
+          "title_en": "Why tech bosses keep sharing their manifestos about AI",
+          "title_original": "Why tech bosses keep sharing their manifestos about AI",
+          "summary": "Meta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.\nMeta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.\nMeta boss Mark Zuckerberg is the latest Big Tech name to pen a letter thousands of words long about AI.\nThis past week, Meta CEO Mark Zuckerberg published a 6,500 word open letter entitled \"The Future is for Everyone\".\nTo some, it's an expression of hope in AI's promise. To others, it's litt",
+          "recommend_reason_zh": "本文以Zuckerberg的6500字公开信为引，串起Andreessen、Altman、Amodei的AI宣言，对照IMF警告的40%岗位风险和Meta裁员8000人，揭示科技巨头AI乐观论背后的公关动机，值得细读。",
+          "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:30:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5384,
-      "importance": 0.5384,
-      "importance_score": 0.5384,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9592,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T14:12:27Z",
-      "latest_at": "2026-08-15T16:44:16.325000Z",
+      "earliest_at": "2026-08-15T19:30:32Z",
+      "latest_at": "2026-08-15T20:41:27.680000Z",
       "primary_item": {
-        "id": "b69f22b0fea2154dedef501019cccae418782581",
-        "title": "软件开发中的AI现状",
-        "title_zh": "软件开发中的AI现状",
-        "title_en": "The AI Situation in Software Development",
-        "title_original": "The AI Situation in Software Development",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=49310755",
+        "id": "901b3aaa15d04da62e96b93894715feadc126f5c",
+        "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
+        "title_zh": "为什么科技大佬们接连发布AI宣言",
+        "title_en": "Why tech bosses keep sharing their manifestos about AI",
+        "title_original": "Why tech bosses keep sharing their manifestos about AI",
+        "summary": "reply\nreply\nreply\nreply\nEspecially in the current incarnation of AI, where they are more or less controlled by corporations and government. > The average American has \"three people that they would consider friends,\" he said. \"And the average person has demand for meaningfully more. I think it's, like, 15.\" https://www.cnbc.com/amp/2025/05/09/mark-zuckerberg-says-ai-...\n> The average American has \"three people that they would consider friends,\" he said. \"And the average person has demand for mean",
+        "recommend_reason_zh": "科技大佬为何热衷发表AI宣言？文章引用Mark Zuckerberg称美国人平均仅3位朋友、却渴望15位的说法，聚焦AI能否填补社交空缺，也回应了“AI不是真人”的激烈争议。",
+        "url": "https://news.ycombinator.com/item?id=49313519",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "泛泛而谈的行业现状，没有具体工具或数据，等有干货再看。",
+      "persona_score": 20,
+      "persona_review": "宣言不写代码，等有产品再看。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -892,15 +1006,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5068,
-      "importance": 0.5068,
-      "importance_score": 0.5068,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7832,
+        "recency": 0.7713,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,7 +1041,231 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
+      }
+    },
+    {
+      "story_id": "story_f64b1a3994c2",
+      "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+      "url": "https://news.ycombinator.com/item?id=49311445",
+      "primary_url": "https://news.ycombinator.com/item?id=49311445",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": "本文探讨AI设计功能性病毒的能力与风险，指出即便拿到基因组，表达出感染性病毒仍非易事，但已有公司提供50-100kb片段组装服务，从序列到活病毒仅需数日台架工作。",
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:44:16.325000Z"
+        },
+        {
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
+          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": "斯坦福团队用Evo 2模型从头设计出16个功能性噬菌体，可感染已耐药的大肠杆菌，展现定制噬菌体疗法前景，也引发生物武器与监管担忧。",
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": "本文探讨AI设计功能性病毒的能力与风险，指出即便拿到基因组，表达出感染性病毒仍非易事，但已有公司提供50-100kb片段组装服务，从序列到活病毒仅需数日台架工作。",
+          "url": "https://news.ycombinator.com/item?id=49311445",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:44:16.325000Z"
+        },
+        {
+          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
+          "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
+          "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+          "summary": null,
+          "recommend_reason_zh": "斯坦福团队用Evo 2模型从头设计出16个功能性噬菌体，可感染已耐药的大肠杆菌，展现定制噬菌体疗法前景，也引发生物武器与监管担忧。",
+          "url": "https://spectrum.ieee.org/ai-designed-virus",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T15:32:25Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9446,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T15:32:25Z",
+      "latest_at": "2026-08-15T16:44:16.325000Z",
+      "primary_item": {
+        "id": "9275bde78f1db83d1ec2a6ae94089898062b8bc7",
+        "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
+        "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
+        "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "title_original": "AI Can Now Design Functional Viruses. Should We Worry?",
+        "summary": null,
+        "recommend_reason_zh": "本文探讨AI设计功能性病毒的能力与风险，指出即便拿到基因组，表达出感染性病毒仍非易事，但已有公司提供50-100kb片段组装服务，从序列到活病毒仅需数日台架工作。",
+        "url": "https://news.ycombinator.com/item?id=49311445",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "研究进展但无工具落地，做安全的可以留意，其他人不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T20:50:33.214137Z"
+      }
+    },
+    {
+      "story_id": "story_7fbd0e2e70a1",
+      "title": "软件开发中的AI现状",
+      "url": "https://news.ycombinator.com/item?id=49310755",
+      "primary_url": "https://news.ycombinator.com/item?id=49310755",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的AI现状",
+          "title_zh": "软件开发中的AI现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:44:16.325000Z"
+        },
+        {
+          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
+          "title": "软件开发中的AI现状：提示、上下文窗口与压缩",
+          "title_zh": "软件开发中的AI现状：提示、上下文窗口与压缩",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "本文探讨AI编程的提示策略，建议采用只解释关键难点的中间方式，并指出3000字4页的详细规格反而不易被遵循，开发者仍需花时间设计，只是实现从写代码变为用文字。",
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b69f22b0fea2154dedef501019cccae418782581",
+          "title": "软件开发中的AI现状",
+          "title_zh": "软件开发中的AI现状",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49310755",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T16:44:16.325000Z"
+        },
+        {
+          "id": "1b33cab82d89343bc79f898298118d3f2a92a01e",
+          "title": "软件开发中的AI现状：提示、上下文窗口与压缩",
+          "title_zh": "软件开发中的AI现状：提示、上下文窗口与压缩",
+          "title_en": "The AI Situation in Software Development",
+          "title_original": "The AI Situation in Software Development",
+          "summary": null,
+          "recommend_reason_zh": "本文探讨AI编程的提示策略，建议采用只解释关键难点的中间方式，并指出3000字4页的详细规格反而不易被遵循，开发者仍需花时间设计，只是实现从写代码变为用文字。",
+          "url": "https://srikanth.ch/posts/the-ai-situation",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T14:12:27Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9446,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:12:27Z",
+      "latest_at": "2026-08-15T16:44:16.325000Z",
+      "primary_item": {
+        "id": "b69f22b0fea2154dedef501019cccae418782581",
+        "title": "软件开发中的AI现状",
+        "title_zh": "软件开发中的AI现状",
+        "title_en": "The AI Situation in Software Development",
+        "title_original": "The AI Situation in Software Development",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49310755",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "泛泛而谈的行业现状，没有具体工具或数据，等有干货再看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1004,15 +1342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9313,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1039,7 +1377,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1116,15 +1454,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9313,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,7 +1489,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1228,15 +1566,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5287,
+      "importance": 0.5287,
+      "importance_score": 0.5287,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9188,
+        "recency": 0.9048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,7 +1601,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1340,15 +1678,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5238,
+      "importance": 0.5238,
+      "importance_score": 0.5238,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.891,
+        "recency": 0.8775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,7 +1713,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1452,15 +1790,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8622,
+        "recency": 0.8491,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1487,7 +1825,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1564,15 +1902,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5158,
-      "importance": 0.5158,
-      "importance_score": 0.5158,
+      "score": 0.5135,
+      "importance": 0.5135,
+      "importance_score": 0.5135,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8334,
+        "recency": 0.8208,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,7 +1937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     },
     {
@@ -1676,15 +2014,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7498,
+        "recency": 0.7384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1711,7 +2049,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T19:47:48.663920Z"
+        "scored_at": "2026-08-15T20:50:33.214137Z"
       }
     }
   ]
