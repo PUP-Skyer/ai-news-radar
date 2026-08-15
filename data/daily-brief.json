@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T21:37:07.723188Z",
+  "generated_at": "2026-08-15T22:40:38.944428Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_e27bfcf013b4",
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7914,
+      "importance": 0.7914,
+      "importance_score": 0.7914,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7185,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.783,
+      "importance": 0.783,
+      "importance_score": 0.783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9783,
+        "recency": 0.9634,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -199,7 +199,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -247,15 +247,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.736,
-      "importance": 0.736,
-      "importance_score": 0.736,
+      "score": 0.7337,
+      "importance": 0.7337,
+      "importance_score": 0.7337,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.858,
+        "recency": 0.845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -282,7 +282,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
+      }
+    },
+    {
+      "story_id": "story_e676b61085b8",
+      "title": "AI 的工作记忆容量远超人类大脑。 / AI has access to a vastly larger working memory than the human brain",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "AI 的工作记忆容量远超人类大脑。 / AI has access to a vastly larger working memory than the human brain",
+          "title_zh": "AI 的工作记忆容量远超人类大脑。",
+          "title_en": "AI has access to a vastly larger working memory than the human brain",
+          "title_original": "AI has access to a vastly larger working memory than the human brain",
+          "summary": "I don't think I've had a truly original idea in my life. Combine A + B, when it's rare for people to know A and B at the same time. So from that perspective, what LLMs are doing is basically the same thing. Sometimes I am faster than the LLM because my context might be better organized, but it typically needs just a hint from me to steer itself correctly. It claims something is a memory leak, but smelling a rat, I suggest it to double check the garbage collection statistics too, at which point i",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:40:59.226000Z"
+        },
+        {
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": null,
+          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": "本文核心观点是AI在数学上胜在记忆而非思考，并借Terry Tao关于“证明的贡献在于共享理解”的论述和四色定理的案例，指出机器学习只能摘取低垂果实，难以成为真正的证明生产者。",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": "本文指出AI解题优势不在推理更强，而在近乎无限的符号工作记忆：其上下文窗口能容纳整个题目和数百个中间方程，突破了人类工作记忆的生物学限制。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "davidepiffer.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "AI 的工作记忆容量远超人类大脑。 / AI has access to a vastly larger working memory than the human brain",
+          "title_zh": "AI 的工作记忆容量远超人类大脑。",
+          "title_en": "AI has access to a vastly larger working memory than the human brain",
+          "title_original": "AI has access to a vastly larger working memory than the human brain",
+          "summary": "I don't think I've had a truly original idea in my life. Combine A + B, when it's rare for people to know A and B at the same time. So from that perspective, what LLMs are doing is basically the same thing. Sometimes I am faster than the LLM because my context might be better organized, but it typically needs just a hint from me to steer itself correctly. It claims something is a memory leak, but smelling a rat, I suggest it to double check the garbage collection statistics too, at which point i",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:40:59.226000Z"
+        },
+        {
+          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": null,
+          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "summary": null,
+          "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "davidepiffer.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:18:02.348000Z"
+        },
+        {
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": "本文核心观点是AI在数学上胜在记忆而非思考，并借Terry Tao关于“证明的贡献在于共享理解”的论述和四色定理的案例，指出机器学习只能摘取低垂果实，难以成为真正的证明生产者。",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T18:39:17.058000Z"
+        },
+        {
+          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "summary": null,
+          "recommend_reason_zh": "本文指出AI解题优势不在推理更强，而在近乎无限的符号工作记忆：其上下文窗口能容纳整个题目和数百个中间方程，突破了人类工作记忆的生物学限制。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T18:13:02Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5958,
+      "importance": 0.5958,
+      "importance_score": 0.5958,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T18:13:02Z",
+      "latest_at": "2026-08-15T22:40:59.226000Z",
+      "primary_item": {
+        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+        "title": "AI 的工作记忆容量远超人类大脑。 / AI has access to a vastly larger working memory than the human brain",
+        "title_zh": "AI 的工作记忆容量远超人类大脑。",
+        "title_en": "AI has access to a vastly larger working memory than the human brain",
+        "title_original": "AI has access to a vastly larger working memory than the human brain",
+        "summary": "I don't think I've had a truly original idea in my life. Combine A + B, when it's rare for people to know A and B at the same time. So from that perspective, what LLMs are doing is basically the same thing. Sometimes I am faster than the LLM because my context might be better organized, but it typically needs just a hint from me to steer itself correctly. It claims something is a memory leak, but smelling a rat, I suggest it to double check the garbage collection statistics too, at which point i",
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "概念对比，无工具无方案，动手前不用管。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -299,7 +468,7 @@
           "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
           "title_en": null,
           "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
-          "summary": "A local-first, open-source canvas where the graph determines what the model sees.\nThoughtDAG is an open-source, local-first canvas where graph edges define the context sent to an LLM. Branch, prune, merge, and inspect what the model sees.\nThoughtDAG\nScroll\nThe history is here. Which parts enter the next request?\nThis history should not enter the research summary.\nThe prompt stayed the same. Polluted context changed the answer.\nIncoming ancestors:\nAfter deleting the orange edge: −47 tokens\nThe wo",
+          "summary": null,
           "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，支持分支、剪枝、合并，删除橙色边后实测减少47 tokens，本地优先、MIT开源，无需Node或终端即可运行。",
           "url": "https://chenxiachan.github.io/thoughtdag",
           "source": "chenxiachan.github.io",
@@ -349,7 +518,7 @@
           "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
           "title_en": null,
           "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
-          "summary": "A local-first, open-source canvas where the graph determines what the model sees.\nThoughtDAG is an open-source, local-first canvas where graph edges define the context sent to an LLM. Branch, prune, merge, and inspect what the model sees.\nThoughtDAG\nScroll\nThe history is here. Which parts enter the next request?\nThis history should not enter the research summary.\nThe prompt stayed the same. Polluted context changed the answer.\nIncoming ancestors:\nAfter deleting the orange edge: −47 tokens\nThe wo",
+          "summary": null,
           "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，支持分支、剪枝、合并，删除橙色边后实测减少47 tokens，本地优先、MIT开源，无需Node或终端即可运行。",
           "url": "https://chenxiachan.github.io/thoughtdag",
           "source": "chenxiachan.github.io",
@@ -388,15 +557,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
+      "score": 0.5669,
+      "importance": 0.5669,
+      "importance_score": 0.5669,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9935,
+        "recency": 0.9784,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -411,7 +580,7 @@
         "title_zh": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
         "title_en": null,
         "title_original": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
-        "summary": "A local-first, open-source canvas where the graph determines what the model sees.\nThoughtDAG is an open-source, local-first canvas where graph edges define the context sent to an LLM. Branch, prune, merge, and inspect what the model sees.\nThoughtDAG\nScroll\nThe history is here. Which parts enter the next request?\nThis history should not enter the research summary.\nThe prompt stayed the same. Polluted context changed the answer.\nIncoming ancestors:\nAfter deleting the orange edge: −47 tokens\nThe wo",
+        "summary": null,
         "recommend_reason_zh": "ThoughtDAG用图边决定发送给LLM的上下文，支持分支、剪枝、合并，删除橙色边后实测减少47 tokens，本地优先、MIT开源，无需Node或终端即可运行。",
         "url": "https://chenxiachan.github.io/thoughtdag",
         "source": "chenxiachan.github.io",
@@ -423,148 +592,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
-      }
-    },
-    {
-      "story_id": "story_e676b61085b8",
-      "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "primary_url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-      "source": "davidepiffer.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": null,
-          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "davidepiffer.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:18:02.348000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": "本文核心观点是AI在数学上胜在记忆而非思考，并借Terry Tao关于“证明的贡献在于共享理解”的论述和四色定理的案例，指出机器学习只能摘取低垂果实，难以成为真正的证明生产者。",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
-        },
-        {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": "本文指出AI解题优势不在推理更强，而在近乎无限的符号工作记忆：其上下文窗口能容纳整个题目和数百个中间方程，突破了人类工作记忆的生物学限制。",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "davidepiffer.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": null,
-          "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "davidepiffer.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:18:02.348000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "AI并非在“思考”上超越数学家，而是在“记忆”上胜过他们。",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": "本文核心观点是AI在数学上胜在记忆而非思考，并借Terry Tao关于“证明的贡献在于共享理解”的论述和四色定理的案例，指出机器学习只能摘取低垂果实，难以成为真正的证明生产者。",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T18:39:17.058000Z"
-        },
-        {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
-          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-          "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "title_original": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "summary": null,
-          "recommend_reason_zh": "本文指出AI解题优势不在推理更强，而在近乎无限的符号工作记忆：其上下文窗口能容纳整个题目和数百个中间方程，突破了人类工作记忆的生物学限制。",
-          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T18:13:02Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5649,
-      "importance": 0.5649,
-      "importance_score": 0.5649,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9671,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T18:13:02Z",
-      "latest_at": "2026-08-15T19:18:02.348000Z",
-      "primary_item": {
-        "id": "770e92996439c8cf792759006c44b0bd1224b1f7",
-        "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-        "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-        "title_en": null,
-        "title_original": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道指出AI解题优势未必是推理更强，而是拥有近乎无限的符号工作记忆，能在上下文窗口中同时保存整个问题与中间步骤，突破了人类工作记忆的生物学上限。",
-        "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-        "source": "davidepiffer.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "观点文，无工具无数据，对选型没影响，扫一眼即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -591,12 +619,12 @@
         },
         {
           "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与AI合作的感觉更像是在领导团队，而不是写代码 / Working with AI Feels More Like Leadership Than Coding",
-          "title_zh": "与AI合作的感觉更像是在领导团队，而不是写代码",
-          "title_en": "Working with AI Feels More Like Leadership Than Coding",
-          "title_original": "Working with AI Feels More Like Leadership Than Coding",
-          "summary": null,
-          "recommend_reason_zh": "本文借Anthropic聘请多位CTO/CEO出任个人贡献者职位，探讨“与AI协作更像领导而非编码”的争议，指出管理LLM需要全新技能，而非照搬管人经验，并援引agent一次性完成功能的细节。",
+          "title": "与AI协作更像是在做领导，而非写代码 / Working with AI feels more like leadership than coding",
+          "title_zh": "与AI协作更像是在做领导，而非写代码",
+          "title_en": "Working with AI feels more like leadership than coding",
+          "title_original": "Working with AI feels more like leadership than coding",
+          "summary": "The conclusion also completely contradicts a previous point, which is that managing an LLM is not like managing a human. So the skills are, in contradiction to that LLM-ism of a conclusion, new. The author isn't using their people management skills, they're using new LLM-management skills. They think the two are similar, but didn't bother breaking down how they're the same vs where they contrast. It's just a lazy observation expanded out to a short essay that says nothing interesting.\nreply\nYou ",
+          "recommend_reason_zh": "这篇评论反驳“与AI合作就像管理”的观点，指出管理LLM需要全新的技能，而非套用人际管理经验，并对比了删除指令重试与解释错误两种不同做法。",
           "url": "https://news.ycombinator.com/item?id=49309451",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -604,7 +632,7 @@
           "published_at": "2026-08-15T13:45:36.698000Z"
         },
         {
-          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "id": "7424ad1f591f93f7da2d5fe2e48a56f5fd4dab7d",
           "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
           "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
           "title_en": "Working with AI Feels More Like Leadership Than Coding",
@@ -612,15 +640,15 @@
           "summary": null,
           "recommend_reason_zh": "Allen Bargi认为，与AI协作更像领导而非编程，因为同样的请求可能得到不同结果。他主张用context、clarity和feedback提升人机协作，而非把AI当编译器对待。",
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T10:39:41Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "allen.bargi.org",
         "hackernews"
       ],
@@ -641,12 +669,12 @@
         },
         {
           "id": "b90c3bc7c0cde103f85eff23dc739c1eeaea4cf6",
-          "title": "与AI合作的感觉更像是在领导团队，而不是写代码 / Working with AI Feels More Like Leadership Than Coding",
-          "title_zh": "与AI合作的感觉更像是在领导团队，而不是写代码",
-          "title_en": "Working with AI Feels More Like Leadership Than Coding",
-          "title_original": "Working with AI Feels More Like Leadership Than Coding",
-          "summary": null,
-          "recommend_reason_zh": "本文借Anthropic聘请多位CTO/CEO出任个人贡献者职位，探讨“与AI协作更像领导而非编码”的争议，指出管理LLM需要全新技能，而非照搬管人经验，并援引agent一次性完成功能的细节。",
+          "title": "与AI协作更像是在做领导，而非写代码 / Working with AI feels more like leadership than coding",
+          "title_zh": "与AI协作更像是在做领导，而非写代码",
+          "title_en": "Working with AI feels more like leadership than coding",
+          "title_original": "Working with AI feels more like leadership than coding",
+          "summary": "The conclusion also completely contradicts a previous point, which is that managing an LLM is not like managing a human. So the skills are, in contradiction to that LLM-ism of a conclusion, new. The author isn't using their people management skills, they're using new LLM-management skills. They think the two are similar, but didn't bother breaking down how they're the same vs where they contrast. It's just a lazy observation expanded out to a short essay that says nothing interesting.\nreply\nYou ",
+          "recommend_reason_zh": "这篇评论反驳“与AI合作就像管理”的观点，指出管理LLM需要全新的技能，而非套用人际管理经验，并对比了删除指令重试与解释错误两种不同做法。",
           "url": "https://news.ycombinator.com/item?id=49309451",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -654,7 +682,7 @@
           "published_at": "2026-08-15T13:45:36.698000Z"
         },
         {
-          "id": "24e0d1e34756b4b289b3c6515c68fefe0aa322bd",
+          "id": "7424ad1f591f93f7da2d5fe2e48a56f5fd4dab7d",
           "title": "从事人工智能工作，与其说是编程，不如说是领导工作 / Working with AI Feels More Like Leadership Than Coding",
           "title_zh": "从事人工智能工作，与其说是编程，不如说是领导工作",
           "title_en": "Working with AI Feels More Like Leadership Than Coding",
@@ -662,23 +690,23 @@
           "summary": null,
           "recommend_reason_zh": "Allen Bargi认为，与AI协作更像领导而非编程，因为同样的请求可能得到不同结果。他主张用context、clarity和feedback提升人机协作，而非把AI当编译器对待。",
           "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T10:39:41Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9305,
+        "recency": 0.9164,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -705,148 +733,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
-      }
-    },
-    {
-      "story_id": "story_67a9736d0220",
-      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:47.630000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商遭遇神秘批量订单，疑为AI训练采购并销毁书籍；Barter Books的Stuart Manley称30年未见如此大单，Anthropic的Claude训练项目“Project Panama”被指涉及破坏性扫描大量图书。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:47.630000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商遭遇神秘批量订单，疑为AI训练采购并销毁书籍；Barter Books的Stuart Manley称30年未见如此大单，Anthropic的Claude训练项目“Project Panama”被指涉及破坏性扫描大量图书。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5537,
-      "importance": 0.5537,
-      "importance_score": 0.5537,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9049,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:41:47.630000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "title_zh": "二手书销售火爆，是因为AI吗？",
-        "title_en": "Secondhand book sales are booming. Is it because of AI?",
-        "title_original": "Secondhand book sales are booming. Is it because of AI?",
-        "summary": null,
-        "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "二手书热卖和AI关系不大，没工具没方案，别浪费时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -952,15 +839,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.5495,
+      "importance": 0.5495,
+      "importance_score": 0.5495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8954,
+        "recency": 0.8818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -987,7 +874,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1004,7 +891,7 @@
           "title_zh": "Cloudflare的AI精神错乱",
           "title_en": null,
           "title_original": "Cloudflare的AI精神错乱",
-          "summary": "There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in\nThere was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in\nThere was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protec",
+          "summary": null,
           "recommend_reason_zh": "作者吐槽Cloudflare患上AI精神错乱：一家处理全球约1/3请求的基础设施公司，竟因React useEffect引发故障；数据存储有D1、KV、R2、Hyperdrive，却缺原生PostgreSQL。",
           "url": "https://opensauce.it/cloudflare-ai-psychosis",
           "source": "opensauce.it",
@@ -1039,7 +926,7 @@
           "title_zh": "Cloudflare的AI精神错乱",
           "title_en": null,
           "title_original": "Cloudflare的AI精神错乱",
-          "summary": "There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in\nThere was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in\nThere was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protec",
+          "summary": null,
           "recommend_reason_zh": "作者吐槽Cloudflare患上AI精神错乱：一家处理全球约1/3请求的基础设施公司，竟因React useEffect引发故障；数据存储有D1、KV、R2、Hyperdrive，却缺原生PostgreSQL。",
           "url": "https://opensauce.it/cloudflare-ai-psychosis",
           "source": "opensauce.it",
@@ -1064,15 +951,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5406,
+      "importance": 0.5406,
+      "importance_score": 0.5406,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.9709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1087,7 +974,7 @@
         "title_zh": "Cloudflare的AI精神错乱",
         "title_en": null,
         "title_original": "Cloudflare的AI精神错乱",
-        "summary": "There was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in\nThere was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protect & fight the bad people, for the sake of the global city of the Gotham… err I mean the in\nThere was a time Cloudflare just made the internet better by staying hidden like Batman’s identity: protec",
+        "summary": null,
         "recommend_reason_zh": "作者吐槽Cloudflare患上AI精神错乱：一家处理全球约1/3请求的基础设施公司，竟因React useEffect引发故障；数据存储有D1、KV、R2、Hyperdrive，却缺原生PostgreSQL。",
         "url": "https://opensauce.it/cloudflare-ai-psychosis",
         "source": "opensauce.it",
@@ -1099,11 +986,11 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
-      "story_id": "story_7ea48d24e4f7",
+      "story_id": "story_01c472791cae",
       "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
       "url": "https://news.ycombinator.com/item?id=49313367",
       "primary_url": "https://news.ycombinator.com/item?id=49313367",
@@ -1125,22 +1012,37 @@
           "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
-          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "AI 在药物发现中的应用：它是什么、当前进展与未来方向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI 在药物发现中的应用：它是什么、当前进展与未来方向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
           "summary": null,
-          "recommend_reason_zh": "这篇Perspective指出，AI在药物发现领域虽吸引广泛兴趣，但临床相关影响的证据仍有限，剖析了模型开发忽视临床转化、算法难以处理条件性生命科学数据等症结，并建议将基准测试重心转向决策改进。",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么，AI 药物发现的实际进展究竟如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI 药物发现的实际进展究竟如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "hackernews"
       ],
@@ -1160,34 +1062,48 @@
           "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "473357bb1da9ea71f19979651bedf55d6dd3774a",
-          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "AI 在药物发现中的应用：它是什么、当前进展与未来方向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI 在药物发现中的应用：它是什么、当前进展与未来方向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
           "summary": null,
-          "recommend_reason_zh": "这篇Perspective指出，AI在药物发现领域虽吸引广泛兴趣，但临床相关影响的证据仍有限，剖析了模型开发忽视临床转化、算法难以处理条件性生命科学数据等症结，并建议将基准测试重心转向决策改进。",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么，AI 药物发现的实际进展究竟如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI 药物发现的实际进展究竟如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5657,
+      "importance": 0.5657,
+      "importance_score": 0.5657,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
-        "story_heat": 0.25
+        "recency": 0.9717,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
@@ -1207,11 +1123,11 @@
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "综述性质，无新工具或数据，开发者不用急着行动。",
+      "persona_review": "综述性文章，无新工具或数据，做药方向的可以扫一眼，其他人不用动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1288,15 +1204,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5028,
-      "importance": 0.5028,
-      "importance_score": 0.5028,
+      "score": 0.5007,
+      "importance": 0.5007,
+      "importance_score": 0.5007,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.761,
+        "recency": 0.7494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,7 +1239,372 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
+      }
+    },
+    {
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:41:47.630000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书商遭遇神秘批量订单，疑为AI训练采购并销毁书籍；Barter Books的Stuart Manley称30年未见如此大单，Anthropic的Claude训练项目“Project Panama”被指涉及破坏性扫描大量图书。",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:41:47.630000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        },
+        {
+          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书商遭遇神秘批量订单，疑为AI训练采购并销毁书籍；Barter Books的Stuart Manley称30年未见如此大单，Anthropic的Claude训练项目“Project Panama”被指涉及破坏性扫描大量图书。",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T11:25:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8911,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T11:25:32Z",
+      "latest_at": "2026-08-15T14:41:47.630000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "title_zh": "二手书销售火爆，是因为AI吗？",
+        "title_en": "Secondhand book sales are booming. Is it because of AI?",
+        "title_original": "Secondhand book sales are booming. Is it because of AI?",
+        "summary": null,
+        "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "二手书热卖和AI关系不大，没工具没方案，别浪费时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:49:38.953748Z"
+      }
+    },
+    {
+      "story_id": "story_dfcb40835c8c",
+      "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "primary_url": "https://news.ycombinator.com/item?id=49314594",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49314594",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:40:59.226000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": "Live Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical A",
+          "recommend_reason_zh": "这篇Show HN用38美元的Thermalright Trofeo Vision LCD，通过逆向工程USB HID协议，在macOS上实时显示Claude的会话/周限额、token燃烧和假设API成本，还附带时钟与token走势图，DIY桌面HUD值得一试。",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49314594",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:40:59.226000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
+          "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "summary": "Live Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical A",
+          "recommend_reason_zh": "这篇Show HN用38美元的Thermalright Trofeo Vision LCD，通过逆向工程USB HID协议，在macOS上实时显示Claude的会话/周限额、token燃烧和假设API成本，还附带时钟与token走势图，DIY桌面HUD值得一试。",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T21:42:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T21:42:39Z",
+      "latest_at": "2026-08-15T22:40:59.226000Z",
+      "primary_item": {
+        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+        "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
+        "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49314594",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "给发烧友的玩具，能实时看用量但非刚需，动手党可抄方案。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:49:38.953748Z"
+      }
+    },
+    {
+      "story_id": "story_171205bf2b4a",
+      "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
+      "url": "https://news.ycombinator.com/item?id=49313778",
+      "primary_url": "https://news.ycombinator.com/item?id=49313778",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
+          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "summary": null,
+          "recommend_reason_zh": "Meta将用极右翼媒体Newsmax的数据训练AI，这一选择引发对算法偏见和数据来源伦理的质疑。报道揭示了科技巨头在AI训练数据上的争议性决策，值得深读。",
+          "url": "https://news.ycombinator.com/item?id=49313778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:09:38.355000Z"
+        },
+        {
+          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
+          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
+          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "summary": "This week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wi",
+          "recommend_reason_zh": "Meta与极右媒体Newsmax达成内容授权协议，将用其报道和存档训练AI；但NewsGuard给Newsmax可信度仅20分，引发对Meta AI信息质量与偏见的担忧。",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T20:00:14Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
+          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "summary": null,
+          "recommend_reason_zh": "Meta将用极右翼媒体Newsmax的数据训练AI，这一选择引发对算法偏见和数据来源伦理的质疑。报道揭示了科技巨头在AI训练数据上的争议性决策，值得深读。",
+          "url": "https://news.ycombinator.com/item?id=49313778",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T21:09:38.355000Z"
+        },
+        {
+          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
+          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
+          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
+          "summary": "This week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wi",
+          "recommend_reason_zh": "Meta与极右媒体Newsmax达成内容授权协议，将用其报道和存档训练AI；但NewsGuard给Newsmax可信度仅20分，引发对Meta AI信息质量与偏见的担忧。",
+          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T20:00:14Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5419,
+      "importance": 0.5419,
+      "importance_score": 0.5419,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9783,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T20:00:14Z",
+      "latest_at": "2026-08-15T21:09:38.355000Z",
+      "primary_item": {
+        "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
+        "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
+        "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
+        "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
+        "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
+        "summary": null,
+        "recommend_reason_zh": "Meta将用极右翼媒体Newsmax的数据训练AI，这一选择引发对算法偏见和数据来源伦理的质疑。报道揭示了科技巨头在AI训练数据上的争议性决策，值得深读。",
+        "url": "https://news.ycombinator.com/item?id=49313778",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "训练数据来源争议不影响你调API，等模型发布看效果再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1400,15 +1681,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5407,
+      "importance": 0.5407,
+      "importance_score": 0.5407,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9717,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1435,7 +1716,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1512,15 +1793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9319,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1547,7 +1828,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1624,15 +1905,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9319,
+        "recency": 0.9178,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1659,7 +1940,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1736,15 +2017,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5287,
-      "importance": 0.5287,
-      "importance_score": 0.5287,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9049,
+        "recency": 0.8911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1771,7 +2052,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1848,15 +2129,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5265,
-      "importance": 0.5265,
-      "importance_score": 0.5265,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8927,
+        "recency": 0.8792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1883,7 +2164,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -1960,15 +2241,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5216,
-      "importance": 0.5216,
-      "importance_score": 0.5216,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8658,
+        "recency": 0.8526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1995,7 +2276,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     },
     {
@@ -2072,15 +2353,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8377,
+        "recency": 0.825,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2107,119 +2388,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
-      }
-    },
-    {
-      "story_id": "story_7997168e9fa3",
-      "title": "Claude Fable 5 玩得很开心 / Claude Fable 5 Having Fun",
-      "url": "https://news.ycombinator.com/item?id=49305642",
-      "primary_url": "https://news.ycombinator.com/item?id=49305642",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-          "title": "Claude Fable 5 玩得很开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude Fable 5 玩得很开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": "原文正文仅有重复的“reply”两个单词，未提供任何可引用的具体事实、数字或细节，因而无法说明其内容价值，故不推荐阅读。",
-          "url": "https://news.ycombinator.com/item?id=49305642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T23:41:09.708000Z"
-        },
-        {
-          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
-          "title": "Claude Fable 5 玩得很开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude Fable 5 玩得很开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": "Claude Fable 5设计并构建了CLI战术游戏SHOVE，经6个版本迭代和6次共22分19秒试玩后自认真正有趣，附完整开发日志与源码。",
-          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T23:01:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-          "title": "Claude Fable 5 玩得很开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude Fable 5 玩得很开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": "原文正文仅有重复的“reply”两个单词，未提供任何可引用的具体事实、数字或细节，因而无法说明其内容价值，故不推荐阅读。",
-          "url": "https://news.ycombinator.com/item?id=49305642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-14T23:41:09.708000Z"
-        },
-        {
-          "id": "e55e047834a78a545af0c1dd41cfb1a5118c170c",
-          "title": "Claude Fable 5 玩得很开心 / Claude Fable 5 Having Fun",
-          "title_zh": "Claude Fable 5 玩得很开心",
-          "title_en": "Claude Fable 5 Having Fun",
-          "title_original": "Claude Fable 5 Having Fun",
-          "summary": null,
-          "recommend_reason_zh": "Claude Fable 5设计并构建了CLI战术游戏SHOVE，经6个版本迭代和6次共22分19秒试玩后自认真正有趣，附完整开发日志与源码。",
-          "url": "https://github.com/robss2020/claude-fable-5-having-fun",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-14T23:01:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7285,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-14T23:01:46Z",
-      "latest_at": "2026-08-14T23:41:09.708000Z",
-      "primary_item": {
-        "id": "62aec33577ddba6c91ec387131cb67a11ba49f72",
-        "title": "Claude Fable 5 玩得很开心 / Claude Fable 5 Having Fun",
-        "title_zh": "Claude Fable 5 玩得很开心",
-        "title_en": "Claude Fable 5 Having Fun",
-        "title_original": "Claude Fable 5 Having Fun",
-        "summary": null,
-        "recommend_reason_zh": "原文正文仅有重复的“reply”两个单词，未提供任何可引用的具体事实、数字或细节，因而无法说明其内容价值，故不推荐阅读。",
-        "url": "https://news.ycombinator.com/item?id=49305642",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "标题没信息量，玩得开心不等于能干活，等实测。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-15T21:47:56.063110Z"
+        "scored_at": "2026-08-15T22:49:38.953748Z"
       }
     }
   ]
