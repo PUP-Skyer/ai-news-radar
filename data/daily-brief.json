@@ -1,93 +1,8 @@
 {
-  "generated_at": "2026-08-15T22:40:38.944428Z",
+  "generated_at": "2026-08-15T23:36:13.281042Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "primary_url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用支持多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": "GitHub更新OAuth与GitHub App平台：OAuth应用可选用8小时短期访问令牌和6个月刷新令牌，最多注册10个redirect URI，并支持通配符匹配；这些改进已纳入GitHub Enterprise Server 3.23。",
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-          "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-          "title_zh": "OAuth 应用支持多个重定向 URI 和令牌刷新",
-          "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-          "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-          "summary": null,
-          "recommend_reason_zh": "GitHub更新OAuth与GitHub App平台：OAuth应用可选用8小时短期访问令牌和6个月刷新令牌，最多注册10个redirect URI，并支持通配符匹配；这些改进已纳入GitHub Enterprise Server 3.23。",
-          "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T22:43:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-14T22:43:44Z",
-      "latest_at": "2026-08-14T22:43:44Z",
-      "primary_item": {
-        "id": "69e635cd9bd215d8df2bd1d96ef64c55b55df09e",
-        "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-        "title_zh": "OAuth 应用支持多个重定向 URI 和令牌刷新",
-        "title_en": "Multiple redirect URIs and token refresh for OAuth apps",
-        "title_original": "Multiple redirect URIs and token refresh for OAuth apps",
-        "summary": null,
-        "recommend_reason_zh": "GitHub更新OAuth与GitHub App平台：OAuth应用可选用8小时短期访问令牌和6个月刷新令牌，最多注册10个redirect URI，并支持通配符匹配；这些改进已纳入GitHub Enterprise Server 3.23。",
-        "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "OAuth 多回调地址和刷新令牌直接省事，做 GitHub 集成的今天就能改。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
-      }
-    },
     {
       "story_id": "story_fe87bc97dd0a",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -162,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9634,
+        "recency": 0.9506,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -199,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -247,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.845,
+        "recency": 0.8338,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -282,7 +197,120 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
+      }
+    },
+    {
+      "story_id": "story_dbeb44805b60",
+      "title": "Anthropic透露更多Claude新水印的运作细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "primary_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+      "source": "TechCrunch AI",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic透露更多Claude新水印的运作细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_zh": "Anthropic透露更多Claude新水印的运作细节",
+          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic分享Claude新水印细节，文中围绕三个问题展开：水印如何运作、能否被编辑隐藏、对代码有何影响，帮助读者快速抓住技术要点。",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic分享Claude新水印的工作原理 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic分享Claude新水印的工作原理",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\nHow will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportation\nVent",
+          "recommend_reason_zh": "Anthropic详解Claude新水印的具体运作方式、编辑能否隐藏它，以及这项技术对代码的影响，逐一回应三个关键问题。",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "HN Algolia · AI 24h",
+        "TechCrunch AI"
+      ],
+      "items": [
+        {
+          "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+          "title": "Anthropic透露更多Claude新水印的运作细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_zh": "Anthropic透露更多Claude新水印的运作细节",
+          "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "summary": null,
+          "recommend_reason_zh": "Anthropic分享Claude新水印细节，文中围绕三个问题展开：水印如何运作、能否被编辑隐藏、对代码有何影响，帮助读者快速抓住技术要点。",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "TechCrunch AI",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-08-15T18:58:39Z"
+        },
+        {
+          "id": "af7117a7926ff54dcf1993c6b0c5f9b9eda4927d",
+          "title": "Anthropic分享Claude新水印的工作原理 / Anthropic shares details about how Claude's new watermarks will work",
+          "title_zh": "Anthropic分享Claude新水印的工作原理",
+          "title_en": "Anthropic shares details about how Claude's new watermarks will work",
+          "title_original": "Anthropic shares details about how Claude's new watermarks will work",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\nHow will the watermarking actually work? Can it be hidden with editing? And how does this affect code?\nLatest\nAI\nAmazon\nApps\nBiotech & Health\nClimate\nCloud Computing\nCommerce\nCrypto\nEnterprise\nEVs\nFintech\nFundraising\nGadgets\nGaming\nGoogle\nGovernment & Policy\nHardware\nInstagram\nLayoffs\nMedia & Entertainment\nMeta\nMicrosoft\nPrivacy\nRobotics\nSecurity\nSocial\nSpace\nStartups\nTikTok\nTransportation\nVent",
+          "recommend_reason_zh": "Anthropic详解Claude新水印的具体运作方式、编辑能否隐藏它，以及这项技术对代码的影响，逐一回应三个关键问题。",
+          "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+          "source": "HN Algolia · AI 24h",
+          "source_name": "Hacker News",
+          "site_id": "hackernews",
+          "published_at": "2026-08-15T22:07:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6621,
+      "importance": 0.6621,
+      "importance_score": 0.6621,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5904,
+        "source_tier": 0.58,
+        "ai_relevance": 0.82,
+        "recency": 0.9354,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-15T18:58:39Z",
+      "latest_at": "2026-08-15T22:07:08Z",
+      "primary_item": {
+        "id": "ec86a32dff4fd6dbb4f2436446fbeb7445e157c3",
+        "title": "Anthropic透露更多Claude新水印的运作细节 / Anthropic shares more details about how Claude’s new watermarks will work",
+        "title_zh": "Anthropic透露更多Claude新水印的运作细节",
+        "title_en": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "title_original": "Anthropic shares more details about how Claude’s new watermarks will work",
+        "summary": null,
+        "recommend_reason_zh": "Anthropic分享Claude新水印细节，文中围绕三个问题展开：水印如何运作、能否被编辑隐藏、对代码有何影响，帮助读者快速抓住技术要点。",
+        "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
+        "source": "TechCrunch AI",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "水印细节对普通开发无直接影响，除非做内容审核或合规，否则看看即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -299,7 +327,7 @@
           "title_zh": "AI 的工作记忆容量远超人类大脑。",
           "title_en": "AI has access to a vastly larger working memory than the human brain",
           "title_original": "AI has access to a vastly larger working memory than the human brain",
-          "summary": "I don't think I've had a truly original idea in my life. Combine A + B, when it's rare for people to know A and B at the same time. So from that perspective, what LLMs are doing is basically the same thing. Sometimes I am faster than the LLM because my context might be better organized, but it typically needs just a hint from me to steer itself correctly. It claims something is a memory leak, but smelling a rat, I suggest it to double check the garbage collection statistics too, at which point i",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49312845",
           "source": "hackernews",
@@ -336,7 +364,7 @@
           "published_at": "2026-08-15T18:39:17.058000Z"
         },
         {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
           "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
@@ -344,14 +372,29 @@
           "summary": null,
           "recommend_reason_zh": "本文指出AI解题优势不在推理更强，而在近乎无限的符号工作记忆：其上下文窗口能容纳整个题目和数百个中间方程，突破了人类工作记忆的生物学限制。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T18:13:02Z"
+        },
+        {
+          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI has access to a vastly larger working memory than the human brain",
+          "title_original": "AI has access to a vastly larger working memory than the human brain",
+          "summary": null,
+          "recommend_reason_zh": "这篇文章指出AI的关键优势不在推理更强，而在近乎无限的符号工作记忆，对比人类心算三位数乘法的局限，并引用专家通过chunking压缩信息来补偿认知瓶颈。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-15T18:13:02Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
+        "Hacker News",
         "Hacker News (黑客新闻)",
         "davidepiffer.com",
         "hackernews"
@@ -363,7 +406,7 @@
           "title_zh": "AI 的工作记忆容量远超人类大脑。",
           "title_en": "AI has access to a vastly larger working memory than the human brain",
           "title_original": "AI has access to a vastly larger working memory than the human brain",
-          "summary": "I don't think I've had a truly original idea in my life. Combine A + B, when it's rare for people to know A and B at the same time. So from that perspective, what LLMs are doing is basically the same thing. Sometimes I am faster than the LLM because my context might be better organized, but it typically needs just a hint from me to steer itself correctly. It claims something is a memory leak, but smelling a rat, I suggest it to double check the garbage collection statistics too, at which point i",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=49312845",
           "source": "hackernews",
@@ -400,7 +443,7 @@
           "published_at": "2026-08-15T18:39:17.058000Z"
         },
         {
-          "id": "d96f5b708b46a172781224ee52287d992d3b751f",
+          "id": "68b299a36a7875272b55a5ab05c39fb16965da31",
           "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
           "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
           "title_en": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
@@ -408,24 +451,38 @@
           "summary": null,
           "recommend_reason_zh": "本文指出AI解题优势不在推理更强，而在近乎无限的符号工作记忆：其上下文窗口能容纳整个题目和数百个中间方程，突破了人类工作记忆的生物学限制。",
           "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T18:13:02Z"
+        },
+        {
+          "id": "fd40ff95706cefac27949aa572fb7dbdef1e8880",
+          "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们 / AI has access to a vastly larger working memory than the human brain",
+          "title_zh": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
+          "title_en": "AI has access to a vastly larger working memory than the human brain",
+          "title_original": "AI has access to a vastly larger working memory than the human brain",
+          "summary": null,
+          "recommend_reason_zh": "这篇文章指出AI的关键优势不在推理更强，而在近乎无限的符号工作记忆，对比人类心算三位数乘法的局限，并引用专家通过chunking压缩信息来补偿认知瓶颈。",
+          "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-08-15T18:13:02Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5958,
-      "importance": 0.5958,
-      "importance_score": 0.5958,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6184,
+      "importance": 0.6184,
+      "importance_score": 0.6184,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.75
+        "recency": 0.9868,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -439,7 +496,7 @@
         "title_zh": "AI 的工作记忆容量远超人类大脑。",
         "title_en": "AI has access to a vastly larger working memory than the human brain",
         "title_original": "AI has access to a vastly larger working memory than the human brain",
-        "summary": "I don't think I've had a truly original idea in my life. Combine A + B, when it's rare for people to know A and B at the same time. So from that perspective, what LLMs are doing is basically the same thing. Sometimes I am faster than the LLM because my context might be better organized, but it typically needs just a hint from me to steer itself correctly. It claims something is a memory leak, but smelling a rat, I suggest it to double check the garbage collection statistics too, at which point i",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49312845",
         "source": "hackernews",
@@ -451,7 +508,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -557,15 +614,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5669,
-      "importance": 0.5669,
-      "importance_score": 0.5669,
+      "score": 0.5646,
+      "importance": 0.5646,
+      "importance_score": 0.5646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9784,
+        "recency": 0.9654,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -592,7 +649,176 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
+      }
+    },
+    {
+      "story_id": "story_01c472791cae",
+      "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+      "url": "https://news.ycombinator.com/item?id=49313367",
+      "primary_url": "https://news.ycombinator.com/item?id=49313367",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:41:27.680000Z"
+        },
+        {
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "AI 在药物发现中的应用：它是什么、当前进展与未来方向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI 在药物发现中的应用：它是什么、当前进展与未来方向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": "这篇Perspective指出，AI在药物发现领域虽吸引广泛兴趣，但临床相关影响的证据仍有限，剖析了模型开发忽视临床转化、算法难以处理条件性生命科学数据等症结，并建议将基准测试重心转向决策改进。",
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么，AI 药物发现的实际进展究竟如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI 药物发现的实际进展究竟如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
+          "url": "https://news.ycombinator.com/item?id=49313367",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T20:41:27.680000Z"
+        },
+        {
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "AI 在药物发现中的应用：它是什么、当前进展与未来方向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "title_zh": "AI 在药物发现中的应用：它是什么、当前进展与未来方向",
+          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "27bdad6646bdd01e6c3dd7fbbc37fdf837d9b10a",
+          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+          "summary": null,
+          "recommend_reason_zh": "这篇Perspective指出，AI在药物发现领域虽吸引广泛兴趣，但临床相关影响的证据仍有限，剖析了模型开发忽视临床转化、算法难以处理条件性生命科学数据等症结，并建议将基准测试重心转向决策改进。",
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
+          "title": "那么，AI 药物发现的实际进展究竟如何？ / So How Is AI Drug Discovery Doing, Really?",
+          "title_zh": "那么，AI 药物发现的实际进展究竟如何？",
+          "title_en": "So How Is AI Drug Discovery Doing, Really?",
+          "title_original": "So How Is AI Drug Discovery Doing, Really?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5884,
+      "importance": 0.5884,
+      "importance_score": 0.5884,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9588,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-15T20:41:27.680000Z",
+      "primary_item": {
+        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
+        "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
+        "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
+        "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
+        "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
+        "summary": null,
+        "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
+        "url": "https://news.ycombinator.com/item?id=49313367",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "综述性文章，无新工具或数据，做药方向的可以扫一眼，其他人不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -623,7 +849,7 @@
           "title_zh": "与AI协作更像是在做领导，而非写代码",
           "title_en": "Working with AI feels more like leadership than coding",
           "title_original": "Working with AI feels more like leadership than coding",
-          "summary": "The conclusion also completely contradicts a previous point, which is that managing an LLM is not like managing a human. So the skills are, in contradiction to that LLM-ism of a conclusion, new. The author isn't using their people management skills, they're using new LLM-management skills. They think the two are similar, but didn't bother breaking down how they're the same vs where they contrast. It's just a lazy observation expanded out to a short essay that says nothing interesting.\nreply\nYou ",
+          "summary": null,
           "recommend_reason_zh": "这篇评论反驳“与AI合作就像管理”的观点，指出管理LLM需要全新的技能，而非套用人际管理经验，并对比了删除指令重试与解释错误两种不同做法。",
           "url": "https://news.ycombinator.com/item?id=49309451",
           "source": "hackernews",
@@ -673,7 +899,7 @@
           "title_zh": "与AI协作更像是在做领导，而非写代码",
           "title_en": "Working with AI feels more like leadership than coding",
           "title_original": "Working with AI feels more like leadership than coding",
-          "summary": "The conclusion also completely contradicts a previous point, which is that managing an LLM is not like managing a human. So the skills are, in contradiction to that LLM-ism of a conclusion, new. The author isn't using their people management skills, they're using new LLM-management skills. They think the two are similar, but didn't bother breaking down how they're the same vs where they contrast. It's just a lazy observation expanded out to a short essay that says nothing interesting.\nreply\nYou ",
+          "summary": null,
           "recommend_reason_zh": "这篇评论反驳“与AI合作就像管理”的观点，指出管理LLM需要全新的技能，而非套用人际管理经验，并对比了删除指令重试与解释错误两种不同做法。",
           "url": "https://news.ycombinator.com/item?id=49309451",
           "source": "hackernews",
@@ -698,15 +924,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5558,
-      "importance": 0.5558,
-      "importance_score": 0.5558,
+      "score": 0.5536,
+      "importance": 0.5536,
+      "importance_score": 0.5536,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9164,
+        "recency": 0.9043,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -733,7 +959,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -839,15 +1065,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5495,
-      "importance": 0.5495,
-      "importance_score": 0.5495,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8818,
+        "recency": 0.8701,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -874,7 +1100,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -951,15 +1177,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5406,
-      "importance": 0.5406,
-      "importance_score": 0.5406,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9709,
+        "recency": 0.958,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -986,148 +1212,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
-      }
-    },
-    {
-      "story_id": "story_01c472791cae",
-      "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
-      "url": "https://news.ycombinator.com/item?id=49313367",
-      "primary_url": "https://news.ycombinator.com/item?id=49313367",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:41:27.680000Z"
-        },
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "AI 在药物发现中的应用：它是什么、当前进展与未来方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "AI 在药物发现中的应用：它是什么、当前进展与未来方向",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "那么，AI 药物发现的实际进展究竟如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "那么，AI 药物发现的实际进展究竟如何？",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-          "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
-          "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
-          "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
-          "url": "https://news.ycombinator.com/item?id=49313367",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T20:41:27.680000Z"
-        },
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "AI 在药物发现中的应用：它是什么、当前进展与未来方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "title_zh": "AI 在药物发现中的应用：它是什么、当前进展与未来方向",
-          "title_en": "AI in drug discovery – what it is, where we stand and the path forward",
-          "title_original": "AI in drug discovery – what it is, where we stand and the path forward",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "272ea2a447fcb4e4062b82df6b876d97ca4cd881",
-          "title": "那么，AI 药物发现的实际进展究竟如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "title_zh": "那么，AI 药物发现的实际进展究竟如何？",
-          "title_en": "So How Is AI Drug Discovery Doing, Really?",
-          "title_original": "So How Is AI Drug Discovery Doing, Really?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5657,
-      "importance": 0.5657,
-      "importance_score": 0.5657,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9717,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T20:41:27.680000Z",
-      "primary_item": {
-        "id": "66448732fdd4b21dd75ef6e84479fa756b82a7b9",
-        "title": "AI在药物发现中的应用——是什么、进展如何、未来方向 / AI in drug discovery — what it is, where we stand and the path forward",
-        "title_zh": "AI在药物发现中的应用——是什么、进展如何、未来方向",
-        "title_en": "AI in drug discovery — what it is, where we stand and the path forward",
-        "title_original": "AI in drug discovery — what it is, where we stand and the path forward",
-        "summary": null,
-        "recommend_reason_zh": "本文梳理AI药物发现的现状与前景，并以Veradermics的MINX为例：AI辅助其缓释口服米诺地尔配方，该产品与VDPHL01同类，公司已获数亿甚至十亿美元投资。",
-        "url": "https://news.ycombinator.com/item?id=49313367",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "综述性文章，无新工具或数据，做药方向的可以扫一眼，其他人不用动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1204,15 +1289,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5007,
-      "importance": 0.5007,
-      "importance_score": 0.5007,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7494,
+        "recency": 0.7395,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1239,7 +1324,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1345,15 +1430,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5491,
+      "importance": 0.5491,
+      "importance_score": 0.5491,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8793,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1380,7 +1465,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1411,7 +1496,7 @@
           "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
           "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
           "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "summary": "Live Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical A",
+          "summary": null,
           "recommend_reason_zh": "这篇Show HN用38美元的Thermalright Trofeo Vision LCD，通过逆向工程USB HID协议，在macOS上实时显示Claude的会话/周限额、token燃烧和假设API成本，还附带时钟与token走势图，DIY桌面HUD值得一试。",
           "url": "https://github.com/christensen143/claude-trofeo-hud",
           "source": "Hacker News (黑客新闻)",
@@ -1446,7 +1531,7 @@
           "title_zh": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD",
           "title_en": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
           "title_original": "Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "summary": "Live Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical API cost streamed from macOS over USB. - christensen143/claude-trofeo-hud\nLive Claude usage HUD for a $38 Thermalright Trofeo Vision LCD — session/weekly limits, token burn, and hypothetical A",
+          "summary": null,
           "recommend_reason_zh": "这篇Show HN用38美元的Thermalright Trofeo Vision LCD，通过逆向工程USB HID协议，在macOS上实时显示Claude的会话/周限额、token燃烧和假设API成本，还附带时钟与token走势图，DIY桌面HUD值得一试。",
           "url": "https://github.com/christensen143/claude-trofeo-hud",
           "source": "Hacker News (黑客新闻)",
@@ -1457,15 +1542,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5458,
-      "importance": 0.5458,
-      "importance_score": 0.5458,
+      "score": 0.5434,
+      "importance": 0.5434,
+      "importance_score": 0.5434,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1492,7 +1577,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1523,7 +1608,7 @@
           "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
           "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
           "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": "This week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wi",
+          "summary": null,
           "recommend_reason_zh": "Meta与极右媒体Newsmax达成内容授权协议，将用其报道和存档训练AI；但NewsGuard给Newsmax可信度仅20分，引发对Meta AI信息质量与偏见的担忧。",
           "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
           "source": "Hacker News · 24h最热",
@@ -1558,7 +1643,7 @@
           "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
           "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
           "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": "This week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wild conspiracy theories — announced it had struck a deal with Meta.\nThis week, Newsmax — a far-right news organization with a strong allegiance to President Trump and a history of pushing wi",
+          "summary": null,
           "recommend_reason_zh": "Meta与极右媒体Newsmax达成内容授权协议，将用其报道和存档训练AI；但NewsGuard给Newsmax可信度仅20分，引发对Meta AI信息质量与偏见的担忧。",
           "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
           "source": "Hacker News · 24h最热",
@@ -1569,15 +1654,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9783,
+        "recency": 0.9653,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1604,7 +1689,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1630,7 +1715,7 @@
           "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "id": "f020a6baf4095c8f52f99cfbb4f4449290bcfd01",
           "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
           "title_zh": "为什么科技大佬们接连发布AI宣言",
           "title_en": "Why tech bosses keep sharing their manifestos about AI",
@@ -1638,15 +1723,15 @@
           "summary": null,
           "recommend_reason_zh": "本文以Zuckerberg的6500字公开信为引，串起Andreessen、Altman、Amodei的AI宣言，对照IMF警告的40%岗位风险和Meta裁员8000人，揭示科技巨头AI乐观论背后的公关动机，值得细读。",
           "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T19:30:32Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -1665,7 +1750,7 @@
           "published_at": "2026-08-15T20:41:27.680000Z"
         },
         {
-          "id": "a5c133336b6e6a98972c6f1411921a08ea19d62f",
+          "id": "f020a6baf4095c8f52f99cfbb4f4449290bcfd01",
           "title": "为什么科技大佬们接连发布AI宣言 / Why tech bosses keep sharing their manifestos about AI",
           "title_zh": "为什么科技大佬们接连发布AI宣言",
           "title_en": "Why tech bosses keep sharing their manifestos about AI",
@@ -1673,23 +1758,23 @@
           "summary": null,
           "recommend_reason_zh": "本文以Zuckerberg的6500字公开信为引，串起Andreessen、Altman、Amodei的AI宣言，对照IMF警告的40%岗位风险和Meta裁员8000人，揭示科技巨头AI乐观论背后的公关动机，值得细读。",
           "url": "https://www.bbc.com/news/articles/cz97ljy91zxo",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T19:30:32Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5407,
-      "importance": 0.5407,
-      "importance_score": 0.5407,
+      "score": 0.5384,
+      "importance": 0.5384,
+      "importance_score": 0.5384,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9717,
+        "recency": 0.9588,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1716,7 +1801,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1742,7 +1827,7 @@
           "published_at": "2026-08-15T16:44:16.325000Z"
         },
         {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
+          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
           "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
           "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
           "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
@@ -1750,15 +1835,15 @@
           "summary": null,
           "recommend_reason_zh": "斯坦福团队用Evo 2模型从头设计出16个功能性噬菌体，可感染已耐药的大肠杆菌，展现定制噬菌体疗法前景，也引发生物武器与监管担忧。",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1777,7 +1862,7 @@
           "published_at": "2026-08-15T16:44:16.325000Z"
         },
         {
-          "id": "f873e21dcbe486d43afc15fb728e20630fc62340",
+          "id": "b55c5b939bdf5d3bda12e41c757031f76dc3656e",
           "title": "AI已能设计出功能性病毒，我们该担心吗？ / AI Can Now Design Functional Viruses. Should We Worry?",
           "title_zh": "AI已能设计出功能性病毒，我们该担心吗？",
           "title_en": "AI Can Now Design Functional Viruses. Should We Worry?",
@@ -1785,23 +1870,23 @@
           "summary": null,
           "recommend_reason_zh": "斯坦福团队用Evo 2模型从头设计出16个功能性噬菌体，可感染已耐药的大肠杆菌，展现定制噬菌体疗法前景，也引发生物武器与监管担忧。",
           "url": "https://spectrum.ieee.org/ai-designed-virus",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T15:32:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9178,
+        "recency": 0.9056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1828,7 +1913,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1905,15 +1990,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9178,
+        "recency": 0.9056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1940,7 +2025,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -1966,7 +2051,7 @@
           "published_at": "2026-08-15T14:41:47.630000Z"
         },
         {
-          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
+          "id": "5c60d5b19f8d353ed7bfdd462519174bd52f5c82",
           "title": "Yadda 3.0.0：AI 智能体时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
           "title_zh": "Yadda 3.0.0：AI 智能体时代的 BDD",
           "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
@@ -1974,15 +2059,15 @@
           "summary": null,
           "recommend_reason_zh": "Yadda 3.0.0由Claude Code在约一天内完成现代化，人工干预极少，还发现微妙边缘情况；文章以这个JavaScript BDD库为例，说明可执行规范在AI智能体时代更有价值。",
           "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T13:43:46Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -2001,7 +2086,7 @@
           "published_at": "2026-08-15T14:41:47.630000Z"
         },
         {
-          "id": "6798338c29b45497deb2f55f717a29ab9fe91ec2",
+          "id": "5c60d5b19f8d353ed7bfdd462519174bd52f5c82",
           "title": "Yadda 3.0.0：AI 智能体时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
           "title_zh": "Yadda 3.0.0：AI 智能体时代的 BDD",
           "title_en": "Yadda 3.0.0: BDD in the Age of AI Agents",
@@ -2009,23 +2094,23 @@
           "summary": null,
           "recommend_reason_zh": "Yadda 3.0.0由Claude Code在约一天内完成现代化，人工干预极少，还发现微妙边缘情况；文章以这个JavaScript BDD库为例，说明可执行规范在AI智能体时代更有价值。",
           "url": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-15T13:43:46Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5241,
+      "importance": 0.5241,
+      "importance_score": 0.5241,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2052,7 +2137,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -2129,15 +2214,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
+      "score": 0.5219,
+      "importance": 0.5219,
+      "importance_score": 0.5219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8792,
+        "recency": 0.8675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2164,7 +2249,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -2241,15 +2326,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
+      "score": 0.5172,
+      "importance": 0.5172,
+      "importance_score": 0.5172,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8526,
+        "recency": 0.8413,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2276,7 +2361,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     },
     {
@@ -2353,15 +2438,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5123,
+      "importance": 0.5123,
+      "importance_score": 0.5123,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.825,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2388,7 +2473,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-15T22:49:38.953748Z"
+        "scored_at": "2026-08-15T23:44:11.431254Z"
       }
     }
   ]

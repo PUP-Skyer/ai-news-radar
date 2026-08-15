@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:49:42.551944Z",
+  "generated_at": "2026-08-15T23:44:14.302907Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_e27bfcf013b4",
-      "title": "OAuth 应用支持多个重定向 URI 和令牌刷新 / Multiple redirect URIs and token refresh for OAuth apps",
-      "url": "https://github.blog/changelog/2026-08-14-multiple-redirect-uris-and-token-refresh-for-oauth-apps",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "多URI和刷新是刚需，但GitHub这波更新晚了三年，竞品早玩腻了。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节，无代码无评测，仅凭公告难证价值。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "OAuth 多回调地址和刷新令牌直接省事，做 GitHub 集成的今天就能改。"
-        }
-      }
-    },
-    {
       "story_id": "story_d572412cd374",
       "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
       "url": "https://sankalp.bearblog.dev/autoresearch",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_b004ea508d1a",
       "title": "Show HN: ThoughtDAG——用于大型语言模型对话的可编辑上下文图",
       "url": "https://chenxiachan.github.io/thoughtdag",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 62,
           "review": "可编辑上下文图有想法，但没开源没demo，先观望。"
+        }
+      }
+    },
+    {
+      "story_id": "story_dfcb40835c8c",
+      "title": "Show HN: 实时Claude用量HUD，适配38美元Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "38美元的屏配实时用量，噱头大于实用，但至少动手能力值得肯定。"
+        },
+        "paper-police": {
+          "score": 42,
+          "review": "有硬件和实现细节，但无代码链接或复现步骤，仅靠展示难以验证。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "给发烧友的玩具，能实时看用量但非刚需，动手党可抄方案。"
         }
       }
     }
