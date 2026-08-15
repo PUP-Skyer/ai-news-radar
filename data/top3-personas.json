@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:58:46.379462Z",
+  "generated_at": "2026-08-15T19:47:51.675304Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_b8125cc46db3",
-      "title": "Claude 文本水印机制如何运作 / How Claude's text watermark works",
-      "url": "https://www.anthropic.com/news/claude-text-watermark",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "水印技术本身扎实，但宣传里藏着'检测率99.9%'的特定条件，别急着欢呼。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "官方博客详述机制但无论文代码，缺独立验证，等复现再提分。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "水印机制影响AI文本检测，做内容审核或合规的今天就得看。"
-        }
-      }
-    },
-    {
       "story_id": "story_d572412cd374",
       "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
       "url": "https://sankalp.bearblog.dev/autoresearch",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "Codex 自动研究提速 232 倍是具体案例，可参考其流程，但需自行验证复现。"
+        }
+      }
+    },
+    {
+      "story_id": "story_353de4c443a8",
+      "title": "Yadda 3.0.0：AI 智能体时代的 BDD / Yadda 3.0.0: BDD in the Age of AI Agents",
+      "url": "https://news.ycombinator.com/item?id=49310495",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "BDD 老树开新花，但 AI 智能体这词蹭得有点急，先看测试跑不跑得动。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "仅标题无细节，无论文代码评测，宣称AI时代BDD实为空谈。"
+        },
+        "pragmatic": {
+          "score": 62,
+          "review": "BDD 框架适配 AI 智能体，写测试的可以看看，但没具体细节先观望。"
         }
       }
     }
