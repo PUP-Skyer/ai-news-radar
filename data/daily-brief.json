@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T19:36:42.965650Z",
+  "generated_at": "2026-08-16T20:40:57.037488Z",
   "window_hours": 24,
-  "total_items": 15,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7752,
-      "importance": 0.7752,
-      "importance_score": 0.7752,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8869,
+        "recency": 0.8733,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7297,
-      "importance": 0.7297,
-      "importance_score": 0.7297,
+      "score": 0.7275,
+      "importance": 0.7275,
+      "importance_score": 0.7275,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7896,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -197,120 +197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
-      }
-    },
-    {
-      "story_id": "story_fe87bc97dd0a",
-      "title": "Cursor 正式被 SpaceX 收购",
-      "url": "https://cursor.com/blog/joining-spacex",
-      "primary_url": "https://cursor.com/blog/joining-spacex",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": "Cursor正式被SpaceX收购，始于4月的流程完成。报道详述双方将利用全球最大GPU集群训练模型，并发布Grok 4.6展示成果，看AI编程如何借力大规模算力。",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
-          "summary": null,
-          "recommend_reason_zh": "Cursor正式成为SpaceX一部分，4月启动的收购完成。借助全球最大GPU集群发布Grok 4.6，从代码补全走向AI队友，以更低成本提供更强模型。",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "cursor.com"
-      ],
-      "items": [
-        {
-          "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-          "title": "Cursor 正式被 SpaceX 收购",
-          "title_zh": "Cursor 正式被 SpaceX 收购",
-          "title_en": null,
-          "title_original": "Cursor 正式被 SpaceX 收购",
-          "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-          "recommend_reason_zh": "Cursor正式被SpaceX收购，始于4月的流程完成。报道详述双方将利用全球最大GPU集群训练模型，并发布Grok 4.6展示成果，看AI编程如何借力大规模算力。",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        },
-        {
-          "id": "7a50d104b08c9f2172194c60466aa260cc885830",
-          "title": "Cursor 现已成为 SpaceX 的一部分",
-          "title_zh": "Cursor 现已成为 SpaceX 的一部分",
-          "title_en": null,
-          "title_original": "Cursor 现已成为 SpaceX 的一部分",
-          "summary": null,
-          "recommend_reason_zh": "Cursor正式成为SpaceX一部分，4月启动的收购完成。借助全球最大GPU集群发布Grok 4.6，从代码补全走向AI队友，以更低成本提供更强模型。",
-          "url": "https://cursor.com/blog/joining-spacex",
-          "source": "cursor.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:05:54.703000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7378,
-      "importance": 0.7378,
-      "importance_score": 0.7378,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7121,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-15T20:05:54.703000Z",
-      "latest_at": "2026-08-15T20:05:54.703000Z",
-      "primary_item": {
-        "id": "381d3c56c3c3f15c2c5b031f0dc679588e6f701a",
-        "title": "Cursor 正式被 SpaceX 收购",
-        "title_zh": "Cursor 正式被 SpaceX 收购",
-        "title_en": null,
-        "title_original": "Cursor 正式被 SpaceX 收购",
-        "summary": "Cursor 已被 SpaceX 正式收购，完成自 4 月启动的收购流程。借助 SpaceX 全球最大规模的 GPU 集群，Cursor 将构建更强且运行成本更低的模型，并以更低价格向客户提供更强大的模型。本周三发布的 Grok 4.6 是双方合作成果的早期体现。",
-        "recommend_reason_zh": "Cursor正式被SpaceX收购，始于4月的流程完成。报道详述双方将利用全球最大GPU集群训练模型，并发布Grok 4.6展示成果，看AI编程如何借力大规模算力。",
-        "url": "https://cursor.com/blog/joining-spacex",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "收购新闻不写代码，等产品路线图出来再看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -416,15 +303,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5653,
-      "importance": 0.5653,
-      "importance_score": 0.5653,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9692,
+        "recency": 0.9543,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -451,7 +338,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -557,15 +444,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5468,
-      "importance": 0.5468,
-      "importance_score": 0.5468,
+      "score": 0.5444,
+      "importance": 0.5444,
+      "importance_score": 0.5444,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8666,
+        "recency": 0.8534,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -592,7 +479,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -669,15 +556,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -704,7 +591,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -781,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.533,
-      "importance": 0.533,
-      "importance_score": 0.533,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9289,
+        "recency": 0.9147,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -816,7 +703,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -892,15 +779,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
+      "score": 0.5202,
+      "importance": 0.5202,
+      "importance_score": 0.5202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8711,
+        "recency": 0.8578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -927,7 +814,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -1004,15 +891,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5347,
-      "importance": 0.5347,
-      "importance_score": 0.5347,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9384,
+        "recency": 0.924,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1039,7 +926,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -1116,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5297,
+      "importance": 0.5297,
+      "importance_score": 0.5297,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9249,
+        "recency": 0.9107,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,7 +1038,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -1228,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8188,
+        "recency": 0.8062,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1263,7 +1150,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -1340,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7896,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,7 +1262,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -1452,15 +1339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7896,
+        "recency": 0.7774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1487,7 +1374,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     },
     {
@@ -1564,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4989,
-      "importance": 0.4989,
-      "importance_score": 0.4989,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7392,
+        "recency": 0.7278,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1599,119 +1486,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
-      }
-    },
-    {
-      "story_id": "story_171205bf2b4a",
-      "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
-      "url": "https://news.ycombinator.com/item?id=49313778",
-      "primary_url": "https://news.ycombinator.com/item?id=49313778",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": "Meta将用极右翼媒体Newsmax的数据训练AI，这一选择引发对算法偏见和数据来源伦理的质疑。报道揭示了科技巨头在AI训练数据上的争议性决策，值得深读。",
-          "url": "https://news.ycombinator.com/item?id=49313778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T21:09:38.355000Z"
-        },
-        {
-          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
-          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": "Meta与极右媒体Newsmax达成内容授权协议，将用其报道和存档训练AI；但NewsGuard给Newsmax可信度仅20分，引发对Meta AI信息质量与偏见的担忧。",
-          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T20:00:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": "Meta将用极右翼媒体Newsmax的数据训练AI，这一选择引发对算法偏见和数据来源伦理的质疑。报道揭示了科技巨头在AI训练数据上的争议性决策，值得深读。",
-          "url": "https://news.ycombinator.com/item?id=49313778",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T21:09:38.355000Z"
-        },
-        {
-          "id": "bbd280fdcddc95fcf5ccd42ea2c1cdb93042ece7",
-          "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
-          "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-          "summary": null,
-          "recommend_reason_zh": "Meta与极右媒体Newsmax达成内容授权协议，将用其报道和存档训练AI；但NewsGuard给Newsmax可信度仅20分，引发对Meta AI信息质量与偏见的担忧。",
-          "url": "https://popular.info/p/meta-will-train-its-ai-on-far-right",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T20:00:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.496,
-      "importance": 0.496,
-      "importance_score": 0.496,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7231,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T20:00:14Z",
-      "latest_at": "2026-08-15T21:09:38.355000Z",
-      "primary_item": {
-        "id": "637ee186802d893e04b6fe64158efba8fcd57d16",
-        "title": "Meta将用极右翼媒体Newsmax训练其AI / Meta will train its AI on Newsmax, a far-right media outlet",
-        "title_zh": "Meta将用极右翼媒体Newsmax训练其AI",
-        "title_en": "Meta will train its AI on Newsmax, a far-right media outlet",
-        "title_original": "Meta will train its AI on Newsmax, a far-right media outlet",
-        "summary": null,
-        "recommend_reason_zh": "Meta将用极右翼媒体Newsmax的数据训练AI，这一选择引发对算法偏见和数据来源伦理的质疑。报道揭示了科技巨头在AI训练数据上的争议性决策，值得深读。",
-        "url": "https://news.ycombinator.com/item?id=49313778",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "训练数据来源争议不影响你调API，等模型发布看效果再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-16T19:42:47.009060Z"
+        "scored_at": "2026-08-16T20:46:40.541274Z"
       }
     }
   ]
