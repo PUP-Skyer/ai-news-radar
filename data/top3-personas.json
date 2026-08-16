@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T10:49:35.211485Z",
+  "generated_at": "2026-08-16T11:47:02.458594Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,22 +37,22 @@
       }
     },
     {
-      "story_id": "story_d572412cd374",
-      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-      "url": "https://sankalp.bearblog.dev/autoresearch",
+      "story_id": "story_0bf300873ab5",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "232倍提升听着唬人，但没给基线配置和复现细节，水分得自己挤。"
+          "review": "多智能体系统还在爬坡期，Anthropic 这篇算诚实，但别急着吹成范式。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "博客宣称提速232倍，无论文无代码，仅个人叙述，待复现验证。"
+          "score": 30,
+          "review": "只有博客文章，无论文无代码无数据，模式问题缺乏实证支撑。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "Codex 自动研究提速 232 倍是具体案例，可参考其流程，但需自行验证复现。"
+          "score": 62,
+          "review": "多智能体模式总结有参考价值，但无新工具，等落地案例再动手。"
         }
       }
     },

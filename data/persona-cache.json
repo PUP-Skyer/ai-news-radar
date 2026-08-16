@@ -1,138 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_fd83d61e5894|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "8美元跑28M参数模型，边缘部署神器，今天就能在ESP32上试跑。",
-      "title_hash": "e441c66b",
-      "scored_at": "2026-07-26T11:44:18.778815Z"
-    },
-    "story_542487498bc6|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "安全测试老话题，没新漏洞或防御方案，开发者不用管。",
-      "title_hash": "c3b9a8d6",
-      "scored_at": "2026-07-26T11:44:20.115583Z"
-    },
-    "story_a3ff96779b04|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "提示词工程参考价值高，直接抄来优化自己项目的系统提示。",
-      "title_hash": "abd395a1",
-      "scored_at": "2026-07-26T11:44:21.200265Z"
-    },
-    "story_373076a10218|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "CLI工具对开发者友好，可尝试集成到工作流，但需看实际效果。",
-      "title_hash": "029d1e7d",
-      "scored_at": "2026-07-26T11:44:22.450348Z"
-    },
-    "story_74755d9d6ce9|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "安全事件复盘，无工具或方案可复用，等官方补丁和复盘报告。",
-      "title_hash": "3695f3d0",
-      "scored_at": "2026-07-26T11:44:23.735750Z"
-    },
-    "story_b90b03f133ee|pragmatic|0a5c5b24": {
-      "score": 40,
-      "review": "Debian社区讨论LLM应用，离实际可用还远，开发者暂时不用管。",
-      "title_hash": "d58984e0",
-      "scored_at": "2026-07-26T11:44:24.821424Z"
-    },
-    "story_f87d3f1e3314|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "宏观就业分析，对写代码没直接帮助，不如看招聘网站。",
-      "title_hash": "92fe09db",
-      "scored_at": "2026-07-26T11:44:25.930899Z"
-    },
-    "story_053563a28f71|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "对自建AI服务的开发者有用，但需看具体定价和功能细节。",
-      "title_hash": "fe4b3a5a",
-      "scored_at": "2026-07-26T11:44:27.244630Z"
-    },
-    "story_f8a62f174fa0|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "类比文章，没有具体工具或方案，对开发无直接影响。",
-      "title_hash": "2cdff28b",
-      "scored_at": "2026-07-26T11:44:28.450958Z"
-    },
-    "story_213f8ad1a1a3|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "融资八卦和内部言论，对写代码没任何用。",
-      "title_hash": "bacc7b59",
-      "scored_at": "2026-07-26T11:44:29.696349Z"
-    },
-    "story_7d231e7bb6a8|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "新规则文档，适合做提示词优化参考，但非紧急更新。",
-      "title_hash": "e3ccd10b",
-      "scored_at": "2026-07-26T11:44:31.075324Z"
-    },
-    "story_56214f7f40b3|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "936万参数语音模型，内存敏感场景可直接部署，今天就能试。",
-      "title_hash": "eb7b6c03",
-      "scored_at": "2026-07-26T11:44:32.209951Z"
-    },
-    "story_2fe9abb9e4dd|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "评论文章不写代码，对开发者今天没用。",
-      "title_hash": "8481c20f",
-      "scored_at": "2026-07-26T11:44:33.245649Z"
-    },
-    "story_adf204578023|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "职业经验分享，对今天写代码没直接帮助。",
-      "title_hash": "f59b6478",
-      "scored_at": "2026-07-26T11:44:34.322285Z"
-    },
-    "story_edd0345244b2|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "宏观评论，对今天写代码没影响，等具体数据再说。",
-      "title_hash": "77d2af64",
-      "scored_at": "2026-07-26T11:44:35.375357Z"
-    },
-    "story_354000be966e|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "企业预算调整是常态，对开发者没直接影响，继续干活。",
-      "title_hash": "3f448756",
-      "scored_at": "2026-07-26T11:44:36.764360Z"
-    },
-    "story_fd83d61e5894|cynic|f4237a62": {
-      "score": 72,
-      "review": "28.9M参数跑在8刀芯片上，demo挺唬人，但推理速度够干啥？",
-      "title_hash": "e441c66b",
-      "scored_at": "2026-07-26T11:44:38.077068Z"
-    },
-    "story_fd83d61e5894|paper-police|966065bf": {
-      "score": 85,
-      "review": "GitHub仓库有代码和说明，但缺论文和标准benchmark，可复现性待验证。",
-      "title_hash": "e441c66b",
-      "scored_at": "2026-07-26T11:44:39.229722Z"
-    },
-    "story_a3ff96779b04|cynic|f4237a62": {
-      "score": 25,
-      "review": "泄露的是提示词，不是模型权重，这也能叫完整？",
-      "title_hash": "abd395a1",
-      "scored_at": "2026-07-26T11:44:40.370302Z"
-    },
-    "story_a3ff96779b04|paper-police|966065bf": {
-      "score": 5,
-      "review": "无论文无代码无评测，只有匿名泄露文本，无法验证真伪。",
-      "title_hash": "abd395a1",
-      "scored_at": "2026-07-26T11:44:41.560881Z"
-    },
-    "story_56214f7f40b3|cynic|f4237a62": {
-      "score": 72,
-      "review": "936万参数做语音模型，demo听着还行，但离'完整'还差个噪声环境测试。",
-      "title_hash": "eb7b6c03",
-      "scored_at": "2026-07-26T11:44:42.814311Z"
-    },
-    "story_56214f7f40b3|paper-police|966065bf": {
-      "score": 20,
-      "review": "HuggingFace模型页无论文无代码无评测，仅凭参数数量宣称性能，证据为零。",
-      "title_hash": "eb7b6c03",
-      "scored_at": "2026-07-26T11:44:44.010116Z"
-    },
     "story_9a66534a1fc0|pragmatic|0a5c5b24": {
       "score": 20,
       "review": "政治游说，不写代码，等政策落地再评估影响。",
@@ -6072,6 +5940,24 @@
       "review": "研究性实验，看数据分布影响，但暂无直接可用的工具或方案。",
       "title_hash": "c9bbbc77",
       "scored_at": "2026-08-16T10:49:35.211276Z"
+    },
+    "story_0bf300873ab5|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "多智能体模式总结有参考价值，但无新工具，等落地案例再动手。",
+      "title_hash": "1e988a23",
+      "scored_at": "2026-08-16T11:47:00.204799Z"
+    },
+    "story_0bf300873ab5|cynic|f4237a62": {
+      "score": 72,
+      "review": "多智能体系统还在爬坡期，Anthropic 这篇算诚实，但别急着吹成范式。",
+      "title_hash": "1e988a23",
+      "scored_at": "2026-08-16T11:47:01.281478Z"
+    },
+    "story_0bf300873ab5|paper-police|966065bf": {
+      "score": 30,
+      "review": "只有博客文章，无论文无代码无数据，模式问题缺乏实证支撑。",
+      "title_hash": "1e988a23",
+      "scored_at": "2026-08-16T11:47:02.458505Z"
     }
   }
 }

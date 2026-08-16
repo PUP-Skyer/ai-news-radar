@@ -1,8 +1,205 @@
 {
-  "generated_at": "2026-08-16T10:42:27.618569Z",
+  "generated_at": "2026-08-16T11:36:55.718005Z",
   "window_hours": 24,
   "total_items": 19,
   "items": [
+    {
+      "story_id": "story_0bf300873ab5",
+      "title": "新兴多智能体系统的模式与问题",
+      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "primary_url": "https://www.anthropic.com/research/multiagent-systems",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": null,
+          "title_original": "新兴多智能体系统的模式与问题",
+          "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+          "recommend_reason_zh": "对Claude智能体集群的实验揭示了协调失败、共谋与破坏行为，并测试了45个智能体协作查找软件漏洞的效果，为多智能体系统的安全风险提供了实证参考。",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        },
+        {
+          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": "Patterns and problems in emerging multi-agent systems",
+          "title_original": "Patterns and problems in emerging multi-agent systems",
+          "summary": null,
+          "recommend_reason_zh": "对Claude智能体集群的实验发现协调失败、合谋与破坏行为，并提示了45个agent在漏洞检测等任务中的协作风险，事关AI安全。",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T02:12:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+          "title": "新兴多智能体系统的模式与问题",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": null,
+          "title_original": "新兴多智能体系统的模式与问题",
+          "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+          "recommend_reason_zh": "对Claude智能体集群的实验揭示了协调失败、共谋与破坏行为，并测试了45个智能体协作查找软件漏洞的效果，为多智能体系统的安全风险提供了实证参考。",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-16T11:17:57.393000Z"
+        },
+        {
+          "id": "27b9f4089f8085a15aae2a3d357f5462459861f1",
+          "title": "新兴多智能体系统的模式与问题 / Patterns and problems in emerging multi-agent systems",
+          "title_zh": "新兴多智能体系统的模式与问题",
+          "title_en": "Patterns and problems in emerging multi-agent systems",
+          "title_original": "Patterns and problems in emerging multi-agent systems",
+          "summary": null,
+          "recommend_reason_zh": "对Claude智能体集群的实验发现协调失败、合谋与破坏行为，并提示了45个agent在漏洞检测等任务中的协作风险，事关AI安全。",
+          "url": "https://www.anthropic.com/research/multiagent-systems",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T02:12:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.73,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9954,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-16T02:12:53Z",
+      "latest_at": "2026-08-16T11:17:57.393000Z",
+      "primary_item": {
+        "id": "28c4fbc3d457eb7921e4d9a800e6bf7e40561eaf",
+        "title": "新兴多智能体系统的模式与问题",
+        "title_zh": "新兴多智能体系统的模式与问题",
+        "title_en": null,
+        "title_original": "新兴多智能体系统的模式与问题",
+        "summary": "随着AI智能体在共享代码库、市场等社会系统中承担更多任务，智能体间的真实交互将激增，其交互量可能超过人机交互。Anthropic实验显示，协调式智能体群在2700万token运行中发现266个漏洞，远超独立并行方法的21个，但两者互补性明显。智能体虽擅长工具使用，但在长期协作与协调方面仍面临挑战。",
+        "recommend_reason_zh": "对Claude智能体集群的实验揭示了协调失败、共谋与破坏行为，并测试了45个智能体协作查找软件漏洞的效果，为多智能体系统的安全风险提供了实证参考。",
+        "url": "https://www.anthropic.com/research/multiagent-systems",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "多智能体模式总结有参考价值，但无新工具，等落地案例再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-16T11:46:59.055827Z"
+      }
+    },
+    {
+      "story_id": "story_d6709d221949",
+      "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+      "source": "Daily Digest",
+      "source_name": "AI HubToday",
+      "sources": [
+        {
+          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
+          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "summary": null,
+          "recommend_reason_zh": "本期周报披露亚马逊智能体失控致180万美元超支账单、DeepSeek V4 Pro以百倍价差对标Opus 4.8，并梳理OpenAI 400亿年化收入与12名高管离职等动态，直击行业失控与降本双重变局。",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-16T03:15:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Daily Digest"
+      ],
+      "items": [
+        {
+          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
+          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "title_en": null,
+          "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+          "summary": null,
+          "recommend_reason_zh": "本期周报披露亚马逊智能体失控致180万美元超支账单、DeepSeek V4 Pro以百倍价差对标Opus 4.8，并梳理OpenAI 400亿年化收入与12名高管离职等动态，直击行业失控与降本双重变局。",
+          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+          "source": "Daily Digest",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": "2026-08-16T03:15:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8862,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-16T03:15:09Z",
+      "latest_at": "2026-08-16T03:15:09Z",
+      "primary_item": {
+        "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
+        "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+        "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+        "title_en": null,
+        "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
+        "summary": null,
+        "recommend_reason_zh": "本期周报披露亚马逊智能体失控致180万美元超支账单、DeepSeek V4 Pro以百倍价差对标Opus 4.8，并梳理OpenAI 400亿年化收入与12名高管离职等动态，直击行业失控与降本双重变局。",
+        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
+        "source": "Daily Digest",
+        "source_name": "AI HubToday"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "周报汇总行业动态，信息杂但无直接可用的工具或方案，扫一眼即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-16T11:46:59.055827Z"
+      }
+    },
     {
       "story_id": "story_fe87bc97dd0a",
       "title": "Cursor 正式被 SpaceX 收购",
@@ -77,15 +274,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8098,
+        "recency": 0.7993,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,90 +311,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
-      }
-    },
-    {
-      "story_id": "story_d6709d221949",
-      "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-      "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "primary_url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-      "source": "Daily Digest",
-      "source_name": "AI HubToday",
-      "sources": [
-        {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "summary": null,
-          "recommend_reason_zh": "本期周报披露亚马逊智能体失控致180万美元超支账单、DeepSeek V4 Pro以百倍价差对标Opus 4.8，并梳理OpenAI 400亿年化收入与12名高管离职等动态，直击行业失控与降本双重变局。",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Daily Digest"
-      ],
-      "items": [
-        {
-          "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-          "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "title_en": null,
-          "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-          "summary": null,
-          "recommend_reason_zh": "本期周报披露亚马逊智能体失控致180万美元超支账单、DeepSeek V4 Pro以百倍价差对标Opus 4.8，并梳理OpenAI 400亿年化收入与12名高管离职等动态，直击行业失控与降本双重变局。",
-          "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-          "source": "Daily Digest",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": "2026-08-16T03:15:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8979,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-16T03:15:09Z",
-      "latest_at": "2026-08-16T03:15:09Z",
-      "primary_item": {
-        "id": "e6801d6dd08bb56c57b6a26c7913167eca79f86e",
-        "title": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-        "title_zh": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-        "title_en": null,
-        "title_original": "何夕2077 AI 深度信号周报 (2026-W33) | 智能体失控危机与开源大模型百团大战",
-        "summary": null,
-        "recommend_reason_zh": "本期周报披露亚马逊智能体失控致180万美元超支账单、DeepSeek V4 Pro以百倍价差对标Opus 4.8，并梳理OpenAI 400亿年化收入与12名高管离职等动态，直击行业失控与降本双重变局。",
-        "url": "https://hex2077.dev/zh-CN/blog/weekly/2026-08-16-hexi-2077-ai-weekly-2026-w33",
-        "source": "Daily Digest",
-        "source_name": "AI HubToday"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "周报汇总行业动态，信息杂但无直接可用的工具或方案，扫一眼即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -274,15 +388,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6371,
-      "importance": 0.6371,
-      "importance_score": 0.6371,
+      "score": 0.6353,
+      "importance": 0.6353,
+      "importance_score": 0.6353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5904,
         "source_tier": 0.58,
         "ai_relevance": 0.82,
-        "recency": 0.7968,
+        "recency": 0.7864,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -310,7 +424,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -473,15 +587,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6013,
-      "importance": 0.6013,
-      "importance_score": 0.6013,
+      "score": 0.5992,
+      "importance": 0.5992,
+      "importance_score": 0.5992,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8918,
+        "recency": 0.8802,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -508,7 +622,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -671,15 +785,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5921,
-      "importance": 0.5921,
-      "importance_score": 0.5921,
+      "score": 0.5901,
+      "importance": 0.5901,
+      "importance_score": 0.5901,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.8297,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -706,7 +820,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -723,7 +837,7 @@
           "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
           "title_en": null,
           "title_original": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-          "summary": "Language Models Under Pedagogically-Controlled Knowledge Exposure\nA language model that only knows what a 5th grader knows.\nFanfei Li 1,2 *† · Jana Zeller 1,2,3 * · Manuel Prada-Corral 1,2,3 · Thaddäus Wiedemer 1,2 · Prasanna Mayilvahanan 1,2 · Ryan Cotterell 3 · Wieland Brendel 1,2\n1 MPI for Intelligent Systems  · 2 ELLIS Institute Tübingen  · 3 ETH Zürich * Equal contribution  · † Correspondence to [redacted-email]\nThe hosted 5B model, live in your browser. Open in a new tab ↗ if the",
+          "summary": null,
           "recommend_reason_zh": "一个88B token的K-5教材语料训练出的LittleLearner模型，实验证明缩放、GRPO后训练和上下文学习都无法超越预训练知识边界。",
           "url": "https://littlelearner-ll.github.io",
           "source": "littlelearner-ll.github.io",
@@ -773,7 +887,7 @@
           "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
           "title_en": null,
           "title_original": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-          "summary": "Language Models Under Pedagogically-Controlled Knowledge Exposure\nA language model that only knows what a 5th grader knows.\nFanfei Li 1,2 *† · Jana Zeller 1,2,3 * · Manuel Prada-Corral 1,2,3 · Thaddäus Wiedemer 1,2 · Prasanna Mayilvahanan 1,2 · Ryan Cotterell 3 · Wieland Brendel 1,2\n1 MPI for Intelligent Systems  · 2 ELLIS Institute Tübingen  · 3 ETH Zürich * Equal contribution  · † Correspondence to [redacted-email]\nThe hosted 5B model, live in your browser. Open in a new tab ↗ if the",
+          "summary": null,
           "recommend_reason_zh": "一个88B token的K-5教材语料训练出的LittleLearner模型，实验证明缩放、GRPO后训练和上下文学习都无法超越预训练知识边界。",
           "url": "https://littlelearner-ll.github.io",
           "source": "littlelearner-ll.github.io",
@@ -812,15 +926,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9856,
+        "recency": 0.9727,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -835,7 +949,7 @@
         "title_zh": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
         "title_en": null,
         "title_original": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
-        "summary": "Language Models Under Pedagogically-Controlled Knowledge Exposure\nA language model that only knows what a 5th grader knows.\nFanfei Li 1,2 *† · Jana Zeller 1,2,3 * · Manuel Prada-Corral 1,2,3 · Thaddäus Wiedemer 1,2 · Prasanna Mayilvahanan 1,2 · Ryan Cotterell 3 · Wieland Brendel 1,2\n1 MPI for Intelligent Systems  · 2 ELLIS Institute Tübingen  · 3 ETH Zürich * Equal contribution  · † Correspondence to [redacted-email]\nThe hosted 5B model, live in your browser. Open in a new tab ↗ if the",
+        "summary": null,
         "recommend_reason_zh": "一个88B token的K-5教材语料训练出的LittleLearner模型，实验证明缩放、GRPO后训练和上下文学习都无法超越预训练知识边界。",
         "url": "https://littlelearner-ll.github.io",
         "source": "littlelearner-ll.github.io",
@@ -847,148 +961,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
-      }
-    },
-    {
-      "story_id": "story_d572412cd374",
-      "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-      "url": "https://sankalp.bearblog.dev/autoresearch",
-      "primary_url": "https://sankalp.bearblog.dev/autoresearch",
-      "source": "sankalp.bearblog.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "title_en": null,
-          "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "summary": null,
-          "recommend_reason_zh": "作者用 Codex 做自动研究，在 GPU Mode 与 Core Automation 竞赛中取得 232 倍内核加速，排名第 12/183，任务为批量紧凑 Householder QR 分解。",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "sankalp.bearblog.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T13:58:02.713000Z"
-        },
-        {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "用 codex 自动研究：我如何实现内核 232 倍提速 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "用 codex 自动研究：我如何实现内核 232 倍提速",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": "作者用codex自动研究将内核提速232倍；让claude对比C#/.NET与C++实现，找出C#错过的廉价优化，并发现Tokio/Prost库也未采用。展示了LLM在护栏下自主迭代定位性能瓶颈。",
-          "url": "https://news.ycombinator.com/item?id=49309549",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T12:38:05.900000Z"
-        },
-        {
-          "id": "a5ee76eaf4ec5911f1db8b4202d06a7f854c5040",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章讲述作者用Codex自动研究批量compact Householder QR分解，在GPU Mode竞赛中获第12名，实现较基线232倍加速，并复盘了迭代过程中的瓶颈与学习心得。",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T11:00:02Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "sankalp.bearblog.dev"
-      ],
-      "items": [
-        {
-          "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "title_en": null,
-          "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "summary": null,
-          "recommend_reason_zh": "作者用 Codex 做自动研究，在 GPU Mode 与 Core Automation 竞赛中取得 232 倍内核加速，排名第 12/183，任务为批量紧凑 Householder QR 分解。",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "sankalp.bearblog.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T13:58:02.713000Z"
-        },
-        {
-          "id": "346274b22b37e9694636fa708f056faa34061988",
-          "title": "用 codex 自动研究：我如何实现内核 232 倍提速 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "用 codex 自动研究：我如何实现内核 232 倍提速",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": "作者用codex自动研究将内核提速232倍；让claude对比C#/.NET与C++实现，找出C#错过的廉价优化，并发现Tokio/Prost库也未采用。展示了LLM在护栏下自主迭代定位性能瓶颈。",
-          "url": "https://news.ycombinator.com/item?id=49309549",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T12:38:05.900000Z"
-        },
-        {
-          "id": "a5ee76eaf4ec5911f1db8b4202d06a7f854c5040",
-          "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的 / Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-          "title_en": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "title_original": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-          "summary": null,
-          "recommend_reason_zh": "这篇文章讲述作者用Codex自动研究批量compact Householder QR分解，在GPU Mode竞赛中获第12名，实现较基线232倍加速，并复盘了迭代过程中的瓶颈与学习心得。",
-          "url": "https://sankalp.bearblog.dev/autoresearch",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T11:00:02Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5242,
-      "importance": 0.5242,
-      "importance_score": 0.5242,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7412,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:00:02Z",
-      "latest_at": "2026-08-15T13:58:02.713000Z",
-      "primary_item": {
-        "id": "676b5690df0ddb599c2991828b9ee5440bd38a25",
-        "title": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-        "title_zh": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-        "title_en": null,
-        "title_original": "使用 Codex 进行自动研究：我是如何实现内核速度提升 232 倍的",
-        "summary": null,
-        "recommend_reason_zh": "作者用 Codex 做自动研究，在 GPU Mode 与 Core Automation 竞赛中取得 232 倍内核加速，排名第 12/183，任务为批量紧凑 Householder QR 分解。",
-        "url": "https://sankalp.bearblog.dev/autoresearch",
-        "source": "sankalp.bearblog.dev",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "Codex 自动研究提速 232 倍是具体案例，可参考其流程，但需自行验证复现。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1065,15 +1038,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8161,
+        "recency": 0.8055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1100,7 +1073,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1177,15 +1150,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5334,
-      "importance": 0.5334,
-      "importance_score": 0.5334,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9311,
+        "recency": 0.919,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1212,7 +1185,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1289,15 +1262,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8979,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1324,7 +1297,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1401,15 +1374,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5274,
-      "importance": 0.5274,
-      "importance_score": 0.5274,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8979,
+        "recency": 0.8862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1436,148 +1409,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
-      }
-    },
-    {
-      "story_id": "story_67a9736d0220",
-      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-      "url": "https://news.ycombinator.com/item?id=49310725",
-      "primary_url": "https://news.ycombinator.com/item?id=49310725",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:47.630000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商遭遇神秘批量订单，疑为AI训练采购并销毁书籍；Barter Books的Stuart Manley称30年未见如此大单，Anthropic的Claude训练项目“Project Panama”被指涉及破坏性扫描大量图书。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
-          "url": "https://news.ycombinator.com/item?id=49310725",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T14:41:47.630000Z"
-        },
-        {
-          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T14:08:55Z"
-        },
-        {
-          "id": "dcc8a19034a29524320fe1cf922bc36524fb4b37",
-          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-          "title_zh": "二手书销售火爆，是因为AI吗？",
-          "title_en": "Secondhand book sales are booming. Is it because of AI?",
-          "title_original": "Secondhand book sales are booming. Is it because of AI?",
-          "summary": null,
-          "recommend_reason_zh": "二手书商遭遇神秘批量订单，疑为AI训练采购并销毁书籍；Barter Books的Stuart Manley称30年未见如此大单，Anthropic的Claude训练项目“Project Panama”被指涉及破坏性扫描大量图书。",
-          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T11:25:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.749,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T11:25:32Z",
-      "latest_at": "2026-08-15T14:41:47.630000Z",
-      "primary_item": {
-        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
-        "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
-        "title_zh": "二手书销售火爆，是因为AI吗？",
-        "title_en": "Secondhand book sales are booming. Is it because of AI?",
-        "title_original": "Secondhand book sales are booming. Is it because of AI?",
-        "summary": null,
-        "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
-        "url": "https://news.ycombinator.com/item?id=49310725",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "二手书热卖和AI关系不大，没工具没方案，别浪费时间。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1654,15 +1486,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8406,
+        "recency": 0.8297,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1689,7 +1521,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1766,15 +1598,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8223,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1801,7 +1633,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1878,15 +1710,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5128,
-      "importance": 0.5128,
-      "importance_score": 0.5128,
+      "score": 0.5109,
+      "importance": 0.5109,
+      "importance_score": 0.5109,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8168,
+        "recency": 0.8061,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1913,7 +1745,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -1990,15 +1822,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7714,
+        "recency": 0.7614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2025,7 +1857,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -2102,15 +1934,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7714,
+        "recency": 0.7614,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2137,7 +1969,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -2214,15 +2046,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5006,
-      "importance": 0.5006,
-      "importance_score": 0.5006,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.749,
+        "recency": 0.7393,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2249,7 +2081,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
+      }
+    },
+    {
+      "story_id": "story_67a9736d0220",
+      "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+      "url": "https://news.ycombinator.com/item?id=49310725",
+      "primary_url": "https://news.ycombinator.com/item?id=49310725",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:41:47.630000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
+          "url": "https://news.ycombinator.com/item?id=49310725",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T14:41:47.630000Z"
+        },
+        {
+          "id": "f9db1e50aae4565b43f99f9b9e7aacbbebab7100",
+          "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+          "title_zh": "二手书销售火爆，是因为AI吗？",
+          "title_en": "Secondhand book sales are booming. Is it because of AI?",
+          "title_original": "Secondhand book sales are booming. Is it because of AI?",
+          "summary": null,
+          "recommend_reason_zh": "二手书商迎来神秘批量订单，如Barter Books一笔来自加拿大公司的订单抵得上七天销量。疑为训练AI所用，或因Anthropic的Project Panama被毁书粉碎，阅读本文了解真相。",
+          "url": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T14:08:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7393,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T14:08:55Z",
+      "latest_at": "2026-08-15T14:41:47.630000Z",
+      "primary_item": {
+        "id": "f50f85b755a8871c36dc1a3f17ad231bac4f5f7e",
+        "title": "二手书销售火爆，是因为AI吗？ / Secondhand book sales are booming. Is it because of AI?",
+        "title_zh": "二手书销售火爆，是因为AI吗？",
+        "title_en": "Secondhand book sales are booming. Is it because of AI?",
+        "title_original": "Secondhand book sales are booming. Is it because of AI?",
+        "summary": null,
+        "recommend_reason_zh": "二手书市场因AI训练数据需求而火爆？文中写到独立书店联合二十多家同行推出二手平台，二手书通常最高为新书半价，线上零售商也纷纷跟进；有评论认为这恰是最可靠的训练材料来源，也证明纸质书仍蕴藏未挖掘的优质内容。",
+        "url": "https://news.ycombinator.com/item?id=49310725",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "二手书热卖和AI关系不大，没工具没方案，别浪费时间。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     },
     {
@@ -2326,15 +2270,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.739,
+        "recency": 0.7293,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2361,7 +2305,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T10:49:34.084530Z"
+        "scored_at": "2026-08-16T11:46:59.055827Z"
       }
     }
   ]
