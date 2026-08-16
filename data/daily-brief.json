@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T20:40:57.037488Z",
+  "generated_at": "2026-08-16T21:35:57.591067Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_0bf300873ab5",
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8733,
+        "recency": 0.8618,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -114,7 +114,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -162,15 +162,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
+      "score": 0.7257,
+      "importance": 0.7257,
+      "importance_score": 0.7257,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7775,
+        "recency": 0.7673,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -197,7 +197,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5603,
+      "importance": 0.5603,
+      "importance_score": 0.5603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9543,
+        "recency": 0.9418,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -338,7 +338,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
+      }
+    },
+    {
+      "story_id": "story_a23b56bee6e9",
+      "title": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+      "url": "https://news.ycombinator.com/item?id=49323381",
+      "primary_url": "https://news.ycombinator.com/item?id=49323381",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": "https://stockanalysis.com/list/mid-cap-stocks/\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nAnd, to answer your question, no. The existence of a common API makes it trivial to change zero code and send requests to a different model.\nreply\nthe value of openrouter is it offers centralized billing.  you can route your calls to any provider you want, test a whole bunch of models against each other, and you just get one bill from openrouter. switching to a new model, or a new provider ",
+          "recommend_reason_zh": "本文报道Stripe以超70亿美元收购AI公司OpenRouter，解析其核心价值在于统一API与集中计费，开发者可自由测试多家模型而只需一份账单，并探讨模型路由目前仍属实验机制的现状。",
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+          "title": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": "https://stockanalysis.com/list/mid-cap-stocks/\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nAnd, to answer your question, no. The existence of a common API makes it trivial to change zero code and send requests to a different model.\nreply\nthe value of openrouter is it offers centralized billing.  you can route your calls to any provider you want, test a whole bunch of models against each other, and you just get one bill from openrouter. switching to a new model, or a new provider ",
+          "recommend_reason_zh": "本文报道Stripe以超70亿美元收购AI公司OpenRouter，解析其核心价值在于统一API与集中计费，开发者可自由测试多家模型而只需一份账单，并探讨模型路由目前仍属实验机制的现状。",
+          "url": "https://news.ycombinator.com/item?id=49323381",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T21:14:49.799000Z"
+        },
+        {
+          "id": "2f2157fe5087e46db86f48926fe42ddb8cf585f7",
+          "title": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_zh": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter",
+          "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T20:31:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5449,
+      "importance": 0.5449,
+      "importance_score": 0.5449,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9949,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T20:31:16Z",
+      "latest_at": "2026-08-16T21:14:49.799000Z",
+      "primary_item": {
+        "id": "346161818116422bcfb29c8e94075ad65d0274b2",
+        "title": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter / Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "title_zh": "Stripe 敲定超70亿美元交易收购 AI 公司 OpenRouter",
+        "title_en": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "title_original": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+        "summary": "https://stockanalysis.com/list/mid-cap-stocks/\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nAnd, to answer your question, no. The existence of a common API makes it trivial to change zero code and send requests to a different model.\nreply\nthe value of openrouter is it offers centralized billing.  you can route your calls to any provider you want, test a whole bunch of models against each other, and you just get one bill from openrouter. switching to a new model, or a new provider ",
+        "recommend_reason_zh": "本文报道Stripe以超70亿美元收购AI公司OpenRouter，解析其核心价值在于统一API与集中计费，开发者可自由测试多家模型而只需一份账单，并探讨模型路由目前仍属实验机制的现状。",
+        "url": "https://news.ycombinator.com/item?id=49323381",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 25,
+      "persona_review": "收购案不写代码，等API落地再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -444,15 +556,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8534,
+        "recency": 0.8421,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -479,119 +591,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
-      }
-    },
-    {
-      "story_id": "story_3f90505d30ee",
-      "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
-      "url": "https://news.ycombinator.com/item?id=49319814",
-      "primary_url": "https://news.ycombinator.com/item?id=49319814",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": "这款公开AI的记忆在所有用户间共享，打破了传统私人对话的隔离，展示了集体记忆如何重塑交互方式。",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
-          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": "这个公共AI由Plural Matter Ltd开发，记忆在所有用户间共享且从未重置，你的每句话都会被记住并影响后续回答。",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": "这款公开AI的记忆在所有用户间共享，打破了传统私人对话的隔离，展示了集体记忆如何重塑交互方式。",
-          "url": "https://news.ycombinator.com/item?id=49319814",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T15:12:34.771000Z"
-        },
-        {
-          "id": "ad5d8b8f4871a8a3ee47403ae3904f898c464dff",
-          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
-          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
-          "title_en": "Show HN: A public AI whose memory is shared across all users",
-          "title_original": "Show HN: A public AI whose memory is shared across all users",
-          "summary": null,
-          "recommend_reason_zh": "这个公共AI由Plural Matter Ltd开发，记忆在所有用户间共享且从未重置，你的每句话都会被记住并影响后续回答。",
-          "url": "https://wildstatic.com",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T13:21:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.924,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T13:21:45Z",
-      "latest_at": "2026-08-16T15:12:34.771000Z",
-      "primary_item": {
-        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
-        "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
-        "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
-        "title_en": "Show HN: A public AI whose memory is shared across all users",
-        "title_original": "Show HN: A public AI whose memory is shared across all users",
-        "summary": null,
-        "recommend_reason_zh": "这款公开AI的记忆在所有用户间共享，打破了传统私人对话的隔离，展示了集体记忆如何重塑交互方式。",
-        "url": "https://news.ycombinator.com/item?id=49319814",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "共享记忆的AI想法有趣，但没产品细节，动手前先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -668,15 +668,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9147,
+        "recency": 0.9026,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,7 +703,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -779,15 +779,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5182,
+      "importance": 0.5182,
+      "importance_score": 0.5182,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8578,
+        "recency": 0.8465,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -814,7 +814,119 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
+      }
+    },
+    {
+      "story_id": "story_3f90505d30ee",
+      "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
+      "url": "https://news.ycombinator.com/item?id=49319814",
+      "primary_url": "https://news.ycombinator.com/item?id=49319814",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": "这款公开AI的记忆在所有用户间共享，打破了传统私人对话的隔离，展示了集体记忆如何重塑交互方式。",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:12:34.771000Z"
+        },
+        {
+          "id": "8850383390b70c74f8faa664aa93000ad2553f63",
+          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": "这个公共AI由Plural Matter Ltd开发，记忆在所有用户间共享且从未重置，你的每句话都会被记住并影响后续回答。",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": "这款公开AI的记忆在所有用户间共享，打破了传统私人对话的隔离，展示了集体记忆如何重塑交互方式。",
+          "url": "https://news.ycombinator.com/item?id=49319814",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T15:12:34.771000Z"
+        },
+        {
+          "id": "8850383390b70c74f8faa664aa93000ad2553f63",
+          "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
+          "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
+          "title_en": "Show HN: A public AI whose memory is shared across all users",
+          "title_original": "Show HN: A public AI whose memory is shared across all users",
+          "summary": null,
+          "recommend_reason_zh": "这个公共AI由Plural Matter Ltd开发，记忆在所有用户间共享且从未重置，你的每句话都会被记住并影响后续回答。",
+          "url": "https://wildstatic.com",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-16T13:21:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9119,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T13:21:45Z",
+      "latest_at": "2026-08-16T15:12:34.771000Z",
+      "primary_item": {
+        "id": "ad1ba76932b808c5c5a29d79c13d3aec3cb6443c",
+        "title": "Show HN：一个所有用户共享同一份记忆的公共 AI / Show HN: A public AI whose memory is shared across all users",
+        "title_zh": "Show HN：一个所有用户共享同一份记忆的公共 AI",
+        "title_en": "Show HN: A public AI whose memory is shared across all users",
+        "title_original": "Show HN: A public AI whose memory is shared across all users",
+        "summary": null,
+        "recommend_reason_zh": "这款公开AI的记忆在所有用户间共享，打破了传统私人对话的隔离，展示了集体记忆如何重塑交互方式。",
+        "url": "https://news.ycombinator.com/item?id=49319814",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "共享记忆的AI想法有趣，但没产品细节，动手前先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -891,15 +1003,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5321,
-      "importance": 0.5321,
-      "importance_score": 0.5321,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.924,
+        "recency": 0.9119,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -926,7 +1038,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -1003,15 +1115,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9107,
+        "recency": 0.8988,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1038,7 +1150,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -1115,15 +1227,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8062,
+        "recency": 0.7956,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,7 +1262,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -1227,15 +1339,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7774,
+        "recency": 0.7672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1262,7 +1374,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -1339,15 +1451,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7774,
+        "recency": 0.7672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1374,7 +1486,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     },
     {
@@ -1451,15 +1563,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.4951,
+      "importance": 0.4951,
+      "importance_score": 0.4951,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7278,
+        "recency": 0.7183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1486,7 +1598,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-16T20:46:40.541274Z"
+        "scored_at": "2026-08-16T21:41:20.683603Z"
       }
     }
   ]
