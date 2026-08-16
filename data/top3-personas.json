@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:47:34.272030Z",
+  "generated_at": "2026-08-16T23:41:34.265000Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_3415e330fba4",
-      "title": "AI辅助将25万行遗留天气模拟代码移植到GPU / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
+      "story_id": "story_5df010d9d793",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "移植成功是真，但25万行里多少是AI自动改的？别拿demo当量产。"
+          "review": "模型底子不错，但默认想太多，调参前先学会闭嘴。"
         },
         "paper-police": {
-          "score": 35,
-          "review": "仅新闻标题，无论文代码评测，移植细节和性能数据均缺失。"
+          "score": 45,
+          "review": "博客有细节但无代码无基准，过度思考缺量化对比，等复现。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "有参考价值：AI辅助迁移老代码到GPU的实战案例，做高性能计算的可借鉴。"
+          "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
         }
       }
     },
