@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T15:52:26.221541Z",
+  "generated_at": "2026-08-17T17:00:27.476810Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_e8417ef9f36f",
+      "title": "画布如何让智能体工作流可见、可控且成本高效？ / How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "画布概念不新，但GitHub把可见性和成本控制摆上台面，算务实。吹得不多，扣点水分。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节无代码，画布机制待复现验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "GitHub 画布让 Agent 工作流可视化可控，调试和降本有用，可试。"
+        }
+      }
+    },
+    {
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
-        }
-      }
-    },
-    {
-      "story_id": "story_907f85032454",
-      "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
-      "url": "https://www.aibase.com/news/30405",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 62,
-          "review": "自然语言写歌不新鲜，先拿几首能听的demo再谈门槛。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅官方新闻稿宣称性能，无论文无代码无第三方评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "模型已发布可试用，做音乐生成场景的可以上手测，但生态未定别急着迁移。"
         }
       }
     }
