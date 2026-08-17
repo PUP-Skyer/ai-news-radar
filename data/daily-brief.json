@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:44:21.479899Z",
+  "generated_at": "2026-08-17T20:46:20.534156Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -193,15 +193,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.8621,
-      "importance": 0.8621,
-      "importance_score": 0.8621,
+      "score": 0.8595,
+      "importance": 0.8595,
+      "importance_score": 0.8595,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9715,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -230,7 +230,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：变化的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
+          "recommend_reason_zh": "Dharma-AI用约束感知GPU分配器对比FIFO调度器，在相同硬件和负载下将GPU利用率提升33个百分点，优先级加权输出最高提升105%，证明改变分配顺序即可创造价值。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+          "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_zh": "同一集群，利用率提升33个百分点：变化的是顺序",
+          "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+          "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
+          "recommend_reason_zh": "Dharma-AI用约束感知GPU分配器对比FIFO调度器，在相同硬件和负载下将GPU利用率提升33个百分点，优先级加权输出最高提升105%，证明改变分配顺序即可创造价值。",
+          "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-17T19:46:21Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8574,
+      "importance": 0.8574,
+      "importance_score": 0.8574,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-17T19:46:21Z",
+      "latest_at": "2026-08-17T19:46:21Z",
+      "primary_item": {
+        "id": "4f25f81b303f8e33d4c266b4ceef6fee39e8f9da",
+        "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_zh": "同一集群，利用率提升33个百分点：变化的是顺序",
+        "title_en": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "title_original": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+        "summary": "A Blog post by Dharma-AI on Hugging Face\nA Blog post by Dharma-AI on Hugging Face\nThe decision, stated precisely What FIFO costs under contention Utilization is necessary. Priority is what turns it into value. Writing the problem down The allocator that already knows the constraints Results None of it works if the demand numbers are wrong Optimize the day, commit the hour What this generalizes to Further Reading The previous post argued that utilization, not intelligence, is where the next real ",
+        "recommend_reason_zh": "Dharma-AI用约束感知GPU分配器对比FIFO调度器，在相同硬件和负载下将GPU利用率提升33个百分点，优先级加权输出最高提升105%，证明改变分配顺序即可创造价值。",
+        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "调度顺序优化能提33%利用率，跑GPU集群的可以看下这篇实操。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -307,15 +392,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
+      "score": 0.8414,
+      "importance": 0.8414,
+      "importance_score": 0.8414,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8141,
+        "recency": 0.8021,
         "story_heat": 0.25
       },
       "category": "official",
@@ -345,7 +430,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -393,15 +478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8345,
-      "importance": 0.8345,
-      "importance_score": 0.8345,
+      "score": 0.832,
+      "importance": 0.832,
+      "importance_score": 0.832,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9474,
+        "recency": 0.9334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,7 +515,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -478,15 +563,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8217,
+      "importance": 0.8217,
+      "importance_score": 0.8217,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8441,
+        "recency": 0.8316,
         "story_heat": 0.0
       },
       "category": "official",
@@ -515,7 +600,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -650,15 +735,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.8295,
+      "importance": 0.8295,
+      "importance_score": 0.8295,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9748,
+        "recency": 0.9603,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -687,7 +772,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -735,15 +820,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8175,
-      "importance": 0.8175,
-      "importance_score": 0.8175,
+      "score": 0.8153,
+      "importance": 0.8153,
+      "importance_score": 0.8153,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8083,
+        "recency": 0.7963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -772,7 +857,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -820,15 +905,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7649,
-      "importance": 0.7649,
-      "importance_score": 0.7649,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9018,
+        "recency": 0.8884,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -856,7 +941,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -904,15 +989,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7537,
+      "importance": 0.7537,
+      "importance_score": 0.7537,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.74,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.903,
+        "recency": 0.8896,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -940,7 +1025,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -988,15 +1073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8139,
-      "importance": 0.8139,
-      "importance_score": 0.8139,
+      "score": 0.8118,
+      "importance": 0.8118,
+      "importance_score": 0.8118,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7881,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1025,7 +1110,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1073,15 +1158,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7502,
+      "importance": 0.7502,
+      "importance_score": 0.7502,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8998,
+        "recency": 0.8864,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1109,7 +1194,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1157,15 +1242,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8792,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1192,7 +1277,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1240,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7307,
+        "recency": 0.7199,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1275,7 +1360,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1323,15 +1408,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1358,7 +1443,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1406,15 +1491,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8687,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1441,7 +1526,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1489,15 +1574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8569,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1524,7 +1609,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1555,7 +1640,7 @@
           "title_zh": "以卖书起家的Amazon，如今为了训练AI而毁掉珍稀文本",
           "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": "reply\nreply\nThis is the legal loophole that they know or hope allows them to do what they need to do, and the benefit of doing it outweighs the modicum of outrage this title will generate.\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n\"They're allowed to be a hypocrite\" doesn't mean they aren't a hypocrite.\nreply\nreply\nYes, this is a result of copyright laws. The other commenters are wrong/uninformed. If it was up to the companies training LLMs, they wouldn't destroy the books: It's a waste of",
+          "summary": null,
           "recommend_reason_zh": "这篇报道揭示Amazon为训练AI，利用美国版权法漏洞：扫描稀有书籍后必须销毁实体书，否则视为侵权。评论还指出每年有六十四万吨书被毁，法律要求成了破坏的正当理由。",
           "url": "https://news.ycombinator.com/item?id=49335216",
           "source": "hackernews",
@@ -1590,7 +1675,7 @@
           "title_zh": "以卖书起家的Amazon，如今为了训练AI而毁掉珍稀文本",
           "title_en": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "title_original": "Amazon, which started off selling books, is destroying rare texts to train AI",
-          "summary": "reply\nreply\nThis is the legal loophole that they know or hope allows them to do what they need to do, and the benefit of doing it outweighs the modicum of outrage this title will generate.\nreply\nreply\nreply\nreply\nreply\nreply\nreply\nreply\n\"They're allowed to be a hypocrite\" doesn't mean they aren't a hypocrite.\nreply\nreply\nYes, this is a result of copyright laws. The other commenters are wrong/uninformed. If it was up to the companies training LLMs, they wouldn't destroy the books: It's a waste of",
+          "summary": null,
           "recommend_reason_zh": "这篇报道揭示Amazon为训练AI，利用美国版权法漏洞：扫描稀有书籍后必须销毁实体书，否则视为侵权。评论还指出每年有六十四万吨书被毁，法律要求成了破坏的正当理由。",
           "url": "https://news.ycombinator.com/item?id=49335216",
           "source": "hackernews",
@@ -1601,15 +1686,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6409,
-      "importance": 0.6409,
-      "importance_score": 0.6409,
+      "score": 0.6383,
+      "importance": 0.6383,
+      "importance_score": 0.6383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9563,
+        "recency": 0.9421,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,7 +1721,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1684,15 +1769,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8569,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1719,7 +1804,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1795,15 +1880,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.619,
-      "importance": 0.619,
-      "importance_score": 0.619,
+      "score": 0.6166,
+      "importance": 0.6166,
+      "importance_score": 0.6166,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8808,
+        "recency": 0.8678,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1830,7 +1915,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     },
     {
@@ -1993,15 +2078,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6159,
-      "importance": 0.6159,
-      "importance_score": 0.6159,
+      "score": 0.6133,
+      "importance": 0.6133,
+      "importance_score": 0.6133,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9726,
+        "recency": 0.9582,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -2028,90 +2113,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
-      }
-    },
-    {
-      "story_id": "story_98a2acea3dca",
-      "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-      "url": "https://www.aibase.com/news/30398",
-      "primary_url": "https://www.aibase.com/news/30398",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_en": null,
-          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "summary": null,
-          "recommend_reason_zh": "支付宝“阿宝”已接入超1万项服务，覆盖五大手机品牌与16家车企，并发布全栈智能体底座及AHA协议，携手Qwen、华为、OPPO、BYD等20余家企业，标志智能体业务从概念走向规模化落地。",
-          "url": "https://www.aibase.com/news/30398",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:02:54.873434Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-          "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "title_en": null,
-          "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-          "summary": null,
-          "recommend_reason_zh": "支付宝“阿宝”已接入超1万项服务，覆盖五大手机品牌与16家车企，并发布全栈智能体底座及AHA协议，携手Qwen、华为、OPPO、BYD等20余家企业，标志智能体业务从概念走向规模化落地。",
-          "url": "https://www.aibase.com/news/30398",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-17T09:02:54.873434Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8569,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T09:02:54.873434Z",
-      "latest_at": "2026-08-17T09:02:54.873434Z",
-      "primary_item": {
-        "id": "f26e0e0e33894e8efcc77a848a83fa474fdd6e30",
-        "title": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "title_zh": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "title_en": null,
-        "title_original": "支付宝：商家智能体踊跃接入“阿宝”，部分开发需求已排到明年",
-        "summary": null,
-        "recommend_reason_zh": "支付宝“阿宝”已接入超1万项服务，覆盖五大手机品牌与16家车企，并发布全栈智能体底座及AHA协议，携手Qwen、华为、OPPO、BYD等20余家企业，标志智能体业务从概念走向规模化落地。",
-        "url": "https://www.aibase.com/news/30398",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "商家智能体接入是趋势，但排期到明年，短期开发不用急。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-17T19:56:49.807957Z"
+        "scored_at": "2026-08-17T20:58:46.501361Z"
       }
     }
   ]

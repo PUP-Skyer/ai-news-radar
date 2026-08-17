@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_fdb39a7d1547|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Copilot 新工作流整合原型到审查，今天就能试，但需适应新流程。",
-      "title_hash": "1c6bfecf",
-      "scored_at": "2026-07-27T20:51:30.733261Z"
-    },
-    "story_c08b86727d06|pragmatic|0a5c5b24": {
-      "score": 25,
-      "review": "员工摸鱼工具，对开发者无实际影响，别管。",
-      "title_hash": "0eeed371",
-      "scored_at": "2026-07-27T20:51:32.078506Z"
-    },
-    "story_ed4f738c2dbe|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "新基准，但没开源代码或数据，暂时只能围观。",
-      "title_hash": "67fc68f4",
-      "scored_at": "2026-07-27T20:51:33.335381Z"
-    },
     "story_3aa98e967d5f|pragmatic|0a5c5b24": {
       "score": 65,
       "review": "企业Copilot管理更细了，权限控制今天就能配。",
@@ -6078,6 +6060,24 @@
       "review": "水印是防滥用手段，不写代码的别操心，等API变化再说。",
       "title_hash": "a39019bd",
       "scored_at": "2026-08-17T19:56:52.034619Z"
+    },
+    "story_5646c2e72f66|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "调度顺序优化能提33%利用率，跑GPU集群的可以看下这篇实操。",
+      "title_hash": "983cd870",
+      "scored_at": "2026-08-17T20:58:47.741934Z"
+    },
+    "story_5646c2e72f66|cynic|f4237a62": {
+      "score": 72,
+      "review": "顺序优化能提33%？先晒出对比基线和复现脚本，别只给个标题党。",
+      "title_hash": "983cd870",
+      "scored_at": "2026-08-17T20:58:48.837741Z"
+    },
+    "story_5646c2e72f66|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客给了数字但无代码无复现，等第三方验证再定论。",
+      "title_hash": "983cd870",
+      "scored_at": "2026-08-17T20:58:49.797472Z"
     }
   }
 }
