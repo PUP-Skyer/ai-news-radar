@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:57:48.677710Z",
+  "generated_at": "2026-08-17T07:29:12.874897Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_5014b5e051ff",
-      "title": "百万上下文全面开放，Codex迎来AI编程“终极形态”",
-      "url": "https://www.aibase.com/news/30387",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "上下文翻倍就敢叫终极形态，先跑通真实项目再说。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有媒体宣传，无论文无代码无评测，'终极形态'无从验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "百万上下文开放，长文件直接喂，重构和跨文件改代码今天就能提效。"
-        }
-      }
-    },
-    {
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
+        }
+      }
+    },
+    {
+      "story_id": "story_ad56c119c312",
+      "title": "Claude核心系统提示更新，覆盖claude.ai及iOS/Android应用",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 62,
+          "review": "更新提示词也算新闻？先把系统提示全文公开再谈诚意。"
+        },
+        "paper-police": {
+          "score": 35,
+          "review": "官方文档更新，无论文代码评测，仅系统提示变更说明。"
+        },
+        "pragmatic": {
+          "score": 60,
+          "review": "提示词更新影响应用行为，但无具体细节，先观望再调。"
         }
       }
     }
