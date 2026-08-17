@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T14:04:43.042896Z",
+  "generated_at": "2026-08-17T14:55:06.134727Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_f75e3b4636ba",
+      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
+      "url": "https://blog.roboflow.com/openai-gpt-5-6",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "视觉模型进步是真的，但'史上最优秀'这帽子扣得有点急，先跑赢自家前代再说。"
+        },
+        "paper-police": {
+          "score": 8,
+          "review": "只有博客标题，无论文无代码无评测，'最优秀'纯属自封。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "视觉模型新版本，API已开放的话，做图像任务的今天就能测。"
+        }
+      }
+    },
+    {
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -33,26 +53,6 @@
         "pragmatic": {
           "score": 72,
           "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f75e3b4636ba",
-      "title": "GPT 5.6 Sol 是 OpenAI 迄今最强的\"视觉\"模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "url": "https://news.ycombinator.com/item?id=49329575",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "最强视觉？先晒出和自家前代的完整对比曲线再吹。"
-        },
-        "paper-police": {
-          "score": 8,
-          "review": "无论文无代码无评测，仅标题宣称最强，证据为零。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "视觉模型再强也得看API开没开，开了就测，没开等通知。"
         }
       }
     },
