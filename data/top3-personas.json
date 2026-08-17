@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T13:18:55.559717Z",
+  "generated_at": "2026-08-17T14:04:43.042896Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_f75e3b4636ba",
+      "title": "GPT 5.6 Sol 是 OpenAI 迄今最强的\"视觉\"模型 / GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "url": "https://news.ycombinator.com/item?id=49329575",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "最强视觉？先晒出和自家前代的完整对比曲线再吹。"
+        },
+        "paper-police": {
+          "score": 8,
+          "review": "无论文无代码无评测，仅标题宣称最强，证据为零。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "视觉模型再强也得看API开没开，开了就测，没开等通知。"
+        }
+      }
+    },
+    {
       "story_id": "story_907f85032454",
       "title": "阿里发布AI音乐模型HappyShrimp 1.0 自然语言创作打破音乐生产门槛",
       "url": "https://www.aibase.com/news/30405",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 62,
           "review": "模型已发布可试用，做音乐生成场景的可以上手测，但生态未定别急着迁移。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a40740f5bec6",
-      "title": "谷歌AI大动作：图片视频水印终于可以去掉了！",
-      "url": "https://www.aibase.com/news/30397",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "去水印功能听着爽，但谷歌自家水印技术刚推就拆台，这波操作有点自打脸。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "只有新闻稿宣称能去水印，无论文无代码无评测，证据不足。"
-        },
-        "pragmatic": {
-          "score": 62,
-          "review": "去水印工具落地，内容创作者和审核流程要留意，但别急着换方案。"
         }
       }
     }
