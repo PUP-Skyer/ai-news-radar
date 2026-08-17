@@ -7,54 +7,6 @@
       "title_hash": "47fdb458",
       "scored_at": "2026-07-27T18:55:29.420058Z"
     },
-    "story_2a8e05bf7e66|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "Copilot新功能上线，多Agent协作和Canvas预览能提升开发效率，值得今天试试。",
-      "title_hash": "638b98aa",
-      "scored_at": "2026-07-27T17:19:32.128633Z"
-    },
-    "story_5dcea5dd076a|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "SEO从业者需关注，但开发者暂时不用改代码，等流量数据出来再动。",
-      "title_hash": "7aac385c",
-      "scored_at": "2026-07-27T17:19:33.463954Z"
-    },
-    "story_112bcb1d3a8b|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "开源模型权重和技术报告，可直接部署或微调，今天就能用。",
-      "title_hash": "d960df7b",
-      "scored_at": "2026-07-27T17:19:34.561647Z"
-    },
-    "story_e85da4d1892f|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "K3上线Modal，无损加速推理，跑推理的可以试试看效果。",
-      "title_hash": "93d5447a",
-      "scored_at": "2026-07-27T17:19:35.775366Z"
-    },
-    "story_45205b48cfd8|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "分布式Agent环境开源，做多智能体可参考架构，但需看文档评估上手成本。",
-      "title_hash": "f6d55bcb",
-      "scored_at": "2026-07-27T17:19:37.176019Z"
-    },
-    "story_36a4cddafb16|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "游说花钱不写代码，对开发者今天没影响。",
-      "title_hash": "d1ba6729",
-      "scored_at": "2026-07-27T17:19:38.280123Z"
-    },
-    "story_112bcb1d3a8b|cynic|f4237a62": {
-      "score": 82,
-      "review": "2.8T MoE 全开源，技术报告也给了，比那些只放个 demo 的强太多。",
-      "title_hash": "d960df7b",
-      "scored_at": "2026-07-27T17:19:39.502520Z"
-    },
-    "story_112bcb1d3a8b|paper-police|966065bf": {
-      "score": 88,
-      "review": "模型权重和技术报告已公开，但缺少独立benchmark复现结果。",
-      "title_hash": "d960df7b",
-      "scored_at": "2026-07-27T17:19:40.555164Z"
-    },
     "story_ebe3ddd20f67|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "MCP连接器+Claude做金融分析，有代码可抄，适合快速搭原型。",
@@ -5630,10 +5582,10 @@
       "scored_at": "2026-08-16T22:47:28.948573Z"
     },
     "story_6ea5c9d0c11e|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "写作工具的水印争议，不碰代码，等官方回应再定。",
-      "title_hash": "e6e98591",
-      "scored_at": "2026-08-17T02:06:14.174367Z"
+      "score": 25,
+      "review": "水印是防AI检测的合规手段，不影响正常开发使用，别被带节奏。",
+      "title_hash": "a39019bd",
+      "scored_at": "2026-08-17T17:58:04.210802Z"
     },
     "story_96d24a4f2679|pragmatic|0a5c5b24": {
       "score": 25,
@@ -6120,6 +6072,18 @@
       "review": "官方博客有细节无代码，画布机制待复现验证。",
       "title_hash": "94fc7234",
       "scored_at": "2026-08-17T17:00:27.476776Z"
+    },
+    "story_a3e7db53d120|cynic|f4237a62": {
+      "score": 45,
+      "review": "AI 修 bug 修出个洞，这波自动化翻车，建议先修修自己的安全测试。",
+      "title_hash": "42a65b5e",
+      "scored_at": "2026-08-17T17:58:05.274028Z"
+    },
+    "story_a3e7db53d120|paper-police|966065bf": {
+      "score": 25,
+      "review": "仅博客宣称AI修复致入侵，无论文代码或第三方验证，证据薄弱。",
+      "title_hash": "42a65b5e",
+      "scored_at": "2026-08-17T17:58:06.348065Z"
     }
   }
 }

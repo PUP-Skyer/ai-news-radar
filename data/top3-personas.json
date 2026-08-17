@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:00:27.476810Z",
+  "generated_at": "2026-08-17T17:58:06.348122Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_f75e3b4636ba",
-      "title": "GPT 5.6 Sol 是 OpenAI 有史以来发布的最优秀的“视觉”模型",
-      "url": "https://blog.roboflow.com/openai-gpt-5-6",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "视觉模型进步是真的，但'史上最优秀'这帽子扣得有点急，先跑赢自家前代再说。"
-        },
-        "paper-police": {
-          "score": 8,
-          "review": "只有博客标题，无论文无代码无评测，'最优秀'纯属自封。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "视觉模型新版本，API已开放的话，做图像任务的今天就能测。"
-        }
-      }
-    },
-    {
       "story_id": "story_e8417ef9f36f",
       "title": "画布如何让智能体工作流可见、可控且成本高效？ / How canvases make agentic workflows visible, steerable, and cost-efficient",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
+        }
+      }
+    },
+    {
+      "story_id": "story_a3e7db53d120",
+      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "AI 修 bug 修出个洞，这波自动化翻车，建议先修修自己的安全测试。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "仅博客宣称AI修复致入侵，无论文代码或第三方验证，证据薄弱。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "AI 自动修代码引入漏洞，修完得人工审，别盲信 Copilot。"
         }
       }
     }
