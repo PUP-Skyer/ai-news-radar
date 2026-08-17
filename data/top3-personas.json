@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:06:36.649589Z",
+  "generated_at": "2026-08-17T05:57:48.677710Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_137325242f80",
-      "title": "闲时半价、高峰翻倍:DeepSeek API峰谷定价上线，V4Pro最高涨11倍",
-      "url": "https://www.aibase.com/news/30386",
+      "story_id": "story_5df010d9d793",
+      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
+      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "峰谷定价玩得溜，但V4Pro涨11倍，用户得算算账。"
+          "score": 72,
+          "review": "模型底子不错，但默认想太多，调参前先学会闭嘴。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "仅官方公告称调价，无论文无代码无第三方验证，峰谷涨幅待实测。"
+          "score": 45,
+          "review": "博客有细节但无代码无基准，过度思考缺量化对比，等复现。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "峰谷定价直接影响成本，闲时任务可省一半，高峰项目得重新算账。"
+          "score": 72,
+          "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
         }
       }
     }
