@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T23:41:34.265000Z",
+  "generated_at": "2026-08-17T02:06:28.243089Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_5df010d9d793",
-      "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
-      "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
+      "story_id": "story_75793499e459",
+      "title": "ChatGPT迎重大更新！无需切换即可直接编辑谷歌云盘文件",
+      "url": "https://www.aibase.com/news/30375",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "模型底子不错，但默认想太多，调参前先学会闭嘴。"
+          "score": 62,
+          "review": "编辑云盘文件是方便，但别吹成重大更新，先看看权限和格式支持再说。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "博客有细节但无代码无基准，过度思考缺量化对比，等复现。"
+          "score": 20,
+          "review": "官方公告宣称功能，无技术细节或演示，等实测或文档再评。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
+          "review": "省去导出导入的麻烦，文档协作效率提升，今天就能试。"
         }
       }
     },
     {
-      "story_id": "story_0bf300873ab5",
-      "title": "新兴多智能体系统的模式与问题",
-      "url": "https://www.anthropic.com/research/multiagent-systems",
+      "story_id": "story_c1a732f09d1c",
+      "title": "DeepSeek-V4 系列 API 今起启用峰谷定价：高峰期价格翻倍，V4-Pro 转正商用",
+      "url": "https://www.aibase.com/news/30368",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "多智能体系统还在爬坡期，Anthropic 这篇算诚实，但别急着吹成范式。"
+          "score": 55,
+          "review": "峰谷定价是商业策略，但翻倍涨价前先证明V4-Pro真值这个价。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "只有博客文章，无论文无代码无数据，模式问题缺乏实证支撑。"
+          "score": 20,
+          "review": "仅官方公告，无价格明细或对比，缺独立验证。"
         },
         "pragmatic": {
-          "score": 62,
-          "review": "多智能体模式总结有参考价值，但无新工具，等落地案例再动手。"
+          "score": 72,
+          "review": "API定价变了，跑批任务得算峰谷成本，高峰期翻倍直接砍预算。"
         }
       }
     },
     {
-      "story_id": "story_ad56c119c312",
-      "title": "Claude核心系统提示更新，覆盖claude.ai及iOS/Android应用",
-      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "story_id": "story_1b5c552add3e",
+      "title": "千问办公首发上线GLM-5.3与DeepSeek V4Pro，三款国产旗舰模型完成聚合",
+      "url": "https://www.aibase.com/news/30379",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "更新提示词也算新闻？先把系统提示全文公开再谈诚意。"
+          "score": 55,
+          "review": "聚合三款模型听着热闹，实际是给自家平台拉流量，性能对比数据呢？"
         },
         "paper-police": {
-          "score": 35,
-          "review": "官方文档更新，无论文代码评测，仅系统提示变更说明。"
+          "score": 15,
+          "review": "仅官方宣称聚合，无模型细节、评测或代码，证据不足。"
         },
         "pragmatic": {
-          "score": 60,
-          "review": "提示词更新影响应用行为，但无具体细节，先观望再调。"
+          "score": 72,
+          "review": "聚合平台上线新模型，想对比效果的可直接试，但无价格细节，先观望。"
         }
       }
     }

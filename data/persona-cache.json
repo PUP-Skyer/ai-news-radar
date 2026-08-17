@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_68c90fc1b6d7|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "能白嫖Claude Code额度，但小心违反ToS封号，小项目可试。",
-      "title_hash": "a4e32e89",
-      "scored_at": "2026-07-27T00:19:32.872013Z"
-    },
-    "story_5cac93a795bf|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "数学家的PPT，不是代码库或API，等有工具再关注。",
-      "title_hash": "1e394b90",
-      "scored_at": "2026-07-27T00:19:34.203778Z"
-    },
-    "story_bf8f6caea65b|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "开源工具，能直接接入agent监控token消耗，适合做成本优化。",
-      "title_hash": "74d1d112",
-      "scored_at": "2026-07-27T00:19:35.603230Z"
-    },
-    "story_68c90fc1b6d7|cynic|f4237a62": {
-      "score": 35,
-      "review": "把订阅当API用，Cursor法务部还没上班吧？",
-      "title_hash": "a4e32e89",
-      "scored_at": "2026-07-27T00:19:36.991769Z"
-    },
-    "story_68c90fc1b6d7|paper-police|966065bf": {
-      "score": 5,
-      "review": "无论文无代码无评测，只有HN帖子，等于什么都没发生。",
-      "title_hash": "a4e32e89",
-      "scored_at": "2026-07-27T00:19:38.373106Z"
-    },
     "story_0907ce5e66ea|pragmatic|0a5c5b24": {
       "score": 60,
       "review": "适合快速原型，但协作和定制有限，生产环境慎用。",
@@ -5949,9 +5919,9 @@
     },
     "story_6ea5c9d0c11e|pragmatic|0a5c5b24": {
       "score": 35,
-      "review": "水印争议影响写作工具选择，但无具体方案，暂不用动。",
-      "title_hash": "258b8b95",
-      "scored_at": "2026-08-16T22:47:30.405947Z"
+      "review": "写作工具的水印争议，不碰代码，等官方回应再定。",
+      "title_hash": "e6e98591",
+      "scored_at": "2026-08-17T02:06:14.174367Z"
     },
     "story_96d24a4f2679|pragmatic|0a5c5b24": {
       "score": 30,
@@ -5994,6 +5964,108 @@
       "review": "博客有细节但无代码无基准，过度思考缺量化对比，等复现。",
       "title_hash": "3c7c35b5",
       "scored_at": "2026-08-16T23:41:34.264911Z"
+    },
+    "story_c2dbcc56d2e4|pragmatic|0a5c5b24": {
+      "score": 55,
+      "review": "视觉定位精度高，但无API和产品，短期难落地，做隐私防护的可以留意。",
+      "title_hash": "703bc526",
+      "scored_at": "2026-08-17T02:06:07.304668Z"
+    },
+    "story_39ce93b850b8|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "口水仗，不写代码。等兑现承诺的产品出来再关注。",
+      "title_hash": "bfdc7c9a",
+      "scored_at": "2026-08-17T02:06:08.391848Z"
+    },
+    "story_3181aba6c1aa|pragmatic|0a5c5b24": {
+      "score": 30,
+      "review": "CEO 谈信任危机是公关话术，不写代码不调 API，等有具体动作再说。",
+      "title_hash": "d67a9e61",
+      "scored_at": "2026-08-17T02:06:09.540453Z"
+    },
+    "story_75793499e459|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "省去导出导入的麻烦，文档协作效率提升，今天就能试。",
+      "title_hash": "6bd46575",
+      "scored_at": "2026-08-17T02:06:10.580246Z"
+    },
+    "story_c1a732f09d1c|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "API定价变了，跑批任务得算峰谷成本，高峰期翻倍直接砍预算。",
+      "title_hash": "9ee868e9",
+      "scored_at": "2026-08-17T02:06:11.780488Z"
+    },
+    "story_c59c89154770|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "组织调整不影响API，等安全策略落地再看。",
+      "title_hash": "2acc1945",
+      "scored_at": "2026-08-17T02:06:13.102257Z"
+    },
+    "story_1b5c552add3e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "聚合平台上线新模型，想对比效果的可直接试，但无价格细节，先观望。",
+      "title_hash": "1e1e01b0",
+      "scored_at": "2026-08-17T02:06:15.492456Z"
+    },
+    "story_30152e16c679|pragmatic|0a5c5b24": {
+      "score": 35,
+      "review": "黑产案例提醒风控要升级，但无工具可抄，开发防刷接口时留意活体检测。",
+      "title_hash": "c17de342",
+      "scored_at": "2026-08-17T02:06:17.025955Z"
+    },
+    "story_a1caa46a80fe|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "理论探讨，暂无可用工具或方案，等落地再动手。",
+      "title_hash": "3c598c21",
+      "scored_at": "2026-08-17T02:06:18.090330Z"
+    },
+    "story_055c4b742101|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "华为昇腾适配开源模型，国产算力用户可关注，但非昇腾环境暂无需行动。",
+      "title_hash": "eeb8c336",
+      "scored_at": "2026-08-17T02:06:19.400479Z"
+    },
+    "story_513ac4b44985|pragmatic|0a5c5b24": {
+      "score": 25,
+      "review": "收购案不写代码，API价格和稳定性没变前不用管。",
+      "title_hash": "d30eb23a",
+      "scored_at": "2026-08-17T02:06:20.632856Z"
+    },
+    "story_75793499e459|cynic|f4237a62": {
+      "score": 62,
+      "review": "编辑云盘文件是方便，但别吹成重大更新，先看看权限和格式支持再说。",
+      "title_hash": "6bd46575",
+      "scored_at": "2026-08-17T02:06:21.944051Z"
+    },
+    "story_75793499e459|paper-police|966065bf": {
+      "score": 20,
+      "review": "官方公告宣称功能，无技术细节或演示，等实测或文档再评。",
+      "title_hash": "6bd46575",
+      "scored_at": "2026-08-17T02:06:23.039274Z"
+    },
+    "story_c1a732f09d1c|cynic|f4237a62": {
+      "score": 55,
+      "review": "峰谷定价是商业策略，但翻倍涨价前先证明V4-Pro真值这个价。",
+      "title_hash": "9ee868e9",
+      "scored_at": "2026-08-17T02:06:24.296898Z"
+    },
+    "story_c1a732f09d1c|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅官方公告，无价格明细或对比，缺独立验证。",
+      "title_hash": "9ee868e9",
+      "scored_at": "2026-08-17T02:06:25.588855Z"
+    },
+    "story_1b5c552add3e|cynic|f4237a62": {
+      "score": 55,
+      "review": "聚合三款模型听着热闹，实际是给自家平台拉流量，性能对比数据呢？",
+      "title_hash": "1e1e01b0",
+      "scored_at": "2026-08-17T02:06:26.910837Z"
+    },
+    "story_1b5c552add3e|paper-police|966065bf": {
+      "score": 15,
+      "review": "仅官方宣称聚合，无模型细节、评测或代码，证据不足。",
+      "title_hash": "1e1e01b0",
+      "scored_at": "2026-08-17T02:06:28.243032Z"
     }
   }
 }
