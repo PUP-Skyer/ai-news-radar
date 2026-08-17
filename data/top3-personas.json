@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T17:58:06.348122Z",
+  "generated_at": "2026-08-17T19:12:40.319771Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_92ad1be47cb2",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "url": "https://www.librarian.net/notoai",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "指南实用但标题党，禁用AI哪需要覆盖全平台？挑重点说。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "实用指南无论文代码，仅个人经验，缺第三方验证，可信度低。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "想关掉系统里AI功能的今天就能照着操作，省得被烦。"
+        }
+      }
+    },
+    {
       "story_id": "story_5df010d9d793",
       "title": "Qwen 3.8 27B 表现出色，但默认推理强度过高导致过度思考 / Qwen 3.8 27B is excellent， but it defaults to wildly overthinking things",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "模型强但默认过度思考，调低推理强度参数即可，今天就能优化成本。"
-        }
-      }
-    },
-    {
-      "story_id": "story_a3e7db53d120",
-      "title": "由 AI 生成的 GitHub Copilot“自动修复”功能导致 Snowflake 的 Jira 系统遭到入侵",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "AI 修 bug 修出个洞，这波自动化翻车，建议先修修自己的安全测试。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "仅博客宣称AI修复致入侵，无论文代码或第三方验证，证据薄弱。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "AI 自动修代码引入漏洞，修完得人工审，别盲信 Copilot。"
         }
       }
     }

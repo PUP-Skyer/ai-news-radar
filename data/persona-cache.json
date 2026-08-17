@@ -1,42 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_2d4e47d50fc6|pragmatic|0a5c5b24": {
-      "score": 60,
-      "review": "开源模型安全有进步但不如闭源，做安全对齐的可以看看，生产环境慎用。",
-      "title_hash": "47fdb458",
-      "scored_at": "2026-07-27T18:55:29.420058Z"
-    },
-    "story_ebe3ddd20f67|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "MCP连接器+Claude做金融分析，有代码可抄，适合快速搭原型。",
-      "title_hash": "114ead3d",
-      "scored_at": "2026-07-27T18:55:27.180966Z"
-    },
-    "story_6a580af5bd08|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "2.8T模型当天就能跑，SGLang用户直接部署，开源社区福利。",
-      "title_hash": "65df3a1a",
-      "scored_at": "2026-07-27T18:55:28.295746Z"
-    },
-    "story_eb7b6b649c03|pragmatic|0a5c5b24": {
-      "score": 15,
-      "review": "泡沫预言不写代码，等真烧了再关心。",
-      "title_hash": "1d347c17",
-      "scored_at": "2026-07-27T18:55:30.344995Z"
-    },
-    "story_6a580af5bd08|cynic|f4237a62": {
-      "score": 82,
-      "review": "2.8T参数开源，SGLang当天适配，诚意比那些只发PPT的强多了。",
-      "title_hash": "65df3a1a",
-      "scored_at": "2026-07-27T18:55:31.466532Z"
-    },
-    "story_6a580af5bd08|paper-police|966065bf": {
-      "score": 40,
-      "review": "博客宣称支持，但无论文无代码无评测，证据链缺失。",
-      "title_hash": "65df3a1a",
-      "scored_at": "2026-07-27T18:55:32.467350Z"
-    },
     "story_fdb39a7d1547|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "Copilot 新工作流整合原型到审查，今天就能试，但需适应新流程。",
@@ -6051,9 +6015,9 @@
     },
     "story_4c94bc9d56c4|pragmatic|0a5c5b24": {
       "score": 45,
-      "review": "行业动向，说明数据版权成AI训练焦点，但无直接可操作工具。",
-      "title_hash": "5c006dba",
-      "scored_at": "2026-08-17T15:52:26.221400Z"
+      "review": "版权争议影响数据获取，短期不碍开发，但合规采集得留个心眼。",
+      "title_hash": "5738e771",
+      "scored_at": "2026-08-17T19:12:36.137401Z"
     },
     "story_e8417ef9f36f|pragmatic|0a5c5b24": {
       "score": 72,
@@ -6084,6 +6048,24 @@
       "review": "仅博客宣称AI修复致入侵，无论文代码或第三方验证，证据薄弱。",
       "title_hash": "42a65b5e",
       "scored_at": "2026-08-17T17:58:06.348065Z"
+    },
+    "story_92ad1be47cb2|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "想关掉系统里AI功能的今天就能照着操作，省得被烦。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T19:12:37.689483Z"
+    },
+    "story_92ad1be47cb2|cynic|f4237a62": {
+      "score": 72,
+      "review": "指南实用但标题党，禁用AI哪需要覆盖全平台？挑重点说。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T19:12:39.124511Z"
+    },
+    "story_92ad1be47cb2|paper-police|966065bf": {
+      "score": 20,
+      "review": "实用指南无论文代码，仅个人经验，缺第三方验证，可信度低。",
+      "title_hash": "ceb178c1",
+      "scored_at": "2026-08-17T19:12:40.319685Z"
     }
   }
 }
