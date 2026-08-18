@@ -1,18 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_71077999e62f|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "愿景文章，无API或工具发布，等具体产品再评估。",
-      "title_hash": "81e70a7a",
-      "scored_at": "2026-07-28T18:54:36.417561Z"
-    },
-    "story_a063107ace50|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "研究亮点，但无工具可下载，等开源或API再看。",
-      "title_hash": "e981f8ff",
-      "scored_at": "2026-07-28T18:54:37.806143Z"
-    },
     "story_d930809ff7d5|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "CI/CD安全增强，防供应链攻击，建议检查现有workflow是否受影响。",
@@ -6126,6 +6114,54 @@
       "review": "官方博客有细节但无代码无评测，零信任方案待验证。",
       "title_hash": "129bd594",
       "scored_at": "2026-08-18T17:53:13.111462Z"
+    },
+    "story_77f8f8705916|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "IBM 开源 HMM 方案，Agent 内存选型有参考，做长上下文可试。",
+      "title_hash": "80e8af9b",
+      "scored_at": "2026-08-18T19:07:06.208161Z"
+    },
+    "story_deae2dbaff1a|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "官方放缓节奏，短期无新API，观望即可。",
+      "title_hash": "c420eb1e",
+      "scored_at": "2026-08-18T19:07:07.698323Z"
+    },
+    "story_0bf04552d060|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全暂停是流程调整，不影响现有API，开发不用动。",
+      "title_hash": "5adcb03d",
+      "scored_at": "2026-08-18T19:07:08.926899Z"
+    },
+    "story_04675208260d|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "限额调整直接影响日常用量，批量任务今天就能按新额度排活。",
+      "title_hash": "1649ba5d",
+      "scored_at": "2026-08-18T19:07:10.167816Z"
+    },
+    "story_04675208260d|cynic|f4237a62": {
+      "score": 35,
+      "review": "每周限额推广？先把上个月的宕机账单结了吧。",
+      "title_hash": "1649ba5d",
+      "scored_at": "2026-08-18T19:07:11.514547Z"
+    },
+    "story_04675208260d|paper-police|966065bf": {
+      "score": 25,
+      "review": "官方公告提限额，无技术细节无评测，仅营销信息，证据薄弱。",
+      "title_hash": "1649ba5d",
+      "scored_at": "2026-08-18T19:07:12.670615Z"
+    },
+    "story_77f8f8705916|cynic|f4237a62": {
+      "score": 72,
+      "review": "标题问得实在，但答案藏在自家模型里，水分得自己挤。",
+      "title_hash": "80e8af9b",
+      "scored_at": "2026-08-18T19:07:14.346259Z"
+    },
+    "story_77f8f8705916|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客给了细节和数字，但无论文无代码，等第三方验证。",
+      "title_hash": "80e8af9b",
+      "scored_at": "2026-08-18T19:07:15.722240Z"
     }
   }
 }

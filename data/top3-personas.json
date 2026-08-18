@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:53:13.111511Z",
+  "generated_at": "2026-08-18T19:07:15.722321Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,50 @@
   ],
   "items": [
     {
+      "story_id": "story_04675208260d",
+      "title": "Claude Code 2026年5-8月每周限额推广 / Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://news.ycombinator.com/item?id=49348751",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "每周限额推广？先把上个月的宕机账单结了吧。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方公告提限额，无技术细节无评测，仅营销信息，证据薄弱。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "限额调整直接影响日常用量，批量任务今天就能按新额度排活。"
+        }
+      }
+    },
+    {
+      "story_id": "story_77f8f8705916",
+      "title": "你的Agent到底需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "标题问得实在，但答案藏在自家模型里，水分得自己挤。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了细节和数字，但无论文无代码，等第三方验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "IBM 开源 HMM 方案，Agent 内存选型有参考，做长上下文可试。"
+        }
+      }
+    },
+    {
       "story_id": "story_cd7a1ff75de2",
       "title": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
-      "rank": 1,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 82,
@@ -33,46 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "多向量嵌入能提升检索精度，但需重写索引，短期别急着换。"
-        }
-      }
-    },
-    {
-      "story_id": "story_5646c2e72f66",
-      "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "顺序优化能提33%？先晒出对比基线和复现脚本，别只给个标题党。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了数字但无代码无复现，等第三方验证再定论。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "调度顺序优化能提33%利用率，跑GPU集群的可以看下这篇实操。"
-        }
-      }
-    },
-    {
-      "story_id": "story_654c10ffc24b",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "零信任是安全术语，不是AI新衣，别拿概念包装旧框架。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无代码无评测，零信任方案待验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "ADK 出零信任方案，做企业级 Agent 的可以抄配置，今天能试。"
         }
       }
     }
