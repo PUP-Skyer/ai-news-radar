@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T13:58:33.652473Z",
+  "generated_at": "2026-08-18T14:54:29.455625Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -77,15 +77,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8774,
-      "importance": 0.8774,
-      "importance_score": 0.8774,
+      "score": 0.8751,
+      "importance": 0.8751,
+      "importance_score": 0.8751,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9579,
+        "recency": 0.9451,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,7 +115,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -132,18 +132,33 @@
           "title_zh": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+          "summary": null,
           "recommend_reason_zh": "Multi-Vector模型为每个token保留向量，用MaxSim评分避免压缩信息损失，可直接加载PyLate和Stanford NLP的ColBERT checkpoint，并支持免OCR的视觉文档检索。",
           "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型",
+          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+          "recommend_reason_zh": "MultiVectorEncoder 让 ColBERT 风格的多向量模型接入 Sentence Transformers v6.0，每个 token 保留 128 维向量并用 MaxSim 打分，直读 PyLate、Stanford-NLP 及 colpali-engine 检查点。",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hugging Face Blog"
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
       ],
       "items": [
         {
@@ -152,31 +167,46 @@
           "title_zh": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+          "summary": null,
           "recommend_reason_zh": "Multi-Vector模型为每个token保留向量，用MaxSim评分避免压缩信息损失，可直接加载PyLate和Stanford NLP的ColBERT checkpoint，并支持免OCR的视觉文档检索。",
           "url": "https://huggingface.co/blog/multi-vector-encoder",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-08-18T00:00:00Z"
+        },
+        {
+          "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
+          "title": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型",
+          "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+          "recommend_reason_zh": "MultiVectorEncoder 让 ColBERT 风格的多向量模型接入 Sentence Transformers v6.0，每个 token 保留 128 维向量并用 MaxSim 打分，直读 PyLate、Stanford-NLP 及 colpali-engine 检查点。",
+          "url": "https://huggingface.co/blog/multi-vector-encoder",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T00:00:00Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8351,
-      "importance": 0.8351,
-      "importance_score": 0.8351,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8581,
+      "importance": 0.8581,
+      "importance_score": 0.8581,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8172,
-        "story_heat": 0.0
+        "recency": 0.8063,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
@@ -188,7 +218,7 @@
         "title_zh": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用",
         "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nTable of Contents What are Multi-Vector Models? The MaxSim Operator What You Gain, and What It Costs Installation Loading a Model Inspecting What a Checkpoint Configured Encoding Queries and Documents Scoring with MaxSim Score Magnitude and MeanMaxSim Semantic Search Retrieve and Rer",
+        "summary": null,
         "recommend_reason_zh": "Multi-Vector模型为每个token保留向量，用MaxSim评分避免压缩信息损失，可直接加载PyLate和Stanford NLP的ColBERT checkpoint，并支持免OCR的视觉文档检索。",
         "url": "https://huggingface.co/blog/multi-vector-encoder",
         "source": "Hugging Face Blog",
@@ -200,7 +230,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -335,15 +365,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.833,
-      "importance": 0.833,
-      "importance_score": 0.833,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7967,
+        "recency": 0.786,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -372,7 +402,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -420,15 +450,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8444,
-      "importance": 0.8444,
-      "importance_score": 0.8444,
+      "score": 0.8421,
+      "importance": 0.8421,
+      "importance_score": 0.8421,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9579,
+        "recency": 0.9451,
         "story_heat": 0.0
       },
       "category": "official",
@@ -457,7 +487,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -505,15 +535,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7951,
-      "importance": 0.7951,
-      "importance_score": 0.7951,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7281,
+        "recency": 0.7183,
         "story_heat": 0.0
       },
       "category": "official",
@@ -542,7 +572,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -590,15 +620,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8165,
+      "importance": 0.8165,
+      "importance_score": 0.8165,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7688,
+        "recency": 0.7586,
         "story_heat": 0.0
       },
       "category": "official",
@@ -627,7 +657,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -703,15 +733,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7799,
-      "importance": 0.7799,
-      "importance_score": 0.7799,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.9172,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -740,7 +770,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -788,15 +818,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.8099,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -824,179 +854,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
-      }
-    },
-    {
-      "story_id": "story_92ad1be47cb2",
-      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-      "url": "https://www.librarian.net/notoai",
-      "primary_url": "https://www.librarian.net/notoai",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，逐一说明如何关闭Gemini、Apple Intelligence、Alexa等侵入式AI，甚至包括Chrome flags中GLIC和Gemini的禁用步骤。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": "这份指南详细教你关闭Gemini、Apple Intelligence、Alexa for Shopping等侵入式AI，并附有NoToAI.org短链接，连Chrome的AI功能都能通过chrome://flags逐一禁用。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
-          "title": "如何禁用或避免侵入式AI / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式AI",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": "这篇内容指出AI功能正被公司强制推送、运行成本高昂，并揭示其策略：让AI侵入生活到难以回避、回退代价高昂，使企业和政府无法回头。",
-          "url": "https://news.ycombinator.com/item?id=49331220",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T14:48:37.083000Z"
-        },
-        {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": "这篇指南教你在Acrobat Reader、Gemini、Apple Intelligence及Chrome flags中逐一关闭侵入式AI，例如通过chrome://flags搜索“GLIC”禁用Google live in Chrome，或设置里关闭Gemini对电源键的接管，实用可操作。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews",
-        "www.librarian.net"
-      ],
-      "items": [
-        {
-          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-          "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，逐一说明如何关闭Gemini、Apple Intelligence、Alexa等侵入式AI，甚至包括Chrome flags中GLIC和Gemini的禁用步骤。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
-          "title": "如何禁用或避免侵入式人工智能",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": null,
-          "title_original": "如何禁用或避免侵入式人工智能",
-          "summary": null,
-          "recommend_reason_zh": "这份指南详细教你关闭Gemini、Apple Intelligence、Alexa for Shopping等侵入式AI，并附有NoToAI.org短链接，连Chrome的AI功能都能通过chrome://flags逐一禁用。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "www.librarian.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-17T17:58:12.144000Z"
-        },
-        {
-          "id": "fdd2dc3e40dbcf4f45e6164d68cffd144a5fd7bd",
-          "title": "如何禁用或避免侵入式AI / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式AI",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": "这篇内容指出AI功能正被公司强制推送、运行成本高昂，并揭示其策略：让AI侵入生活到难以回避、回退代价高昂，使企业和政府无法回头。",
-          "url": "https://news.ycombinator.com/item?id=49331220",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-17T14:48:37.083000Z"
-        },
-        {
-          "id": "aef8a9ee8fb759654a135a61e0f52fd6c33fc2a7",
-          "title": "如何禁用或避免侵入式人工智能 / How to disable or avoid intrusive AI",
-          "title_zh": "如何禁用或避免侵入式人工智能",
-          "title_en": "How to disable or avoid intrusive AI",
-          "title_original": "How to disable or avoid intrusive AI",
-          "summary": null,
-          "recommend_reason_zh": "这篇指南教你在Acrobat Reader、Gemini、Apple Intelligence及Chrome flags中逐一关闭侵入式AI，例如通过chrome://flags搜索“GLIC”禁用Google live in Chrome，或设置里关闭Gemini对电源键的接管，实用可操作。",
-          "url": "https://www.librarian.net/notoai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-17T14:07:56Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7914,
-      "importance": 0.7914,
-      "importance_score": 0.7914,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.7,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7491,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-17T14:07:56Z",
-      "latest_at": "2026-08-17T17:58:12.144000Z",
-      "primary_item": {
-        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
-        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "title_en": null,
-        "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
-        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
-        "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，逐一说明如何关闭Gemini、Apple Intelligence、Alexa等侵入式AI，甚至包括Chrome flags中GLIC和Gemini的禁用步骤。",
-        "url": "https://www.librarian.net/notoai",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "想关掉系统里AI功能的今天就能照着操作，省得被烦。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1044,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7332,
+      "importance": 0.7332,
+      "importance_score": 0.7332,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8921,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1079,7 +937,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1127,15 +985,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
+      "score": 0.7297,
+      "importance": 0.7297,
+      "importance_score": 0.7297,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8168,
+        "recency": 0.8059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,7 +1020,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1210,15 +1068,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
+      "score": 0.7573,
+      "importance": 0.7573,
+      "importance_score": 0.7573,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9553,
+        "recency": 0.9425,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1246,91 +1104,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
-      }
-    },
-    {
-      "story_id": "story_e3e64a7023cf",
-      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-      "url": "https://www.aibase.com/news/30441",
-      "primary_url": "https://www.aibase.com/news/30441",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "summary": null,
-          "recommend_reason_zh": "Android Authority拆解Phone by Google应用234.0.9版代码，发现vivo将继Google、Samsung后成第三家支持安卓Scam Detection的厂商。该AI可在通话中识别诈骗话术并实时提醒，现仅Pixel与Galaxy S26支持，vivo具体机型未定。",
-          "url": "https://www.aibase.com/news/30441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T09:50:08.757894Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "title_en": null,
-          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-          "summary": null,
-          "recommend_reason_zh": "Android Authority拆解Phone by Google应用234.0.9版代码，发现vivo将继Google、Samsung后成第三家支持安卓Scam Detection的厂商。该AI可在通话中识别诈骗话术并实时提醒，现仅Pixel与Galaxy S26支持，vivo具体机型未定。",
-          "url": "https://www.aibase.com/news/30441",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T09:50:08.757894Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.942,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T09:50:08.757894Z",
-      "latest_at": "2026-08-18T09:50:08.757894Z",
-      "primary_item": {
-        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
-        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "title_en": null,
-        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
-        "summary": null,
-        "recommend_reason_zh": "Android Authority拆解Phone by Google应用234.0.9版代码，发现vivo将继Google、Samsung后成第三家支持安卓Scam Detection的厂商。该AI可在通话中识别诈骗话术并实时提醒，现仅Pixel与Galaxy S26支持，vivo具体机型未定。",
-        "url": "https://www.aibase.com/news/30441",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "手机端AI防诈骗是趋势，但vivo接入安卓原生功能，开发者无新API可挖，观望即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1407,15 +1181,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7442,
+      "importance": 0.7442,
+      "importance_score": 0.7442,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7578,
+        "recency": 0.7476,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1443,7 +1217,204 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
+      }
+    },
+    {
+      "story_id": "story_e3e64a7023cf",
+      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+      "url": "https://www.aibase.com/news/30441",
+      "primary_url": "https://www.aibase.com/news/30441",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_en": null,
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "summary": null,
+          "recommend_reason_zh": "Android Authority拆解Phone by Google应用234.0.9版代码，发现vivo将继Google、Samsung后成第三家支持安卓Scam Detection的厂商。该AI可在通话中识别诈骗话术并实时提醒，现仅Pixel与Galaxy S26支持，vivo具体机型未定。",
+          "url": "https://www.aibase.com/news/30441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:50:08.757894Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "title_en": null,
+          "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "summary": null,
+          "recommend_reason_zh": "Android Authority拆解Phone by Google应用234.0.9版代码，发现vivo将继Google、Samsung后成第三家支持安卓Scam Detection的厂商。该AI可在通话中识别诈骗话术并实时提醒，现仅Pixel与Galaxy S26支持，vivo具体机型未定。",
+          "url": "https://www.aibase.com/news/30441",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:50:08.757894Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9294,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T09:50:08.757894Z",
+      "latest_at": "2026-08-18T09:50:08.757894Z",
+      "primary_item": {
+        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_zh": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "title_en": null,
+        "title_original": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "summary": null,
+        "recommend_reason_zh": "Android Authority拆解Phone by Google应用234.0.9版代码，发现vivo将继Google、Samsung后成第三家支持安卓Scam Detection的厂商。该AI可在通话中识别诈骗话术并实时提醒，现仅Pixel与Galaxy S26支持，vivo具体机型未定。",
+        "url": "https://www.aibase.com/news/30441",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "手机端AI防诈骗是趋势，但vivo接入安卓原生功能，开发者无新API可挖，观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T15:02:53.773971Z"
+      }
+    },
+    {
+      "story_id": "story_042e1009900f",
+      "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+      "url": "https://www.librarian.net/notoai",
+      "primary_url": "https://www.librarian.net/notoai",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title_en": null,
+          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+          "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，逐一说明如何关闭Gemini、Apple Intelligence、Alexa等侵入式AI，甚至包括Chrome flags中GLIC和Gemini的禁用步骤。",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "title_zh": "如何禁用或避免侵入式人工智能",
+          "title_en": null,
+          "title_original": "如何禁用或避免侵入式人工智能",
+          "summary": null,
+          "recommend_reason_zh": "这份指南详细教你关闭Gemini、Apple Intelligence、Alexa for Shopping等侵入式AI，并附有NoToAI.org短链接，连Chrome的AI功能都能通过chrome://flags逐一禁用。",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.librarian.net"
+      ],
+      "items": [
+        {
+          "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+          "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "title_en": null,
+          "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+          "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+          "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，逐一说明如何关闭Gemini、Apple Intelligence、Alexa等侵入式AI，甚至包括Chrome flags中GLIC和Gemini的禁用步骤。",
+          "url": "https://www.librarian.net/notoai",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        },
+        {
+          "id": "4473f8065513906e3e3dbe6b04888a94e69e6e4e",
+          "title": "如何禁用或避免侵入式人工智能",
+          "title_zh": "如何禁用或避免侵入式人工智能",
+          "title_en": null,
+          "title_original": "如何禁用或避免侵入式人工智能",
+          "summary": null,
+          "recommend_reason_zh": "这份指南详细教你关闭Gemini、Apple Intelligence、Alexa for Shopping等侵入式AI，并附有NoToAI.org短链接，连Chrome的AI功能都能通过chrome://flags逐一禁用。",
+          "url": "https://www.librarian.net/notoai",
+          "source": "www.librarian.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-17T17:58:12.144000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.7,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7391,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T17:58:12.144000Z",
+      "latest_at": "2026-08-17T17:58:12.144000Z",
+      "primary_item": {
+        "id": "5018273d0d7f36fdbb0075484cc5f634bb9d8308",
+        "title": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "title_zh": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "title_en": null,
+        "title_original": "如何禁用或避免侵入式 AI：一份覆盖 Windows、Chrome、Edge、Firefox 及主流应用的实用指南",
+        "summary": "一份面向希望减少技术环境中侵入式 AI 的用户的操作指南，涵盖 Adobe Acrobat、Android/Gemini、Apple Intelligence、Chrome、Edge、Firefox、DuckDuckGo、Google Workspace、Slack、WhatsApp 及 Windows 11/Copilot 等平台。",
+        "recommend_reason_zh": "这份指南覆盖Windows、Chrome、Edge、Firefox及主流应用，逐一说明如何关闭Gemini、Apple Intelligence、Alexa等侵入式AI，甚至包括Chrome flags中GLIC和Gemini的禁用步骤。",
+        "url": "https://www.librarian.net/notoai",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "实用清单，想关掉系统里AI功能的可直接照抄，但无新信息。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1491,15 +1462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1527,7 +1498,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1575,15 +1546,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.942,
+        "recency": 0.9294,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1611,7 +1582,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1659,15 +1630,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1695,7 +1666,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1772,15 +1743,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.601,
-      "importance": 0.601,
-      "importance_score": 0.601,
+      "score": 0.5993,
+      "importance": 0.5993,
+      "importance_score": 0.5993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7349,
+        "recency": 0.7251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1807,119 +1778,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
-      }
-    },
-    {
-      "story_id": "story_ae0a0f31fc5c",
-      "title": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练 / AirTag reveals how Amazon destroys rare books for AI training",
-      "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "primary_url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-      "source": "The Decoder AI News",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-          "title": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练 / AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练",
-          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": "404 Media用AirTag追踪发现，Amazon在拉斯维加斯VGT3仓库切掉书脊扫描绝版书，用于训练Nova模型；Anthropic的Project Panama也做同样的事，销毁原本却因烧掉原件被法官判为合理使用。",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:43:04Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag 揭示亚马逊为 AI 训练销毁珍稀书籍 / Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "Apple AirTag 揭示亚马逊为 AI 训练销毁珍稀书籍",
-          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": "404 Media用Apple AirTag追踪一批绝版书，发现它们被送往Amazon拉斯维加斯仓库，由VGT3团队切断书脊扫描，用于训练Nova模型；Anthropic的Project Panama也有类似操作。",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "The Decoder AI News"
-      ],
-      "items": [
-        {
-          "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-          "title": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练 / AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练",
-          "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": "404 Media用AirTag追踪发现，Amazon在拉斯维加斯VGT3仓库切掉书脊扫描绝版书，用于训练Nova模型；Anthropic的Project Panama也做同样的事，销毁原本却因烧掉原件被法官判为合理使用。",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "The Decoder AI News",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-08-17T14:43:04Z"
-        },
-        {
-          "id": "df7ad8dd677c794ee98f871b87fc348ed89665c6",
-          "title": "Apple AirTag 揭示亚马逊为 AI 训练销毁珍稀书籍 / Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_zh": "Apple AirTag 揭示亚马逊为 AI 训练销毁珍稀书籍",
-          "title_en": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "title_original": "Apple AirTag reveals how Amazon destroys rare books for AI training",
-          "summary": null,
-          "recommend_reason_zh": "404 Media用Apple AirTag追踪一批绝版书，发现它们被送往Amazon拉斯维加斯仓库，由VGT3团队切断书脊扫描，用于训练Nova模型；Anthropic的Project Panama也有类似操作。",
-          "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-17T17:55:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5974,
-      "importance": 0.5974,
-      "importance_score": 0.5974,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.7147,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-17T14:43:04Z",
-      "latest_at": "2026-08-17T17:55:50Z",
-      "primary_item": {
-        "id": "63e2d32b79587da8f62d11f0db26a7a216b91ec7",
-        "title": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练 / AirTag reveals how Amazon destroys rare books for AI training",
-        "title_zh": "AirTag 揭示亚马逊销毁稀有书籍用于 AI 训练",
-        "title_en": "AirTag reveals how Amazon destroys rare books for AI training",
-        "title_original": "AirTag reveals how Amazon destroys rare books for AI training",
-        "summary": null,
-        "recommend_reason_zh": "404 Media用AirTag追踪发现，Amazon在拉斯维加斯VGT3仓库切掉书脊扫描绝版书，用于训练Nova模型；Anthropic的Project Panama也做同样的事，销毁原本却因烧掉原件被法官判为合理使用。",
-        "url": "https://the-decoder.com/airtag-reveals-how-amazon-destroys-rare-books-for-ai-training",
-        "source": "The Decoder AI News",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "销毁书籍是供应链八卦，跟AI开发选型无关，不用管。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     },
     {
@@ -1967,15 +1826,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7549,
-      "importance": 0.7549,
-      "importance_score": 0.7549,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9296,
+        "recency": 0.9172,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2003,7 +1862,148 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T14:09:29.135734Z"
+        "scored_at": "2026-08-18T15:02:53.773971Z"
+      }
+    },
+    {
+      "story_id": "story_b7fc3695f17f",
+      "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "primary_url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "source": "www.theregister.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": null,
+          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "summary": null,
+          "recommend_reason_zh": "谷歌用一千万美元买下破产的Spirit航空数据，包括一亿封邮件、三千万通电话录音，以及Teams、Oracle等记录，用于AI训练，数据已去标识化。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T12:06:14.267000Z"
+        },
+        {
+          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
+          "title": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": "Google在拍卖中买下破产航司Spirit的数据用于AI，数据虽已去标识化，但法庭文件透露Google承诺清除其中任何PII，乘客不必担忧。",
+          "url": "https://news.ycombinator.com/item?id=49343559",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T10:25:49.787000Z"
+        },
+        {
+          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": "Google以1000万美元拍下破产航空公司Spirit的海量数据，包括1亿封邮件、3000万通录音电话及763,000次航班记录，用于改进AI服务，引发隐私担忧。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T10:13:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.theregister.com"
+      ],
+      "items": [
+        {
+          "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": null,
+          "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "summary": null,
+          "recommend_reason_zh": "谷歌用一千万美元买下破产的Spirit航空数据，包括一亿封邮件、三千万通电话录音，以及Teams、Oracle等记录，用于AI训练，数据已去标识化。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "www.theregister.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T12:06:14.267000Z"
+        },
+        {
+          "id": "5598fabf3e7d07f92aa111bc2fd8f51cae60124c",
+          "title": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "Google在拍卖会上买下破产航空公司Spirit的数据，因为AI",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": "Google在拍卖中买下破产航司Spirit的数据用于AI，数据虽已去标识化，但法庭文件透露Google承诺清除其中任何PII，乘客不必担忧。",
+          "url": "https://news.ycombinator.com/item?id=49343559",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T10:25:49.787000Z"
+        },
+        {
+          "id": "1c99c086c006ac042eeca135c91b0f542759e66f",
+          "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能 / Google buys crashed airline Spirit's data at auction, because AI",
+          "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+          "title_en": "Google buys crashed airline Spirit's data at auction, because AI",
+          "title_original": "Google buys crashed airline Spirit's data at auction, because AI",
+          "summary": null,
+          "recommend_reason_zh": "Google以1000万美元拍下破产航空公司Spirit的海量数据，包括1亿封邮件、3000万通录音电话及763,000次航班记录，用于改进AI服务，引发隐私担忧。",
+          "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-18T10:13:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9603,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-18T10:13:28Z",
+      "latest_at": "2026-08-18T12:06:14.267000Z",
+      "primary_item": {
+        "id": "ad7b3df7f7955f9d55b96acf2b7115639201bda9",
+        "title": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+        "title_zh": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+        "title_en": null,
+        "title_original": "谷歌在拍卖会上购得已破产的Spirit航空公司数据，原因在于人工智能",
+        "summary": null,
+        "recommend_reason_zh": "谷歌用一千万美元买下破产的Spirit航空数据，包括一亿封邮件、三千万通电话录音，以及Teams、Oracle等记录，用于AI训练，数据已去标识化。",
+        "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+        "source": "www.theregister.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 35,
+      "persona_review": "数据收购离落地远，除非你正好做航空数据清洗，否则不用动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T15:02:53.773971Z"
       }
     }
   ]
