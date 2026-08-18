@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:47:40.110151Z",
+  "generated_at": "2026-08-18T21:46:44.806070Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_04675208260d",
+      "title": "Claude Code 2026年5-8月每周限额推广 / Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://news.ycombinator.com/item?id=49348751",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 35,
+          "review": "每周限额推广？先把上个月的宕机账单结了吧。"
+        },
+        "paper-police": {
+          "score": 25,
+          "review": "官方公告提限额，无技术细节无评测，仅营销信息，证据薄弱。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "限额调整直接影响日常用量，批量任务今天就能按新额度排活。"
+        }
+      }
+    },
+    {
       "story_id": "story_654c10ffc24b",
       "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
       "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "ADK 出零信任方案，做企业级 Agent 的可以抄配置，今天能试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_5a9ad877cc94",
-      "title": "Claude 现已支持 Gmail 邮件与 Google Drive 文件管理 / Claude can now send emails in Gmail and manage files in Google Drive. Ask Claude to reply to a thre…",
-      "url": "https://x.com/claudeai/status/2089806039088517356",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "接个邮件和网盘就喊新功能，Anthropic 的 PR 越来越像在凑数。"
-        },
-        "paper-police": {
-          "score": 15,
-          "review": "官方推文宣称功能，无技术细节或演示，仅凭截图难证真伪。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "能直接连 Gmail 和 Drive 干活，日常办公自动化今天就能试，但注意权限别给太宽。"
         }
       }
     }
