@@ -1,8 +1,123 @@
 {
-  "generated_at": "2026-08-18T18:58:32.314729Z",
+  "generated_at": "2026-08-18T19:42:27.320596Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_77f8f8705916",
+      "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": "IBM Research在Hugging Face发文，发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2全量指南提升9.5个百分点。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": "IBM Research实测八款模型发现智能体记忆需按模型校准：gpt-oss-120b用精选检索提升+16.1pp且仅增5% tokens，DeepSeek-V3.2需全量规则才涨+9.5pp。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hugging Face Blog",
+        "Hugging Face：Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need?",
+          "title_original": "How Much Memory Does Your Agent Actually Need?",
+          "summary": null,
+          "recommend_reason_zh": "IBM Research在Hugging Face发文，发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2全量指南提升9.5个百分点。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-18T18:09:38Z"
+        },
+        {
+          "id": "ed0f0ca83fed5aa8ae6ec56cfdfbee39b0782b0e",
+          "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need？",
+          "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+          "title_en": "How Much Memory Does Your Agent Actually Need？",
+          "title_original": "How Much Memory Does Your Agent Actually Need？",
+          "summary": "智能体记忆并非可随意开启的功能，而是需按模型能力校准的剂量。强模型适合注入完整指南集，DeepSeek-V3.2（671B MoE）任务完成率提升+9.5个百分点；较弱模型采用精选检索效果最佳，gpt-oss-120b（117B MoE）提升+16.1pp且仅增加+5% token。该方法无需更新权重或人工标注，通过从智能体过往轨迹中蒸馏指南并在推理时注入实现。",
+          "recommend_reason_zh": "IBM Research实测八款模型发现智能体记忆需按模型校准：gpt-oss-120b用精选检索提升+16.1pp且仅增5% tokens，DeepSeek-V3.2需全量规则才涨+9.5pp。",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+          "source": "Hugging Face：Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T18:09:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.881,
+      "importance": 0.881,
+      "importance_score": 0.881,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9779,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T18:09:38Z",
+      "latest_at": "2026-08-18T18:09:38Z",
+      "primary_item": {
+        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
+        "title": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准 / How Much Memory Does Your Agent Actually Need?",
+        "title_zh": "智能体记忆并非越多越好：八款模型评测显示剂量需按能力校准",
+        "title_en": "How Much Memory Does Your Agent Actually Need?",
+        "title_original": "How Much Memory Does Your Agent Actually Need?",
+        "summary": null,
+        "recommend_reason_zh": "IBM Research在Hugging Face发文，发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2全量指南提升9.5个百分点。",
+        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "记忆长度不是越多越好，调参时得按模型能力校准，做Agent的可以看看。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T19:48:12.168216Z"
+      }
+    },
     {
       "story_id": "story_394e39b5c070",
       "title": "OpenAI 推出 ChatGPT for Teens：面向青少年的学习体验与更强安全保护 / Introducing ChatGPT for Teens: Built for learning, backed by protections",
@@ -77,15 +192,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8654,
-      "importance": 0.8654,
-      "importance_score": 0.8654,
+      "score": 0.8637,
+      "importance": 0.8637,
+      "importance_score": 0.8637,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8912,
+        "recency": 0.8818,
         "story_heat": 0.25
       },
       "category": "official",
@@ -115,97 +230,12 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
-      }
-    },
-    {
-      "story_id": "story_77f8f8705916",
-      "title": "你的Agent到底需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "primary_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "你的Agent到底需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "你的Agent到底需要多少内存？",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
-          "recommend_reason_zh": "IBM Research在Hugging Face发文，发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2全量指南提升9.5个百分点。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-          "title": "你的Agent到底需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-          "title_zh": "你的Agent到底需要多少内存？",
-          "title_en": "How Much Memory Does Your Agent Actually Need?",
-          "title_original": "How Much Memory Does Your Agent Actually Need?",
-          "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
-          "recommend_reason_zh": "IBM Research在Hugging Face发文，发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2全量指南提升9.5个百分点。",
-          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-18T18:09:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8579,
-      "importance": 0.8579,
-      "importance_score": 0.8579,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9883,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T18:09:38Z",
-      "latest_at": "2026-08-18T18:09:38Z",
-      "primary_item": {
-        "id": "4c7e6d7987f8435623b872c1349860e73b991e53",
-        "title": "你的Agent到底需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-        "title_zh": "你的Agent到底需要多少内存？",
-        "title_en": "How Much Memory Does Your Agent Actually Need?",
-        "title_original": "How Much Memory Does Your Agent Actually Need?",
-        "summary": "A Blog post by IBM Research on Hugging Face\nA Blog post by IBM Research on Hugging Face\nThe Key Insight: Dosage Depends on Capability Learning happens around the model, not inside it Results Across the Spectrum The three configurations we compare The three patterns, in one view The Cheapest Memory Strategy Can Also Be the Best Memory Should Be Calibrated, Not Merely Accumulated What's Next Appendix: Understanding the Metrics In our previous post , we compared ALTK-Evolve with ACE and showed that",
-        "recommend_reason_zh": "IBM Research在Hugging Face发文，发现agent记忆需按模型校准：gpt-oss-120b用精选检索提升16.1个百分点且仅增5%token，DeepSeek-V3.2全量指南提升9.5个百分点。",
-        "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "IBM 开源 HMM 方案，Agent 内存选型有参考，做长上下文可试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
       "story_id": "story_cd7a1ff75de2",
-      "title": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
       "url": "https://huggingface.co/blog/multi-vector-encoder",
       "primary_url": "https://huggingface.co/blog/multi-vector-encoder",
       "source": "Hugging Face Blog",
@@ -213,8 +243,8 @@
       "sources": [
         {
           "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
@@ -227,8 +257,8 @@
         },
         {
           "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "summary": null,
@@ -248,8 +278,8 @@
       "items": [
         {
           "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-          "title": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-          "title_zh": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
           "summary": null,
@@ -262,8 +292,8 @@
         },
         {
           "id": "3a5f22e406027a5eb26beb9570e669a3730e1990",
-          "title": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
-          "title_zh": "使用 Sentence Transformers 的多向量（Late Interaction）嵌入模型",
+          "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
+          "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
           "title_en": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "title_original": "Multi-Vector （Late Interaction） Embedding Models with Sentence Transformers",
           "summary": null,
@@ -277,15 +307,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8499,
-      "importance": 0.8499,
-      "importance_score": 0.8499,
+      "score": 0.8484,
+      "importance": 0.8484,
+      "importance_score": 0.8484,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7603,
+        "recency": 0.7523,
         "story_heat": 0.25
       },
       "category": "official",
@@ -299,8 +329,8 @@
       "latest_at": "2026-08-18T00:00:00Z",
       "primary_item": {
         "id": "fc2527d839553090ffa83437277c7d1cc2cb53fc",
-        "title": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-        "title_zh": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用",
+        "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+        "title_zh": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型",
         "title_en": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "title_original": "Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
         "summary": null,
@@ -310,12 +340,12 @@
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "多向量嵌入能提升检索精度，但需重写索引，短期别急着换。",
+      "persona_score": 85,
+      "persona_review": "多向量检索今天就能上手，RAG 精度提升直接换库用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -332,7 +362,7 @@
           "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
           "title_en": "Pacing model development in an era of cyber-critical capabilities",
           "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+          "summary": null,
           "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face incident及模型Astra触及“关键网络能力”阈值，暂停RL训练两周，暂缓最大前沿RL运行，详解新安全护栏如何放缓模型开发节奏。",
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
@@ -352,7 +382,7 @@
           "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
           "title_en": "Pacing model development in an era of cyber-critical capabilities",
           "title_original": "Pacing model development in an era of cyber-critical capabilities",
-          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+          "summary": null,
           "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face incident及模型Astra触及“关键网络能力”阈值，暂停RL训练两周，暂缓最大前沿RL运行，详解新安全护栏如何放缓模型开发节奏。",
           "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
           "source": "OpenAI News",
@@ -363,15 +393,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8912,
+        "recency": 0.8818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -388,7 +418,7 @@
         "title_zh": "OpenAI 在\"关键网络能力\"时代放缓模型开发节奏",
         "title_en": "Pacing model development in an era of cyber-critical capabilities",
         "title_original": "Pacing model development in an era of cyber-critical capabilities",
-        "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nOpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.\nAugust 18, 2026\nOver the past several weeks, two d",
+        "summary": null,
         "recommend_reason_zh": "OpenAI因OpenAI-Hugging Face incident及模型Astra触及“关键网络能力”阈值，暂停RL训练两周，暂缓最大前沿RL运行，详解新安全护栏如何放缓模型开发节奏。",
         "url": "https://openai.com/index/pacing-model-development-cyber-capabilities",
         "source": "OpenAI News",
@@ -400,7 +430,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -477,15 +507,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7716,
+      "importance": 0.7716,
+      "importance_score": 0.7716,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7412,
+        "recency": 0.7334,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -514,7 +544,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -562,15 +592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8912,
+        "recency": 0.8818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -599,7 +629,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -675,15 +705,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
+        "recency": 0.8558,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -712,7 +742,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -760,15 +790,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7535,
+        "recency": 0.7456,
         "story_heat": 0.0
       },
       "category": "official",
@@ -796,7 +826,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -844,15 +874,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7534,
-      "importance": 0.7534,
-      "importance_score": 0.7534,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9877,
+        "recency": 0.9773,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -880,7 +910,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -928,15 +958,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8074,
+      "importance": 0.8074,
+      "importance_score": 0.8074,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7153,
+        "recency": 0.7078,
         "story_heat": 0.0
       },
       "category": "official",
@@ -965,7 +995,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
+      }
+    },
+    {
+      "story_id": "story_57110e360f41",
+      "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+      "url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "primary_url": "https://claude.com/blog/ai-ci-cd-on-call",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+          "recommend_reason_zh": "Anthropic工程师用Claude Tag当CI/CD故障第一响应者：10点接到44个测试未触发的警报后，Claude发现是功能开关导致，3分钟验证恢复，15分钟内完成首份事故分析。",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+          "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+          "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+          "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+          "recommend_reason_zh": "Anthropic工程师用Claude Tag当CI/CD故障第一响应者：10点接到44个测试未触发的警报后，Claude发现是功能开关导致，3分钟验证恢复，15分钟内完成首份事故分析。",
+          "url": "https://claude.com/blog/ai-ci-cd-on-call",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-18T19:26:08.389000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7399,
+      "importance": 0.7399,
+      "importance_score": 0.7399,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.63,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-18T19:26:08.389000Z",
+      "latest_at": "2026-08-18T19:26:08.389000Z",
+      "primary_item": {
+        "id": "fb736f80d9d45402ef56b84bfa18c92744ec4b36",
+        "title": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者 / Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+        "title_zh": "Claude Tag 如何担任 Anthropic CI/CD 故障的一线响应者",
+        "title_en": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+        "title_original": "Claude on call： How Claude Tag serves as Anthropic's first responder for CI/CD failures",
+        "summary": "Anthropic 的 CI 工程师用 Claude Tag 构建了值班智能体，作为 CI/CD 故障的一线响应者。Claude 在事故发生后中位 14 分钟发布首份基于证据的分析，最快案例中 3 分钟内验证修复并确认错误率恢复基线。该方案通过 Slack 频道、Datadog 或 Grafana 工具访问及 GitHub 技能文件实现，Anthropic 已发布通用设置套件供其他团队部署。",
+        "recommend_reason_zh": "Anthropic工程师用Claude Tag当CI/CD故障第一响应者：10点接到44个测试未触发的警报后，Claude发现是功能开关导致，3分钟验证恢复，15分钟内完成首份事故分析。",
+        "url": "https://claude.com/blog/ai-ci-cd-on-call",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "Anthropic 用自家模型做 CI/CD 值班，思路可抄，但无具体方案，等开源或细节。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1013,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8314,
-      "importance": 0.8314,
-      "importance_score": 0.8314,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8412,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1050,7 +1163,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1098,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8323,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1133,7 +1246,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1181,15 +1294,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.76,
+        "recency": 0.752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1216,7 +1329,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1264,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7459,
+      "importance": 0.7459,
+      "importance_score": 0.7459,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8888,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1299,7 +1412,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1347,15 +1460,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1382,7 +1495,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1430,15 +1543,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,7 +1578,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1513,15 +1626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8764,
+        "recency": 0.8671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1548,7 +1661,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1596,15 +1709,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
+      "score": 0.7416,
+      "importance": 0.7416,
+      "importance_score": 0.7416,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8649,
+        "recency": 0.8558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1631,7 +1744,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     },
     {
@@ -1648,7 +1761,7 @@
           "title_zh": "Claude Code 2026年5-8月每周限额推广",
           "title_en": "Claude Code May–August 2026 weekly limits promotion",
           "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": "My money is on the more efficient solution. Even if Anthropic can win some benchmarks by using 3x tokens over 3x time, it is a terrible base to build toward the future. Users are no longer willing to wait exponentially long for linear improvements. And as we see from some of the Chinese models, they can quickly distill frontier models with the tax of being slower and more token-guzzling, while retaining most of the quality. The real differentiators are becoming speed and efficiency, which transl",
+          "summary": null,
           "recommend_reason_zh": "本文批评Anthropic靠3倍token和3倍时间换取基准分数是错误方向，认为用户已转向追求成本、速度与稳定性，并对比Claude与GPT体验，指出Claude输出冗长增加认知负担，GPT则更受青睐。",
           "url": "https://news.ycombinator.com/item?id=49348751",
           "source": "hackernews",
@@ -1662,7 +1775,7 @@
           "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
           "title_en": null,
           "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "summary": null,
           "recommend_reason_zh": "Claude Code每周使用限额在2026年5月13日至8月19日期间提高50%，覆盖Pro、Max、Team及Enterprise legacy seat用户，促销结束后恢复标准，相当于减少三分之一。",
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "support.claude.com",
@@ -1676,7 +1789,7 @@
           "title_zh": "Claude·科德的每周限额明天将减少三分之一",
           "title_en": "Claude Code May–August 2026 weekly limits promotion",
           "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "summary": null,
           "recommend_reason_zh": "Claude Code在2026年5月13日至8月19日间将每周用量上限提升50%，Pro、Max、Team及Enterprise旧版席位用户自动生效，而Free和按用量付费的Enterprise席位不参与。",
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "Hacker News (黑客新闻)",
@@ -1698,7 +1811,7 @@
           "title_zh": "Claude Code 2026年5-8月每周限额推广",
           "title_en": "Claude Code May–August 2026 weekly limits promotion",
           "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": "My money is on the more efficient solution. Even if Anthropic can win some benchmarks by using 3x tokens over 3x time, it is a terrible base to build toward the future. Users are no longer willing to wait exponentially long for linear improvements. And as we see from some of the Chinese models, they can quickly distill frontier models with the tax of being slower and more token-guzzling, while retaining most of the quality. The real differentiators are becoming speed and efficiency, which transl",
+          "summary": null,
           "recommend_reason_zh": "本文批评Anthropic靠3倍token和3倍时间换取基准分数是错误方向，认为用户已转向追求成本、速度与稳定性，并对比Claude与GPT体验，指出Claude输出冗长增加认知负担，GPT则更受青睐。",
           "url": "https://news.ycombinator.com/item?id=49348751",
           "source": "hackernews",
@@ -1712,7 +1825,7 @@
           "title_zh": "克劳德·科德的每周限额明天将减少三分之一",
           "title_en": null,
           "title_original": "克劳德·科德的每周限额明天将减少三分之一",
-          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "summary": null,
           "recommend_reason_zh": "Claude Code每周使用限额在2026年5月13日至8月19日期间提高50%，覆盖Pro、Max、Team及Enterprise legacy seat用户，促销结束后恢复标准，相当于减少三分之一。",
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "support.claude.com",
@@ -1726,7 +1839,7 @@
           "title_zh": "Claude·科德的每周限额明天将减少三分之一",
           "title_en": "Claude Code May–August 2026 weekly limits promotion",
           "title_original": "Claude Code May–August 2026 weekly limits promotion",
-          "summary": "We're offering a limited-time promotion that increases weekly usage limits in Claude Code by 50%.\nNote: We've extended this promotion. Increased weekly limits now run through August 19, 2026.\nThis promotion is available for Pro, Max, and Team plans, as well as legacy seat-based users on Enterprise plans. Free plans and consumption-based Enterprise seats are not included in this promotion.\nFrom May 13, 2026 through August 19, 2026, your weekly usage limit in Claude Code is 50% higher. 5-hour usag",
+          "summary": null,
           "recommend_reason_zh": "Claude Code在2026年5月13日至8月19日间将每周用量上限提升50%，Pro、Max、Team及Enterprise旧版席位用户自动生效，而Free和按用量付费的Enterprise席位不参与。",
           "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
           "source": "Hacker News (黑客新闻)",
@@ -1737,15 +1850,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5708,
-      "importance": 0.5708,
-      "importance_score": 0.5708,
+      "score": 0.5689,
+      "importance": 0.5689,
+      "importance_score": 0.5689,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9896,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1760,7 +1873,7 @@
         "title_zh": "Claude Code 2026年5-8月每周限额推广",
         "title_en": "Claude Code May–August 2026 weekly limits promotion",
         "title_original": "Claude Code May–August 2026 weekly limits promotion",
-        "summary": "My money is on the more efficient solution. Even if Anthropic can win some benchmarks by using 3x tokens over 3x time, it is a terrible base to build toward the future. Users are no longer willing to wait exponentially long for linear improvements. And as we see from some of the Chinese models, they can quickly distill frontier models with the tax of being slower and more token-guzzling, while retaining most of the quality. The real differentiators are becoming speed and efficiency, which transl",
+        "summary": null,
         "recommend_reason_zh": "本文批评Anthropic靠3倍token和3倍时间换取基准分数是错误方向，认为用户已转向追求成本、速度与稳定性，并对比Claude与GPT体验，指出Claude输出冗长增加认知负担，GPT则更受青睐。",
         "url": "https://news.ycombinator.com/item?id=49348751",
         "source": "hackernews",
@@ -1772,90 +1885,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
-      }
-    },
-    {
-      "story_id": "story_b4cb58f18c34",
-      "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-      "url": "https://www.aibase.com/news/30437",
-      "primary_url": "https://www.aibase.com/news/30437",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_en": null,
-          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "summary": null,
-          "recommend_reason_zh": "三年估值冲到30亿美元，Evoken靠LiblibAI等产品从模型社区做起，不碰底层大模型却启动港股IPO，这篇拆解了AI应用层“中间商”的商业逻辑与竞争壁垒。",
-          "url": "https://www.aibase.com/news/30437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:55:16.188764Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "title_en": null,
-          "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "summary": null,
-          "recommend_reason_zh": "三年估值冲到30亿美元，Evoken靠LiblibAI等产品从模型社区做起，不碰底层大模型却启动港股IPO，这篇拆解了AI应用层“中间商”的商业逻辑与竞争壁垒。",
-          "url": "https://www.aibase.com/news/30437",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T08:55:16.188764Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7433,
-      "importance": 0.7433,
-      "importance_score": 0.7433,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8649,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-18T08:55:16.188764Z",
-      "latest_at": "2026-08-18T08:55:16.188764Z",
-      "primary_item": {
-        "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-        "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "title_zh": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "title_en": null,
-        "title_original": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "summary": null,
-        "recommend_reason_zh": "三年估值冲到30亿美元，Evoken靠LiblibAI等产品从模型社区做起，不碰底层大模型却启动港股IPO，这篇拆解了AI应用层“中间商”的商业逻辑与竞争壁垒。",
-        "url": "https://www.aibase.com/news/30437",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 20,
-      "persona_review": "估值和IPO故事不写代码，等产品落地再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-18T19:07:04.680030Z"
+        "scored_at": "2026-08-18T19:48:12.168216Z"
       }
     }
   ]

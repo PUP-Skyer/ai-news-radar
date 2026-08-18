@@ -6056,10 +6056,10 @@
       "scored_at": "2026-08-18T13:21:04.989828Z"
     },
     "story_cd7a1ff75de2|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "多向量嵌入能提升检索精度，但需重写索引，短期别急着换。",
-      "title_hash": "e822558b",
-      "scored_at": "2026-08-18T14:09:30.550282Z"
+      "score": 85,
+      "review": "多向量检索今天就能上手，RAG 精度提升直接换库用。",
+      "title_hash": "e86fed0c",
+      "scored_at": "2026-08-18T19:48:14.245184Z"
     },
     "story_9dc365abafc2|pragmatic|0a5c5b24": {
       "score": 45,
@@ -6069,15 +6069,15 @@
     },
     "story_cd7a1ff75de2|cynic|f4237a62": {
       "score": 82,
-      "review": "晚期交互不是新词，但教程把实现细节讲透了，省得自己踩坑。",
-      "title_hash": "e822558b",
-      "scored_at": "2026-08-18T14:09:33.000856Z"
+      "review": "多向量终于进官方库，但ColBERT早有了，这波算补课不算创新。",
+      "title_hash": "e86fed0c",
+      "scored_at": "2026-08-18T19:48:17.042161Z"
     },
     "story_cd7a1ff75de2|paper-police|966065bf": {
-      "score": 45,
-      "review": "博客给了用法和细节，但无论文无代码链接，等独立验证。",
-      "title_hash": "e822558b",
-      "scored_at": "2026-08-18T14:09:34.189862Z"
+      "score": 72,
+      "review": "官方博客有细节无代码，等开源和复现再提分。",
+      "title_hash": "e86fed0c",
+      "scored_at": "2026-08-18T19:48:18.399908Z"
     },
     "story_042e1009900f|pragmatic|0a5c5b24": {
       "score": 62,
@@ -6116,10 +6116,10 @@
       "scored_at": "2026-08-18T17:53:13.111462Z"
     },
     "story_77f8f8705916|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "IBM 开源 HMM 方案，Agent 内存选型有参考，做长上下文可试。",
-      "title_hash": "80e8af9b",
-      "scored_at": "2026-08-18T19:07:06.208161Z"
+      "score": 62,
+      "review": "记忆长度不是越多越好，调参时得按模型能力校准，做Agent的可以看看。",
+      "title_hash": "990283cf",
+      "scored_at": "2026-08-18T19:48:13.306968Z"
     },
     "story_deae2dbaff1a|pragmatic|0a5c5b24": {
       "score": 45,
@@ -6162,6 +6162,12 @@
       "review": "博客给了细节和数字，但无论文无代码，等第三方验证。",
       "title_hash": "80e8af9b",
       "scored_at": "2026-08-18T19:07:15.722240Z"
+    },
+    "story_57110e360f41|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "Anthropic 用自家模型做 CI/CD 值班，思路可抄，但无具体方案，等开源或细节。",
+      "title_hash": "652916cd",
+      "scored_at": "2026-08-18T19:48:15.428916Z"
     }
   }
 }

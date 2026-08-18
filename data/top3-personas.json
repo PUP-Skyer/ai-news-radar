@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T19:07:15.722321Z",
+  "generated_at": "2026-08-18T19:48:18.400007Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_cd7a1ff75de2",
+      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
+      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "多向量终于进官方库，但ColBERT早有了，这波算补课不算创新。"
+        },
+        "paper-police": {
+          "score": 72,
+          "review": "官方博客有细节无代码，等开源和复现再提分。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "多向量检索今天就能上手，RAG 精度提升直接换库用。"
+        }
+      }
+    },
+    {
       "story_id": "story_04675208260d",
       "title": "Claude Code 2026年5-8月每周限额推广 / Claude Code May–August 2026 weekly limits promotion",
       "url": "https://news.ycombinator.com/item?id=49348751",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 35,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_77f8f8705916",
-      "title": "你的Agent到底需要多少内存？ / How Much Memory Does Your Agent Actually Need?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "标题问得实在，但答案藏在自家模型里，水分得自己挤。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "博客给了细节和数字，但无论文无代码，等第三方验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "IBM 开源 HMM 方案，Agent 内存选型有参考，做长上下文可试。"
-        }
-      }
-    },
-    {
-      "story_id": "story_cd7a1ff75de2",
-      "title": "Multi-Vector（晚期交互）Embedding 模型与 Sentence Transformers 的结合使用 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "story_id": "story_5646c2e72f66",
+      "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 82,
-          "review": "晚期交互不是新词，但教程把实现细节讲透了，省得自己踩坑。"
+          "score": 72,
+          "review": "顺序优化能提33%？先晒出对比基线和复现脚本，别只给个标题党。"
         },
         "paper-police": {
           "score": 45,
-          "review": "博客给了用法和细节，但无论文无代码链接，等独立验证。"
+          "review": "博客给了数字但无代码无复现，等第三方验证再定论。"
         },
         "pragmatic": {
           "score": 72,
-          "review": "多向量嵌入能提升检索精度，但需重写索引，短期别急着换。"
+          "review": "调度顺序优化能提33%利用率，跑GPU集群的可以看下这篇实操。"
         }
       }
     }
