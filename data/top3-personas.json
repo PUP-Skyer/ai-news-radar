@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T17:00:03.884500Z",
+  "generated_at": "2026-08-18T17:53:13.111511Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_13ad5c9c5494",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://cursor.com/changelog/origin-code-hosting",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "GitHub 替代？先把迁移工具和 CI 兼容性做出来再喊话。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方博客宣称推出托管服务，无论文无代码无第三方评测，等实际体验再评。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "多一个托管选择，迁移成本不低，等生态成熟再动。"
-        }
-      }
-    },
-    {
       "story_id": "story_5646c2e72f66",
       "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "调度顺序优化能提33%利用率，跑GPU集群的可以看下这篇实操。"
+        }
+      }
+    },
+    {
+      "story_id": "story_654c10ffc24b",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
+      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 55,
+          "review": "零信任是安全术语，不是AI新衣，别拿概念包装旧框架。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节但无代码无评测，零信任方案待验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "ADK 出零信任方案，做企业级 Agent 的可以抄配置，今天能试。"
         }
       }
     }
