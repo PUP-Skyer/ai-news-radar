@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:46:44.806070Z",
+  "generated_at": "2026-08-18T22:50:26.265781Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,42 +37,42 @@
       }
     },
     {
-      "story_id": "story_04675208260d",
-      "title": "Claude Code 2026年5-8月每周限额推广 / Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://news.ycombinator.com/item?id=49348751",
+      "story_id": "story_02cf85db407e",
+      "title": "Codex CLI 0.148.0",
+      "url": "https://developers.openai.com/codex/changelog",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 35,
-          "review": "每周限额推广？先把上个月的宕机账单结了吧。"
+          "score": 70,
+          "review": "版本号刷得勤，但更新日志里没提硬指标，先看看实际效果再吹。"
         },
         "paper-police": {
-          "score": 25,
-          "review": "官方公告提限额，无技术细节无评测，仅营销信息，证据薄弱。"
+          "score": 30,
+          "review": "仅官方更新日志，无论文代码评测，性能提升无从验证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "限额调整直接影响日常用量，批量任务今天就能按新额度排活。"
+          "review": "Codex CLI 更新，命令行工具直接可用，今天就能升级试新功能。"
         }
       }
     },
     {
-      "story_id": "story_654c10ffc24b",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体 / Build zero-trust AI agents with Google's Agent Development Kit",
-      "url": "https://developers.googleblog.com/build-zero-trust-ai-agents-with-googles-agent-development-kit",
+      "story_id": "story_7b5d73500e30",
+      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
+      "url": "https://www.modular.com/blog/mojo-open-source",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 55,
-          "review": "零信任是安全术语，不是AI新衣，别拿概念包装旧框架。"
+          "score": 72,
+          "review": "开源是好事，但先跑通生态再说，别又是个自嗨的玩具。"
         },
         "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无代码无评测，零信任方案待验证。"
+          "score": 20,
+          "review": "仅官方博客宣称开源，无代码仓库链接，无法验证真伪。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "ADK 出零信任方案，做企业级 Agent 的可以抄配置，今天能试。"
+          "score": 85,
+          "review": "编译器开源可clone，想试新语言性能的今天就能上手。"
         }
       }
     }

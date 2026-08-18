@@ -1,66 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_bc76c2ce852e|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。",
-      "title_hash": "ec787144",
-      "scored_at": "2026-07-28T22:24:20.181259Z"
-    },
-    "story_390b0667fe65|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "CEO发帖说透明，但没给技术细节或工具，对开发者没用。",
-      "title_hash": "c5f66cb4",
-      "scored_at": "2026-07-28T22:24:21.244788Z"
-    },
-    "story_877f0f256fb6|pragmatic|0a5c5b24": {
-      "score": 88,
-      "review": "转录API已上线，低延迟和低成本两个选择，语音应用今天就能集成。",
-      "title_hash": "0d5fbb67",
-      "scored_at": "2026-07-28T22:24:22.414637Z"
-    },
-    "story_b4bc426f8eb1|pragmatic|0a5c5b24": {
-      "score": 35,
-      "review": "新公司刚宣布，没产品没API，等能上手再关注。",
-      "title_hash": "938720d0",
-      "scored_at": "2026-07-28T22:24:23.642806Z"
-    },
-    "story_5f39e18da221|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "标题党，没有可复现的技术细节，对开发无实际影响。",
-      "title_hash": "7c80c10e",
-      "scored_at": "2026-07-28T22:24:24.856595Z"
-    },
-    "story_91ce9044f408|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "愿景呼吁不写代码，等有具体政策或产品再看。",
-      "title_hash": "32c81dbc",
-      "scored_at": "2026-07-28T22:24:25.893103Z"
-    },
-    "story_bc76c2ce852e|cynic|f4237a62": {
-      "score": 75,
-      "review": "Copilot里塞个新模型，但没说比4.0强在哪，先观望下评测。",
-      "title_hash": "ec787144",
-      "scored_at": "2026-07-28T22:24:27.149780Z"
-    },
-    "story_bc76c2ce852e|paper-police|966065bf": {
-      "score": 30,
-      "review": "只有官方博客宣称上线，无论文无代码无评测，无法验证性能。",
-      "title_hash": "ec787144",
-      "scored_at": "2026-07-28T22:24:28.278460Z"
-    },
-    "story_877f0f256fb6|cynic|f4237a62": {
-      "score": 72,
-      "review": "低延迟转录是刚需，但没说比 Whisper 强多少，先跑个盲测再说。",
-      "title_hash": "0d5fbb67",
-      "scored_at": "2026-07-28T22:24:29.370360Z"
-    },
-    "story_877f0f256fb6|paper-police|966065bf": {
-      "score": 5,
-      "review": "只有推文宣称，无论文无代码无评测，无法验证。",
-      "title_hash": "0d5fbb67",
-      "scored_at": "2026-07-28T22:24:30.418719Z"
-    },
     "story_d26d09267b84|pragmatic|0a5c5b24": {
       "score": 75,
       "review": "团队管理Copilot成本更方便了，聚合报表直接看，不用手动汇总。",
@@ -6168,6 +6108,54 @@
       "review": "官方推文宣称功能，无技术细节或演示，仅凭截图难证真伪。",
       "title_hash": "969cbfb6",
       "scored_at": "2026-08-18T20:47:40.110089Z"
+    },
+    "story_7de8d1dc0770|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "按令牌类型精准撤销，安全运维省事，API 用户今天就能用上。",
+      "title_hash": "d4b1c60e",
+      "scored_at": "2026-08-18T22:50:17.344556Z"
+    },
+    "story_02cf85db407e|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "Codex CLI 更新，命令行工具直接可用，今天就能升级试新功能。",
+      "title_hash": "7d97e62d",
+      "scored_at": "2026-08-18T22:50:18.428172Z"
+    },
+    "story_7b5d73500e30|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "编译器开源可clone，想试新语言性能的今天就能上手。",
+      "title_hash": "9549aa07",
+      "scored_at": "2026-08-18T22:50:19.677749Z"
+    },
+    "story_e8202dde9923|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "案例展示，无新工具或API，对日常开发帮助有限。",
+      "title_hash": "588ceeaa",
+      "scored_at": "2026-08-18T22:50:20.949391Z"
+    },
+    "story_02cf85db407e|cynic|f4237a62": {
+      "score": 70,
+      "review": "版本号刷得勤，但更新日志里没提硬指标，先看看实际效果再吹。",
+      "title_hash": "7d97e62d",
+      "scored_at": "2026-08-18T22:50:22.359639Z"
+    },
+    "story_02cf85db407e|paper-police|966065bf": {
+      "score": 30,
+      "review": "仅官方更新日志，无论文代码评测，性能提升无从验证。",
+      "title_hash": "7d97e62d",
+      "scored_at": "2026-08-18T22:50:23.836493Z"
+    },
+    "story_7b5d73500e30|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源是好事，但先跑通生态再说，别又是个自嗨的玩具。",
+      "title_hash": "9549aa07",
+      "scored_at": "2026-08-18T22:50:25.044439Z"
+    },
+    "story_7b5d73500e30|paper-police|966065bf": {
+      "score": 20,
+      "review": "仅官方博客宣称开源，无代码仓库链接，无法验证真伪。",
+      "title_hash": "9549aa07",
+      "scored_at": "2026-08-18T22:50:26.265727Z"
     }
   }
 }
