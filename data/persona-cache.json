@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d930809ff7d5|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CI/CD安全增强，防供应链攻击，建议检查现有workflow是否受影响。",
-      "title_hash": "efdfea53",
-      "scored_at": "2026-07-28T20:42:43.117029Z"
-    },
-    "story_a74dd2b06ea3|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "新闻稿性质，未公开漏洞细节或工具，暂时无法复现或利用。",
-      "title_hash": "7a860c45",
-      "scored_at": "2026-07-28T20:42:44.363059Z"
-    },
-    "story_98693ee77dfa|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "大老板说漂亮话，不写代码也不降价，等真减速了再说。",
-      "title_hash": "78e8321b",
-      "scored_at": "2026-07-28T20:42:45.483793Z"
-    },
-    "story_dab11bf31a39|cynic|f4237a62": {
-      "score": 72,
-      "review": "覆盖多了几个生态就叫警报升级？先看看漏报率再说。",
-      "title_hash": "e94f1aaa",
-      "scored_at": "2026-07-28T20:42:46.575440Z"
-    },
-    "story_dab11bf31a39|paper-police|966065bf": {
-      "score": 0,
-      "review": "只有官方博客宣称，无论文无代码无评测，无法验证。",
-      "title_hash": "e94f1aaa",
-      "scored_at": "2026-07-28T20:42:47.550906Z"
-    },
     "story_bc76c2ce852e|pragmatic|0a5c5b24": {
       "score": 88,
       "review": "IDE里直接换模型，写代码时能选Grok 4.5了，今天就能试。",
@@ -6168,6 +6138,36 @@
       "review": "Anthropic 用自家模型做 CI/CD 值班，思路可抄，但无具体方案，等开源或细节。",
       "title_hash": "652916cd",
       "scored_at": "2026-08-18T19:48:15.428916Z"
+    },
+    "story_17c97873294f|pragmatic|0a5c5b24": {
+      "score": 20,
+      "review": "政策表态不写代码，等具体执行细节出来再看。",
+      "title_hash": "f8bc970b",
+      "scored_at": "2026-08-18T20:47:35.423258Z"
+    },
+    "story_5a9ad877cc94|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "能直接连 Gmail 和 Drive 干活，日常办公自动化今天就能试，但注意权限别给太宽。",
+      "title_hash": "969cbfb6",
+      "scored_at": "2026-08-18T20:47:36.584354Z"
+    },
+    "story_14fdaae3bf7f|pragmatic|0a5c5b24": {
+      "score": 15,
+      "review": "主权基金收购AI公司是宏观口水，不写代码，等真交易再说。",
+      "title_hash": "e3715ac5",
+      "scored_at": "2026-08-18T20:47:37.875679Z"
+    },
+    "story_5a9ad877cc94|cynic|f4237a62": {
+      "score": 72,
+      "review": "接个邮件和网盘就喊新功能，Anthropic 的 PR 越来越像在凑数。",
+      "title_hash": "969cbfb6",
+      "scored_at": "2026-08-18T20:47:39.066837Z"
+    },
+    "story_5a9ad877cc94|paper-police|966065bf": {
+      "score": 15,
+      "review": "官方推文宣称功能，无技术细节或演示，仅凭截图难证真伪。",
+      "title_hash": "969cbfb6",
+      "scored_at": "2026-08-18T20:47:40.110089Z"
     }
   }
 }
