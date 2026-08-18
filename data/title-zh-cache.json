@@ -39289,5 +39289,11 @@
   "re1|d25e62654cc454ab800d6410003df37a17193bdf": "MultiVectorEncoder 让 ColBERT 风格的多向量模型接入 Sentence Transformers v6.0，每个 token 保留 128 维向量并用 MaxSim 打分，直读 PyLate、Stanford-NLP 及 colpali-engine 检查点。",
   "re1|698485f8162bd733455c163485fdfd6d608b0442": "Warp于周二推出了Warp Factories，一套全新的开箱即用基础设施系统，量身打造让搭建AI软件工厂尽可能简单的体验。",
   "re1|35dcee37a3540dad8715e6396e2183f6d4ccecc3": "",
-  "re1|511e59c23985035999ce530e63ee35f23d5e37ef": "AI生成的GitHub Copilot Autofix让Snowflake的Jira工作流暴露模板注入风险，zizmor指其if条件因github.event.pull_request恒为null而失效，所有GitHub用户均能绕过防护。"
+  "re1|511e59c23985035999ce530e63ee35f23d5e37ef": "AI生成的GitHub Copilot Autofix让Snowflake的Jira工作流暴露模板注入风险，zizmor指其if条件因github.event.pull_request恒为null而失效，所有GitHub用户均能绕过防护。",
+  "ds1|What We Learned Moving Our Agent Loops from Anthropic to GLM": "将Agent循环从Anthropic迁移到GLM，我们学到了什么",
+  "ds1|Aivory AI": "Aivory AI 发布 AI 写作助手，支持 Markdown 与 LaTeX",
+  "ds1|@TomasReimers @cursor_ai is live! https://t.co/hkyT5adhBO": "@TomasReimers @cursor_ai 正式上线了！https://t.co/hkyT5adhBO",
+  "re1|0d0b9c47306eeac2efa7b465d3a0d63a710e2027": "从Claude Opus迁移到GLM 5.2，每token定价看似节省95%，实际生产仅68%；GLM每任务消耗更多token，最终账单改善只有3.1倍。这篇复盘讲透了真实差距。",
+  "re1|826142a8b25877577e429cd293f8a13353eb05b8": "",
+  "re1|2dadd0f9ce749300591d490994ef2ca487859557": ""
 }
