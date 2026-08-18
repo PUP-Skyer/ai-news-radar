@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:11:34.528309Z",
+  "generated_at": "2026-08-18T09:06:42.915371Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_525b36aafcb4",
-      "title": "半价！OpenRouter 下调 OpenAI 最强模型 GPT-5.6 Sol 调用费",
-      "url": "https://www.aibase.com/news/30435",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 55,
-          "review": "降价是好事，但'最强'这词跟大甩卖放一起，显得底气不足。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "仅官方调价消息，无论文无代码无评测，价格变动不构成技术证据。"
-        },
-        "pragmatic": {
-          "score": 90,
-          "review": "直接省一半账单，跑批量任务的今天就能换。"
-        }
-      }
-    },
-    {
       "story_id": "story_13ad5c9c5494",
       "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
       "url": "https://cursor.com/changelog/origin-code-hosting",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 55,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "多一个托管选择，迁移成本不低，等生态成熟再动。"
+        }
+      }
+    },
+    {
+      "story_id": "story_5646c2e72f66",
+      "title": "同一集群，利用率提升33个百分点：变化的是顺序 / Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "顺序优化能提33%？先晒出对比基线和复现脚本，别只给个标题党。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了数字但无代码无复现，等第三方验证再定论。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "调度顺序优化能提33%利用率，跑GPU集群的可以看下这篇实操。"
         }
       }
     }
