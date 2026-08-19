@@ -6320,10 +6320,34 @@
       "scored_at": "2026-08-19T13:18:12.012314Z"
     },
     "story_be580d9263f2|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "量化检查点直接可用，内存减半精度损失小，部署推理今天就能换。",
+      "title_hash": "6b6ba3f7",
+      "scored_at": "2026-08-19T15:01:42.369356Z"
+    },
+    "story_fe9df585279b|pragmatic|0a5c5b24": {
       "score": 72,
-      "review": "量化检查点可直接下载用，本地部署省显存，但需实测精度损失。",
-      "title_hash": "9aa87ef3",
-      "scored_at": "2026-08-19T14:04:42.734801Z"
+      "review": "Replit 集成新模型降低门槛，做 AI 应用的可以试试，但别急着改架构。",
+      "title_hash": "82941747",
+      "scored_at": "2026-08-19T15:01:43.561632Z"
+    },
+    "story_ea98d8ec85c1|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "可视化工具能加速理解模型结构，调试和教学可直接用。",
+      "title_hash": "8b1bea0e",
+      "scored_at": "2026-08-19T15:01:45.034649Z"
+    },
+    "story_be580d9263f2|cynic|f4237a62": {
+      "score": 72,
+      "review": "量化恢复97%精度听着不错，但基线选得巧，真实场景损耗还得看实测。",
+      "title_hash": "6b6ba3f7",
+      "scored_at": "2026-08-19T15:01:46.199041Z"
+    },
+    "story_be580d9263f2|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客给了量化恢复数字，但无论文无代码，等独立复现再定。",
+      "title_hash": "6b6ba3f7",
+      "scored_at": "2026-08-19T15:01:47.381409Z"
     }
   }
 }

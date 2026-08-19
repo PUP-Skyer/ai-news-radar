@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T14:04:42.735034Z",
+  "generated_at": "2026-08-19T15:01:47.381494Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_be580d9263f2",
+      "title": "Liquid AI 发布 LFM2.5 系列 QAD Q4_0 量化检查点，恢复 97% 精度损失 / LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "量化恢复97%精度听着不错，但基线选得巧，真实场景损耗还得看实测。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客给了量化恢复数字，但无论文无代码，等独立复现再定。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "量化检查点直接可用，内存减半精度损失小，部署推理今天就能换。"
+        }
+      }
+    },
+    {
       "story_id": "story_eadd8d231bf2",
       "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
       "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -40,7 +60,7 @@
       "story_id": "story_7b5d73500e30",
       "title": "Mojo 语言正式开源，编译器与工具链全面开放",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "编译器开源可clone，想试新语言性能的今天就能上手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_04675208260d",
-      "title": "Claude Code 2026年5-8月每周限额推广 / Claude Code May–August 2026 weekly limits promotion",
-      "url": "https://news.ycombinator.com/item?id=49348751",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 35,
-          "review": "每周限额推广？先把上个月的宕机账单结了吧。"
-        },
-        "paper-police": {
-          "score": 25,
-          "review": "官方公告提限额，无技术细节无评测，仅营销信息，证据薄弱。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "限额调整直接影响日常用量，批量任务今天就能按新额度排活。"
         }
       }
     }
