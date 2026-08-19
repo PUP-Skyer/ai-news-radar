@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_aa4a42f08412|pragmatic|0a5c5b24": {
-      "score": 90,
-      "review": "新模型已发布，API可用，直接测试替换旧模型看效果。",
-      "title_hash": "55666d86",
-      "scored_at": "2026-07-29T21:22:12.338746Z"
-    },
-    "story_714eae7f3642|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "愿景宣言，没有可用的工具或API，等产品出来再说。",
-      "title_hash": "42a00fff",
-      "scored_at": "2026-07-29T21:22:13.741266Z"
-    },
-    "story_aa4a42f08412|cynic|f4237a62": {
-      "score": 75,
-      "review": "三个模型三个名字，但没说Sol比Terra贵多少，成本呢？",
-      "title_hash": "55666d86",
-      "scored_at": "2026-07-29T21:22:15.181831Z"
-    },
-    "story_aa4a42f08412|paper-police|966065bf": {
-      "score": 10,
-      "review": "只有官方博客宣称，无论文无代码无第三方评测，等证据。",
-      "title_hash": "55666d86",
-      "scored_at": "2026-07-29T21:22:16.477173Z"
-    },
     "story_407f953ae8e0|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "Agent技能和MCP正式版，今天就能集成到CI/CD流程里，提升代码审查效率。",
@@ -6270,6 +6246,36 @@
       "review": "谷歌搜索学习功能更新，对开发者无直接影响，可稍作了解。",
       "title_hash": "e7f19cd2",
       "scored_at": "2026-08-19T19:50:15.826838Z"
+    },
+    "story_5eb7373b87f5|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "API 数据合规选项落地，做企业级应用的可评估接入。",
+      "title_hash": "282aeed3",
+      "scored_at": "2026-08-19T21:47:39.430970Z"
+    },
+    "story_c2a932b4c177|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "CodeQL 更新对用 GitHub Actions 做 JS 安全扫描的团队有用，升级后查询更准。",
+      "title_hash": "da52a273",
+      "scored_at": "2026-08-19T21:47:40.650788Z"
+    },
+    "story_cf8446af2124|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Mac 本地跑视频生成，省云成本，但 480P 短片，先看效果再决定是否接入。",
+      "title_hash": "87409c65",
+      "scored_at": "2026-08-19T21:47:41.873128Z"
+    },
+    "story_5eb7373b87f5|cynic|f4237a62": {
+      "score": 72,
+      "review": "零保留是好事，但别急着夸，先看看API条款里藏着多少例外。",
+      "title_hash": "282aeed3",
+      "scored_at": "2026-08-19T21:47:43.145110Z"
+    },
+    "story_5eb7373b87f5|paper-police|966065bf": {
+      "score": 20,
+      "review": "官方公告无技术细节，零保留如何实现未说明，缺论文代码验证。",
+      "title_hash": "282aeed3",
+      "scored_at": "2026-08-19T21:47:44.400830Z"
     }
   }
 }

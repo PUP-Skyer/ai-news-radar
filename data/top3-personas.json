@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T20:50:38.464378Z",
+  "generated_at": "2026-08-19T21:47:44.400890Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_7b5d73500e30",
-      "title": "Mojo 语言正式开源，编译器与工具链全面开放",
-      "url": "https://www.modular.com/blog/mojo-open-source",
+      "story_id": "story_5eb7373b87f5",
+      "title": "为前沿模型提供零数据保留（Zero Data Retention） / Offering Zero Data Retention for frontier models",
+      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "开源是好事，但先跑通生态再说，别又是个自嗨的玩具。"
+          "review": "零保留是好事，但别急着夸，先看看API条款里藏着多少例外。"
         },
         "paper-police": {
           "score": 20,
-          "review": "仅官方博客宣称开源，无代码仓库链接，无法验证真伪。"
+          "review": "官方公告无技术细节，零保留如何实现未说明，缺论文代码验证。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "编译器开源可clone，想试新语言性能的今天就能上手。"
+          "score": 72,
+          "review": "API 数据合规选项落地，做企业级应用的可评估接入。"
         }
       }
     }
