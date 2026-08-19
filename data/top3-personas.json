@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T10:53:48.341735Z",
+  "generated_at": "2026-08-19T11:48:00.298137Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_7de8d1dc0770",
-      "title": "按令牌类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "story_id": "story_04675208260d",
+      "title": "Claude Code 2026年5-8月每周限额推广 / Claude Code May–August 2026 weekly limits promotion",
+      "url": "https://news.ycombinator.com/item?id=49348751",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "按令牌类型撤销是刚需，但GitHub这波只是补了该有的功能，别吹成安全革命。"
+          "score": 35,
+          "review": "每周限额推广？先把上个月的宕机账单结了吧。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节与验证，仅凭公告难断实效。"
+          "score": 25,
+          "review": "官方公告提限额，无技术细节无评测，仅营销信息，证据薄弱。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "按令牌类型精准撤销，安全运维省事，API 用户今天就能用上。"
+          "score": 85,
+          "review": "限额调整直接影响日常用量，批量任务今天就能按新额度排活。"
         }
       }
     }
