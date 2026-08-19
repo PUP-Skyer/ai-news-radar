@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T02:00:43.634100Z",
+  "generated_at": "2026-08-19T03:17:22.356563Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_34ed06650578",
+      "title": "智谱 GLM-5.3 API 重磅上线：AA指数斩获 60 分并列开源第一，权重将于下周五开源",
+      "url": "https://www.aibase.com/news/30454",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "并列开源第一？等权重真开源了再吹，别又是个PPT。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "API上线有官方宣称，但权重未开源，AA指数无第三方验证，等下周开源再评。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "API已上线能直接调，权重下周开源可自部署，跑分并列开源第一，今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_7b5d73500e30",
       "title": "Mojo 语言正式开源，编译器与工具链全面开放",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 85,
           "review": "编译器开源可clone，想试新语言性能的今天就能上手。"
-        }
-      }
-    },
-    {
-      "story_id": "story_7de8d1dc0770",
-      "title": "按令牌类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
-      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "按令牌类型撤销是刚需，但GitHub这波只是补了该有的功能，别吹成安全革命。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节与验证，仅凭公告难断实效。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "按令牌类型精准撤销，安全运维省事，API 用户今天就能用上。"
         }
       }
     }
