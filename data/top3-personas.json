@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T07:10:30.284968Z",
+  "generated_at": "2026-08-19T08:01:30.344704Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_b12c78ecfeef",
-      "title": "Modular 官宣 Mojo 语言正式全面开源，拥抱 Apache 2.0 许可协议",
-      "url": "https://www.aibase.com/news/30463",
+      "story_id": "story_7de8d1dc0770",
+      "title": "按令牌类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 82,
-          "review": "开源是好事，但Apache 2.0下生态能否起来，还得看后续。"
+          "score": 72,
+          "review": "按令牌类型撤销是刚需，但GitHub这波只是补了该有的功能，别吹成安全革命。"
         },
         "paper-police": {
-          "score": 92,
-          "review": "开源协议明确，代码可查，但缺独立评测，跑一遍便知真假。"
+          "score": 30,
+          "review": "官方更新但无技术细节与验证，仅凭公告难断实效。"
         },
         "pragmatic": {
-          "score": 82,
-          "review": "Mojo 开源 Apache 2.0，能直接 clone 试玩，搞 AI 加速的今天就能上手。"
+          "score": 72,
+          "review": "按令牌类型精准撤销，安全运维省事，API 用户今天就能用上。"
         }
       }
     }
