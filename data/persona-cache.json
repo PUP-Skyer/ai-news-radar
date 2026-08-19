@@ -1,24 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_d26d09267b84|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "团队管理Copilot成本更方便了，聚合报表直接看，不用手动汇总。",
-      "title_hash": "ab96ea48",
-      "scored_at": "2026-07-29T00:17:49.308355Z"
-    },
-    "story_0225f52e421b|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "npm 发布时自动扫恶意软件，省去手动安全审查，直接提升包安全性。",
-      "title_hash": "a61826a9",
-      "scored_at": "2026-07-29T00:17:50.500585Z"
-    },
-    "story_3a40efc29328|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "安全工具链开源，CI/CD集成可用，但需评估是否适配现有流程。",
-      "title_hash": "2c353006",
-      "scored_at": "2026-07-29T00:17:51.502475Z"
-    },
     "story_662891d3b0ba|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "新版本已发布，直接升级体验，修复了关键bug，提升编码效率。",
@@ -6162,6 +6144,78 @@
       "review": "企业案例，无新工具或API，对个人开发者参考价值有限。",
       "title_hash": "a1203798",
       "scored_at": "2026-08-18T23:45:32.061590Z"
+    },
+    "story_57fc147b8fa7|pragmatic|0a5c5b24": {
+      "score": 70,
+      "review": "企业管控Copilot配置，合规团队省事，个人开发者影响不大。",
+      "title_hash": "e132163a",
+      "scored_at": "2026-08-19T02:00:02.446070Z"
+    },
+    "story_eadd8d231bf2|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "开源第一且成本更低，今天就能换，跑推理的直接省。",
+      "title_hash": "d97983f6",
+      "scored_at": "2026-08-19T02:00:04.106758Z"
+    },
+    "story_85c60887e099|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "修漏洞是常规操作，AI深度介入没细节，等具体功能再说。",
+      "title_hash": "c013e3a4",
+      "scored_at": "2026-08-19T02:00:23.068365Z"
+    },
+    "story_fa9390c8de81|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "新平台没细节，迁移成本高，等API和定价出来再评估。",
+      "title_hash": "caa1a039",
+      "scored_at": "2026-08-19T02:00:24.781402Z"
+    },
+    "story_8fca6b8ea403|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全流程调整影响后续API审核，但今天不阻塞开发，先观望。",
+      "title_hash": "8d308b8a",
+      "scored_at": "2026-08-19T02:00:26.369837Z"
+    },
+    "story_05c824816201|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "面向青少年的产品调整，对开发者无直接影响，可留意后续API限制变化。",
+      "title_hash": "c8f1a32f",
+      "scored_at": "2026-08-19T02:00:28.073984Z"
+    },
+    "story_39c8e5998438|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "安全事件提醒你锁好API密钥，但训练暂停不影响你调模型。",
+      "title_hash": "e66970dc",
+      "scored_at": "2026-08-19T02:00:29.827558Z"
+    },
+    "story_75da83f04ae8|pragmatic|0a5c5b24": {
+      "score": 62,
+      "review": "水印可被绕过，但合规场景仍需关注，开发者可评估集成成本。",
+      "title_hash": "e9b8362c",
+      "scored_at": "2026-08-19T02:00:36.662824Z"
+    },
+    "story_eadd8d231bf2|cynic|f4237a62": {
+      "score": 72,
+      "review": "开源第一？先晒出完整评测集和复现步骤，别只给个自封的指数。",
+      "title_hash": "d97983f6",
+      "scored_at": "2026-08-19T02:00:38.583398Z"
+    },
+    "story_eadd8d231bf2|paper-police|966065bf": {
+      "score": 35,
+      "review": "官方公众号宣称性能并列第一，无论文无代码无第三方评测，成本数据待验证。",
+      "title_hash": "d97983f6",
+      "scored_at": "2026-08-19T02:00:40.135495Z"
+    },
+    "story_7de8d1dc0770|cynic|f4237a62": {
+      "score": 72,
+      "review": "按令牌类型撤销是刚需，但GitHub这波只是补了该有的功能，别吹成安全革命。",
+      "title_hash": "d4b1c60e",
+      "scored_at": "2026-08-19T02:00:41.783340Z"
+    },
+    "story_7de8d1dc0770|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方更新但无技术细节与验证，仅凭公告难断实效。",
+      "title_hash": "d4b1c60e",
+      "scored_at": "2026-08-19T02:00:43.634045Z"
     }
   }
 }

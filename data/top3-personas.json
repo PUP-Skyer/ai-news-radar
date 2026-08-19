@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T23:45:32.061712Z",
+  "generated_at": "2026-08-19T02:00:43.634100Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,42 +17,22 @@
   ],
   "items": [
     {
-      "story_id": "story_cd7a1ff75de2",
-      "title": "Sentence Transformers v6.0 新增 MultiVectorEncoder，支持 ColBERT 风格多向量模型 / Multi-Vector (Late Interaction) Embedding Models with Sentence Transformers",
-      "url": "https://huggingface.co/blog/multi-vector-encoder",
+      "story_id": "story_eadd8d231bf2",
+      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 82,
-          "review": "多向量终于进官方库，但ColBERT早有了，这波算补课不算创新。"
-        },
-        "paper-police": {
           "score": 72,
-          "review": "官方博客有细节无代码，等开源和复现再提分。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "多向量检索今天就能上手，RAG 精度提升直接换库用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_02cf85db407e",
-      "title": "Codex CLI 0.148.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "版本号刷得勤，但更新日志里没提硬指标，先看看实际效果再吹。"
+          "review": "开源第一？先晒出完整评测集和复现步骤，别只给个自封的指数。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "仅官方更新日志，无论文代码评测，性能提升无从验证。"
+          "score": 35,
+          "review": "官方公众号宣称性能并列第一，无论文无代码无第三方评测，成本数据待验证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "Codex CLI 更新，命令行工具直接可用，今天就能升级试新功能。"
+          "review": "开源第一且成本更低，今天就能换，跑推理的直接省。"
         }
       }
     },
@@ -60,7 +40,7 @@
       "story_id": "story_7b5d73500e30",
       "title": "Mojo 语言正式开源，编译器与工具链全面开放",
       "url": "https://www.modular.com/blog/mojo-open-source",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 85,
           "review": "编译器开源可clone，想试新语言性能的今天就能上手。"
+        }
+      }
+    },
+    {
+      "story_id": "story_7de8d1dc0770",
+      "title": "按令牌类型撤销凭据和取消授权 / Credential revocation and deauthorization by token type",
+      "url": "https://github.blog/changelog/2026-08-18-credential-revocation-and-deauthorization-by-token-type",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "按令牌类型撤销是刚需，但GitHub这波只是补了该有的功能，别吹成安全革命。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方更新但无技术细节与验证，仅凭公告难断实效。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "按令牌类型精准撤销，安全运维省事，API 用户今天就能用上。"
         }
       }
     }
