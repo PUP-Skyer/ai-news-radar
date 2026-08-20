@@ -1,30 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_cd0c62bd1478|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "如果你依赖GitHub Models做推理，得立刻迁移到其他API或自建，否则服务中断。",
-      "title_hash": "fd41c296",
-      "scored_at": "2026-07-30T20:44:45.001750Z"
-    },
-    "story_6613dc91bfab|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "法律纠纷与开发无关，等有实际限制再关心。",
-      "title_hash": "8c09269b",
-      "scored_at": "2026-07-30T20:44:46.260964Z"
-    },
-    "story_a63efd000889|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "Chrome自动浏览集成，做自动化测试或爬虫的可以关注API是否开放。",
-      "title_hash": "f78108ee",
-      "scored_at": "2026-07-30T20:44:47.423841Z"
-    },
-    "story_4500861bbc86|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "Google Earth加个图像生成功能，听着酷但暂时没API，等开放了再说。",
-      "title_hash": "114556de",
-      "scored_at": "2026-07-30T20:44:48.566806Z"
-    },
     "story_6f833287598b|pragmatic|0a5c5b24": {
       "score": 65,
       "review": "Codex更新了浏览器和多仓库功能，做Agent的可以试试新能力。",
@@ -6342,6 +6318,24 @@
       "review": "官方公告明确可用，但缺镜像细节和验证，需实际测试确认。",
       "title_hash": "f5f32181",
       "scored_at": "2026-08-20T19:53:06.624722Z"
+    },
+    "story_997206e2df36|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "API 已开放，浏览器操作和文件处理今天就能接，适合做自动化 agent 的团队直接试。",
+      "title_hash": "23ac0a75",
+      "scored_at": "2026-08-20T20:52:12.985199Z"
+    },
+    "story_997206e2df36|cynic|f4237a62": {
+      "score": 72,
+      "review": "API 齐全但浏览器操作 demo 条件苛刻，水分挤掉还剩点干货。",
+      "title_hash": "23ac0a75",
+      "scored_at": "2026-08-20T20:52:14.094918Z"
+    },
+    "story_997206e2df36|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客有细节数字，但无论文无开源，需第三方验证。",
+      "title_hash": "23ac0a75",
+      "scored_at": "2026-08-20T20:52:15.109949Z"
     }
   }
 }
