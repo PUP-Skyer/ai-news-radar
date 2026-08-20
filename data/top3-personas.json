@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:52:24.546568Z",
+  "generated_at": "2026-08-20T22:51:53.869125Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_56e8099b2502",
+      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+      "url": "https://www.aibase.com/news/30504",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "1-bit 量化跑得动不假，但'更聪明'是拿什么基准测的？内存省了，精度损失只字不提。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方点赞无论文无代码，8GB跑1-bit版是宣传还是实测？缺证据。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_dddc776b066d",
       "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "官方更新直接看 changelog，API 变动影响现有集成，今天就得查。"
-        }
-      }
-    },
-    {
-      "story_id": "story_997206e2df36",
-      "title": "Claude Platform 正式上线 Computer Use、Skills API 与 Files API，新增浏览器操作工具 / Build production agents with computer use， the Skills API， and the Files API",
-      "url": "https://claude.com/blog/computer-use-skills-api-files-api",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "API 齐全但浏览器操作 demo 条件苛刻，水分挤掉还剩点干货。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节数字，但无论文无开源，需第三方验证。"
-        },
-        "pragmatic": {
-          "score": 82,
-          "review": "API 已开放，浏览器操作和文件处理今天就能接，适合做自动化 agent 的团队直接试。"
         }
       }
     }
