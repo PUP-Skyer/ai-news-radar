@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T16:59:19.981060Z",
+  "generated_at": "2026-08-20T17:52:06.427206Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,22 +17,42 @@
   ],
   "items": [
     {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
+      "story_id": "story_666a236350be",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
       "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "1-bit 量化跑得动不假，但'更聪明'是拿什么基准测的？内存省了，精度损失只字不提。"
+          "review": "提速数字好看，但草稿模型得看配合主模型的端到端收益，单测生成速度是耍流氓。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方点赞无论文无代码，8GB跑1-bit版是宣传还是实测？缺证据。"
+          "score": 45,
+          "review": "官方博客给了数字但无代码无复现，等第三方验证再定论。"
+        },
+        "pragmatic": {
+          "score": 88,
+          "review": "草稿模型提速3倍，推理成本直接降，能上生产环境的今天就能试。"
+        }
+      }
+    },
+    {
+      "story_id": "story_dddc776b066d",
+      "title": "Codex and ChatGPT updates",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "更新日志没细看，但官方渠道总比营销稿强，先扣水分再谈。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方更新日志无论文无代码无基准，仅宣称改进，缺独立验证。"
         },
         "pragmatic": {
           "score": 85,
-          "review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。"
+          "review": "Codex 更新直接影响开发流程，看 changelog 就能上手，值得今天试。"
         }
       }
     },
@@ -40,7 +60,7 @@
       "story_id": "story_185e96d8c2f8",
       "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
       "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 62,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "安全团队能更准确标记已处理告警，审计和误报管理省事，今天就能用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c5030fa07ae8",
-      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "路径拆分算实用，但别指望它解决代码质量问题本身。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方更新但无技术细节，未开源未复现，等文档和实测。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "CI 配置更灵活，代码质量检查可独立触发，省构建时间，今天就能改。"
         }
       }
     }

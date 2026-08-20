@@ -1,8 +1,93 @@
 {
-  "generated_at": "2026-08-20T16:52:47.532103Z",
+  "generated_at": "2026-08-20T17:47:40.261095Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_666a236350be",
+      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "summary": null,
+          "recommend_reason_zh": "Liquid AI发布DSpark草稿模型，为LFM2.5三款模型提速，约300M参数，最高3.2倍，其中2.6B在MacBook上延迟降57%，且输出质量不变。",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
+          "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+          "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "summary": null,
+          "recommend_reason_zh": "Liquid AI发布DSpark草稿模型，为LFM2.5三款模型提速，约300M参数，最高3.2倍，其中2.6B在MacBook上延迟降57%，且输出质量不变。",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T16:52:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9869,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T16:52:57Z",
+      "latest_at": "2026-08-20T16:52:57Z",
+      "primary_item": {
+        "id": "8a28e486c5c80d8b81f7ef6434b41bc0d3758f07",
+        "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "title_zh": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍",
+        "title_en": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "title_original": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+        "summary": null,
+        "recommend_reason_zh": "Liquid AI发布DSpark草稿模型，为LFM2.5三款模型提速，约300M参数，最高3.2倍，其中2.6B在MacBook上延迟降57%，且输出质量不变。",
+        "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 88,
+      "persona_review": "草稿模型提速3倍，推理成本直接降，能上生产环境的今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T17:51:59.748881Z"
+      }
+    },
     {
       "story_id": "story_185e96d8c2f8",
       "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
@@ -48,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8398,
-      "importance": 0.8398,
-      "importance_score": 0.8398,
+      "score": 0.8375,
+      "importance": 0.8375,
+      "importance_score": 0.8375,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9766,
+        "recency": 0.9638,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +170,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
+      }
+    },
+    {
+      "story_id": "story_dddc776b066d",
+      "title": "Codex and ChatGPT updates",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+          "title": "Codex and ChatGPT updates",
+          "title_zh": null,
+          "title_en": "Codex and ChatGPT updates",
+          "title_original": "Codex and ChatGPT updates",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
+          "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+          "title": "Codex and ChatGPT updates",
+          "title_zh": null,
+          "title_en": "Codex and ChatGPT updates",
+          "title_original": "Codex and ChatGPT updates",
+          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
+          "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.7734,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
+        "title": "Codex and ChatGPT updates",
+        "title_zh": null,
+        "title_en": "Codex and ChatGPT updates",
+        "title_original": "Codex and ChatGPT updates",
+        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
+        "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "Codex 更新直接影响开发流程，看 changelog 就能上手，值得今天试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -133,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8192,
+      "importance": 0.8192,
+      "importance_score": 0.8192,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7837,
+        "recency": 0.7734,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -218,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9661,
+        "recency": 0.9534,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -303,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.7994,
+      "importance": 0.7994,
+      "importance_score": 0.7994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.717,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -388,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7965,
+      "importance": 0.7965,
+      "importance_score": 0.7965,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9879,
+        "recency": 0.9749,
         "story_heat": 0.0
       },
       "category": "official",
@@ -424,7 +594,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -472,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7291,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,7 +679,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -557,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8356,
+      "importance": 0.8356,
+      "importance_score": 0.8356,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9659,
+        "recency": 0.9532,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,7 +764,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -642,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8032,
-      "importance": 0.8032,
-      "importance_score": 0.8032,
+      "score": 0.8015,
+      "importance": 0.8015,
+      "importance_score": 0.8015,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7291,
+        "recency": 0.7195,
         "story_heat": 0.0
       },
       "category": "official",
@@ -679,7 +849,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -727,15 +897,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7525,
-      "importance": 0.7525,
-      "importance_score": 0.7525,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9162,
+        "recency": 0.9042,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -763,7 +933,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -811,21 +981,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9023,
+        "recency": 0.8905,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T09:45:51Z",
       "latest_at": "2026-08-20T09:45:51Z",
@@ -847,7 +1016,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -924,15 +1093,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.7473,
+      "importance": 0.7473,
+      "importance_score": 0.7473,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7581,
+        "recency": 0.7482,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -960,7 +1129,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1008,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7443,
-      "importance": 0.7443,
-      "importance_score": 0.7443,
+      "score": 0.742,
+      "importance": 0.742,
+      "importance_score": 0.742,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9874,
+        "recency": 0.9744,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1043,7 +1212,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1091,15 +1260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7356,
+      "importance": 0.7356,
+      "importance_score": 0.7356,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9517,
+        "recency": 0.9392,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1126,7 +1295,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1174,21 +1343,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7502,
-      "importance": 0.7502,
-      "importance_score": 0.7502,
+      "score": 0.7481,
+      "importance": 0.7481,
+      "importance_score": 0.7481,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9036,
+        "recency": 0.8917,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T09:51:24.533220Z",
       "latest_at": "2026-08-20T09:51:24.533220Z",
@@ -1210,7 +1378,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1258,15 +1426,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
+      "score": 0.7976,
+      "importance": 0.7976,
+      "importance_score": 0.7976,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7522,
+        "recency": 0.7423,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1295,7 +1463,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1343,15 +1511,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.787,
+        "recency": 0.7766,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,7 +1546,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1426,15 +1594,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8921,
+        "recency": 0.8804,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1461,7 +1629,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     },
     {
@@ -1509,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8793,
+        "recency": 0.8678,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1544,173 +1712,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
-      }
-    },
-    {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": null,
-          "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:58:31.373564Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": null,
-          "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:58:31.373564Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7459,
-      "importance": 0.7459,
-      "importance_score": 0.7459,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8793,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:58:31.373564Z",
-      "latest_at": "2026-08-20T07:58:31.373564Z",
-      "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_en": null,
-        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "summary": null,
-        "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
-        "url": "https://www.aibase.com/news/30504",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
-      }
-    },
-    {
-      "story_id": "story_170c6e847b14",
-      "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-      "url": "https://www.aibase.com/news/30501",
-      "primary_url": "https://www.aibase.com/news/30501",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "summary": null,
-          "recommend_reason_zh": "IDC发布的中国生成式AI安全评估平台报告将蚂蚁数科列为领导者，肯定其在金融、医疗、制造行业的大规模落地，并应对大模型越狱、工具滥用及多智能体协同攻击等新风险。",
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:08:51.578315Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-          "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "title_en": null,
-          "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-          "summary": null,
-          "recommend_reason_zh": "IDC发布的中国生成式AI安全评估平台报告将蚂蚁数科列为领导者，肯定其在金融、医疗、制造行业的大规模落地，并应对大模型越狱、工具滥用及多智能体协同攻击等新风险。",
-          "url": "https://www.aibase.com/news/30501",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:08:51.578315Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.744,
-      "importance": 0.744,
-      "importance_score": 0.744,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8689,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:08:51.578315Z",
-      "latest_at": "2026-08-20T07:08:51.578315Z",
-      "primary_item": {
-        "id": "96aa49e9fd02ac9b861b8ff2b5a67fef1d4e94aa",
-        "title": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "title_zh": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "title_en": null,
-        "title_original": "IDC发布《中国生成式AI安全评估平台报告》，蚂蚁数科位居领导者",
-        "summary": null,
-        "recommend_reason_zh": "IDC发布的中国生成式AI安全评估平台报告将蚂蚁数科列为领导者，肯定其在金融、医疗、制造行业的大规模落地，并应对大模型越狱、工具滥用及多智能体协同攻击等新风险。",
-        "url": "https://www.aibase.com/news/30501",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "报告看看就行，选型还得自己测，别被厂商宣传带偏。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T16:59:17.450818Z"
+        "scored_at": "2026-08-20T17:51:59.748881Z"
       }
     }
   ]

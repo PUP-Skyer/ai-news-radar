@@ -1,72 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_308ff24165b2|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "视频理解+多机器人协作，适合做复杂任务编排的团队参考，但暂无开源或API。",
-      "title_hash": "2dd7d5a3",
-      "scored_at": "2026-07-30T17:01:54.996265Z"
-    },
-    "story_3119a40d1542|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "对运维团队有用，讲GPU闲置成本，可参考优化调度策略。",
-      "title_hash": "9e95f9b2",
-      "scored_at": "2026-07-30T17:01:56.538393Z"
-    },
-    "story_8adecfb05166|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "VS Copilot 七月更新已上线，今天就能体验新功能，提升编码效率。",
-      "title_hash": "6f864f1d",
-      "scored_at": "2026-07-30T17:01:57.938897Z"
-    },
-    "story_790c059d6976|pragmatic|0a5c5b24": {
-      "score": 85,
-      "review": "GitHub原生支持堆叠PR，大型PR拆解管理更高效，今天就能用。",
-      "title_hash": "9409bd81",
-      "scored_at": "2026-07-30T17:01:59.370275Z"
-    },
-    "story_69e76188d04a|pragmatic|0a5c5b24": {
-      "score": 40,
-      "review": "愿景视频，没开放API或代码，等能上手再关注。",
-      "title_hash": "2d69320e",
-      "scored_at": "2026-07-30T17:02:00.823855Z"
-    },
-    "story_82dd5606b7f5|pragmatic|0a5c5b24": {
-      "score": 65,
-      "review": "GitHub 新安全策略，管理设备才可远程控制，团队需调整权限配置。",
-      "title_hash": "adee8b2f",
-      "scored_at": "2026-07-30T17:02:02.272536Z"
-    },
-    "story_19ab0da6b30f|pragmatic|0a5c5b24": {
-      "score": 75,
-      "review": "SGLang上TPU，多一个硬件选择，但迁移成本未知，观望再动。",
-      "title_hash": "749e49c0",
-      "scored_at": "2026-07-30T17:02:03.837784Z"
-    },
-    "story_8adecfb05166|cynic|f4237a62": {
-      "score": 70,
-      "review": "Copilot每月刷存在感，但这次更新没提具体改进了啥，老用户自己翻changelog吧。",
-      "title_hash": "6f864f1d",
-      "scored_at": "2026-07-30T17:02:05.461032Z"
-    },
-    "story_8adecfb05166|paper-police|966065bf": {
-      "score": 25,
-      "review": "官方博客宣称更新，无论文无代码无评测，仅靠自述。",
-      "title_hash": "6f864f1d",
-      "scored_at": "2026-07-30T17:02:07.161806Z"
-    },
-    "story_790c059d6976|cynic|f4237a62": {
-      "score": 70,
-      "review": "堆叠PR终于公开预览，但GitHub这功能比竞品晚了两年，还当新大陆宣传。",
-      "title_hash": "9409bd81",
-      "scored_at": "2026-07-30T17:02:08.838684Z"
-    },
-    "story_790c059d6976|paper-police|966065bf": {
-      "score": 10,
-      "review": "官方博客宣布预览，无论文无代码无评测，只有功能描述。",
-      "title_hash": "9409bd81",
-      "scored_at": "2026-07-30T17:02:10.218486Z"
-    },
     "story_19984c444ae4|pragmatic|0a5c5b24": {
       "score": 90,
       "review": "新模型上线，价格更低性能更强，今天就能换API跑任务。",
@@ -6396,6 +6330,42 @@
       "review": "Google 数据库向量搜索到百亿级，做 RAG 的可以评估迁移，但先看是否兼容现有栈。",
       "title_hash": "124af008",
       "scored_at": "2026-08-20T16:59:19.980890Z"
+    },
+    "story_666a236350be|pragmatic|0a5c5b24": {
+      "score": 88,
+      "review": "草稿模型提速3倍，推理成本直接降，能上生产环境的今天就能试。",
+      "title_hash": "739e1bc2",
+      "scored_at": "2026-08-20T17:52:00.897423Z"
+    },
+    "story_dddc776b066d|pragmatic|0a5c5b24": {
+      "score": 85,
+      "review": "Codex 更新直接影响开发流程，看 changelog 就能上手，值得今天试。",
+      "title_hash": "4feb0423",
+      "scored_at": "2026-08-20T17:52:02.030240Z"
+    },
+    "story_666a236350be|cynic|f4237a62": {
+      "score": 72,
+      "review": "提速数字好看，但草稿模型得看配合主模型的端到端收益，单测生成速度是耍流氓。",
+      "title_hash": "739e1bc2",
+      "scored_at": "2026-08-20T17:52:03.277468Z"
+    },
+    "story_666a236350be|paper-police|966065bf": {
+      "score": 45,
+      "review": "官方博客给了数字但无代码无复现，等第三方验证再定论。",
+      "title_hash": "739e1bc2",
+      "scored_at": "2026-08-20T17:52:04.169285Z"
+    },
+    "story_dddc776b066d|cynic|f4237a62": {
+      "score": 70,
+      "review": "更新日志没细看，但官方渠道总比营销稿强，先扣水分再谈。",
+      "title_hash": "4feb0423",
+      "scored_at": "2026-08-20T17:52:05.421082Z"
+    },
+    "story_dddc776b066d|paper-police|966065bf": {
+      "score": 30,
+      "review": "官方更新日志无论文无代码无基准，仅宣称改进，缺独立验证。",
+      "title_hash": "4feb0423",
+      "scored_at": "2026-08-20T17:52:06.427124Z"
     }
   }
 }
