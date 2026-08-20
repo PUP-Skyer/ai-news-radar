@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:52:06.427206Z",
+  "generated_at": "2026-08-20T19:06:55.142077Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_185e96d8c2f8",
-      "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_56e8099b2502",
+      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+      "url": "https://www.aibase.com/news/30504",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 62,
-          "review": "加个忽略原因就敢叫更新？不如把误报率降降。"
+          "score": 72,
+          "review": "1-bit 量化跑得动不假，但'更聪明'是拿什么基准测的？内存省了，精度损失只字不提。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方更新但无技术细节，仅功能说明，缺代码和验证。"
+          "score": 20,
+          "review": "官方点赞无论文无代码，8GB跑1-bit版是宣传还是实测？缺证据。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "安全团队能更准确标记已处理告警，审计和误报管理省事，今天就能用。"
+          "score": 85,
+          "review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。"
         }
       }
     }

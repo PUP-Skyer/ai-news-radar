@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T17:47:40.261095Z",
+  "generated_at": "2026-08-20T19:02:28.156402Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8545,
+      "importance": 0.8545,
+      "importance_score": 0.8545,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9869,
+        "recency": 0.9693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,30 +85,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
-      "story_id": "story_185e96d8c2f8",
-      "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_13b553da3c26",
+      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
-          "summary": null,
-          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
+          "title_en": "Windows 11 arm64 VS2026 image generally available",
+          "title_original": "Windows 11 arm64 VS2026 image generally available",
+          "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
+          "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "source_count": 1,
@@ -117,31 +117,31 @@
       ],
       "items": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
-          "summary": null,
-          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
+          "title_en": "Windows 11 arm64 VS2026 image generally available",
+          "title_original": "Windows 11 arm64 VS2026 image generally available",
+          "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
+          "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.841,
+      "importance": 0.841,
+      "importance_score": 0.841,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9638,
+        "recency": 0.9833,
         "story_heat": 0.0
       },
       "category": "official",
@@ -150,27 +150,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
       "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-        "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
-        "title_en": "Code scanning adds a mitigated alert dismissal reason",
-        "title_original": "Code scanning adds a mitigated alert dismissal reason",
-        "summary": null,
-        "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+        "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
+        "title_en": "Windows 11 arm64 VS2026 image generally available",
+        "title_original": "Windows 11 arm64 VS2026 image generally available",
+        "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
+        "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "安全团队能更准确标记已处理告警，审计和误报管理省事，今天就能用。",
+      "persona_review": "ARM 开发者的 CI 镜像终于转正，跑 VS2026 构建今天就能换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -187,7 +187,7 @@
           "title_zh": null,
           "title_en": "Codex and ChatGPT updates",
           "title_original": "Codex and ChatGPT updates",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
+          "summary": null,
           "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -207,7 +207,7 @@
           "title_zh": null,
           "title_en": "Codex and ChatGPT updates",
           "title_original": "Codex and ChatGPT updates",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
+          "summary": null,
           "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8292,
-      "importance": 0.8292,
-      "importance_score": 0.8292,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7734,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,7 +243,7 @@
         "title_zh": null,
         "title_en": "Codex and ChatGPT updates",
         "title_original": "Codex and ChatGPT updates",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
+        "summary": null,
         "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
@@ -255,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8192,
-      "importance": 0.8192,
-      "importance_score": 0.8192,
+      "score": 0.8167,
+      "importance": 0.8167,
+      "importance_score": 0.8167,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7734,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,30 +340,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
-      "story_id": "story_c5030fa07ae8",
-      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "story_id": "story_185e96d8c2f8",
+      "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T15:14:31Z"
         }
       ],
       "source_count": 1,
@@ -372,31 +372,31 @@
       ],
       "items": [
         {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
+          "published_at": "2026-08-20T15:14:31Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9534,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,112 +405,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
+      "earliest_at": "2026-08-20T15:14:31Z",
+      "latest_at": "2026-08-20T15:14:31Z",
       "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
+        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+        "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+        "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
+        "title_en": "Code scanning adds a mitigated alert dismissal reason",
+        "title_original": "Code scanning adds a mitigated alert dismissal reason",
         "summary": null,
-        "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+        "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "CI 配置更灵活，代码质量检查可独立触发，省构建时间，今天就能改。",
+      "persona_review": "安全团队能更准确标记已处理告警，审计和误报管理省事，今天就能用。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
-      }
-    },
-    {
-      "story_id": "story_c773429fa020",
-      "title": "GitHub Copilot 应用初学者指南：管理工作任务 / GitHub Copilot app for Beginners: Managing your work",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "GitHub Copilot 应用初学者指南：管理工作任务 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "GitHub Copilot 应用初学者指南：管理工作任务",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍GitHub Copilot app的“My work pane”，教你通过All标签、内置视图和自定义过滤器统一管理多个Copilot会话的任务，并可在列表与表格视图间切换，快速掌握进行中、已完成和下一步工作。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-          "title": "GitHub Copilot 应用初学者指南：管理工作任务 / GitHub Copilot app for Beginners: Managing your work",
-          "title_zh": "GitHub Copilot 应用初学者指南：管理工作任务",
-          "title_en": "GitHub Copilot app for Beginners: Managing your work",
-          "title_original": "GitHub Copilot app for Beginners: Managing your work",
-          "summary": null,
-          "recommend_reason_zh": "本文介绍GitHub Copilot app的“My work pane”，教你通过All标签、内置视图和自定义过滤器统一管理多个Copilot会话的任务，并可在列表与表格视图间切换，快速掌握进行中、已完成和下一步工作。",
-          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T17:50:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7994,
-      "importance": 0.7994,
-      "importance_score": 0.7994,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7076,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T17:50:23Z",
-      "latest_at": "2026-08-19T17:50:23Z",
-      "primary_item": {
-        "id": "b9db6e949ee8eb8a7ffc8c1b6c3687e407eca048",
-        "title": "GitHub Copilot 应用初学者指南：管理工作任务 / GitHub Copilot app for Beginners: Managing your work",
-        "title_zh": "GitHub Copilot 应用初学者指南：管理工作任务",
-        "title_en": "GitHub Copilot app for Beginners: Managing your work",
-        "title_original": "GitHub Copilot app for Beginners: Managing your work",
-        "summary": null,
-        "recommend_reason_zh": "本文介绍GitHub Copilot app的“My work pane”，教你通过All标签、内置视图和自定义过滤器统一管理多个Copilot会话的任务，并可在列表与表格视图间切换，快速掌握进行中、已完成和下一步工作。",
-        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 60,
-      "persona_review": "官方教程，适合刚上手 Copilot 的新手，老手不用看。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -558,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7934,
+      "importance": 0.7934,
+      "importance_score": 0.7934,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9749,
+        "recency": 0.9575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,115 +509,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
-      "story_id": "story_65f7ae8f351a",
-      "title": "5个利用 Search 升级学习体验的新方法 / 5 new ways to level up your learning with Search",
-      "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-      "primary_url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-          "title": "5个利用 Search 升级学习体验的新方法 / 5 new ways to level up your learning with Search",
-          "title_zh": "5个利用 Search 升级学习体验的新方法",
-          "title_en": "5 new ways to level up your learning with Search",
-          "title_original": "5 new ways to level up your learning with Search",
-          "summary": null,
-          "recommend_reason_zh": "Google Search新AI功能可生成pH刻度等交互式模拟，并提供覆盖ACT、AP、SAT等九大考试的定制练习测验，免费开放，合作方含The Princeton Review，让备考更高效。",
-          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-          "title": "5个利用 Search 升级学习体验的新方法 / 5 new ways to level up your learning with Search",
-          "title_zh": "5个利用 Search 升级学习体验的新方法",
-          "title_en": "5 new ways to level up your learning with Search",
-          "title_original": "5 new ways to level up your learning with Search",
-          "summary": null,
-          "recommend_reason_zh": "Google Search新AI功能可生成pH刻度等交互式模拟，并提供覆盖ACT、AP、SAT等九大考试的定制练习测验，免费开放，合作方含The Princeton Review，让备考更高效。",
-          "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7195,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T19:00:00Z",
-      "latest_at": "2026-08-19T19:00:00Z",
-      "primary_item": {
-        "id": "9c9b56dcfad6687c90534be362f560e5d31833ac",
-        "title": "5个利用 Search 升级学习体验的新方法 / 5 new ways to level up your learning with Search",
-        "title_zh": "5个利用 Search 升级学习体验的新方法",
-        "title_en": "5 new ways to level up your learning with Search",
-        "title_original": "5 new ways to level up your learning with Search",
-        "summary": null,
-        "recommend_reason_zh": "Google Search新AI功能可生成pH刻度等交互式模拟，并提供覆盖ACT、AP、SAT等九大考试的定制练习测验，免费开放，合作方含The Princeton Review，让备考更高效。",
-        "url": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "谷歌搜索学习功能更新，对开发者无直接影响，可稍作了解。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
-      }
-    },
-    {
-      "story_id": "story_6bffb665747e",
-      "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_c5030fa07ae8",
+      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
@@ -711,31 +541,31 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
+      "score": 0.8326,
+      "importance": 0.8326,
+      "importance_score": 0.8326,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9532,
+        "recency": 0.9364,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,112 +574,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-        "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
-        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
         "summary": null,
-        "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "审计日志能查代码质量开关变更，合规团队省事，安全排查更顺。",
+      "persona_review": "CI 配置更灵活，代码质量检查可独立触发，省构建时间，今天就能改。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
-      }
-    },
-    {
-      "story_id": "story_5eb7373b87f5",
-      "title": "为前沿模型提供零数据保留（Zero Data Retention） / Offering Zero Data Retention for frontier models",
-      "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "primary_url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-          "title": "为前沿模型提供零数据保留（Zero Data Retention） / Offering Zero Data Retention for frontier models",
-          "title_zh": "为前沿模型提供零数据保留（Zero Data Retention）",
-          "title_en": "Offering Zero Data Retention for frontier models",
-          "title_original": "Offering Zero Data Retention for frontier models",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI重申API客户零数据保留承诺，并预览Private Safety Processing，可在不向人员暴露内容的前提下跨相关互动识别安全风险，兼顾隐私与前沿模型防护。",
-          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-          "title": "为前沿模型提供零数据保留（Zero Data Retention） / Offering Zero Data Retention for frontier models",
-          "title_zh": "为前沿模型提供零数据保留（Zero Data Retention）",
-          "title_en": "Offering Zero Data Retention for frontier models",
-          "title_original": "Offering Zero Data Retention for frontier models",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI重申API客户零数据保留承诺，并预览Private Safety Processing，可在不向人员暴露内容的前提下跨相关互动识别安全风险，兼顾隐私与前沿模型防护。",
-          "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7195,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T19:00:00Z",
-      "latest_at": "2026-08-19T19:00:00Z",
-      "primary_item": {
-        "id": "1748b6a463c8de58fdb4ab7ec667c1548f30e9f4",
-        "title": "为前沿模型提供零数据保留（Zero Data Retention） / Offering Zero Data Retention for frontier models",
-        "title_zh": "为前沿模型提供零数据保留（Zero Data Retention）",
-        "title_en": "Offering Zero Data Retention for frontier models",
-        "title_original": "Offering Zero Data Retention for frontier models",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI重申API客户零数据保留承诺，并预览Private Safety Processing，可在不向人员暴露内容的前提下跨相关互动识别安全风险，兼顾隐私与前沿模型防护。",
-        "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "API 数据合规选项落地，做企业级应用的可评估接入。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -897,21 +642,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7504,
-      "importance": 0.7504,
-      "importance_score": 0.7504,
+      "score": 0.7475,
+      "importance": 0.7475,
+      "importance_score": 0.7475,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9042,
+        "recency": 0.8881,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-20T10:49:19.942120Z",
       "latest_at": "2026-08-20T10:49:19.942120Z",
@@ -933,7 +677,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -981,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.745,
+      "importance": 0.745,
+      "importance_score": 0.745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8905,
+        "recency": 0.8746,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1016,7 +760,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1093,15 +837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7473,
-      "importance": 0.7473,
-      "importance_score": 0.7473,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7482,
+        "recency": 0.7348,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1129,7 +873,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
+      }
+    },
+    {
+      "story_id": "story_6bffb665747e",
+      "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9362,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
+      "primary_item": {
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+        "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
+        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "summary": null,
+        "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "审计日志能查代码质量开关变更，合规团队省事，安全排查更顺。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1177,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9744,
+        "recency": 0.957,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1041,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1260,15 +1089,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
+      "score": 0.7326,
+      "importance": 0.7326,
+      "importance_score": 0.7326,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9392,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,7 +1124,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1343,15 +1172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7481,
-      "importance": 0.7481,
-      "importance_score": 0.7481,
+      "score": 0.7452,
+      "importance": 0.7452,
+      "importance_score": 0.7452,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8917,
+        "recency": 0.8758,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1378,92 +1207,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_3416d3016502",
+      "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+      "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "primary_url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
+          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+          "title_zh": "Anthropic 如何开展 AI 教学",
+          "title_en": "Anthropic's approach to teaching and learning AI",
+          "title_original": "Anthropic's approach to teaching and learning AI",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T17:56:58.396000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
+          "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+          "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+          "title_zh": "Anthropic 如何开展 AI 教学",
+          "title_en": "Anthropic's approach to teaching and learning AI",
+          "title_original": "Anthropic's approach to teaching and learning AI",
+          "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T17:56:58.396000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7976,
-      "importance": 0.7976,
-      "importance_score": 0.7976,
-      "importance_label": "官方更新",
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7423,
+        "editorial": 0.6,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9844,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
+      "earliest_at": "2026-08-20T17:56:58.396000Z",
+      "latest_at": "2026-08-20T17:56:58.396000Z",
       "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "dd38bd3d207f43c21bdd7b391bb4a791651609c7",
+        "title": "Anthropic 如何开展 AI 教学 / Anthropic's approach to teaching and learning AI",
+        "title_zh": "Anthropic 如何开展 AI 教学",
+        "title_en": "Anthropic's approach to teaching and learning AI",
+        "title_original": "Anthropic's approach to teaching and learning AI",
+        "summary": "Anthropic 发布 Claude Academy，为全球数百万用户提供 AI 教学资源，帮助其安全、有效地使用 AI。该学院课程借鉴其内部员工培训方法，包括 4D AI Fluency Framework 及\"ever-boarding\"持续学习项目，并强调以问题为中心、培养持久思维模式而非特定操作行为。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/anthropics-approach-to-teaching-and-learning-ai",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CodeQL 更新对用 GitHub Actions 做 JS 安全扫描的团队有用，升级后查询更准。",
+      "persona_score": 45,
+      "persona_review": "教学理念文章，无实操内容，等具体课程或工具再关注。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1511,15 +1338,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7766,
+        "recency": 0.7628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1546,7 +1373,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1594,15 +1421,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7432,
+      "importance": 0.7432,
+      "importance_score": 0.7432,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8804,
+        "recency": 0.8647,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1629,7 +1456,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.7291,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "CodeQL 更新对用 GitHub Actions 做 JS 安全扫描的团队有用，升级后查询更准。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     },
     {
@@ -1677,15 +1589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7438,
-      "importance": 0.7438,
-      "importance_score": 0.7438,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8678,
+        "recency": 0.8523,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1712,7 +1624,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T17:51:59.748881Z"
+        "scored_at": "2026-08-20T19:06:52.793297Z"
+      }
+    },
+    {
+      "story_id": "story_56e8099b2502",
+      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+      "url": "https://www.aibase.com/news/30504",
+      "primary_url": "https://www.aibase.com/news/30504",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
+          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_en": null,
+          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "summary": null,
+          "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
+          "url": "https://www.aibase.com/news/30504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:58:31.373564Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
+          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "title_en": null,
+          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+          "summary": null,
+          "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
+          "url": "https://www.aibase.com/news/30504",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T07:58:31.373564Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8523,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T07:58:31.373564Z",
+      "latest_at": "2026-08-20T07:58:31.373564Z",
+      "primary_item": {
+        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
+        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "title_en": null,
+        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+        "summary": null,
+        "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
+        "url": "https://www.aibase.com/news/30504",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 85,
+      "persona_review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T19:06:52.793297Z"
       }
     }
   ]
