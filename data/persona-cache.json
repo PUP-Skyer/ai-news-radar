@@ -1,48 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_daff13293afd|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "数学理论突破，但无开源或API，开发者暂时用不上。",
-      "title_hash": "b8f97a37",
-      "scored_at": "2026-07-30T03:39:08.931581Z"
-    },
-    "story_ddb7cb80fe3f|pragmatic|0a5c5b24": {
-      "score": 45,
-      "review": "攻防演练报告，对防御设计有参考，但非直接可用工具。",
-      "title_hash": "8043dc66",
-      "scored_at": "2026-07-30T03:39:10.243216Z"
-    },
-    "story_a314f7fdcee9|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "安全攻防演练，非通用工具，开发者无需立即行动。",
-      "title_hash": "73ef3eaa",
-      "scored_at": "2026-07-30T03:39:11.596492Z"
-    },
-    "story_e76306f88f86|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "CEO个人观点，不写代码也不改API，别浪费时间。",
-      "title_hash": "b3f32e57",
-      "scored_at": "2026-07-30T03:39:13.118444Z"
-    },
-    "story_6a3a550a61b4|pragmatic|0a5c5b24": {
-      "score": 20,
-      "review": "承认乱又不给代码，等年底零标签再说。",
-      "title_hash": "f3c91454",
-      "scored_at": "2026-07-30T03:39:14.410022Z"
-    },
-    "story_54430aee701b|cynic|f4237a62": {
-      "score": 55,
-      "review": "改两个参数就三倍？基线怕是故意没开这两个吧。",
-      "title_hash": "4ef7396e",
-      "scored_at": "2026-07-30T03:39:15.772249Z"
-    },
-    "story_54430aee701b|paper-police|966065bf": {
-      "score": 45,
-      "review": "官方博客有数字但无论文代码，等独立复现再定论。",
-      "title_hash": "4ef7396e",
-      "scored_at": "2026-07-30T03:39:17.024830Z"
-    },
     "story_7fe65bb721b0|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "开源模型可直接部署，背景移除任务省下API费用，今天就能试。",
@@ -6342,6 +6300,18 @@
       "review": "上市时间表不写代码，等产品落地再说。",
       "title_hash": "29467965",
       "scored_at": "2026-08-20T03:14:10.071375Z"
+    },
+    "story_20942fdcc0cb|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Codex安全升级对用API的团队有用，拦截危险操作能减少事故，但需测试兼容性。",
+      "title_hash": "e0dc0845",
+      "scored_at": "2026-08-20T04:02:25.105244Z"
+    },
+    "story_c4fc7d4e70c8|pragmatic|0a5c5b24": {
+      "score": 45,
+      "review": "行业观点，无实操价值。等具体对齐方案或工具出来再关注。",
+      "title_hash": "665be4ea",
+      "scored_at": "2026-08-20T04:02:26.330040Z"
     }
   }
 }
