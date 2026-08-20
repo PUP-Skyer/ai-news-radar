@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T22:51:53.869125Z",
+  "generated_at": "2026-08-20T23:54:43.675411Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,30 +37,10 @@
       }
     },
     {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "1-bit 量化跑得动不假，但'更聪明'是拿什么基准测的？内存省了，精度损失只字不提。"
-        },
-        "paper-police": {
-          "score": 20,
-          "review": "官方点赞无论文无代码，8GB跑1-bit版是宣传还是实测？缺证据。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_dddc776b066d",
       "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
       "url": "https://developers.openai.com/codex/changelog",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "官方更新直接看 changelog，API 变动影响现有集成，今天就得查。"
+        }
+      }
+    },
+    {
+      "story_id": "story_bd13e5e9f8e6",
+      "title": "Codex CLI 0.149.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "版本号跳得勤，但至少是官方实打实的更新，比PPT强。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "官方更新日志无论文无代码无评测，仅版本号，证据不足。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "Codex CLI 小版本更新，查下 changelog 看有没有修 bug 或加参数，能省事就升。"
         }
       }
     }
