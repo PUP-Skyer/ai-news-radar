@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:40:21.201965Z",
+  "generated_at": "2026-08-20T01:53:43.809569Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8403,
-      "importance": 0.8403,
-      "importance_score": 0.8403,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9348,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,92 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "33dd888158164d0c0121116d57a69affc7df6950",
-          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-          "summary": null,
-          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
-          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-19T21:09:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9643,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-19T21:09:30Z",
-      "latest_at": "2026-08-19T21:09:30Z",
-      "primary_item": {
-        "id": "33dd888158164d0c0121116d57a69affc7df6950",
-        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
-        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-        "summary": null,
-        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
-        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CodeQL 更新对用 GitHub Actions 做 JS 安全扫描的团队有用，升级后查询更准。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -218,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9192,
+        "recency": 0.8902,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +170,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_c2a932b4c177",
+      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "primary_url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "33dd888158164d0c0121116d57a69affc7df6950",
+          "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+          "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+          "summary": null,
+          "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
+          "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-19T21:09:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9339,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-19T21:09:30Z",
+      "latest_at": "2026-08-19T21:09:30Z",
+      "primary_item": {
+        "id": "33dd888158164d0c0121116d57a69affc7df6950",
+        "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_zh": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模",
+        "title_en": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "title_original": "CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
+        "summary": null,
+        "recommend_reason_zh": "CodeQL 2.26.3新增JavaScript、TypeScript、Vue源码建模，并提升多个GitHub Actions查询的准确性，值得关注。",
+        "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "CodeQL 更新对用 GitHub Actions 做 JS 安全扫描的团队有用，升级后查询更准。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -303,15 +303,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8361,
-      "importance": 0.8361,
-      "importance_score": 0.8361,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8673,
+        "recency": 0.8399,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +340,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8269,
+      "importance": 0.8269,
+      "importance_score": 0.8269,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9348,
+        "recency": 0.9052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.786,
+        "recency": 0.7612,
         "story_heat": 0.0
       },
       "category": "official",
@@ -510,7 +510,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -558,15 +558,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8182,
-      "importance": 0.8182,
-      "importance_score": 0.8182,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8565,
+        "recency": 0.8295,
         "story_heat": 0.0
       },
       "category": "official",
@@ -595,7 +595,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -672,15 +672,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.972,
+        "recency": 0.9413,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -709,7 +709,175 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_6be122ea69ff",
+      "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+      "url": "https://www.aibase.com/news/30490",
+      "primary_url": "https://www.aibase.com/news/30490",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
+          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "title_en": null,
+          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "summary": "OpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nOpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nOpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nExplore AI Fronti",
+          "recommend_reason_zh": "ChatGPT全球故障，8月19日晚8点起用户无法登录、加载聊天记录，出现“Too many concurrent requests”错误，连Codex和API也异常，OpenAI确认正恢复。",
+          "url": "https://www.aibase.com/news/30490",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
+          "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "title_en": null,
+          "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+          "summary": "OpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nOpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nOpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nExplore AI Fronti",
+          "recommend_reason_zh": "ChatGPT全球故障，8月19日晚8点起用户无法登录、加载聊天记录，出现“Too many concurrent requests”错误，连Codex和API也异常，OpenAI确认正恢复。",
+          "url": "https://www.aibase.com/news/30490",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
+      "primary_item": {
+        "id": "f16555a1bc4e20075a6be832be3a7f3c9495f020",
+        "title": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+        "title_zh": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+        "title_en": null,
+        "title_original": "ChatGPT全球故障，用户登录和聊天记录加载功能异常",
+        "summary": "OpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nOpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nOpenAI's ChatGPT recently experienced a global service outage, with users unable to log in, register accounts, load historical chat records, or send messages no\nExplore AI Fronti",
+        "recommend_reason_zh": "ChatGPT全球故障，8月19日晚8点起用户无法登录、加载聊天记录，出现“Too many concurrent requests”错误，连Codex和API也异常，OpenAI确认正恢复。",
+        "url": "https://www.aibase.com/news/30490",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "故障是临时事件，等恢复即可，不用改选型或架构。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_8d0553fb4a53",
+      "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+      "url": "https://www.ithome.com/0/991/886.htm",
+      "primary_url": "https://www.ithome.com/0/991/886.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "recommend_reason_zh": "OpenAI CFO Sarah Friar向员工透露，公司最迟2027年上市，且已秘密递交IPO招股书；本季度年化营收增长35%、企业级业务增长50%，周活跃用户已突破2000万，高管离职引发投资方担忧。",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+          "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "title_en": null,
+          "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+          "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+          "recommend_reason_zh": "OpenAI CFO Sarah Friar向员工透露，公司最迟2027年上市，且已秘密递交IPO招股书；本季度年化营收增长35%、企业级业务增长50%，周活跃用户已突破2000万，高管离职引发投资方担忧。",
+          "url": "https://www.ithome.com/0/991/886.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T00:17:26Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9771,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:17:26Z",
+      "latest_at": "2026-08-20T00:17:26Z",
+      "primary_item": {
+        "id": "af4a1a809f9e4fe18fbb8ea61b21223ff382e96e",
+        "title": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_zh": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "title_en": null,
+        "title_original": "消息称 OpenAI 首席财务官告知员工：公司最迟将于 2027 年上市",
+        "summary": "OpenAI 首席财务官萨拉·弗里亚尔在全员大会上告知员工，公司最迟将于 2027 年完成上市，若业务持续向好也可能更早。OpenAI 已于 6 月秘密提交 IPO 招股书，本季度整体年化营收增长 35%，企业级业务年化营收增长 50%，AI 编程与办公产品周活跃用户突破 2000 万。",
+        "recommend_reason_zh": "OpenAI CFO Sarah Friar向员工透露，公司最迟2027年上市，且已秘密递交IPO招股书；本季度年化营收增长35%、企业级业务增长50%，周活跃用户已突破2000万，高管离职引发投资方担忧。",
+        "url": "https://www.ithome.com/0/991/886.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "上市时间表不写代码，对选型和开发零影响。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -757,15 +925,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9582,
+        "recency": 0.9279,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,7 +961,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -841,15 +1009,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7511,
+      "importance": 0.7511,
+      "importance_score": 0.7511,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9205,
+        "recency": 0.8914,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -877,226 +1045,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
-      "story_id": "story_5de36c6f8e14",
-      "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "primary_url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-          "title_zh": "OpenRouter 宣布加入 Stripe",
-          "title_en": "OpenRouter is Joining Stripe",
-          "title_original": "OpenRouter is Joining Stripe",
-          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-          "recommend_reason_zh": "OpenRouter 宣布加入 Stripe，但承诺使命、产品与路线图不变；其日处理超 10 万亿 tokens，接入 400+ 模型，服务 1000 万开发者，路由仍以用户利益为先。",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        },
-        {
-          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
-          "title": "OpenRouter 将加入 Stripe",
-          "title_zh": "OpenRouter 将加入 Stripe",
-          "title_en": null,
-          "title_original": "OpenRouter 将加入 Stripe",
-          "summary": null,
-          "recommend_reason_zh": "OpenRouter宣布与Stripe合并，继续独立运营；目前每日处理超10万亿tokens，接入400+AI模型，服务逾1000万开发者，年推理量增长至少10倍。",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T18:46:11.132000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）",
-        "openrouter.ai"
-      ],
-      "items": [
-        {
-          "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-          "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-          "title_zh": "OpenRouter 宣布加入 Stripe",
-          "title_en": "OpenRouter is Joining Stripe",
-          "title_original": "OpenRouter is Joining Stripe",
-          "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-          "recommend_reason_zh": "OpenRouter 宣布加入 Stripe，但承诺使命、产品与路线图不变；其日处理超 10 万亿 tokens，接入 400+ 模型，服务 1000 万开发者，路由仍以用户利益为先。",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T00:00:00Z"
-        },
-        {
-          "id": "c2fb73126ef7a99ebcb70604f5e5e69717e4bc72",
-          "title": "OpenRouter 将加入 Stripe",
-          "title_zh": "OpenRouter 将加入 Stripe",
-          "title_en": null,
-          "title_original": "OpenRouter 将加入 Stripe",
-          "summary": null,
-          "recommend_reason_zh": "OpenRouter宣布与Stripe合并，继续独立运营；目前每日处理超10万亿tokens，接入400+AI模型，服务逾1000万开发者，年推理量增长至少10倍。",
-          "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-19T18:46:11.132000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7105,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T00:00:00Z",
-      "latest_at": "2026-08-19T18:46:11.132000Z",
-      "primary_item": {
-        "id": "8732726468509cd30f5eab7dae15d780f21dcdde",
-        "title": "OpenRouter 宣布加入 Stripe / OpenRouter is Joining Stripe",
-        "title_zh": "OpenRouter 宣布加入 Stripe",
-        "title_en": "OpenRouter is Joining Stripe",
-        "title_original": "OpenRouter is Joining Stripe",
-        "summary": "OpenRouter 宣布与 Stripe 合并，以加速推动全球经济增长。OpenRouter 目前每日处理来自 400 多个 AI 模型的 10+ 万亿 token，服务超 1000 万开发者与公司，自成立以来推理量每年至少增长 10 倍。合并后 OpenRouter 将继续以原名、原使命独立运营，产品与路线图不变，路由决策仍以用户利益为先，交易预计在未来数周内完成。",
-        "recommend_reason_zh": "OpenRouter 宣布加入 Stripe，但承诺使命、产品与路线图不变；其日处理超 10 万亿 tokens，接入 400+ 模型，服务 1000 万开发者，路由仍以用户利益为先。",
-        "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "OpenRouter 并入 Stripe，API 调用和支付链路可能更稳，但短期无直接影响。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_eadd8d231bf2",
-      "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-      "source": "公众号：智谱（GLM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_en": null,
-          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：智谱（GLM）"
-      ],
-      "items": [
-        {
-          "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-          "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "title_en": null,
-          "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-          "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-          "recommend_reason_zh": null,
-          "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-          "source": "公众号：智谱（GLM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-19T01:03:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7214,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T01:03:29Z",
-      "latest_at": "2026-08-19T01:03:29Z",
-      "primary_item": {
-        "id": "54d083e782f7e5b8d747072e4e62188d05feef79",
-        "title": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "title_zh": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "title_en": null,
-        "title_original": "GLM-5.3上线：AA智能指数60分并列开源第一，成本更低",
-        "summary": "GLM-5.3 API即日上线，擅长复杂编码、防御性网络安全与长程任务，在AA综合智能指数中取得60分，与Claude Fable 5、GPT-5.6 Sol等闭源旗舰同级，并与Kimi K3并列开源模型第一。该模型以更小参数规模和更低调用成本降低前沿智能门槛，单任务成本为旗舰模型中最低。API定价与GLM-5.2持平，模型权重将于下周五开源。",
-        "recommend_reason_zh": null,
-        "url": "https://mp.weixin.qq.com/s?__biz=MzkyMzI3NzQ0Mg%3D%3D&mid=2247494105&idx=1&sn=8d7409e0fb846a3c7803c142b5d1a8e7",
-        "source": "公众号：智谱（GLM）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "开源第一且成本更低，今天就能换，跑推理的直接省。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_9d19a0dc02ff",
-      "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-      "url": "https://www.aibase.com/news/30476",
-      "primary_url": "https://www.aibase.com/news/30476",
+      "story_id": "story_6bbd57344177",
+      "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+      "url": "https://www.aibase.com/news/30478",
+      "primary_url": "https://www.aibase.com/news/30478",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
-          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
+          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
           "title_en": null,
-          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "summary": null,
-          "recommend_reason_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施，直击AI答非所问、隐藏人工客服等痛点，中消协数据显示售后服务投诉占比达26.79%，规范落地值得关注。",
-          "url": "https://www.aibase.com/news/30476",
+          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "summary": "The focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nThe focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nThe focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nExplore AI Fronti",
+          "recommend_reason_zh": "ChatGPT于8月20日突发全球宕机，数百万美欧用户无法登录，chatgpt.com官网与Codex及12个核心API接口同时瘫痪，一文梳理故障全貌。",
+          "url": "https://www.aibase.com/news/30478",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:47:45.522434Z"
+          "published_at": "2026-08-20T01:53:43.809569Z"
         }
       ],
       "source_count": 1,
@@ -1105,58 +1077,59 @@
       ],
       "items": [
         {
-          "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
-          "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+          "id": "ba0f4f849ba241978d499e019071fcabe915df15",
+          "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
           "title_en": null,
-          "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-          "summary": null,
-          "recommend_reason_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施，直击AI答非所问、隐藏人工客服等痛点，中消协数据显示售后服务投诉占比达26.79%，规范落地值得关注。",
-          "url": "https://www.aibase.com/news/30476",
+          "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+          "summary": "The focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nThe focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nThe focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nExplore AI Fronti",
+          "recommend_reason_zh": "ChatGPT于8月20日突发全球宕机，数百万美欧用户无法登录，chatgpt.com官网与Codex及12个核心API接口同时瘫痪，一文梳理故障全貌。",
+          "url": "https://www.aibase.com/news/30478",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:47:45.522434Z"
+          "published_at": "2026-08-20T01:53:43.809569Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:47:45.522434Z",
-      "latest_at": "2026-08-19T10:47:45.522434Z",
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
       "primary_item": {
-        "id": "814146f7fae78dc96ea1f9833126b6bf9ad5bb7f",
-        "title": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-        "title_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施",
+        "id": "ba0f4f849ba241978d499e019071fcabe915df15",
+        "title": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "title_zh": "ChatGPT突发大规模宕机，数百万用户无法登录",
         "title_en": null,
-        "title_original": "国内首个人工与AI客服协同国家标准将于9月1日实施",
-        "summary": null,
-        "recommend_reason_zh": "国内首个人工与AI客服协同国家标准将于9月1日实施，直击AI答非所问、隐藏人工客服等痛点，中消协数据显示售后服务投诉占比达26.79%，规范落地值得关注。",
-        "url": "https://www.aibase.com/news/30476",
+        "title_original": "ChatGPT突发大规模宕机，数百万用户无法登录",
+        "summary": "The focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nThe focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nThe focus in the field of artificial intelligence has once again turned to server stability. According to media reports, the globally renowned AI chat applicati\nExplore AI Fronti",
+        "recommend_reason_zh": "ChatGPT于8月20日突发全球宕机，数百万美欧用户无法登录，chatgpt.com官网与Codex及12个核心API接口同时瘫痪，一文梳理故障全貌。",
+        "url": "https://www.aibase.com/news/30478",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "标准落地影响合规和客服系统改造，做B端的可以提前看条款。",
+      "persona_score": 30,
+      "persona_review": "宕机是运维事故，对开发者没直接可操作信息，等官方复盘。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
@@ -1204,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7309,
-      "importance": 0.7309,
-      "importance_score": 0.7309,
+      "score": 0.7258,
+      "importance": 0.7258,
+      "importance_score": 0.7258,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.913,
+        "recency": 0.8842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1239,30 +1212,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
-      "story_id": "story_8b228c716737",
-      "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-      "url": "https://www.aibase.com/news/30477",
-      "primary_url": "https://www.aibase.com/news/30477",
+      "story_id": "story_299363b260a1",
+      "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+      "url": "https://www.aibase.com/news/30479",
+      "primary_url": "https://www.aibase.com/news/30479",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
-          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
+          "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
           "title_en": null,
-          "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "summary": null,
-          "recommend_reason_zh": "八月十九日，Keep自研的Keepace.ai完成国家及北京大模型备案，成为运动垂类AI合规里程碑；该模型基于十年数十亿运动数据，可智能生成训练课程、解答运动问题并深度解读运动。",
-          "url": "https://www.aibase.com/news/30477",
+          "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "summary": "Google has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nGoogle has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nGoogle has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nExplore AI Fronti",
+          "recommend_reason_zh": "Google升级搜索与Gemini应用，新增AI交互式视觉内容、3D模拟和定制练习测验，学生可搜pH值生成动态图表，还能直接创建SAT词汇测验，与OpenAI及教育初创公司正面竞争。",
+          "url": "https://www.aibase.com/news/30479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:47:45.522434Z"
+          "published_at": "2026-08-20T01:53:43.809569Z"
         }
       ],
       "source_count": 1,
@@ -1271,413 +1244,82 @@
       ],
       "items": [
         {
-          "id": "47dfe46d593272d962a767f28e71df130221a9f4",
-          "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+          "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
+          "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
           "title_en": null,
-          "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-          "summary": null,
-          "recommend_reason_zh": "八月十九日，Keep自研的Keepace.ai完成国家及北京大模型备案，成为运动垂类AI合规里程碑；该模型基于十年数十亿运动数据，可智能生成训练课程、解答运动问题并深度解读运动。",
-          "url": "https://www.aibase.com/news/30477",
+          "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+          "summary": "Google has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nGoogle has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nGoogle has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nExplore AI Fronti",
+          "recommend_reason_zh": "Google升级搜索与Gemini应用，新增AI交互式视觉内容、3D模拟和定制练习测验，学生可搜pH值生成动态图表，还能直接创建SAT词汇测验，与OpenAI及教育初创公司正面竞争。",
+          "url": "https://www.aibase.com/news/30479",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T10:47:45.522434Z"
+          "published_at": "2026-08-20T01:53:43.809569Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-19T10:47:45.522434Z",
-      "latest_at": "2026-08-19T10:47:45.522434Z",
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
       "primary_item": {
-        "id": "47dfe46d593272d962a767f28e71df130221a9f4",
-        "title": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-        "title_zh": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
+        "id": "b213cdc9b294d3c537a19962b4bb7e79c1771a23",
+        "title": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+        "title_zh": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
         "title_en": null,
-        "title_original": "运动垂类AI迎来合规里程碑！Keep自研Keepace.ai正式完成国家大模型备案",
-        "summary": null,
-        "recommend_reason_zh": "八月十九日，Keep自研的Keepace.ai完成国家及北京大模型备案，成为运动垂类AI合规里程碑；该模型基于十年数十亿运动数据，可智能生成训练课程、解答运动问题并深度解读运动。",
-        "url": "https://www.aibase.com/news/30477",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "备案是合规门槛，对开发者无直接API或开源价值，观望即可。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_ea0ed8c5e2fe",
-      "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-      "url": "https://www.aibase.com/news/30474",
-      "primary_url": "https://www.aibase.com/news/30474",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_en": null,
-          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI在Georgia遭抗议，用7100万美元编程积分和8000万美元社区投资安抚；Meta设10亿美元基金，Zuckerberg发6500字长文。",
-          "url": "https://www.aibase.com/news/30474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T08:56:36.543835Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-          "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "title_en": null,
-          "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-          "summary": null,
-          "recommend_reason_zh": "OpenAI在Georgia遭抗议，用7100万美元编程积分和8000万美元社区投资安抚；Meta设10亿美元基金，Zuckerberg发6500字长文。",
-          "url": "https://www.aibase.com/news/30474",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T08:56:36.543835Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8084,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T08:56:36.543835Z",
-      "latest_at": "2026-08-19T08:56:36.543835Z",
-      "primary_item": {
-        "id": "71ae618bacb78c3a9c0fbc7cd16178c088499200",
-        "title": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "title_zh": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "title_en": null,
-        "title_original": "AI 数据中心遭反对潮，硅谷巨头砸钱\"灭火\"",
-        "summary": null,
-        "recommend_reason_zh": "OpenAI在Georgia遭抗议，用7100万美元编程积分和8000万美元社区投资安抚；Meta设10亿美元基金，Zuckerberg发6500字长文。",
-        "url": "https://www.aibase.com/news/30474",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 25,
-      "persona_review": "反对潮和灭火都是钱的事，不写代码，等政策落地再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_3efa244006cd",
-      "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-      "url": "https://www.aibase.com/news/30473",
-      "primary_url": "https://www.aibase.com/news/30473",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_en": null,
-          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "summary": null,
-          "recommend_reason_zh": "comma.ai于8月12日发布chestnut外置GPU扩展坞，独立版249美元、含AMD RX 9060 8GB套件799美元，将openpilot功耗上限从10W提升至100W，并带来1B参数、算力百倍的驾驶模型，值得一看。",
-          "url": "https://www.aibase.com/news/30473",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-          "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "title_en": null,
-          "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-          "summary": null,
-          "recommend_reason_zh": "comma.ai于8月12日发布chestnut外置GPU扩展坞，独立版249美元、含AMD RX 9060 8GB套件799美元，将openpilot功耗上限从10W提升至100W，并带来1B参数、算力百倍的驾驶模型，值得一看。",
-          "url": "https://www.aibase.com/news/30473",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T07:55:56.063699Z",
-      "latest_at": "2026-08-19T07:55:56.063699Z",
-      "primary_item": {
-        "id": "5ecdd0dd5aa28e1ff3c035c70086688f5636df92",
-        "title": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "title_zh": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "title_en": null,
-        "title_original": "\"神奇小子\"公司推 chestnut eGPU：车载 AI 算力飙百倍",
-        "summary": null,
-        "recommend_reason_zh": "comma.ai于8月12日发布chestnut外置GPU扩展坞，独立版249美元、含AMD RX 9060 8GB套件799美元，将openpilot功耗上限从10W提升至100W，并带来1B参数、算力百倍的驾驶模型，值得一看。",
-        "url": "https://www.aibase.com/news/30473",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "车载AI算力提升是方向，但产品未落地，短期无工具可用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_98aa2734f33e",
-      "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-      "url": "https://www.aibase.com/news/30469",
-      "primary_url": "https://www.aibase.com/news/30469",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic将Claude Code周使用额度临时上调50%的福利延长至8月31日，并考虑将其固化为长期订阅机制，同时提醒网页版、桌面版与Claude Code共享同一额度池。",
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-          "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "title_en": null,
-          "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic将Claude Code周使用额度临时上调50%的福利延长至8月31日，并考虑将其固化为长期订阅机制，同时提醒网页版、桌面版与Claude Code共享同一额度池。",
-          "url": "https://www.aibase.com/news/30469",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T07:55:56.063699Z",
-      "latest_at": "2026-08-19T07:55:56.063699Z",
-      "primary_item": {
-        "id": "e259b42ca40193b533c06c789a21a62a1affb1f3",
-        "title": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "title_zh": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "title_en": null,
-        "title_original": "Claude Code额度加成延期，Anthropic或将50%提升变成长期方案",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic将Claude Code周使用额度临时上调50%的福利延长至8月31日，并考虑将其固化为长期订阅机制，同时提醒网页版、桌面版与Claude Code共享同一额度池。",
-        "url": "https://www.aibase.com/news/30469",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "额度提升若转正，重度用户成本直接降，等官方确认再调整预算。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
-      }
-    },
-    {
-      "story_id": "story_45688a44d097",
-      "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-      "url": "https://www.aibase.com/news/30471",
-      "primary_url": "https://www.aibase.com/news/30471",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_en": null,
-          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "summary": null,
-          "recommend_reason_zh": "Mozilla于8月19日为Firefox测试版AI‘Smart Window’新增标签自动分组与重复标签页一键关闭，并整合Exa实现带来源的实时网页检索，还支持用自然语言搜索浏览历史，值得一看。",
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-          "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "title_en": null,
-          "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-          "summary": null,
-          "recommend_reason_zh": "Mozilla于8月19日为Firefox测试版AI‘Smart Window’新增标签自动分组与重复标签页一键关闭，并整合Exa实现带来源的实时网页检索，还支持用自然语言搜索浏览历史，值得一看。",
-          "url": "https://www.aibase.com/news/30471",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-19T07:55:56.063699Z",
-      "latest_at": "2026-08-19T07:55:56.063699Z",
-      "primary_item": {
-        "id": "64622246d891b2a6212e0aeb4b827582ba1a930f",
-        "title": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "title_zh": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "title_en": null,
-        "title_original": "Mozilla升级Firefox智能窗口，新增AI标签管理与网页检索",
-        "summary": null,
-        "recommend_reason_zh": "Mozilla于8月19日为Firefox测试版AI‘Smart Window’新增标签自动分组与重复标签页一键关闭，并整合Exa实现带来源的实时网页检索，还支持用自然语言搜索浏览历史，值得一看。",
-        "url": "https://www.aibase.com/news/30471",
+        "title_original": "Google重磅升级搜索与Gemini应用，推出全套AI学习与3D模拟工具",
+        "summary": "Google has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nGoogle has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nGoogle has recently announced a series of new learning tools for its search engine and AI assistant Gemini, including AI-generated interactive visual content, 3\nExplore AI Fronti",
+        "recommend_reason_zh": "Google升级搜索与Gemini应用，新增AI交互式视觉内容、3D模拟和定制练习测验，学生可搜pH值生成动态图表，还能直接创建SAT词汇测验，与OpenAI及教育初创公司正面竞争。",
+        "url": "https://www.aibase.com/news/30479",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 55,
-      "persona_review": "浏览器加AI功能是标配，不改变开发选型，等API开放再试。",
+      "persona_review": "搜索和Gemini升级偏产品功能，3D模拟工具对教育场景有用，但今天动手价值有限。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     },
     {
-      "story_id": "story_2fde9a0593e5",
-      "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-      "url": "https://www.aibase.com/news/30472",
-      "primary_url": "https://www.aibase.com/news/30472",
+      "story_id": "story_066cef4d76cd",
+      "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+      "url": "https://www.aibase.com/news/30481",
+      "primary_url": "https://www.aibase.com/news/30481",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
-          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "title_zh": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
+          "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
           "title_en": null,
-          "title_original": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic官方宣布将Claude Code每周50%额度加成延长至2026年8月31日，覆盖Pro、Max、Team及Enterprise订阅用户，且与网页端、桌面端共享同一额度池，值得开发者关注。",
-          "url": "https://www.aibase.com/news/30472",
+          "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "summary": "OpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nOpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nOpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nExplore AI Frontiers",
+          "recommend_reason_zh": "OpenAI推出Private Safety Processing，面向特定客户预览，在零数据保留（ZDR）基础上升级为跨会话分析输入输出，持续监控AI滥用风险，兼顾企业隐私与安全合规。",
+          "url": "https://www.aibase.com/news/30481",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
+          "published_at": "2026-08-20T01:53:43.809569Z"
         }
       ],
       "source_count": 1,
@@ -1686,58 +1328,452 @@
       ],
       "items": [
         {
-          "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
-          "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "title_zh": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+          "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
+          "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
           "title_en": null,
-          "title_original": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-          "summary": null,
-          "recommend_reason_zh": "Anthropic官方宣布将Claude Code每周50%额度加成延长至2026年8月31日，覆盖Pro、Max、Team及Enterprise订阅用户，且与网页端、桌面端共享同一额度池，值得开发者关注。",
-          "url": "https://www.aibase.com/news/30472",
+          "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+          "summary": "OpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nOpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nOpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nExplore AI Frontiers",
+          "recommend_reason_zh": "OpenAI推出Private Safety Processing，面向特定客户预览，在零数据保留（ZDR）基础上升级为跨会话分析输入输出，持续监控AI滥用风险，兼顾企业隐私与安全合规。",
+          "url": "https://www.aibase.com/news/30481",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-19T07:55:56.063699Z"
+          "published_at": "2026-08-20T01:53:43.809569Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7967,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-19T07:55:56.063699Z",
-      "latest_at": "2026-08-19T07:55:56.063699Z",
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
       "primary_item": {
-        "id": "a4d9e9e15ac34e42d19dd60ff2304955299ceb48",
-        "title": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-        "title_zh": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
+        "id": "4f7f05ba5a082db2e0d8debdb2ce6f2ba12867ef",
+        "title": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+        "title_zh": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
         "title_en": null,
-        "title_original": "程序员福利再加码！Anthropic官方宣布Claude Code每周50%额度加成延长至8月31日",
-        "summary": null,
-        "recommend_reason_zh": "Anthropic官方宣布将Claude Code每周50%额度加成延长至2026年8月31日，覆盖Pro、Max、Team及Enterprise订阅用户，且与网页端、桌面端共享同一额度池，值得开发者关注。",
-        "url": "https://www.aibase.com/news/30472",
+        "title_original": "OpenAI推出Private Safety Processing，零数据保留模式升级AI安全监控",
+        "summary": "OpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nOpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nOpenAI announced the launch of the \"Private Safety Processing\" service, available for preview to select customers. This service monitors potential misuse of AI\nExplore AI Frontiers",
+        "recommend_reason_zh": "OpenAI推出Private Safety Processing，面向特定客户预览，在零数据保留（ZDR）基础上升级为跨会话分析输入输出，持续监控AI滥用风险，兼顾企业隐私与安全合规。",
+        "url": "https://www.aibase.com/news/30481",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "额度翻倍到月底，跑批量任务的今天就能省一半 token 钱。",
+      "persona_score": 55,
+      "persona_review": "企业合规场景有用，但普通开发者今天用不上，先记着。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-19T23:45:49.394757Z"
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_7ef48461ffb7",
+      "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+      "url": "https://www.aibase.com/news/30483",
+      "primary_url": "https://www.aibase.com/news/30483",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_en": null,
+          "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "summary": "According to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nAccording to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nAccording to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI CFO Sara Ferial透露计划2027年IPO，已在6月秘密向SEC提交文件，今年完成122亿美元融资；推荐语详述其上市时间表与关键数字，解读非终点而是里程碑。",
+          "url": "https://www.aibase.com/news/30483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+          "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "title_en": null,
+          "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+          "summary": "According to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nAccording to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nAccording to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nExplore AI Fronti",
+          "recommend_reason_zh": "OpenAI CFO Sara Ferial透露计划2027年IPO，已在6月秘密向SEC提交文件，今年完成122亿美元融资；推荐语详述其上市时间表与关键数字，解读非终点而是里程碑。",
+          "url": "https://www.aibase.com/news/30483",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
+      "primary_item": {
+        "id": "c4d373af1554fe91e6281ad03d5ec4b1c3477243",
+        "title": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "title_zh": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "title_en": null,
+        "title_original": "OpenAI计划2027年完成IPO，已秘密提交上市文件",
+        "summary": "According to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nAccording to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nAccording to CNBC, OpenAI's Chief Financial Officer, Sara Ferial, revealed to employees during a company-wide meeting on Wednesday local time that the company p\nExplore AI Fronti",
+        "recommend_reason_zh": "OpenAI CFO Sara Ferial透露计划2027年IPO，已在6月秘密向SEC提交文件，今年完成122亿美元融资；推荐语详述其上市时间表与关键数字，解读非终点而是里程碑。",
+        "url": "https://www.aibase.com/news/30483",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "IPO日程不写代码，等产品落地再说。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_5ee4e916b509",
+      "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+      "url": "https://www.aibase.com/news/30489",
+      "primary_url": "https://www.aibase.com/news/30489",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_en": null,
+          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "summary": "Stripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nStripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nStripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nExplore AI Frontiers",
+          "recommend_reason_zh": "Stripe完成收购OpenRouter，据报交易额75亿美元，远超其5月13亿美元估值，并击败Databricks，创始人将获15亿美元，投资者获60亿美元。",
+          "url": "https://www.aibase.com/news/30489",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+          "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "title_en": null,
+          "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+          "summary": "Stripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nStripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nStripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nExplore AI Frontiers",
+          "recommend_reason_zh": "Stripe完成收购OpenRouter，据报交易额75亿美元，远超其5月13亿美元估值，并击败Databricks，创始人将获15亿美元，投资者获60亿美元。",
+          "url": "https://www.aibase.com/news/30489",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
+      "primary_item": {
+        "id": "d9da27bcafe383546de2c0fed320e24cb5814562",
+        "title": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "title_zh": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "title_en": null,
+        "title_original": "Stripe完成收购OpenRouter，交易估值据报达75亿美元",
+        "summary": "Stripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nStripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nStripe announced the completion of its acquisition of the AI model routing platform OpenRouter. Although the transaction amount was not disclosed, according to\nExplore AI Frontiers",
+        "recommend_reason_zh": "Stripe完成收购OpenRouter，据报交易额75亿美元，远超其5月13亿美元估值，并击败Databricks，创始人将获15亿美元，投资者获60亿美元。",
+        "url": "https://www.aibase.com/news/30489",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 20,
+      "persona_review": "收购案不写代码，OpenRouter 用户先观望 API 是否变动。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_5544f6c0c06c",
+      "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+      "url": "https://www.aibase.com/news/30482",
+      "primary_url": "https://www.aibase.com/news/30482",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
+          "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_zh": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_en": null,
+          "title_original": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "summary": "Alexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nAlexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nAlexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nExplore AI Fronti",
+          "recommend_reason_zh": "亚马逊Alexa+免费登陆美国所有兼容Fire TV设备，取消Prime会员门槛，此前非会员需付每月19.99美元；支持Fire TV Stick、Fire TV Cube及Hisense、Panasonic等第三方电视，推动生成式AI进入家庭娱乐场景。",
+          "url": "https://www.aibase.com/news/30482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
+          "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_zh": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "title_en": null,
+          "title_original": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+          "summary": "Alexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nAlexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nAlexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nExplore AI Fronti",
+          "recommend_reason_zh": "亚马逊Alexa+免费登陆美国所有兼容Fire TV设备，取消Prime会员门槛，此前非会员需付每月19.99美元；支持Fire TV Stick、Fire TV Cube及Hisense、Panasonic等第三方电视，推动生成式AI进入家庭娱乐场景。",
+          "url": "https://www.aibase.com/news/30482",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-20T01:53:43.809569Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T01:53:43.809569Z",
+      "latest_at": "2026-08-20T01:53:43.809569Z",
+      "primary_item": {
+        "id": "ad5ad36b30f8fbd277152d637afc8c39e4df9a22",
+        "title": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "title_zh": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "title_en": null,
+        "title_original": "亚马逊Alexa+免费登陆Fire TV，AI助手覆盖更多电视设备",
+        "summary": "Alexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nAlexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nAlexa+ from Amazon will be freely pushed to all compatible Fire TV devices in the United States, no longer requiring users to subscribe to Prime membership. Thi\nExplore AI Fronti",
+        "recommend_reason_zh": "亚马逊Alexa+免费登陆美国所有兼容Fire TV设备，取消Prime会员门槛，此前非会员需付每月19.99美元；支持Fire TV Stick、Fire TV Cube及Hisense、Panasonic等第三方电视，推动生成式AI进入家庭娱乐场景。",
+        "url": "https://www.aibase.com/news/30482",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "AI助手进电视是趋势，但免费覆盖对开发者短期无直接影响，观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
+      }
+    },
+    {
+      "story_id": "story_f4583eda883d",
+      "title": "大语言模型时代的可扩展软件",
+      "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "primary_url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+      "source": "jeremymorrell.dev",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+          "title": "大语言模型时代的可扩展软件",
+          "title_zh": "大语言模型时代的可扩展软件",
+          "title_en": null,
+          "title_original": "大语言模型时代的可扩展软件",
+          "summary": "Solid core + capability-based sandboxes + LLMs = Users with superpowers\nSolid core + capability-based sandboxes + LLMs = Users with superpowers\nSolid core + capability-based sandboxes + LLMs = Users with superpowers\nMost of the web software we interact with today is static. The developers have a limited amount of time and attention, and focus on building the features that serve the largest group of users. The top of the demand curve is well-served by existing software, but there is a long-tail o",
+          "recommend_reason_zh": "这篇文章提出“可扩展软件”新范式，结合LLM与沙箱让用户自定义功能，并以Cloudflare的Dynamic Workers和Pi为例，论证AI时代网页软件如何赋予用户超能力。",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "jeremymorrell.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T00:38:00.116000Z"
+        },
+        {
+          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+          "title": "LLMs时代可扩展软件：端点即Lisp函数",
+          "title_zh": "LLMs时代可扩展软件：端点即Lisp函数",
+          "title_en": "Extensible Software in the age of LLMs",
+          "title_original": "Extensible Software in the age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "本文借Cloudflare OS与Sandstorm.io创造者的正面辩论，探讨LLM时代可扩展软件：前者管理应用执行、权限与资源并自称操作系统继承者，同时提及DeepSeek的DSH插件架构。",
+          "url": "https://news.ycombinator.com/item?id=49363668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T17:31:58.280000Z"
+        },
+        {
+          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
+          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "title_zh": "大语言模型时代的可扩展软件",
+          "title_en": "Extensible Software in the age of LLMs",
+          "title_original": "Extensible Software in the age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "本文以Cloudflare员工视角提出LLM时代的新机遇：将Solid core与capability-based sandboxes结合，让用户像使用Pi那样通过自然语言扩展软件，并援引Pete Koomen在Y Combinator提出的Small Software概念，论证Dynamic Workers是这一模式的理想载体。",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:26:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "jeremymorrell.dev"
+      ],
+      "items": [
+        {
+          "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+          "title": "大语言模型时代的可扩展软件",
+          "title_zh": "大语言模型时代的可扩展软件",
+          "title_en": null,
+          "title_original": "大语言模型时代的可扩展软件",
+          "summary": "Solid core + capability-based sandboxes + LLMs = Users with superpowers\nSolid core + capability-based sandboxes + LLMs = Users with superpowers\nSolid core + capability-based sandboxes + LLMs = Users with superpowers\nMost of the web software we interact with today is static. The developers have a limited amount of time and attention, and focus on building the features that serve the largest group of users. The top of the demand curve is well-served by existing software, but there is a long-tail o",
+          "recommend_reason_zh": "这篇文章提出“可扩展软件”新范式，结合LLM与沙箱让用户自定义功能，并以Cloudflare的Dynamic Workers和Pi为例，论证AI时代网页软件如何赋予用户超能力。",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "jeremymorrell.dev",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-20T00:38:00.116000Z"
+        },
+        {
+          "id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+          "title": "LLMs时代可扩展软件：端点即Lisp函数",
+          "title_zh": "LLMs时代可扩展软件：端点即Lisp函数",
+          "title_en": "Extensible Software in the age of LLMs",
+          "title_original": "Extensible Software in the age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "本文借Cloudflare OS与Sandstorm.io创造者的正面辩论，探讨LLM时代可扩展软件：前者管理应用执行、权限与资源并自称操作系统继承者，同时提及DeepSeek的DSH插件架构。",
+          "url": "https://news.ycombinator.com/item?id=49363668",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-19T17:31:58.280000Z"
+        },
+        {
+          "id": "a5f5af69aec00eed5b2b7b3c372c39314434868e",
+          "title": "大语言模型时代的可扩展软件 / Extensible Software in the age of LLMs",
+          "title_zh": "大语言模型时代的可扩展软件",
+          "title_en": "Extensible Software in the age of LLMs",
+          "title_original": "Extensible Software in the age of LLMs",
+          "summary": null,
+          "recommend_reason_zh": "本文以Cloudflare员工视角提出LLM时代的新机遇：将Solid core与capability-based sandboxes结合，让用户像使用Pi那样通过自然语言扩展软件，并援引Pete Koomen在Y Combinator提出的Small Software概念，论证Dynamic Workers是这一模式的理想载体。",
+          "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-19T16:26:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5675,
+      "importance": 0.5675,
+      "importance_score": 0.5675,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9819,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-19T16:26:05Z",
+      "latest_at": "2026-08-20T00:38:00.116000Z",
+      "primary_item": {
+        "id": "a5119af9a1f0eff47e22842a0cb7c01346547281",
+        "title": "大语言模型时代的可扩展软件",
+        "title_zh": "大语言模型时代的可扩展软件",
+        "title_en": null,
+        "title_original": "大语言模型时代的可扩展软件",
+        "summary": "Solid core + capability-based sandboxes + LLMs = Users with superpowers\nSolid core + capability-based sandboxes + LLMs = Users with superpowers\nSolid core + capability-based sandboxes + LLMs = Users with superpowers\nMost of the web software we interact with today is static. The developers have a limited amount of time and attention, and focus on building the features that serve the largest group of users. The top of the demand curve is well-served by existing software, but there is a long-tail o",
+        "recommend_reason_zh": "这篇文章提出“可扩展软件”新范式，结合LLM与沙箱让用户自定义功能，并以Cloudflare的Dynamic Workers和Pi为例，论证AI时代网页软件如何赋予用户超能力。",
+        "url": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms",
+        "source": "jeremymorrell.dev",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "概念探讨，无直接可用的工具或方案，观望即可。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T01:59:58.217963Z"
       }
     }
   ]
