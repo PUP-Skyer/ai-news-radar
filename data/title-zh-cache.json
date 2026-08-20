@@ -39833,5 +39833,19 @@
   "re1|72216d53537c15931b44e1ce043302669295b3e7": "这篇内容讲作者在27美元的智能手表上，用Claude做了hacking实验，把AI能力接到廉价可穿戴设备上，探索能实现哪些新玩法。",
   "re1|3d5c7e0ee674ebc9e454dfa0f994df8748c4a7b1": "用Claude给27美元的PineTime开源手表复刻Casio表盘，实测240x240图片蓝牙传输需10分钟，屏幕刷新1-2秒。",
   "re1|ed319fbc74c85d45c509d1bfdfc35a88a72a5b1f": "本文以“别把AI粘贴给人”为题，指出长邮件回复往往不被阅读，主张回复要简短清晰，并总结三条经验：不秒回低优先级请求、避免长篇大论、优先当面沟通。",
-  "re1|08a2ca7b1dcf5ab12e38097c39920dd1b834bb4e": "别再粘贴ChatGPT的整段输出当回复了——原文呼吁用你的判断、语境和品味作答，并提供了dontpastetheai.com链接和GitHub上的翻译版本供传播。"
+  "re1|08a2ca7b1dcf5ab12e38097c39920dd1b834bb4e": "别再粘贴ChatGPT的整段输出当回复了——原文呼吁用你的判断、语境和品味作答，并提供了dontpastetheai.com链接和GitHub上的翻译版本供传播。",
+  "ds1|Clean up Claude 5's token vomit with a separate LLM": "用另一个LLM清理Claude 5的token呕吐物",
+  "ds1|Anti-AI fonts are useless and harmful": "反AI字体无用且有害",
+  "ds1|Code scanning adds a mitigated alert dismissal reason": "代码扫描新增“已缓解”的警报忽略原因。",
+  "ds1|Separate GitHub Actions path for GitHub Code Quality": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+  "ds1|Track GitHub Code Quality enablement changes in the audit log": "在审计日志中跟踪 GitHub 代码质量启用变更",
+  "ds1|How ChatGPT Work helps Stampli move ideas to market": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
+  "te1|466906353f69d6cf1c5ee61cb28887f73e035a07": "反AI字体无用且有害",
+  "re1|3eeb52736bdf43bc04c0ab83776bcc6b638ff41f": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+  "re1|da8f0831773ec20ea4b5846fffb648cfc5848093": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+  "re1|025cacd2a93f9a21a9b2040ff8d155914754d48c": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+  "re1|22e22a73bbe0e900a6eae70ae20dc1cb660db3ad": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
+  "re1|466906353f69d6cf1c5ee61cb28887f73e035a07": "本文直言反AI字体只是“设计即艺术”式的表态，除非有证据显示它们被单独商用且不搭配无障碍字体，否则作者坚持认为这类字体无用甚至有害。",
+  "re1|dc6203ba81ea3867bc3170a085d33a10c04d84c6": "这篇报道介绍如何用另一个独立LLM充当编辑，清理Claude 5输出中的主谓搭配混乱、伪顿悟式绕圈推理和自夸表述，并规定了禁止破折号、仅人类或agent执行动作动词等具体改写规则。",
+  "re1|9f31fa5e7028a96a8da8ba32ea2370283823bd1a": "Vomit通过本地LLM将Claude 5的token乱码转成英文，完全本地运行且无外部依赖，推荐搭配Llama.app和GPT-OSS 20B使用，帮你省下token。"
 }
