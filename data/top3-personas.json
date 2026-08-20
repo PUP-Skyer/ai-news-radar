@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:06:55.142077Z",
+  "generated_at": "2026-08-20T19:53:06.624787Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -38,41 +38,41 @@
     },
     {
       "story_id": "story_dddc776b066d",
-      "title": "Codex and ChatGPT updates",
+      "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
       "url": "https://developers.openai.com/codex/changelog",
       "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
-          "review": "更新日志没细看，但官方渠道总比营销稿强，先扣水分再谈。"
+          "review": "更新是真更新，但'一览'这词儿，怕不是把挤牙膏说得清新脱俗。"
         },
         "paper-police": {
-          "score": 30,
-          "review": "官方更新日志无论文无代码无基准，仅宣称改进，缺独立验证。"
+          "score": 35,
+          "review": "官方更新日志无论文代码，性能提升无独立验证，仅可作参考。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "Codex 更新直接影响开发流程，看 changelog 就能上手，值得今天试。"
+          "score": 82,
+          "review": "官方更新直接看 changelog，API 变动影响现有集成，今天就得查。"
         }
       }
     },
     {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
+      "story_id": "story_13b553da3c26",
+      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 72,
-          "review": "1-bit 量化跑得动不假，但'更聪明'是拿什么基准测的？内存省了，精度损失只字不提。"
+          "score": 75,
+          "review": "镜像能用是好事，但别急着吹，先看看跑起来卡不卡。"
         },
         "paper-police": {
-          "score": 20,
-          "review": "官方点赞无论文无代码，8GB跑1-bit版是宣传还是实测？缺证据。"
+          "score": 70,
+          "review": "官方公告明确可用，但缺镜像细节和验证，需实际测试确认。"
         },
         "pragmatic": {
-          "score": 85,
-          "review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。"
+          "score": 72,
+          "review": "ARM 开发者的 CI 镜像终于转正，跑 VS2026 构建今天就能换。"
         }
       }
     }

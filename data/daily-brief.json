@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:02:28.156402Z",
+  "generated_at": "2026-08-20T19:48:07.732466Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8545,
-      "importance": 0.8545,
-      "importance_score": 0.8545,
+      "score": 0.8526,
+      "importance": 0.8526,
+      "importance_score": 0.8526,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9693,
+        "recency": 0.9587,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -102,7 +102,7 @@
           "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
           "title_en": "Windows 11 arm64 VS2026 image generally available",
           "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
+          "summary": null,
           "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
           "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
@@ -122,7 +122,7 @@
           "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
           "title_en": "Windows 11 arm64 VS2026 image generally available",
           "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
+          "summary": null,
           "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
           "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.841,
-      "importance": 0.841,
-      "importance_score": 0.841,
+      "score": 0.8391,
+      "importance": 0.8391,
+      "importance_score": 0.8391,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9833,
+        "recency": 0.9726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -158,7 +158,7 @@
         "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
         "title_en": "Windows 11 arm64 VS2026 image generally available",
         "title_original": "Windows 11 arm64 VS2026 image generally available",
-        "summary": "The Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to…\nThe Windows 11 arm64 image with Visual Studio 2026 is now generally available on standard and larger GitHub-hosted runners. To use it in GitHub Actions, update your workflow file to runs-on: windows-11-vs2026-arm .\nGitHub will gradually update the windows-11-arm image to use Visual Studio 2026 by default beginning S",
+        "summary": null,
         "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
         "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
         "source": "GitHub Changelog",
@@ -170,12 +170,12 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
       "story_id": "story_dddc776b066d",
-      "title": "Codex and ChatGPT updates",
+      "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
       "url": "https://developers.openai.com/codex/changelog",
       "primary_url": "https://developers.openai.com/codex/changelog",
       "source": "OpenAI Codex Changelog",
@@ -183,8 +183,8 @@
       "sources": [
         {
           "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-          "title": "Codex and ChatGPT updates",
-          "title_zh": null,
+          "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
+          "title_zh": "Codex 与 ChatGPT 更新一览",
           "title_en": "Codex and ChatGPT updates",
           "title_original": "Codex and ChatGPT updates",
           "summary": null,
@@ -203,8 +203,8 @@
       "items": [
         {
           "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-          "title": "Codex and ChatGPT updates",
-          "title_zh": null,
+          "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
+          "title_zh": "Codex 与 ChatGPT 更新一览",
           "title_en": "Codex and ChatGPT updates",
           "title_original": "Codex and ChatGPT updates",
           "summary": null,
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8252,
+      "importance": 0.8252,
+      "importance_score": 0.8252,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7596,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -239,8 +239,8 @@
       "latest_at": "2026-08-20T00:00:00Z",
       "primary_item": {
         "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-        "title": "Codex and ChatGPT updates",
-        "title_zh": null,
+        "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
+        "title_zh": "Codex 与 ChatGPT 更新一览",
         "title_en": "Codex and ChatGPT updates",
         "title_original": "Codex and ChatGPT updates",
         "summary": null,
@@ -250,35 +250,35 @@
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "Codex 更新直接影响开发流程，看 changelog 就能上手，值得今天试。",
+      "persona_score": 82,
+      "persona_review": "官方更新直接看 changelog，API 变动影响现有集成，今天就得查。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
-      "story_id": "story_e9f43080b634",
-      "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "primary_url": "https://openai.com/index/stampli",
+      "story_id": "story_4a9843552c46",
+      "title": "介绍人工智能期货 / Introducing AI Futures",
+      "url": "https://openai.com/index/introducing-ai-futures",
+      "primary_url": "https://openai.com/index/introducing-ai-futures",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
-          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
-          "summary": null,
-          "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
-          "url": "https://openai.com/index/stampli",
+          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+          "title": "介绍人工智能期货 / Introducing AI Futures",
+          "title_zh": "介绍人工智能期货",
+          "title_en": "Introducing AI Futures",
+          "title_original": "Introducing AI Futures",
+          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nAugust 20, 2026\nBy Dean Ball\nThe post below reflects the views of it",
+          "recommend_reason_zh": "Dean Ball撰文宣布OpenAI新博客AI Futures上线，其Strategic Futures团队聚焦一个核心问题：变革性AI重塑权力、治理与经济之际，自由社会如何重构以保障个人权利？文中引用James Madison与David Hume，指出国家权力或将不再依赖士兵与税收等人类合作。",
+          "url": "https://openai.com/index/introducing-ai-futures",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
+          "published_at": "2026-08-20T07:00:00Z"
         }
       ],
       "source_count": 1,
@@ -287,31 +287,31 @@
       ],
       "items": [
         {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
-          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
-          "summary": null,
-          "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
-          "url": "https://openai.com/index/stampli",
+          "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+          "title": "介绍人工智能期货 / Introducing AI Futures",
+          "title_zh": "介绍人工智能期货",
+          "title_en": "Introducing AI Futures",
+          "title_original": "Introducing AI Futures",
+          "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nAugust 20, 2026\nBy Dean Ball\nThe post below reflects the views of it",
+          "recommend_reason_zh": "Dean Ball撰文宣布OpenAI新博客AI Futures上线，其Strategic Futures团队聚焦一个核心问题：变革性AI重塑权力、治理与经济之际，自由社会如何重构以保障个人权利？文中引用James Madison与David Hume，指出国家权力或将不再依赖士兵与税收等人类合作。",
+          "url": "https://openai.com/index/introducing-ai-futures",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
+          "published_at": "2026-08-20T07:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7596,
+        "ai_relevance": 0.91,
+        "recency": 0.8312,
         "story_heat": 0.0
       },
       "category": "official",
@@ -320,27 +320,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
+      "earliest_at": "2026-08-20T07:00:00Z",
+      "latest_at": "2026-08-20T07:00:00Z",
       "primary_item": {
-        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-        "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-        "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
-        "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-        "title_original": "How ChatGPT Work helps Stampli move ideas to market",
-        "summary": null,
-        "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
-        "url": "https://openai.com/index/stampli",
+        "id": "bd145d40d86f467dd6a10beed7263e931c9e17f1",
+        "title": "介绍人工智能期货 / Introducing AI Futures",
+        "title_zh": "介绍人工智能期货",
+        "title_en": "Introducing AI Futures",
+        "title_original": "Introducing AI Futures",
+        "summary": "Introducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nIntroducing AI Futures, a new OpenAI blog exploring how transformative AI could reshape power, governance, the economy, and individual freedom.\nAugust 20, 2026\nBy Dean Ball\nThe post below reflects the views of it",
+        "recommend_reason_zh": "Dean Ball撰文宣布OpenAI新博客AI Futures上线，其Strategic Futures团队聚焦一个核心问题：变革性AI重塑权力、治理与经济之际，自由社会如何重构以保障个人权利？文中引用James Madison与David Hume，指出国家权力或将不再依赖士兵与税收等人类合作。",
+        "url": "https://openai.com/index/introducing-ai-futures",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "案例故事，无新工具或API，对开发者无直接可用信息。",
+      "persona_score": 30,
+      "persona_review": "期货概念没产品，等具体方案再动手。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -388,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
+      "score": 0.8325,
+      "importance": 0.8325,
+      "importance_score": 0.8325,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9466,
+        "recency": 0.9363,
         "story_heat": 0.0
       },
       "category": "official",
@@ -425,7 +425,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -473,15 +473,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9575,
+        "recency": 0.9471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -509,7 +509,92 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
+      }
+    },
+    {
+      "story_id": "story_e9f43080b634",
+      "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+      "url": "https://openai.com/index/stampli",
+      "primary_url": "https://openai.com/index/stampli",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+          "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+          "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
+          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
+          "summary": null,
+          "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+          "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+          "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
+          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
+          "summary": null,
+          "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
+          "url": "https://openai.com/index/stampli",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8152,
+      "importance": 0.8152,
+      "importance_score": 0.8152,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7513,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T00:00:00Z",
+      "latest_at": "2026-08-20T00:00:00Z",
+      "primary_item": {
+        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
+        "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
+        "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
+        "title_en": "How ChatGPT Work helps Stampli move ideas to market",
+        "title_original": "How ChatGPT Work helps Stampli move ideas to market",
+        "summary": null,
+        "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
+        "url": "https://openai.com/index/stampli",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "案例故事，无新工具或API，对开发者无直接可用信息。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -557,15 +642,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8326,
-      "importance": 0.8326,
-      "importance_score": 0.8326,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9364,
+        "recency": 0.9262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,7 +679,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -642,15 +727,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8881,
+        "recency": 0.8784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,90 +762,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
-      }
-    },
-    {
-      "story_id": "story_07ac88c2e7ee",
-      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-      "url": "https://www.ithome.com/0/992/239.htm",
-      "primary_url": "https://www.ithome.com/0/992/239.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
-          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "title_en": null,
-          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
-          "recommend_reason_zh": "阿里巴巴Qwen-UI-Agent在100+台真机、150+应用环境中训练，自建MobileWorld-Real基准，Android Daily达97.5%，并详解安全停手机制，值得一读。",
-          "url": "https://www.ithome.com/0/992/239.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T09:45:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
-          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "title_en": null,
-          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
-          "recommend_reason_zh": "阿里巴巴Qwen-UI-Agent在100+台真机、150+应用环境中训练，自建MobileWorld-Real基准，Android Daily达97.5%，并详解安全停手机制，值得一读。",
-          "url": "https://www.ithome.com/0/992/239.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T09:45:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8746,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T09:45:51Z",
-      "latest_at": "2026-08-20T09:45:51Z",
-      "primary_item": {
-        "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
-        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-        "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-        "title_en": null,
-        "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
-        "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
-        "recommend_reason_zh": "阿里巴巴Qwen-UI-Agent在100+台真机、150+应用环境中训练，自建MobileWorld-Real基准，Android Daily达97.5%，并详解安全停手机制，值得一读。",
-        "url": "https://www.ithome.com/0/992/239.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 65,
-      "persona_review": "UI Agent 方向有用，但没给 API 或开源地址，先观望。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -837,15 +839,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7449,
-      "importance": 0.7449,
-      "importance_score": 0.7449,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7348,
+        "recency": 0.7268,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -873,7 +875,90 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
+      }
+    },
+    {
+      "story_id": "story_07ac88c2e7ee",
+      "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+      "url": "https://www.ithome.com/0/992/239.htm",
+      "primary_url": "https://www.ithome.com/0/992/239.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+          "recommend_reason_zh": "阿里巴巴Qwen-UI-Agent在100+台真机、150+应用环境中训练，自建MobileWorld-Real基准，Android Daily达97.5%，并详解安全停手机制，值得一读。",
+          "url": "https://www.ithome.com/0/992/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T09:45:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+          "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "title_en": null,
+          "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+          "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+          "recommend_reason_zh": "阿里巴巴Qwen-UI-Agent在100+台真机、150+应用环境中训练，自建MobileWorld-Real基准，Android Daily达97.5%，并详解安全停手机制，值得一读。",
+          "url": "https://www.ithome.com/0/992/239.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-20T09:45:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8651,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-20T09:45:51Z",
+      "latest_at": "2026-08-20T09:45:51Z",
+      "primary_item": {
+        "id": "639c31e3f086c0a76f0dd5c5b512d606d2e82585",
+        "title": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "title_zh": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "title_en": null,
+        "title_original": "阿里发布 Qwen-UI-Agent，主打让模型真正\"会用\"每一块屏幕",
+        "summary": "阿里巴巴正式推出 Qwen-UI-Agent，一个以真实世界为中心的 GUI 智能体基座模型，覆盖移动端、电脑端、网页端及深度搜索（DeepSearch）环境。",
+        "recommend_reason_zh": "阿里巴巴Qwen-UI-Agent在100+台真机、150+应用环境中训练，自建MobileWorld-Real基准，Android Daily达97.5%，并详解安全停手机制，值得一读。",
+        "url": "https://www.ithome.com/0/992/239.htm",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 65,
+      "persona_review": "UI Agent 方向有用，但没给 API 或开源地址，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -921,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8325,
-      "importance": 0.8325,
-      "importance_score": 0.8325,
+      "score": 0.8307,
+      "importance": 0.8307,
+      "importance_score": 0.8307,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9362,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "official",
@@ -958,7 +1043,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1006,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.737,
+      "importance": 0.737,
+      "importance_score": 0.737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.957,
+        "recency": 0.9466,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,7 +1126,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1089,15 +1174,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9224,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,7 +1209,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1172,15 +1257,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7452,
-      "importance": 0.7452,
-      "importance_score": 0.7452,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8758,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1207,7 +1292,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1255,15 +1340,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7288,
-      "importance": 0.7288,
-      "importance_score": 0.7288,
+      "score": 0.7268,
+      "importance": 0.7268,
+      "importance_score": 0.7268,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9844,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1290,7 +1375,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1338,15 +1423,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7628,
+        "recency": 0.7545,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,7 +1458,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1421,15 +1506,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7432,
-      "importance": 0.7432,
-      "importance_score": 0.7432,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8647,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1456,7 +1541,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1504,15 +1589,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7291,
+        "recency": 0.7211,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1541,7 +1626,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     },
     {
@@ -1589,15 +1674,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8523,
+        "recency": 0.843,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1624,90 +1709,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
-      }
-    },
-    {
-      "story_id": "story_56e8099b2502",
-      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-      "url": "https://www.aibase.com/news/30504",
-      "primary_url": "https://www.aibase.com/news/30504",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": null,
-          "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:58:31.373564Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-          "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "title_en": null,
-          "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-          "summary": null,
-          "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
-          "url": "https://www.aibase.com/news/30504",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:58:31.373564Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8523,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:58:31.373564Z",
-      "latest_at": "2026-08-20T07:58:31.373564Z",
-      "primary_item": {
-        "id": "f831d58f78f8830e2e01e7f3763f9be5633036fa",
-        "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_zh": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "title_en": null,
-        "title_original": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
-        "summary": null,
-        "recommend_reason_zh": "通义千问官方公开感谢Unsloth，其Dynamic V3量化方案让Qwen3.8-27B更小更聪明，同体积下准确率提升超10%，1-bit版仅需8GB内存即可本地运行。",
-        "url": "https://www.aibase.com/news/30504",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T19:06:52.793297Z"
+        "scored_at": "2026-08-20T19:52:59.542165Z"
       }
     }
   ]
