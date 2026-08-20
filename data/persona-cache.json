@@ -6384,6 +6384,18 @@
       "review": "官方更新但无技术细节，未开源未复现，等文档和实测。",
       "title_hash": "f9f0db06",
       "scored_at": "2026-08-20T15:55:36.497545Z"
+    },
+    "story_a4fea9f5c87a|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "多步检索能直接提升RAG准确率，做文档问答的可以试，但先看API文档。",
+      "title_hash": "4e22f2c7",
+      "scored_at": "2026-08-20T16:59:18.855694Z"
+    },
+    "story_a623b326864e|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "Google 数据库向量搜索到百亿级，做 RAG 的可以评估迁移，但先看是否兼容现有栈。",
+      "title_hash": "124af008",
+      "scored_at": "2026-08-20T16:59:19.980890Z"
     }
   }
 }
