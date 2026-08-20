@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T07:11:48.441677Z",
+  "generated_at": "2026-08-20T08:07:11.029742Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_56e8099b2502",
+      "title": "通义千问官方点赞！Unsloth Dynamic V3 让 Qwen3.8-27B 更小更聪明，1-bit 版 8GB 内存就能跑",
+      "url": "https://www.aibase.com/news/30504",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "1-bit 量化跑得动不假，但'更聪明'是拿什么基准测的？内存省了，精度损失只字不提。"
+        },
+        "paper-police": {
+          "score": 20,
+          "review": "官方点赞无论文无代码，8GB跑1-bit版是宣传还是实测？缺证据。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "1-bit 量化 8GB 可跑 27B，本地部署门槛大降，今天就能试。"
+        }
+      }
+    },
+    {
       "story_id": "story_5eb7373b87f5",
       "title": "为前沿模型提供零数据保留（Zero Data Retention） / Offering Zero Data Retention for frontier models",
       "url": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 72,
           "review": "API 数据合规选项落地，做企业级应用的可评估接入。"
-        }
-      }
-    },
-    {
-      "story_id": "story_c2a932b4c177",
-      "title": "CodeQL 2.26.3 改进了 GitHub Actions 查询和 JavaScript 建模 / CodeQL 2.26.3 improves GitHub Actions queries and JavaScript modeling",
-      "url": "https://github.blog/changelog/2026-08-19-codeql-2-26-3-improves-github-actions-queries-and-javascript-modeling",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "增量更新，改进属实但别吹成革命，常规操作。"
-        },
-        "paper-police": {
-          "score": 55,
-          "review": "官方更新有细节，但无论文代码，改进效果待验证。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "CodeQL 更新对用 GitHub Actions 做 JS 安全扫描的团队有用，升级后查询更准。"
         }
       }
     }
