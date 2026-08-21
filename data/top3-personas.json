@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T20:53:34.556445Z",
+  "generated_at": "2026-08-21T21:43:41.816737Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_7b114e120e12",
+      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+      "url": "https://www.aibase.com/news/30531",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "开源是好事，但'全面'二字先打五折，看文档和社区反馈再吹。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "仅一篇报道称开源，无论文无代码链接无评测，证据不足。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "开源Harness能直接抄训练和评测管线，做编程Agent的今天就能用。"
+        }
+      }
+    },
+    {
       "story_id": "story_23e3c927edf2",
       "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
       "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 78,
           "review": "延迟降54%是硬指标，但需Blackwell和自家框架，短期难直接抄。"
-        }
-      }
-    },
-    {
-      "story_id": "story_f852499667bc",
-      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "Copilot 进 Slack 不新鲜，但官方更新总算补上协作短板，别吹成革命就行。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无代码无评测，等独立验证再定论。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "Copilot 进 Slack 能少切窗口，但得看是否支持私有代码库，先试再推。"
         }
       }
     }
