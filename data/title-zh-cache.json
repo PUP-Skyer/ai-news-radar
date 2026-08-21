@@ -40069,5 +40069,21 @@
   "re1|ac2e5597b2d75ef5c98aade20d6d50cf9a5030c6": "",
   "re1|c0911c5c29c43acc8c529553ec5defd46e88e937": "Codex CLI 在 AWS Bedrock 上无法为 GPT-5.6 Sol 启用显式提示缓存，实测一次本地会话中 76 个请求产生了 670 万 cache-write tokens，缓存命中为零，缓存写入约占模型支出的 85%，导致成本激增。",
   "re1|6c8e3c4b496a993685807b5aa133bd469e72b61f": "Argentic用Bitcoin Lightning搭建了互联网首个面向AI抓取代理的L402机器收费亭，无需账户或API密钥，代理只需支付sats就能以光速访问开放网络，专为机器间支付设计。",
-  "re1|2c9891563033232c638cae911895a1ebaaa7695c": ""
+  "re1|2c9891563033232c638cae911895a1ebaaa7695c": "",
+  "ds1|OpenAI's GPT-Image-2 can now generate images without a background": "OpenAI的GPT-Image-2现在可生成无背景图像",
+  "ds1|OpenAI ships a Messages plugin that summarises who you talk to and what about": "OpenAI 推出 Messages 插件，可总结你的聊天对象和话题。",
+  "ds1|His robotics company IPO'd this week. He still thinks a humanoid breakthrough will take years.": "他的机器人公司本周上市，但他仍认为人形机器人突破还需数年。",
+  "ds1|Seed: Minimal, self-modifying agent harness": "Seed：极简的自我修改代理框架",
+  "te1|6bcdec61a696850f0066ab38702d96afb5ba6ab6": "",
+  "te1|ba88ff36e3e015263424693d9450de5e6aae688d": "",
+  "te1|ae9636c51a7168c48fcdf52861f3f0a8868ec5b5": "",
+  "re1|79ca526196ed9e65fe01549b007e1cb127345d26": "OpenAI全面开源Codex Harness，这一Codex背后的智能体运行时环境支持Codex Web、CLI和IDE等场景。核心包含Agent Loop、线程生命周期与工具执行，开发者可借助Codex App Server以JSON-RPC协议集成定制客户端。",
+  "re1|b22b609b550e88e6a79cdadd3df6d8ef561d4cff": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
+  "re1|9814bd6cec27208b55c0859513efecc6b59609a1": "OpenAI为GPT-Image-2 API预览透明背景生成，alpha通道在生成时直接烘焙，优于传统抠图，仅需background=transparent参数，Cookbook已覆盖产品图、PPT图表等四个用例。",
+  "re1|14617e4a046b5748592cd8cd52835412964ed60f": "Argentic 是一个基于 L402 协议的 Lightning 网络收费亭，专为 AI 爬虫代理设计。作者在原文中坦言目前信息很少，甚至找不到 docs 文档部分，值得关注其实际落地情况。",
+  "re1|6bcdec61a696850f0066ab38702d96afb5ba6ab6": "",
+  "re1|ba88ff36e3e015263424693d9450de5e6aae688d": "",
+  "re1|ae9636c51a7168c48fcdf52861f3f0a8868ec5b5": "",
+  "re1|7bf5e03696b6ef15a6a3723a9e5ea06fb11f9fbc": "",
+  "re1|ba846a0e49867bdc57d2075b4b5379cb32809c46": "Unitree Robotics CEO Wang Xingxing在世界机器人大会上预测，人形机器人实现80%任务无需训练的“ChatGPT时刻”仍需2至10年；该公司本周IPO募资9亿美元，首日股价暴涨460%。"
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:26:02.007238Z",
+  "generated_at": "2026-08-21T08:10:52.442523Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -57,22 +57,22 @@
       }
     },
     {
-      "story_id": "story_f02c0a256fdb",
-      "title": "Claude Platform 正式上线Computer Use、Skills API 与 Files API",
-      "url": "https://www.aibase.com/news/30522",
+      "story_id": "story_7b114e120e12",
+      "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
+      "url": "https://www.aibase.com/news/30531",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "API 三件套齐活，但 Computer Use 的 demo 环境有多干净，心里没数？"
+          "review": "开源是好事，但'全面'二字先打五折，看文档和社区反馈再吹。"
         },
         "paper-police": {
           "score": 30,
-          "review": "官方发布无论文无代码无第三方评测，仅新闻稿，证据不足。"
+          "review": "仅一篇报道称开源，无论文无代码链接无评测，证据不足。"
         },
         "pragmatic": {
           "score": 82,
-          "review": "API 已开放，能直接接 Computer Use 和 Skills，做自动化项目今天就能试。"
+          "review": "开源Harness能直接抄训练和评测管线，做编程Agent的今天就能用。"
         }
       }
     }
