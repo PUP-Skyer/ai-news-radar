@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T14:09:12.455557Z",
+  "generated_at": "2026-08-21T15:05:04.444569Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -37,10 +37,30 @@
       }
     },
     {
+      "story_id": "story_0e71951a8402",
+      "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "rank": 2,
+      "reviews": {
+        "cynic": {
+          "score": 45,
+          "review": "10倍费用漏洞，AWS账单比模型先学会翻倍。"
+        },
+        "paper-police": {
+          "score": 30,
+          "review": "仅凭GitHub issue和论坛讨论，无官方确认或复现报告，费用增加10倍说法待验证。"
+        },
+        "pragmatic": {
+          "score": 85,
+          "review": "跑 Codex 的赶紧查账单，10 倍费用漏洞今天就能止损。"
+        }
+      }
+    },
+    {
       "story_id": "story_7b114e120e12",
       "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
       "url": "https://www.aibase.com/news/30531",
-      "rank": 2,
+      "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -53,26 +73,6 @@
         "pragmatic": {
           "score": 82,
           "review": "开源Harness能直接抄训练和评测管线，做编程Agent的今天就能用。"
-        }
-      }
-    },
-    {
-      "story_id": "story_13b553da3c26",
-      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "rank": 3,
-      "reviews": {
-        "cynic": {
-          "score": 75,
-          "review": "镜像能用是好事，但别急着吹，先看看跑起来卡不卡。"
-        },
-        "paper-police": {
-          "score": 70,
-          "review": "官方公告明确可用，但缺镜像细节和验证，需实际测试确认。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "ARM 开发者的 CI 镜像终于转正，跑 VS2026 构建今天就能换。"
         }
       }
     }
