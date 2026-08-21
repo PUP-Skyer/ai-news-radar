@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T17:05:02.575156Z",
+  "generated_at": "2026-08-21T18:00:15.526297Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_0e71951a8402",
-      "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
-      "url": "https://github.com/openai/codex/issues/37674",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 45,
-          "review": "10倍费用漏洞，AWS账单比模型先学会翻倍。"
-        },
-        "paper-police": {
-          "score": 30,
-          "review": "仅凭GitHub issue和论坛讨论，无官方确认或复现报告，费用增加10倍说法待验证。"
-        },
-        "pragmatic": {
-          "score": 85,
-          "review": "跑 Codex 的赶紧查账单，10 倍费用漏洞今天就能止损。"
-        }
-      }
-    },
-    {
       "story_id": "story_7b114e120e12",
       "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
       "url": "https://www.aibase.com/news/30531",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -60,7 +40,7 @@
       "story_id": "story_f852499667bc",
       "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
       "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 70,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 72,
           "review": "Copilot 进 Slack 能少切窗口，但得看是否支持私有代码库，先试再推。"
+        }
+      }
+    },
+    {
+      "story_id": "story_99aa6c57026b",
+      "title": "在 Microsoft Teams 中通过 GitHub Copilot 共享 Agent 工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 72,
+          "review": "把Copilot塞进Teams不新鲜，但共享Agent工作流算实用，吹得不算过。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方更新有细节但无代码无评测，等实际体验或第三方验证。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Teams 里共享 Copilot Agent，协作场景能直接抄，但得先看权限配置。"
         }
       }
     }
