@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T10:50:13.744609Z",
+  "generated_at": "2026-08-21T11:44:50.907378Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7716,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8168,
-      "importance": 0.8168,
-      "importance_score": 0.8168,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8489,
+        "recency": 0.8378,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,150 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
+      }
+    },
+    {
+      "story_id": "story_1942460359a8",
+      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+      "url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
+      "source": "DeepSeek：API 更新日志",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+          "recommend_reason_zh": "本文介绍DeepSeek-V4-Flash-Vision-Exp上线API平台，纯文本能力与V4-Flash持平，多模态Agent能力大幅跃升并接近Opus-4.8，为视觉理解任务提供新选择。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "c0e5aa36939a18104f0fbf98078d162328862503",
+          "title": "DeepSeek-v4-flash-vision-exp：图像缩放后每图最多384 token",
+          "title_zh": "DeepSeek-v4-flash-vision-exp：图像缩放后每图最多384 token",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": "> Images are converted into tokens based on their dimensions, and these tokens are billed together with your text tokens. > Before inference, every image is automatically resized: > - Images with a total pixel count below roughly 384×384 are scaled up while preserving their aspect ratio. > - Larger images are scaled down while preserving their aspect ratio so that the total pixel count after resizing is roughly that of an 800×800 image. > As a result, there is an upper bound of 384 tokens per im",
+          "recommend_reason_zh": "DeepSeek-v4-flash-vision-exp把图片自动缩放后按token计费，单张上限384 tokens，2000×2000和5000×5000图片消耗相同，算下来每美元可处理约2500张图。",
+          "url": "https://news.ycombinator.com/item?id=49386163",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T11:31:28.365000Z"
+        },
+        {
+          "id": "a12b55b02d9bf63d772eb34c75c073566b570131",
+          "title": "DeepSeek-v4-flash-vision-exp支持图文输入，可读截图文字、分析图表",
+          "title_zh": "DeepSeek-v4-flash-vision-exp支持图文输入，可读截图文字、分析图表",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": "The deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze charts, and more.\nThe deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze charts, and more.\nThe deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze chart",
+          "recommend_reason_zh": "DeepSeek-v4-flash-vision-exp支持图片与文本输入，可描述图片、读取截图文字、分析图表，兼容OpenAI与Anthropic接口，单图最多384 tokens，文件上限64 MiB。",
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T10:33:56Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "DeepSeek：API 更新日志",
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "title_en": null,
+          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+          "recommend_reason_zh": "本文介绍DeepSeek-V4-Flash-Vision-Exp上线API平台，纯文本能力与V4-Flash持平，多模态Agent能力大幅跃升并接近Opus-4.8，为视觉理解任务提供新选择。",
+          "url": "https://api-docs.deepseek.com/zh-cn/updates",
+          "source": "DeepSeek：API 更新日志",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:26:04.727000Z"
+        },
+        {
+          "id": "c0e5aa36939a18104f0fbf98078d162328862503",
+          "title": "DeepSeek-v4-flash-vision-exp：图像缩放后每图最多384 token",
+          "title_zh": "DeepSeek-v4-flash-vision-exp：图像缩放后每图最多384 token",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": "> Images are converted into tokens based on their dimensions, and these tokens are billed together with your text tokens. > Before inference, every image is automatically resized: > - Images with a total pixel count below roughly 384×384 are scaled up while preserving their aspect ratio. > - Larger images are scaled down while preserving their aspect ratio so that the total pixel count after resizing is roughly that of an 800×800 image. > As a result, there is an upper bound of 384 tokens per im",
+          "recommend_reason_zh": "DeepSeek-v4-flash-vision-exp把图片自动缩放后按token计费，单张上限384 tokens，2000×2000和5000×5000图片消耗相同，算下来每美元可处理约2500张图。",
+          "url": "https://news.ycombinator.com/item?id=49386163",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T11:31:28.365000Z"
+        },
+        {
+          "id": "a12b55b02d9bf63d772eb34c75c073566b570131",
+          "title": "DeepSeek-v4-flash-vision-exp支持图文输入，可读截图文字、分析图表",
+          "title_zh": "DeepSeek-v4-flash-vision-exp支持图文输入，可读截图文字、分析图表",
+          "title_en": "DeepSeek-v4-flash-vision-exp",
+          "title_original": "DeepSeek-v4-flash-vision-exp",
+          "summary": "The deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze charts, and more.\nThe deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze charts, and more.\nThe deepseek-v4-flash-vision-exp model accepts images alongside text, so you can ask the model to describe pictures, read text from screenshots, analyze chart",
+          "recommend_reason_zh": "DeepSeek-v4-flash-vision-exp支持图片与文本输入，可描述图片、读取截图文字、分析图表，兼容OpenAI与Anthropic接口，单图最多384 tokens，文件上限64 MiB。",
+          "url": "https://api-docs.deepseek.com/guides/vision",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T10:33:56Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.67,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9672,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:26:04.727000Z",
+      "latest_at": "2026-08-21T11:31:28.365000Z",
+      "primary_item": {
+        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
+        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "title_en": null,
+        "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
+        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
+        "recommend_reason_zh": "本文介绍DeepSeek-V4-Flash-Vision-Exp上线API平台，纯文本能力与V4-Flash持平，多模态Agent能力大幅跃升并接近Opus-4.8，为视觉理解任务提供新选择。",
+        "url": "https://api-docs.deepseek.com/zh-cn/updates",
+        "source": "DeepSeek：API 更新日志",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "新模型发布但仅限API预览，先看文档再决定是否接入，别急着改代码。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -218,15 +361,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8049,
-      "importance": 0.8049,
-      "importance_score": 0.8049,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7828,
+        "recency": 0.7726,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -303,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.773,
-      "importance": 0.773,
-      "importance_score": 0.773,
+      "score": 0.7707,
+      "importance": 0.7707,
+      "importance_score": 0.7707,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9799,
+        "recency": 0.9671,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -339,7 +482,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -356,7 +499,7 @@
           "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
           "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-          "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "字节Seed部门上周完成组织重组，Seed Foundation Model新设四个一级部门并统一向吴永辉汇报，整合预训练数据、强化学习与后训练资源，其中Pretrain Data整合文本、编程、视觉和语音团队，Product Posttrain-Work则主攻B端Agentic模型。",
           "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
@@ -376,7 +519,7 @@
           "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
           "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-          "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+          "summary": null,
           "recommend_reason_zh": "字节Seed部门上周完成组织重组，Seed Foundation Model新设四个一级部门并统一向吴永辉汇报，整合预训练数据、强化学习与后训练资源，其中Pretrain Data整合文本、编程、视觉和语音团队，Product Posttrain-Work则主攻B端Agentic模型。",
           "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
@@ -387,15 +530,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9869,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,7 +554,7 @@
         "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
         "title_en": null,
         "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
-        "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+        "summary": null,
         "recommend_reason_zh": "字节Seed部门上周完成组织重组，Seed Foundation Model新设四个一级部门并统一向吴永辉汇报，整合预训练数据、强化学习与后训练资源，其中Pretrain Data整合文本、编程、视觉和语音团队，Product Posttrain-Work则主攻B端Agentic模型。",
         "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
@@ -423,7 +566,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -471,15 +614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7564,
+      "importance": 0.7564,
+      "importance_score": 0.7564,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7622,
+        "recency": 0.7523,
         "story_heat": 0.0
       },
       "category": "official",
@@ -507,90 +650,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
-      }
-    },
-    {
-      "story_id": "story_1942460359a8",
-      "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-      "url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "primary_url": "https://api-docs.deepseek.com/zh-cn/updates",
-      "source": "DeepSeek：API 更新日志",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-          "recommend_reason_zh": "本文介绍DeepSeek-V4-Flash-Vision-Exp上线API平台，纯文本能力与V4-Flash持平，多模态Agent能力大幅跃升并接近Opus-4.8，为视觉理解任务提供新选择。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T09:26:04.727000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "DeepSeek：API 更新日志"
-      ],
-      "items": [
-        {
-          "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-          "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "title_en": null,
-          "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
-          "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-          "recommend_reason_zh": "本文介绍DeepSeek-V4-Flash-Vision-Exp上线API平台，纯文本能力与V4-Flash持平，多模态Agent能力大幅跃升并接近Opus-4.8，为视觉理解任务提供新选择。",
-          "url": "https://api-docs.deepseek.com/zh-cn/updates",
-          "source": "DeepSeek：API 更新日志",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-21T09:26:04.727000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.749,
-      "importance": 0.749,
-      "importance_score": 0.749,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.67,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.98,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-21T09:26:04.727000Z",
-      "latest_at": "2026-08-21T09:26:04.727000Z",
-      "primary_item": {
-        "id": "3292523df0d3dc1a19bfb08fadf619c3e5dabd12",
-        "title": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "title_zh": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "title_en": null,
-        "title_original": "DeepSeek-V4-Flash-Vision-Exp 发布",
-        "summary": "DeepSeek 上线实验性多模态视觉理解模型 DeepSeek-V4-Flash-Vision-Exp，可通过设置 model='deepseek-v4-flash-vision-exp' 在 API 平台访问。",
-        "recommend_reason_zh": "本文介绍DeepSeek-V4-Flash-Vision-Exp上线API平台，纯文本能力与V4-Flash持平，多模态Agent能力大幅跃升并接近Opus-4.8，为视觉理解任务提供新选择。",
-        "url": "https://api-docs.deepseek.com/zh-cn/updates",
-        "source": "DeepSeek：API 更新日志",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "新模型发布但仅限API预览，先看文档再决定是否接入，别急着改代码。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -638,15 +698,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7535,
+        "recency": 0.7437,
         "story_heat": 0.0
       },
       "category": "official",
@@ -675,7 +735,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -723,15 +783,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -759,7 +819,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -807,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7454,
+        "recency": 0.7357,
         "story_heat": 0.0
       },
       "category": "official",
@@ -844,7 +904,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -892,15 +952,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -928,7 +988,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -976,15 +1036,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7964,
+      "importance": 0.7964,
+      "importance_score": 0.7964,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7453,
+        "recency": 0.7355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1013,7 +1073,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1061,15 +1121,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7652,
-      "importance": 0.7652,
-      "importance_score": 0.7652,
+      "score": 0.7628,
+      "importance": 0.7628,
+      "importance_score": 0.7628,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9865,
+        "recency": 0.9736,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1097,7 +1157,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1145,15 +1205,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9739,
+        "recency": 0.9612,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1181,7 +1241,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1229,15 +1289,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.9472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1265,7 +1325,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1428,15 +1488,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5899,
-      "importance": 0.5899,
-      "importance_score": 0.5899,
+      "score": 0.5879,
+      "importance": 0.5879,
+      "importance_score": 0.5879,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8281,
+        "recency": 0.8172,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1463,7 +1523,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1511,15 +1571,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
+      "score": 0.7581,
+      "importance": 0.7581,
+      "importance_score": 0.7581,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.9472,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1547,7 +1607,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1653,15 +1713,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5612,
-      "importance": 0.5612,
-      "importance_score": 0.5612,
+      "score": 0.5589,
+      "importance": 0.5589,
+      "importance_score": 0.5589,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9464,
+        "recency": 0.9341,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1688,7 +1748,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1794,15 +1854,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5541,
-      "importance": 0.5541,
-      "importance_score": 0.5541,
+      "score": 0.552,
+      "importance": 0.552,
+      "importance_score": 0.552,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9071,
+        "recency": 0.8953,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1829,7 +1889,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     },
     {
@@ -1935,15 +1995,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5498,
-      "importance": 0.5498,
-      "importance_score": 0.5498,
+      "score": 0.5477,
+      "importance": 0.5477,
+      "importance_score": 0.5477,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8831,
+        "recency": 0.8716,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1970,7 +2030,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T11:01:26.889719Z"
+        "scored_at": "2026-08-21T11:56:28.157606Z"
       }
     }
   ]
