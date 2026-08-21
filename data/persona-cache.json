@@ -1,54 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_cd21c6fddb56|pragmatic|0a5c5b24": {
-      "score": 30,
-      "review": "打击滥用是安全姿态，对开发者无直接工具价值，看看即可。",
-      "title_hash": "8fd2dea7",
-      "scored_at": "2026-07-31T18:10:55.964431Z"
-    },
-    "story_934172c730ea|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "npm 收紧令牌权限，CI 里绕过 2FA 的配置得改，今天就要检查。",
-      "title_hash": "3a629940",
-      "scored_at": "2026-07-31T18:10:57.231354Z"
-    },
-    "story_c38e05787678|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "开源项目可clone，做动画配音的今天就能试，但效果待验证。",
-      "title_hash": "d0ca122c",
-      "scored_at": "2026-07-31T18:10:58.285692Z"
-    },
-    "story_f583085d8c7d|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "新模型上线可测，但激活参数少，Agent场景效果待验证，先跑基准再决定。",
-      "title_hash": "73cdb04b",
-      "scored_at": "2026-07-31T18:10:59.336652Z"
-    },
-    "story_a8a5dd7a485b|cynic|f4237a62": {
-      "score": 55,
-      "review": "公测就敢叫V4-Flash，Agent能力爆发？先跑通个真实场景再说。",
-      "title_hash": "e2620e4c",
-      "scored_at": "2026-07-31T18:11:00.657984Z"
-    },
-    "story_a8a5dd7a485b|paper-police|966065bf": {
-      "score": 25,
-      "review": "仅官方公告称API公测，无论文代码或第三方评测，Agent能力缺乏实证。",
-      "title_hash": "e2620e4c",
-      "scored_at": "2026-07-31T18:11:01.933021Z"
-    },
-    "story_934172c730ea|cynic|f4237a62": {
-      "score": 72,
-      "review": "补了个安全洞，但早干嘛去了？npm 生态的信任修复还差得远。",
-      "title_hash": "3a629940",
-      "scored_at": "2026-07-31T18:11:03.213135Z"
-    },
-    "story_934172c730ea|paper-police|966065bf": {
-      "score": 20,
-      "review": "官方公告无技术细节，无代码无评测，仅凭声明难证安全性。",
-      "title_hash": "3a629940",
-      "scored_at": "2026-07-31T18:11:04.244449Z"
-    },
     "story_f3f30fdb88a1|pragmatic|0a5c5b24": {
       "score": 72,
       "review": "企业团队可精确指定模型策略，权限管控更细，管理员今天就能配。",
@@ -6486,6 +6438,48 @@
       "review": "官方更新有细节但无代码无评测，等实际体验或第三方验证。",
       "title_hash": "40188f7d",
       "scored_at": "2026-08-21T18:00:15.526239Z"
+    },
+    "story_a1a025194e2c|pragmatic|0a5c5b24": {
+      "score": 82,
+      "review": "崩溃恢复从分钟级降到亚秒级，生产环境省心，值得今天试。",
+      "title_hash": "30c571cc",
+      "scored_at": "2026-08-21T19:10:03.167528Z"
+    },
+    "story_23e3c927edf2|pragmatic|0a5c5b24": {
+      "score": 78,
+      "review": "延迟降54%是硬指标，但需Blackwell和自家框架，短期难直接抄。",
+      "title_hash": "aa2a8ae0",
+      "scored_at": "2026-08-21T19:10:04.747842Z"
+    },
+    "story_6330aea85a01|pragmatic|0a5c5b24": {
+      "score": 72,
+      "review": "安全能力扩展对防御者有用，但没给具体接口或定价，先观望。",
+      "title_hash": "42daabd4",
+      "scored_at": "2026-08-21T19:10:06.401551Z"
+    },
+    "story_a1a025194e2c|cynic|f4237a62": {
+      "score": 82,
+      "review": "缓存权重省重启时间，思路实在，但别吹成颠覆，先看生产环境扛不扛得住。",
+      "title_hash": "30c571cc",
+      "scored_at": "2026-08-21T19:10:07.889836Z"
+    },
+    "story_a1a025194e2c|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客给了细节和数字，但无论文无代码，等开源或复现再定论。",
+      "title_hash": "30c571cc",
+      "scored_at": "2026-08-21T19:10:09.525478Z"
+    },
+    "story_23e3c927edf2|cynic|f4237a62": {
+      "score": 72,
+      "review": "54%降幅有硬数据，但只报批处理1，峰值吞吐呢？",
+      "title_hash": "aa2a8ae0",
+      "scored_at": "2026-08-21T19:10:11.136817Z"
+    },
+    "story_23e3c927edf2|paper-police|966065bf": {
+      "score": 45,
+      "review": "博客给了延迟数字但无论文代码，等第三方复现再定论。",
+      "title_hash": "aa2a8ae0",
+      "scored_at": "2026-08-21T19:10:12.735991Z"
     }
   }
 }

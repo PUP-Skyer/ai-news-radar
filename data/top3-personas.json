@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:00:15.526297Z",
+  "generated_at": "2026-08-21T19:10:12.736049Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,10 +17,30 @@
   ],
   "items": [
     {
+      "story_id": "story_a1a025194e2c",
+      "title": "SGLang 推出 Weight Cache Daemon，实现亚秒级引擎重启 / Blog Fast Engine Recovery： Sub-Second Engine Restart for SGLang via Weight Cache Daemon Nowadays， State-of-the-Art （SOTA） models are getting much bigger and reloading the model service after a crash is very expensive. Therefore， we are introducing the Weight Cache Daemon， a persistent GP… Ant Ling Infra Team （Ant Group）， Alibaba， SGLang Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-sglang-fast-recovery",
+      "rank": 1,
+      "reviews": {
+        "cynic": {
+          "score": 82,
+          "review": "缓存权重省重启时间，思路实在，但别吹成颠覆，先看生产环境扛不扛得住。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "博客给了细节和数字，但无论文无代码，等开源或复现再定论。"
+        },
+        "pragmatic": {
+          "score": 82,
+          "review": "崩溃恢复从分钟级降到亚秒级，生产环境省心，值得今天试。"
+        }
+      }
+    },
+    {
       "story_id": "story_7b114e120e12",
       "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
       "url": "https://www.aibase.com/news/30531",
-      "rank": 1,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -37,42 +57,22 @@
       }
     },
     {
-      "story_id": "story_f852499667bc",
-      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
-      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
-      "rank": 2,
-      "reviews": {
-        "cynic": {
-          "score": 70,
-          "review": "Copilot 进 Slack 不新鲜，但官方更新总算补上协作短板，别吹成革命就行。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客有细节但无代码无评测，等独立验证再定论。"
-        },
-        "pragmatic": {
-          "score": 72,
-          "review": "Copilot 进 Slack 能少切窗口，但得看是否支持私有代码库，先试再推。"
-        }
-      }
-    },
-    {
-      "story_id": "story_99aa6c57026b",
-      "title": "在 Microsoft Teams 中通过 GitHub Copilot 共享 Agent 工作 / Shared agentic work with GitHub Copilot in Microsoft Teams",
-      "url": "https://github.blog/changelog/2026-08-21-shared-agentic-work-with-github-copilot-in-microsoft-teams",
+      "story_id": "story_23e3c927edf2",
+      "title": "Ling-3.0-flash 在 4 块 Blackwell GPU 上如何将批处理 1 解码延迟降低 54% / Blog Chasing the Batch-1 Floor： Ling-3.0-flash Speculative Decode on Blackwell Batch-1 decode keeps getting more important. Xiaomi MiMo， for example， announced MiMo-V2.5-Pro UltraSpeed in June， claiming 1，000 tok/s decode on a one-trillion-parameter MoE model. Batch 1 gives an … RadixArk SGLang Team， Ant Ling Infra Team",
+      "url": "https://www.lmsys.org/blog/2026-08-21-ling3-flash-spec-decode-blackwell",
       "rank": 3,
       "reviews": {
         "cynic": {
           "score": 72,
-          "review": "把Copilot塞进Teams不新鲜，但共享Agent工作流算实用，吹得不算过。"
+          "review": "54%降幅有硬数据，但只报批处理1，峰值吞吐呢？"
         },
         "paper-police": {
           "score": 45,
-          "review": "官方更新有细节但无代码无评测，等实际体验或第三方验证。"
+          "review": "博客给了延迟数字但无论文代码，等第三方复现再定论。"
         },
         "pragmatic": {
-          "score": 72,
-          "review": "Teams 里共享 Copilot Agent，协作场景能直接抄，但得先看权限配置。"
+          "score": 78,
+          "review": "延迟降54%是硬指标，但需Blackwell和自家框架，短期难直接抄。"
         }
       }
     }
