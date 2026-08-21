@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:42:49.380200Z",
+  "generated_at": "2026-08-21T01:59:43.063271Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8378,
+      "importance": 0.8378,
+      "importance_score": 0.8378,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9061,
+        "recency": 0.8767,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,30 +85,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
-      "story_id": "story_13b553da3c26",
-      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "story_id": "story_85ec019c932d",
+      "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+      "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
+      "primary_url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-          "title_en": "Windows 11 arm64 VS2026 image generally available",
-          "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_zh": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等",
+          "title_en": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_original": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nYou can now pin saved views ⁠ to the repository issues sidebar, making the views you use most just one click away, even when the sidebar is collapsed.\nYou can now see profile avatars for reactions on issues.\nYou can now adjust the Issues Dashboard density to see more issues at once\nThe issue dependency REST API endpoints (blo",
+          "recommend_reason_zh": "GitHub现已支持将saved views固定到repository issues sidebar，即便折叠侧边栏也能一键访问；同时可调整Issues Dashboard密度查看更多issue，且依赖REST API会按token权限过滤结果。",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-20T23:29:34Z"
         }
       ],
       "source_count": 1,
@@ -117,31 +117,31 @@
       ],
       "items": [
         {
-          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-          "title_en": "Windows 11 arm64 VS2026 image generally available",
-          "title_original": "Windows 11 arm64 VS2026 image generally available",
-          "summary": null,
-          "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
-          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+          "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+          "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_zh": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等",
+          "title_en": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "title_original": "Pinning saved views to the repository issues sidebar is generally available and more",
+          "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nYou can now pin saved views ⁠ to the repository issues sidebar, making the views you use most just one click away, even when the sidebar is collapsed.\nYou can now see profile avatars for reactions on issues.\nYou can now adjust the Issues Dashboard density to see more issues at once\nThe issue dependency REST API endpoints (blo",
+          "recommend_reason_zh": "GitHub现已支持将saved views固定到repository issues sidebar，即便折叠侧边栏也能一键访问；同时可调整Issues Dashboard密度查看更多issue，且依赖REST API会按token权限过滤结果。",
+          "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T17:52:38Z"
+          "published_at": "2026-08-20T23:29:34Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8295,
-      "importance": 0.8295,
-      "importance_score": 0.8295,
+      "score": 0.8376,
+      "importance": 0.8376,
+      "importance_score": 0.8376,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9192,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "official",
@@ -150,112 +150,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T17:52:38Z",
-      "latest_at": "2026-08-20T17:52:38Z",
+      "earliest_at": "2026-08-20T23:29:34Z",
+      "latest_at": "2026-08-20T23:29:34Z",
       "primary_item": {
-        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
-        "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
-        "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
-        "title_en": "Windows 11 arm64 VS2026 image generally available",
-        "title_original": "Windows 11 arm64 VS2026 image generally available",
-        "summary": null,
-        "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
-        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+        "id": "2c4fc71547d52e8375f29f8ac4898b98edf8d7c5",
+        "title": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等 / Pinning saved views to the repository issues sidebar is generally available and more",
+        "title_zh": "将保存的视图固定到代码仓库问题侧边栏通常是可用的等等",
+        "title_en": "Pinning saved views to the repository issues sidebar is generally available and more",
+        "title_original": "Pinning saved views to the repository issues sidebar is generally available and more",
+        "summary": "Pinning saved views to the repository issues sidebar You can now pin saved views⁠ to the repository issues sidebar, making the views you use most just one click away, even…\nYou can now pin saved views ⁠ to the repository issues sidebar, making the views you use most just one click away, even when the sidebar is collapsed.\nYou can now see profile avatars for reactions on issues.\nYou can now adjust the Issues Dashboard density to see more issues at once\nThe issue dependency REST API endpoints (blo",
+        "recommend_reason_zh": "GitHub现已支持将saved views固定到repository issues sidebar，即便折叠侧边栏也能一键访问；同时可调整Issues Dashboard密度查看更多issue，且依赖REST API会按token权限过滤结果。",
+        "url": "https://github.blog/changelog/2026-08-20-pin-projects-views-and-milestones-to-the-repository-sidebar",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "ARM 开发者的 CI 镜像终于转正，跑 VS2026 构建今天就能换。",
+      "persona_score": 60,
+      "persona_review": "GitHub 侧边栏固定视图，省点点击，但非核心，顺手用即可。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_dddc776b066d",
-      "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-          "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
-          "title_zh": "Codex 与 ChatGPT 更新一览",
-          "title_en": "Codex and ChatGPT updates",
-          "title_original": "Codex and ChatGPT updates",
-          "summary": null,
-          "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-          "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
-          "title_zh": "Codex 与 ChatGPT 更新一览",
-          "title_en": "Codex and ChatGPT updates",
-          "title_original": "Codex and ChatGPT updates",
-          "summary": null,
-          "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8178,
-      "importance": 0.8178,
-      "importance_score": 0.8178,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.71,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
-      "primary_item": {
-        "id": "848b61992c147b8bfa1de6ee297eb16eca68debc",
-        "title": "Codex 与 ChatGPT 更新一览 / Codex and ChatGPT updates",
-        "title_zh": "Codex 与 ChatGPT 更新一览",
-        "title_en": "Codex and ChatGPT updates",
-        "title_original": "Codex and ChatGPT updates",
-        "summary": null,
-        "recommend_reason_zh": "本次更新中，ChatGPT macOS桌面版新增Apple Messages插件，须用户批准后才发消息；Codex共享线程快照可只读分享。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "官方更新直接看 changelog，API 变动影响现有集成，今天就得查。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
@@ -303,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7856,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,30 +255,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
-      "story_id": "story_185e96d8c2f8",
-      "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
-      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "story_id": "story_13b553da3c26",
+      "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+      "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
+          "title_en": "Windows 11 arm64 VS2026 image generally available",
+          "title_original": "Windows 11 arm64 VS2026 image generally available",
           "summary": null,
-          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "source_count": 1,
@@ -372,31 +287,31 @@
       ],
       "items": [
         {
-          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
-          "title_en": "Code scanning adds a mitigated alert dismissal reason",
-          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+          "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+          "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
+          "title_en": "Windows 11 arm64 VS2026 image generally available",
+          "title_original": "Windows 11 arm64 VS2026 image generally available",
           "summary": null,
-          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
-          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
+          "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T15:14:31Z"
+          "published_at": "2026-08-20T17:52:38Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8233,
-      "importance": 0.8233,
-      "importance_score": 0.8233,
+      "score": 0.8241,
+      "importance": 0.8241,
+      "importance_score": 0.8241,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8848,
+        "recency": 0.8894,
         "story_heat": 0.0
       },
       "category": "official",
@@ -405,112 +320,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T15:14:31Z",
-      "latest_at": "2026-08-20T15:14:31Z",
+      "earliest_at": "2026-08-20T17:52:38Z",
+      "latest_at": "2026-08-20T17:52:38Z",
       "primary_item": {
-        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
-        "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
-        "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
-        "title_en": "Code scanning adds a mitigated alert dismissal reason",
-        "title_original": "Code scanning adds a mitigated alert dismissal reason",
+        "id": "e3d7b1a7c89459a1e7f611544f5024ba1b88f489",
+        "title": "Windows 11 arm64 VS2026 镜像正式可用 / Windows 11 arm64 VS2026 image generally available",
+        "title_zh": "Windows 11 arm64 VS2026 镜像正式可用",
+        "title_en": "Windows 11 arm64 VS2026 image generally available",
+        "title_original": "Windows 11 arm64 VS2026 image generally available",
         "summary": null,
-        "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
-        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "recommend_reason_zh": "GitHub 宣布 Windows 11 arm64 镜像正式支持 Visual Studio 2026，可用 runs-on: windows-11-vs2026-arm 提前测试，9月21日起逐步默认迁移，可能破坏依赖 VS2022 的工作流。",
+        "url": "https://github.blog/changelog/2026-08-20-windows-11-arm64-vs2026-image-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "安全团队能更准确标记已处理告警，审计和误报管理省事，今天就能用。",
+      "persona_review": "ARM 开发者的 CI 镜像终于转正，跑 VS2026 构建今天就能换。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_bd13e5e9f8e6",
-      "title": "Codex CLI 0.149.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
-          "title": "Codex CLI 0.149.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.149.0",
-          "title_original": "Codex CLI 0.149.0",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
-          "recommend_reason_zh": "Codex CLI 0.149.0新增GitLab beta支持，可在云环境从issue或merge request启动任务，并请求自动审查；同时macOS桌面应用加入Apple Messages插件，默认需逐条批准发送。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
-          "title": "Codex CLI 0.149.0",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.149.0",
-          "title_original": "Codex CLI 0.149.0",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
-          "recommend_reason_zh": "Codex CLI 0.149.0新增GitLab beta支持，可在云环境从issue或merge request启动任务，并请求自动审查；同时macOS桌面应用加入Apple Messages插件，默认需逐条批准发送。",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.71,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
-      "primary_item": {
-        "id": "92750e7a46945c96a19d170ab8950057fd9cc578",
-        "title": "Codex CLI 0.149.0",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.149.0",
-        "title_original": "Codex CLI 0.149.0",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nApple Messages: Use the Apple Messages plugin to read and search Messages chats on your Mac and prepare or send messages. It’s available on all plans in the ChatGPT desktop app for macOS. You can use the plugin in ChatGPT Work and Codex. By default, ChatGPT sends messages only after you approve the message and its recipients. See the plugin guide for per",
-        "recommend_reason_zh": "Codex CLI 0.149.0新增GitLab beta支持，可在云环境从issue或merge request启动任务，并请求自动审查；同时macOS桌面应用加入Apple Messages插件，默认需逐条批准发送。",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 82,
-      "persona_review": "Codex CLI 小版本更新，查下 changelog 看有没有修 bug 或加参数，能省事就升。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
@@ -558,15 +388,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7769,
+      "importance": 0.7769,
+      "importance_score": 0.7769,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.895,
+        "recency": 0.866,
         "story_heat": 0.0
       },
       "category": "official",
@@ -594,285 +424,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
-      "story_id": "story_e9f43080b634",
-      "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-      "url": "https://openai.com/index/stampli",
-      "primary_url": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
-          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
-          "summary": null,
-          "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-          "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-          "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
-          "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-          "title_original": "How ChatGPT Work helps Stampli move ideas to market",
-          "summary": null,
-          "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.71,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
-      "primary_item": {
-        "id": "3ae845494efe7827db0e55ad56f2b2ac370dd597",
-        "title": "ChatGPT Work 如何帮助 Stampli 将想法推向市场 / How ChatGPT Work helps Stampli move ideas to market",
-        "title_zh": "ChatGPT Work 如何帮助 Stampli 将想法推向市场",
-        "title_en": "How ChatGPT Work helps Stampli move ideas to market",
-        "title_original": "How ChatGPT Work helps Stampli move ideas to market",
-        "summary": null,
-        "recommend_reason_zh": "Stampli借助Codex和ChatGPT Work将Deep Finance上市生产压缩至约77小时，节省166小时、提速3.16倍，并在六周内完成从原型到发布的全流程。",
-        "url": "https://openai.com/index/stampli",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "案例故事，无新工具或API，对开发者无直接可用信息。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_c5030fa07ae8",
-      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-          "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
-          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T14:29:27Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8216,
-      "importance": 0.8216,
-      "importance_score": 0.8216,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8753,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T14:29:27Z",
-      "latest_at": "2026-08-20T14:29:27Z",
-      "primary_item": {
-        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
-        "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
-        "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
-        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
-        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
-        "summary": null,
-        "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
-        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "CI 配置更灵活，代码质量检查可独立触发，省构建时间，今天就能改。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_f63621e00664",
-      "title": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
-      "url": "https://openai.com/index/stampli",
-      "primary_url": "https://openai.com/index/stampli",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
-          "title": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
-          "title_zh": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68%",
-          "title_en": "Stampli cuts launch hours by 68% using ChatGPT Work",
-          "title_original": "Stampli cuts launch hours by 68% using ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道详述Stampli借助Codex和ChatGPT Work，将Deep Finance发布生产工时从243小时压至77小时，净省166小时、提速3.16倍，其中主视觉动画约90%由Codex完成，是AI加速企业营销的扎实实证。",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
-          "title": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
-          "title_zh": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68%",
-          "title_en": "Stampli cuts launch hours by 68% using ChatGPT Work",
-          "title_original": "Stampli cuts launch hours by 68% using ChatGPT Work",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道详述Stampli借助Codex和ChatGPT Work，将Deep Finance发布生产工时从243小时压至77小时，净省166小时、提速3.16倍，其中主视觉动画约90%由Codex完成，是AI加速企业营销的扎实实证。",
-          "url": "https://openai.com/index/stampli",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-20T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8078,
-      "importance": 0.8078,
-      "importance_score": 0.8078,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.71,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-20T00:00:00Z",
-      "latest_at": "2026-08-20T00:00:00Z",
-      "primary_item": {
-        "id": "7fd91e6585094da5bbdeb7314d65d39fd379e452",
-        "title": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68% / Stampli cuts launch hours by 68% using ChatGPT Work",
-        "title_zh": "Stampli 借助 ChatGPT Work 将上线耗时缩短 68%",
-        "title_en": "Stampli cuts launch hours by 68% using ChatGPT Work",
-        "title_original": "Stampli cuts launch hours by 68% using ChatGPT Work",
-        "summary": null,
-        "recommend_reason_zh": "这篇报道详述Stampli借助Codex和ChatGPT Work，将Deep Finance发布生产工时从243小时压至77小时，净省166小时、提速3.16倍，其中主视觉动画约90%由Codex完成，是AI加速企业营销的扎实实证。",
-        "url": "https://openai.com/index/stampli",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "案例有参考价值，但无通用方案，等具体做法再动手。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_8d7d53a3e367",
-      "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-      "url": "https://www.aibase.com/news/30508",
-      "primary_url": "https://www.aibase.com/news/30508",
+      "story_id": "story_63917d286fbf",
+      "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+      "url": "https://www.aibase.com/news/30517",
+      "primary_url": "https://www.aibase.com/news/30517",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
-          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-          "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+          "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "title_zh": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
           "title_en": null,
-          "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek Harness发布仅7天即更新，全面支持多模态：/goal与/plan命令可发送图片，@引用扩展至历史对话，并修复MCP、ACP持久附件问题。",
-          "url": "https://www.aibase.com/news/30508",
+          "title_original": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "summary": "The demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nExplore AI Frontiers",
+          "recommend_reason_zh": "Micro1年化营收8个月从1亿美元增至5亿美元，净利预计1.5-2亿，现成数据毛利率80-90%；并对比Mercor的20亿和Handshake的10亿美元年化收入，显示AI训练数据需求激增。",
+          "url": "https://www.aibase.com/news/30517",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T10:49:19.942120Z"
+          "published_at": "2026-08-21T01:59:43.063271Z"
         }
       ],
       "source_count": 1,
@@ -881,58 +456,228 @@
       ],
       "items": [
         {
-          "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
-          "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-          "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+          "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+          "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "title_zh": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
           "title_en": null,
-          "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-          "summary": null,
-          "recommend_reason_zh": "DeepSeek Harness发布仅7天即更新，全面支持多模态：/goal与/plan命令可发送图片，@引用扩展至历史对话，并修复MCP、ACP持久附件问题。",
-          "url": "https://www.aibase.com/news/30508",
+          "title_original": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+          "summary": "The demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nExplore AI Frontiers",
+          "recommend_reason_zh": "Micro1年化营收8个月从1亿美元增至5亿美元，净利预计1.5-2亿，现成数据毛利率80-90%；并对比Mercor的20亿和Handshake的10亿美元年化收入，显示AI训练数据需求激增。",
+          "url": "https://www.aibase.com/news/30517",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T10:49:19.942120Z"
+          "published_at": "2026-08-21T01:59:43.063271Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8301,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-20T10:49:19.942120Z",
-      "latest_at": "2026-08-20T10:49:19.942120Z",
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
       "primary_item": {
-        "id": "df6e8786b483bebf33a0fd03556d12f55bcb7285",
-        "title": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-        "title_zh": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
+        "id": "99715d53f41d612ccc7e6d8bbf3ed72883a8cd65",
+        "title": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+        "title_zh": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
         "title_en": null,
-        "title_original": "DeepSeek Harness重磅更新：多模态支持全面上线，意外剧透V4视觉版动向",
-        "summary": null,
-        "recommend_reason_zh": "DeepSeek Harness发布仅7天即更新，全面支持多模态：/goal与/plan命令可发送图片，@引用扩展至历史对话，并修复MCP、ACP持久附件问题。",
-        "url": "https://www.aibase.com/news/30508",
+        "title_original": "AI训练数据需求激增，Micro1年营收8个月从1亿美元增至5亿美元",
+        "summary": "The demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nThe demand for high-quality training data from top AI labs and enterprises continues to rise, driving rapid growth in data labeling startups. Micro1, which was\nExplore AI Frontiers",
+        "recommend_reason_zh": "Micro1年化营收8个月从1亿美元增至5亿美元，净利预计1.5-2亿，现成数据毛利率80-90%；并对比Mercor的20亿和Handshake的10亿美元年化收入，显示AI训练数据需求激增。",
+        "url": "https://www.aibase.com/news/30517",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "多模态支持上线，做视觉任务的今天就能试；V4剧透等实装再说。",
+      "persona_score": 30,
+      "persona_review": "数据生意赚钱但跟你无关，除非你卖数据或买数据。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_185e96d8c2f8",
+      "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+      "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "primary_url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "summary": null,
+          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T15:14:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+          "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+          "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
+          "title_en": "Code scanning adds a mitigated alert dismissal reason",
+          "title_original": "Code scanning adds a mitigated alert dismissal reason",
+          "summary": null,
+          "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+          "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T15:14:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8181,
+      "importance": 0.8181,
+      "importance_score": 0.8181,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8562,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T15:14:31Z",
+      "latest_at": "2026-08-20T15:14:31Z",
+      "primary_item": {
+        "id": "f4c17395c04a766662eb04284b415ce431dd4390",
+        "title": "代码扫描新增“已缓解”的警报忽略原因。 / Code scanning adds a mitigated alert dismissal reason",
+        "title_zh": "代码扫描新增“已缓解”的警报忽略原因。",
+        "title_en": "Code scanning adds a mitigated alert dismissal reason",
+        "title_original": "Code scanning adds a mitigated alert dismissal reason",
+        "summary": null,
+        "recommend_reason_zh": "GitHub代码扫描新增Mitigated关闭原因，当漏洞仍在代码中但外部控制（如web application firewall或网络策略）已缓解风险时使用，可区分Mitigated与Won't fix警报，减少在GitHub外跟踪决策。",
+        "url": "https://github.blog/changelog/2026-08-20-code-scanning-adds-a-mitigated-alert-dismissal-reason",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "安全团队能更准确标记已处理告警，审计和误报管理省事，今天就能用。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_e98fa202cb48",
+      "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+      "url": "https://www.aibase.com/news/30519",
+      "primary_url": "https://www.aibase.com/news/30519",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "title_zh": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "title_en": null,
+          "title_original": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "summary": "Adobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nAdobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nAdobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nExplore AI Fronti",
+          "recommend_reason_zh": "Adobe正式发布Firefly音频工具，支持生成音乐、语音和音效；调查显示32.7%创作者已用AI音乐，43.2%担心版权风险，新工具可生成商用安全音频。",
+          "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+          "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "title_zh": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "title_en": null,
+          "title_original": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+          "summary": "Adobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nAdobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nAdobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nExplore AI Fronti",
+          "recommend_reason_zh": "Adobe正式发布Firefly音频工具，支持生成音乐、语音和音效；调查显示32.7%创作者已用AI音乐，43.2%担心版权风险，新工具可生成商用安全音频。",
+          "url": "https://www.aibase.com/news/30519",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
+      "primary_item": {
+        "id": "24d9be228661134f28d9f0248f3f61d8a10b112e",
+        "title": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+        "title_zh": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+        "title_en": null,
+        "title_original": "Adobe Firefly音频工具全面上线，支持AI生成音乐、语音和音效",
+        "summary": "Adobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nAdobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nAdobe has officially launched the Firefly audio generation tool, which includes \"Generate Music,\" \"Generate Voice,\" and \"Generate Sound Effects.\" Users can dire\nExplore AI Fronti",
+        "recommend_reason_zh": "Adobe正式发布Firefly音频工具，支持生成音乐、语音和音效；调查显示32.7%创作者已用AI音乐，43.2%担心版权风险，新工具可生成商用安全音频。",
+        "url": "https://www.aibase.com/news/30519",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 62,
+      "persona_review": "Adobe音频工具上线，做视频/播客的可试，但非Adobe生态价值有限。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
@@ -980,15 +725,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
+      "score": 0.73,
+      "importance": 0.73,
+      "importance_score": 0.73,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8176,
+        "recency": 0.7911,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1015,7 +760,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
@@ -1063,15 +808,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.954,
+        "recency": 0.9231,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,30 +843,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
-      "story_id": "story_6bffb665747e",
-      "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
-      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "story_id": "story_c5030fa07ae8",
+      "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+      "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
+      "primary_url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "source_count": 1,
@@ -1130,31 +875,31 @@
       ],
       "items": [
         {
-          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
-          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+          "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+          "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+          "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+          "title_original": "Separate GitHub Actions path for GitHub Code Quality",
           "summary": null,
-          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
-          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+          "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-08-20T14:28:41Z"
+          "published_at": "2026-08-20T14:29:27Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8751,
+        "recency": 0.8469,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1163,27 +908,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-20T14:28:41Z",
-      "latest_at": "2026-08-20T14:28:41Z",
+      "earliest_at": "2026-08-20T14:29:27Z",
+      "latest_at": "2026-08-20T14:29:27Z",
       "primary_item": {
-        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
-        "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
-        "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
-        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
-        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+        "id": "5fa0aca95d20e87c77398d511dfb4c4fa67865ef",
+        "title": "为 GitHub Code Quality 单独设置 GitHub Actions 路径 / Separate GitHub Actions path for GitHub Code Quality",
+        "title_zh": "为 GitHub Code Quality 单独设置 GitHub Actions 路径",
+        "title_en": "Separate GitHub Actions path for GitHub Code Quality",
+        "title_original": "Separate GitHub Actions path for GitHub Code Quality",
         "summary": null,
-        "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
-        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "recommend_reason_zh": "GitHub Code Quality 的 CodeQL 工作流独立路径现已正式可用，运行历史与用量报告可区分于 code scanning，actor 变为 github-code-quality，旧路径需更新。",
+        "url": "https://github.blog/changelog/2026-08-20-separate-github-actions-path-for-github-code-quality",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "审计日志能查代码质量开关变更，合规团队省事，安全排查更顺。",
+      "persona_review": "CI 配置更灵活，代码质量检查可独立触发，省构建时间，今天就能改。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
@@ -1231,15 +976,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7276,
-      "importance": 0.7276,
-      "importance_score": 0.7276,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.65,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8946,
+        "recency": 0.8656,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1266,30 +1011,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
-      "story_id": "story_6e44341739d1",
-      "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-      "url": "https://www.aibase.com/news/30507",
-      "primary_url": "https://www.aibase.com/news/30507",
+      "story_id": "story_abe339f5a478",
+      "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+      "url": "https://www.aibase.com/news/30512",
+      "primary_url": "https://www.aibase.com/news/30512",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
+          "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+          "title_zh": "Grok出现异常故障，部分用户遭遇大段乱码回复",
           "title_en": null,
-          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "summary": null,
-          "recommend_reason_zh": "这篇技术分析揭示了美团搜索3.0在服务零售排序场景中的三次迭代，详解大模型语义表示如何破解本地生活场景品类繁杂、需求非标的核心难题。",
-          "url": "https://www.aibase.com/news/30507",
+          "title_original": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+          "summary": "The chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nThe chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nThe chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nExplore AI Fronti",
+          "recommend_reason_zh": "xAI旗下Grok在Grok.com出现异常故障，部分用户让其生成PDF后收到大段乱码，回复还附带强化学习研究网站链接，主要影响Grok Lite，官方称是罕见临时生成故障。",
+          "url": "https://www.aibase.com/news/30512",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T09:51:24.533220Z"
+          "published_at": "2026-08-21T01:59:43.063271Z"
         }
       ],
       "source_count": 1,
@@ -1298,164 +1043,251 @@
       ],
       "items": [
         {
-          "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-          "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+          "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
+          "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+          "title_zh": "Grok出现异常故障，部分用户遭遇大段乱码回复",
           "title_en": null,
-          "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-          "summary": null,
-          "recommend_reason_zh": "这篇技术分析揭示了美团搜索3.0在服务零售排序场景中的三次迭代，详解大模型语义表示如何破解本地生活场景品类繁杂、需求非标的核心难题。",
-          "url": "https://www.aibase.com/news/30507",
+          "title_original": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+          "summary": "The chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nThe chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nThe chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nExplore AI Fronti",
+          "recommend_reason_zh": "xAI旗下Grok在Grok.com出现异常故障，部分用户让其生成PDF后收到大段乱码，回复还附带强化学习研究网站链接，主要影响Grok Lite，官方称是罕见临时生成故障。",
+          "url": "https://www.aibase.com/news/30512",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T09:51:24.533220Z"
+          "published_at": "2026-08-21T01:59:43.063271Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.735,
-      "importance": 0.735,
-      "importance_score": 0.735,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8186,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-20T09:51:24.533220Z",
-      "latest_at": "2026-08-20T09:51:24.533220Z",
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
       "primary_item": {
-        "id": "c2d35e4e8e6ed6c9b00e79c6492b55ebbb243e1e",
-        "title": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
-        "title_zh": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "id": "cf8dc0c651dd83ae8cab43e62745855f5cfb6038",
+        "title": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+        "title_zh": "Grok出现异常故障，部分用户遭遇大段乱码回复",
         "title_en": null,
-        "title_original": "美团搜索 3.0如何用大模型表征重构本地生活搜索底座？",
+        "title_original": "Grok出现异常故障，部分用户遭遇大段乱码回复",
+        "summary": "The chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nThe chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nThe chatbot Grok, under xAI, recently experienced an abnormal failure, with some users encountering continuous garbled and meaningless text when using Grok.com.\nExplore AI Fronti",
+        "recommend_reason_zh": "xAI旗下Grok在Grok.com出现异常故障，部分用户让其生成PDF后收到大段乱码，回复还附带强化学习研究网站链接，主要影响Grok Lite，官方称是罕见临时生成故障。",
+        "url": "https://www.aibase.com/news/30512",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "服务故障是常态，等官方修复公告，别浪费时间排查。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_6bffb665747e",
+      "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+      "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "primary_url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+          "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+          "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
+          "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+          "title_original": "Track GitHub Code Quality enablement changes in the audit log",
+          "summary": null,
+          "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+          "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-08-20T14:28:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8468,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-20T14:28:41Z",
+      "latest_at": "2026-08-20T14:28:41Z",
+      "primary_item": {
+        "id": "1cc18a7327743210494631f42c24107a27ce2aff",
+        "title": "在审计日志中跟踪 GitHub 代码质量启用变更 / Track GitHub Code Quality enablement changes in the audit log",
+        "title_zh": "在审计日志中跟踪 GitHub 代码质量启用变更",
+        "title_en": "Track GitHub Code Quality enablement changes in the audit log",
+        "title_original": "Track GitHub Code Quality enablement changes in the audit log",
         "summary": null,
-        "recommend_reason_zh": "这篇技术分析揭示了美团搜索3.0在服务零售排序场景中的三次迭代，详解大模型语义表示如何破解本地生活场景品类繁杂、需求非标的核心难题。",
-        "url": "https://www.aibase.com/news/30507",
+        "recommend_reason_zh": "GitHub Code Quality新增三个audit log事件，记录仓库中启用、禁用或更改设置的完整历史，含操作者与时间，并支持通过audit log API查询，方便你追溯计费范围变化。",
+        "url": "https://github.blog/changelog/2026-08-20-track-github-code-quality-enablement-changes-in-the-audit-log",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 72,
+      "persona_review": "审计日志能查代码质量开关变更，合规团队省事，安全排查更顺。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_ee84fbd49797",
+      "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+      "url": "https://www.aibase.com/news/30510",
+      "primary_url": "https://www.aibase.com/news/30510",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "title_zh": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "title_en": null,
+          "title_original": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "summary": "OpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nOpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nOpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nExplore AI Fronti",
+          "recommend_reason_zh": "macOS版ChatGPT经用户授权后可读写、发送苹果Messages短信，并支持聊天记录搜索与摘要生成，不做全局索引。文章还介绍了需手动开启完全磁盘访问，及如何对标Siri生态优势。",
+          "url": "https://www.aibase.com/news/30510",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+          "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "title_zh": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "title_en": null,
+          "title_original": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+          "summary": "OpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nOpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nOpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nExplore AI Fronti",
+          "recommend_reason_zh": "macOS版ChatGPT经用户授权后可读写、发送苹果Messages短信，并支持聊天记录搜索与摘要生成，不做全局索引。文章还介绍了需手动开启完全磁盘访问，及如何对标Siri生态优势。",
+          "url": "https://www.aibase.com/news/30510",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
+      "primary_item": {
+        "id": "48381bcbd179dc2dbcfd8c484f4dd443e20070e5",
+        "title": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+        "title_zh": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+        "title_en": null,
+        "title_original": "Mac版ChatGPT深度接管苹果信息，古尔曼直言将直接对标Siri生态优势",
+        "summary": "OpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nOpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nOpenAI has recently officially announced through its official channels that it has made a major upgrade to the macOS version of the ChatGPT application, fully a\nExplore AI Fronti",
+        "recommend_reason_zh": "macOS版ChatGPT经用户授权后可读写、发送苹果Messages短信，并支持聊天记录搜索与摘要生成，不做全局索引。文章还介绍了需手动开启完全磁盘访问，及如何对标Siri生态优势。",
+        "url": "https://www.aibase.com/news/30510",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 55,
-      "persona_review": "技术方案分享，可借鉴思路，但无直接可用的工具或API。",
+      "persona_review": "对标Siri是方向，但没开放API前对开发者无直接影响，观望。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
-      "story_id": "story_1eb20f797356",
-      "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-      "url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "primary_url": "https://claude.com/blog/claude-code-guide-for-startups",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-          "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "title_en": "The Claude Code Guide For Startups",
-          "title_original": "The Claude Code Guide For Startups",
-          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-          "recommend_reason_zh": "这篇指南采访了十几家高增长初创公司，总结出五条规则，展示如何用Claude Code让非技术员工（如Clay的销售成员）也能从0到1构建功能，从而实现10倍团队的交付速度。",
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-          "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-          "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
-          "title_en": "The Claude Code Guide For Startups",
-          "title_original": "The Claude Code Guide For Startups",
-          "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-          "recommend_reason_zh": "这篇指南采访了十几家高增长初创公司，总结出五条规则，展示如何用Claude Code让非技术员工（如Clay的销售成员）也能从0到1构建功能，从而实现10倍团队的交付速度。",
-          "url": "https://claude.com/blog/claude-code-guide-for-startups",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-20T13:26:53.704000Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.65,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8622,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T13:26:53.704000Z",
-      "latest_at": "2026-08-20T13:26:53.704000Z",
-      "primary_item": {
-        "id": "6d1ec869caa4430d86f28505a4278b9a849b78b3",
-        "title": "Claude Code 初创公司指南：五大规则与创始人洞见 / The Claude Code Guide For Startups",
-        "title_zh": "Claude Code 初创公司指南：五大规则与创始人洞见",
-        "title_en": "The Claude Code Guide For Startups",
-        "title_original": "The Claude Code Guide For Startups",
-        "summary": "Anthropic 发布面向初创公司的 Claude Code 使用指南，基于对十余家高增长公司的调研，总结出\"人人皆可交付、自动化繁琐工作、信任但验证、为重构而构建、原型-自用-产品化\"五大规则。",
-        "recommend_reason_zh": "这篇指南采访了十几家高增长初创公司，总结出五条规则，展示如何用Claude Code让非技术员工（如Clay的销售成员）也能从0到1构建功能，从而实现10倍团队的交付速度。",
-        "url": "https://claude.com/blog/claude-code-guide-for-startups",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "官方指南偏方法论，无新工具或API，动手价值有限。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_185623635221",
-      "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-      "url": "https://www.aibase.com/news/30506",
-      "primary_url": "https://www.aibase.com/news/30506",
+      "story_id": "story_fe5d8ad916c5",
+      "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+      "url": "https://www.aibase.com/news/30511",
+      "primary_url": "https://www.aibase.com/news/30511",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "id": "1c4ae393aaaf7fe0e78103d74e384ba1d03b39d2",
+          "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+          "title_zh": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
           "title_en": null,
-          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30506",
+          "title_original": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+          "summary": "The latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nThe latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nThe latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nExplore AI Fronti",
+          "recommend_reason_zh": "Ramp数据显示，OpenAI在美国企业AI市场份额已反超Anthropic：5月Anthropic占41%领先，至7月OpenAI追至近40%，三季度增速反超，数据覆盖7万多家公司。",
+          "url": "https://www.aibase.com/news/30511",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:58:14.806050Z"
+          "published_at": "2026-08-21T01:59:43.063271Z"
         }
       ],
       "source_count": 1,
@@ -1464,141 +1296,143 @@
       ],
       "items": [
         {
-          "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-          "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+          "id": "1c4ae393aaaf7fe0e78103d74e384ba1d03b39d2",
+          "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+          "title_zh": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
           "title_en": null,
-          "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/30506",
+          "title_original": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+          "summary": "The latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nThe latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nThe latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nExplore AI Fronti",
+          "recommend_reason_zh": "Ramp数据显示，OpenAI在美国企业AI市场份额已反超Anthropic：5月Anthropic占41%领先，至7月OpenAI追至近40%，三季度增速反超，数据覆盖7万多家公司。",
+          "url": "https://www.aibase.com/news/30511",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-20T08:58:14.806050Z"
+          "published_at": "2026-08-21T01:59:43.063271Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8082,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-08-20T08:58:14.806050Z",
-      "latest_at": "2026-08-20T08:58:14.806050Z",
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
       "primary_item": {
-        "id": "76b9f01767f82759af76bb18dca18be1692ace57",
-        "title": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "title_zh": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
+        "id": "1c4ae393aaaf7fe0e78103d74e384ba1d03b39d2",
+        "title": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+        "title_zh": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
         "title_en": null,
-        "title_original": "小米人形机器人首次亮相，已成功注册多枚小米铁大商标",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/30506",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 35,
-      "persona_review": "商标注册和亮相都是PR，没开放API或开源，开发者不用动。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
-      }
-    },
-    {
-      "story_id": "story_a6a38128dce9",
-      "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-      "url": "https://www.aibase.com/news/30503",
-      "primary_url": "https://www.aibase.com/news/30503",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_en": null,
-          "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "summary": null,
-          "recommend_reason_zh": "MiniMax Design于8月20日发布，基于原生多模态视频模型H3，用户可用自然语言表达创作意图，系统自动分解任务并完成从素材生成到最终输出，告别逐帧像素编辑。",
-          "url": "https://www.aibase.com/news/30503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:58:31.373564Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-          "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "title_en": null,
-          "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-          "summary": null,
-          "recommend_reason_zh": "MiniMax Design于8月20日发布，基于原生多模态视频模型H3，用户可用自然语言表达创作意图，系统自动分解任务并完成从素材生成到最终输出，告别逐帧像素编辑。",
-          "url": "https://www.aibase.com/news/30503",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-20T07:58:31.373564Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.731,
-      "importance": 0.731,
-      "importance_score": 0.731,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7967,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-20T07:58:31.373564Z",
-      "latest_at": "2026-08-20T07:58:31.373564Z",
-      "primary_item": {
-        "id": "5fc805e27b6f5edee03c07254eefbe8d2fc8a942",
-        "title": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_zh": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "title_en": null,
-        "title_original": "MiniMax Design发布:用自然语言“指挥”视频创作，告别逐帧编辑",
-        "summary": null,
-        "recommend_reason_zh": "MiniMax Design于8月20日发布，基于原生多模态视频模型H3，用户可用自然语言表达创作意图，系统自动分解任务并完成从素材生成到最终输出，告别逐帧像素编辑。",
-        "url": "https://www.aibase.com/news/30503",
+        "title_original": "OpenAI企业市场份额反超Anthropic，AI支出持续扩张",
+        "summary": "The latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nThe latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nThe latest data from Ramp, a corporate credit card and expense management platform, shows that OpenAI has regained more than 40% market share in the U.S. enterp\nExplore AI Fronti",
+        "recommend_reason_zh": "Ramp数据显示，OpenAI在美国企业AI市场份额已反超Anthropic：5月Anthropic占41%领先，至7月OpenAI追至近40%，三季度增速反超，数据覆盖7万多家公司。",
+        "url": "https://www.aibase.com/news/30511",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "自然语言剪视频听着方便，但没开放细节，先观望。",
+      "persona_review": "市场份额数字看看就好，选型还是看具体场景和价格。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_66ab945ad6af",
+      "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+      "url": "https://www.aibase.com/news/30520",
+      "primary_url": "https://www.aibase.com/news/30520",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d4eece4da88cfb089317c56589fb4a4170ff24bb",
+          "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+          "title_zh": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+          "title_en": null,
+          "title_original": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+          "summary": "As a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nAs a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nAs a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nExplore AI Fronti",
+          "recommend_reason_zh": "Waymo将Gemini接入定制出租车Ojai，已在洛杉矶、旧金山、凤凰城全面开放，乘客可选Ojai或Jaguar I-Pace，体验Beta版语音交互，本文详解这款自动驾驶出租车如何升级智能座舱。",
+          "url": "https://www.aibase.com/news/30520",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d4eece4da88cfb089317c56589fb4a4170ff24bb",
+          "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+          "title_zh": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+          "title_en": null,
+          "title_original": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+          "summary": "As a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nAs a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nAs a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nExplore AI Fronti",
+          "recommend_reason_zh": "Waymo将Gemini接入定制出租车Ojai，已在洛杉矶、旧金山、凤凰城全面开放，乘客可选Ojai或Jaguar I-Pace，体验Beta版语音交互，本文详解这款自动驾驶出租车如何升级智能座舱。",
+          "url": "https://www.aibase.com/news/30520",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
+      "primary_item": {
+        "id": "d4eece4da88cfb089317c56589fb4a4170ff24bb",
+        "title": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+        "title_zh": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+        "title_en": null,
+        "title_original": "Waymo定制出租车Ojai全面接入Gemini，开启车内智能交互新体验",
+        "summary": "As a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nAs a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nAs a leading player in the global autonomous driving industry, Waymo has recently officially announced a major upgrade: integrating Google's Gemini AI assistant\nExplore AI Fronti",
+        "recommend_reason_zh": "Waymo将Gemini接入定制出租车Ojai，已在洛杉矶、旧金山、凤凰城全面开放，乘客可选Ojai或Jaguar I-Pace，体验Beta版语音交互，本文详解这款自动驾驶出租车如何升级智能座舱。",
+        "url": "https://www.aibase.com/news/30520",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "车内交互升级对开发者无直接影响，等API或平台开放再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     },
     {
@@ -1761,15 +1595,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6158,
-      "importance": 0.6158,
-      "importance_score": 0.6158,
+      "score": 0.6101,
+      "importance": 0.6101,
+      "importance_score": 0.6101,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9723,
+        "recency": 0.9408,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1796,7 +1630,232 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-20T23:54:40.229922Z"
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_0304d5a50065",
+      "title": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+      "url": "https://www.aibase.com/news/30518",
+      "primary_url": "https://www.aibase.com/news/30518",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bba6b790fdbbc379e94b20948b367ca938c390b6",
+          "title": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+          "title_zh": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+          "title_en": null,
+          "title_original": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+          "summary": "On August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nOn August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nOn August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nExplore AI Fronti",
+          "recommend_reason_zh": "8月20日，2026全球数字经济大会拉萨会场上，“阳光清言”藏语大模型正式发布，突破千亿参数大关；该模型于2025年11月19日亮相，经近两月内测与两月多公测后上线，拉萨纳金数智研究院同日揭牌。",
+          "url": "https://www.aibase.com/news/30518",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bba6b790fdbbc379e94b20948b367ca938c390b6",
+          "title": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+          "title_zh": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+          "title_en": null,
+          "title_original": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+          "summary": "On August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nOn August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nOn August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nExplore AI Fronti",
+          "recommend_reason_zh": "8月20日，2026全球数字经济大会拉萨会场上，“阳光清言”藏语大模型正式发布，突破千亿参数大关；该模型于2025年11月19日亮相，经近两月内测与两月多公测后上线，拉萨纳金数智研究院同日揭牌。",
+          "url": "https://www.aibase.com/news/30518",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T01:59:43.063271Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T01:59:43.063271Z",
+      "latest_at": "2026-08-21T01:59:43.063271Z",
+      "primary_item": {
+        "id": "bba6b790fdbbc379e94b20948b367ca938c390b6",
+        "title": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+        "title_zh": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+        "title_en": null,
+        "title_original": "​ 突破千亿参数大关！“阳光清言”藏语大模型正式发布，拉萨市纳金数智研究院揭牌成立",
+        "summary": "On August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nOn August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nOn August 20, the \"Shu Qi Na Jin · Zhi Hui Gao Yuan\" thematic forum of the Lhasa venue of the 2026 Global Digital Economy Conference was held in Lhasa with grea\nExplore AI Fronti",
+        "recommend_reason_zh": "8月20日，2026全球数字经济大会拉萨会场上，“阳光清言”藏语大模型正式发布，突破千亿参数大关；该模型于2025年11月19日亮相，经近两月内测与两月多公测后上线，拉萨纳金数智研究院同日揭牌。",
+        "url": "https://www.aibase.com/news/30518",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "藏语大模型发布对本地化应用有价值，但没开放细节，先观望。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
+      }
+    },
+    {
+      "story_id": "story_bf863a6b7bf2",
+      "title": "反AI字体既无用又损害无障碍访问",
+      "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+      "primary_url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+      "source": "blog.yaros.ae",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33807334c251cc8719f261b04ead884c13a6752d",
+          "title": "反AI字体既无用又损害无障碍访问",
+          "title_zh": "反AI字体既无用又损害无障碍访问",
+          "title_en": null,
+          "title_original": "反AI字体既无用又有害",
+          "summary": "Trying to obfuscate the web is a bad, pointless idea\nTrying to obfuscate the web is a bad, pointless idea\nTrying to obfuscate the web is a bad, pointless idea\n11 Aug, 2026\nMaking “anti-ai” fonts that obfuscate or scramble text is a fools errand. For fonts that scramble text, it's an accessibility problem, since the scrambled text is what screen readers and other accessibility tools will parse. Already, you've cut out many of the humans you're trying to reach.\nIn case you aren't aware of what I'm",
+          "recommend_reason_zh": "本文批驳anti-AI fonts：乱码文本会被屏幕阅读器解析，多数已被破解，且公开讨论正教AI公司训练多模态模型绕过，最终或导致集中身份验证与审查。",
+          "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+          "source": "blog.yaros.ae",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T00:05:58.204000Z"
+        },
+        {
+          "id": "15981836d05a99d6f263bd097735060e17cdbac9",
+          "title": "反AI字体无用且有害",
+          "title_zh": "反AI字体无用且有害",
+          "title_en": "Anti-AI fonts are useless and harmful",
+          "title_original": "Anti-AI fonts are useless and harmful",
+          "summary": null,
+          "recommend_reason_zh": "本文直言反AI字体只是“设计即艺术”式的表态，除非有证据显示它们被单独商用且不搭配无障碍字体，否则作者坚持认为这类字体无用甚至有害。",
+          "url": "https://news.ycombinator.com/item?id=49375719",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "9790711c0876f6de125a2911a4f6213eba62288f",
+          "title": "Anti-AI字体无用且有害",
+          "title_zh": "Anti-AI字体无用且有害",
+          "title_en": "Anti-AI fonts are useless and harmful",
+          "title_original": "Anti-AI fonts are useless and harmful",
+          "summary": null,
+          "recommend_reason_zh": "反AI字体”既无用又有害：混淆文本会被屏幕阅读器解析，损害无障碍；多数方案已被AI公司破解，而要实现无障碍元数据可能走向集中身份验证，为残疾人建档。",
+          "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-20T15:06:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "blog.yaros.ae",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "33807334c251cc8719f261b04ead884c13a6752d",
+          "title": "反AI字体既无用又损害无障碍访问",
+          "title_zh": "反AI字体既无用又损害无障碍访问",
+          "title_en": null,
+          "title_original": "反AI字体既无用又有害",
+          "summary": "Trying to obfuscate the web is a bad, pointless idea\nTrying to obfuscate the web is a bad, pointless idea\nTrying to obfuscate the web is a bad, pointless idea\n11 Aug, 2026\nMaking “anti-ai” fonts that obfuscate or scramble text is a fools errand. For fonts that scramble text, it's an accessibility problem, since the scrambled text is what screen readers and other accessibility tools will parse. Already, you've cut out many of the humans you're trying to reach.\nIn case you aren't aware of what I'm",
+          "recommend_reason_zh": "本文批驳anti-AI fonts：乱码文本会被屏幕阅读器解析，多数已被破解，且公开讨论正教AI公司训练多模态模型绕过，最终或导致集中身份验证与审查。",
+          "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+          "source": "blog.yaros.ae",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T00:05:58.204000Z"
+        },
+        {
+          "id": "15981836d05a99d6f263bd097735060e17cdbac9",
+          "title": "反AI字体无用且有害",
+          "title_zh": "反AI字体无用且有害",
+          "title_en": "Anti-AI fonts are useless and harmful",
+          "title_original": "Anti-AI fonts are useless and harmful",
+          "summary": null,
+          "recommend_reason_zh": "本文直言反AI字体只是“设计即艺术”式的表态，除非有证据显示它们被单独商用且不搭配无障碍字体，否则作者坚持认为这类字体无用甚至有害。",
+          "url": "https://news.ycombinator.com/item?id=49375719",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-20T15:39:15.824000Z"
+        },
+        {
+          "id": "9790711c0876f6de125a2911a4f6213eba62288f",
+          "title": "Anti-AI字体无用且有害",
+          "title_zh": "Anti-AI字体无用且有害",
+          "title_en": "Anti-AI fonts are useless and harmful",
+          "title_original": "Anti-AI fonts are useless and harmful",
+          "summary": null,
+          "recommend_reason_zh": "反AI字体”既无用又有害：混淆文本会被屏幕阅读器解析，损害无障碍；多数方案已被AI公司破解，而要实现无障碍元数据可能走向集中身份验证，为残疾人建档。",
+          "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-20T15:06:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5659,
+      "importance": 0.5659,
+      "importance_score": 0.5659,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.973,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-20T15:06:53Z",
+      "latest_at": "2026-08-21T00:05:58.204000Z",
+      "primary_item": {
+        "id": "33807334c251cc8719f261b04ead884c13a6752d",
+        "title": "反AI字体既无用又损害无障碍访问",
+        "title_zh": "反AI字体既无用又损害无障碍访问",
+        "title_en": null,
+        "title_original": "反AI字体既无用又有害",
+        "summary": "Trying to obfuscate the web is a bad, pointless idea\nTrying to obfuscate the web is a bad, pointless idea\nTrying to obfuscate the web is a bad, pointless idea\n11 Aug, 2026\nMaking “anti-ai” fonts that obfuscate or scramble text is a fools errand. For fonts that scramble text, it's an accessibility problem, since the scrambled text is what screen readers and other accessibility tools will parse. Already, you've cut out many of the humans you're trying to reach.\nIn case you aren't aware of what I'm",
+        "recommend_reason_zh": "本文批驳anti-AI fonts：乱码文本会被屏幕阅读器解析，多数已被破解，且公开讨论正教AI公司训练多模态模型绕过，最终或导致集中身份验证与审查。",
+        "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful",
+        "source": "blog.yaros.ae",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 30,
+      "persona_review": "反AI字体是伪需求，别浪费时间，真防抓取靠接口限制。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T02:10:17.689755Z"
       }
     }
   ]
