@@ -40025,5 +40025,13 @@
   "re1|ce01d8480e80a4286a9b009c7cd5855c3ac86052": "",
   "re1|105f8eeffe88a0ee53ad4a0f22e052e8f3682879": "欧盟版权法以人为中心，纯AI生成内容不受保护；Munich Local Court裁定AI生成标志无版权，仅提示或选择AI建议不构成人类创作贡献，Gervais提醒署名意味着担责而非享有版权。",
   "re1|bdb1c8fe69c8b9ad6d127aeb1471119804596795": "UC Berkeley School of Law 发布自2026年夏季生效的AI政策，禁止学生用AI进行作业的构思、起草、翻译或修改，考试中完全禁用，仅允许用于检索文献来源，且引用不存在的来源将被推定为违规。",
-  "re1|98979fccb0d487e22a20e72ae537f718f9fbb4a8": "Berkeley Law宣布自2026年夏季起默认禁止学生在课堂作业、考试中使用AI，仅允许用于查找资料，违规引用不存在的文献将被视为违规。"
+  "re1|98979fccb0d487e22a20e72ae537f718f9fbb4a8": "Berkeley Law宣布自2026年夏季起默认禁止学生在课堂作业、考试中使用AI，仅允许用于查找资料，违规引用不存在的文献将被视为违规。",
+  "ds1|Codex on AWS bedrock bug causing 10x charges": "AWS bedrock 上 Codex 的漏洞导致收费暴涨 10 倍",
+  "te1|69f31657498c4f31d3c40183f75ec02fe7f58cfb": "Ox Alpha免费推理模型面向编码、代理与生产负载",
+  "re1|ea863f11d3a0c8b6b6c45f6ec6b4a73b96fa4a0c": "AWS Bedrock 上 Codex 的 bug 导致 10 倍费用，OpenAI 文档指向 prompt caching 配置混乱，且 5.6 可能改用 linear attention 或 LSTM，无法像 5.5 及以下那样截断恢复状态。",
+  "re1|6bed69b88241c88628f30c85d11f9413b516beb3": "DeepSeek Harness 开源即登 GitHub 11.7 万 Star，官方迫使新手装 Node.js；DSH Desktop 内置 Node.js 24 LTS，不 fork 官方，提供 macOS/Windows 包，把门槛留在门外。",
+  "re1|126e8fdb53f00f2c14c7e492238967383afebaab": "据本文披露，Anthropic的“Project Panama”秘密花数千万美元买下数百万册实体书，扫描训练Claude后尽数销毁，Anna's Archive正号召全球志愿者扫描上传，抢在人类文化遗产消失前。",
+  "re1|bb396961d4a3fb50fe730d6dc79f8a1875ae455b": "",
+  "re1|d3aaf33252146f4cf875e067f48792a00d706e67": "Codex on AWS Bedrock因无法启用GPT-5.6 Sol显式提示缓存，agentic编码负载产生大量cache-write token；8月5-8日缓存写入占模型估算花费85%，一次会话76个请求平均每个88K tokens，成本显著升高。",
+  "re1|69f31657498c4f31d3c40183f75ec02fe7f58cfb": "Ox Alpha是款免费推理模型，支持1,048,576 token上下文与131,072 token输出，吞吐达54 tok/s，由匿名第三方Stealth提供，专为编码与长时agentic工作负载设计。"
 }
