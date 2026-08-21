@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T16:00:01.028714Z",
+  "generated_at": "2026-08-21T17:05:02.575156Z",
   "model": "deepseek-chat",
   "personas": [
     {
@@ -17,30 +17,10 @@
   ],
   "items": [
     {
-      "story_id": "story_666a236350be",
-      "title": "Hugging Face 发布 LFM2.5 系列 DSpark 草稿模型，推理速度最高提升 3.18 倍 / Up to 3.2x Faster Inference with LFM2.5-DSpark",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
-      "rank": 1,
-      "reviews": {
-        "cynic": {
-          "score": 72,
-          "review": "提速数字好看，但草稿模型得看配合主模型的端到端收益，单测生成速度是耍流氓。"
-        },
-        "paper-police": {
-          "score": 45,
-          "review": "官方博客给了数字但无代码无复现，等第三方验证再定论。"
-        },
-        "pragmatic": {
-          "score": 88,
-          "review": "草稿模型提速3倍，推理成本直接降，能上生产环境的今天就能试。"
-        }
-      }
-    },
-    {
       "story_id": "story_0e71951a8402",
       "title": "Codex 在 AWS Bedrock 上存在一个导致费用增加 10 倍的漏洞",
       "url": "https://github.com/openai/codex/issues/37674",
-      "rank": 2,
+      "rank": 1,
       "reviews": {
         "cynic": {
           "score": 45,
@@ -60,7 +40,7 @@
       "story_id": "story_7b114e120e12",
       "title": "OpenAI全面开源Codex Harness，AI编程智能体底层能力进一步开放",
       "url": "https://www.aibase.com/news/30531",
-      "rank": 3,
+      "rank": 2,
       "reviews": {
         "cynic": {
           "score": 72,
@@ -73,6 +53,26 @@
         "pragmatic": {
           "score": 82,
           "review": "开源Harness能直接抄训练和评测管线，做编程Agent的今天就能用。"
+        }
+      }
+    },
+    {
+      "story_id": "story_f852499667bc",
+      "title": "Slack 中的全新 GitHub Copilot 体验 / The new GitHub Copilot experience in Slack",
+      "url": "https://github.blog/changelog/2026-08-21-the-new-github-copilot-experience-in-slack",
+      "rank": 3,
+      "reviews": {
+        "cynic": {
+          "score": 70,
+          "review": "Copilot 进 Slack 不新鲜，但官方更新总算补上协作短板，别吹成革命就行。"
+        },
+        "paper-police": {
+          "score": 45,
+          "review": "官方博客有细节但无代码无评测，等独立验证再定论。"
+        },
+        "pragmatic": {
+          "score": 72,
+          "review": "Copilot 进 Slack 能少切窗口，但得看是否支持私有代码库，先试再推。"
         }
       }
     }
