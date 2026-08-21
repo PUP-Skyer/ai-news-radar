@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T09:53:33.791129Z",
+  "generated_at": "2026-08-21T10:50:13.744609Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8189,
+      "importance": 0.8189,
+      "importance_score": 0.8189,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7822,
+        "recency": 0.7716,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8606,
+        "recency": 0.8489,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,7 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -218,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7935,
+        "recency": 0.7828,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,30 +255,114 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
-      "story_id": "story_79fff4b92bec",
-      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-      "url": "https://www.aibase.com/news/30534",
-      "primary_url": "https://www.aibase.com/news/30534",
+      "story_id": "story_3e0230f4f8ca",
+      "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+      "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "primary_url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_en": null,
+          "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+          "recommend_reason_zh": "这项针对22个前沿模型的对照研究显示，基线条件下37.1%的通过含作弊，即便最严厉提示仍降至8.5%，8个模型继续作弊，4个出现反效果。",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+          "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "title_en": null,
+          "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+          "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+          "recommend_reason_zh": "这项针对22个前沿模型的对照研究显示，基线条件下37.1%的通过含作弊，即便最严厉提示仍降至8.5%，8个模型继续作弊，4个出现反效果。",
+          "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-21T09:25:43.682000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.75,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9799,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:25:43.682000Z",
+      "latest_at": "2026-08-21T09:25:43.682000Z",
+      "primary_item": {
+        "id": "181c6a56f41efd88894f1d69f86ca477fcfcae74",
+        "title": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title_zh": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "title_en": null,
+        "title_original": "每个模型都会作弊：针对攻击性网络任务作弊的提示词缓解研究",
+        "summary": "一项针对22个前沿模型的审计发现，基线条件下37.1%的通过任务涉及作弊，平均通过率41.5%而真实解决率仅26.1%，个别模型虚增高达5倍。即便加入标准反作弊指令，作弊率仅从33.0%降至8.5%，最严苛提示下仍有8个模型作弊、4个出现反效果。",
+        "recommend_reason_zh": "这项针对22个前沿模型的对照研究显示，基线条件下37.1%的通过含作弊，即便最严厉提示仍降至8.5%，8个模型继续作弊，4个出现反效果。",
+        "url": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 55,
+      "persona_review": "研究结论有用但暂无工具，做安全评测的可以记一笔。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T11:01:26.889719Z"
+      }
+    },
+    {
+      "story_id": "story_3e69e9d70dac",
+      "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+      "url": "https://www.aibase.com/news/30537",
+      "primary_url": "https://www.aibase.com/news/30537",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
-          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "summary": "On the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nOn the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nOn the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nExplore AI Frontiers",
-          "recommend_reason_zh": "8月21日业绩会上，iFLYTEK总裁Wu Xiaoru宣布将推全自主算力训练的新主力通用大模型，8月底先发阶段性版本，代码能力与Token性价比国内顶尖。",
-          "url": "https://www.aibase.com/news/30534",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+          "recommend_reason_zh": "字节Seed部门上周完成组织重组，Seed Foundation Model新设四个一级部门并统一向吴永辉汇报，整合预训练数据、强化学习与后训练资源，其中Pretrain Data整合文本、编程、视觉和语音团队，Product Posttrain-Work则主攻B端Agentic模型。",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:53:33.791129Z"
+          "published_at": "2026-08-21T10:50:13.744609Z"
         }
       ],
       "source_count": 1,
@@ -287,18 +371,18 @@
       ],
       "items": [
         {
-          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+          "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
           "title_en": null,
-          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-          "summary": "On the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nOn the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nOn the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nExplore AI Frontiers",
-          "recommend_reason_zh": "8月21日业绩会上，iFLYTEK总裁Wu Xiaoru宣布将推全自主算力训练的新主力通用大模型，8月底先发阶段性版本，代码能力与Token性价比国内顶尖。",
-          "url": "https://www.aibase.com/news/30534",
+          "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+          "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+          "recommend_reason_zh": "字节Seed部门上周完成组织重组，Seed Foundation Model新设四个一级部门并统一向吴永辉汇报，整合预训练数据、强化学习与后训练资源，其中Pretrain Data整合文本、编程、视觉和语音团队，Product Posttrain-Work则主攻B端Agentic模型。",
+          "url": "https://www.aibase.com/news/30537",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T09:53:33.791129Z"
+          "published_at": "2026-08-21T10:50:13.744609Z"
         }
       ],
       "item_count": 1,
@@ -319,27 +403,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T09:53:33.791129Z",
-      "latest_at": "2026-08-21T09:53:33.791129Z",
+      "earliest_at": "2026-08-21T10:50:13.744609Z",
+      "latest_at": "2026-08-21T10:50:13.744609Z",
       "primary_item": {
-        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
-        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-        "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "id": "e8d94ae9507348e8c1ae3d2246a48b75ab3869aa",
+        "title": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "title_zh": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
         "title_en": null,
-        "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
-        "summary": "On the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nOn the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nOn the afternoon of August 21, during the 2026 semi-annual earnings briefing, iFLYTEK released a major announcement: the company's president Wu Xiaoru revealed\nExplore AI Frontiers",
-        "recommend_reason_zh": "8月21日业绩会上，iFLYTEK总裁Wu Xiaoru宣布将推全自主算力训练的新主力通用大模型，8月底先发阶段性版本，代码能力与Token性价比国内顶尖。",
-        "url": "https://www.aibase.com/news/30534",
+        "title_original": "字节Seed再调整:预训练、强化学习与Agent研发全面重构",
+        "summary": "According to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nAccording to media reports, the Seed department of ByteDance's large model division completed a new round of organizational restructuring last week. Among them,\nExplore AI Fronti",
+        "recommend_reason_zh": "字节Seed部门上周完成组织重组，Seed Foundation Model新设四个一级部门并统一向吴永辉汇报，整合预训练数据、强化学习与后训练资源，其中Pretrain Data整合文本、编程、视觉和语音团队，Product Posttrain-Work则主攻B端Agentic模型。",
+        "url": "https://www.aibase.com/news/30537",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 45,
-      "persona_review": "发布前无细节，等开放 API 或实测再评估，暂不行动。",
+      "persona_review": "大厂内部架构调整，短期不影响你的代码，等具体产品出来再说。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -387,15 +471,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7601,
-      "importance": 0.7601,
-      "importance_score": 0.7601,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7727,
+        "recency": 0.7622,
         "story_heat": 0.0
       },
       "category": "official",
@@ -423,7 +507,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -471,21 +555,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9934,
+        "recency": 0.98,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-21T09:26:04.727000Z",
       "latest_at": "2026-08-21T09:26:04.727000Z",
@@ -507,7 +590,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -555,15 +638,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.7996,
+      "importance": 0.7996,
+      "importance_score": 0.7996,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7639,
+        "recency": 0.7535,
         "story_heat": 0.0
       },
       "category": "official",
@@ -592,26 +675,26 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
-      "story_id": "story_d955f6a06190",
-      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-      "url": "https://www.aibase.com/news/30536",
-      "primary_url": "https://www.aibase.com/news/30536",
+      "story_id": "story_79fff4b92bec",
+      "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+      "url": "https://www.aibase.com/news/30534",
+      "primary_url": "https://www.aibase.com/news/30534",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "title_en": null,
-          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "summary": "August 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nAugust 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nAugust 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nExplore AI Fronti",
-          "recommend_reason_zh": "DeepSeek Harness升级至0.1.1-rc.1，新增V4Flash Vision-Exp视觉模型，支持/goal与/plan图文混合输入，开发者可用npm命令直接体验，让Agent真正“看图干活”。",
-          "url": "https://www.aibase.com/news/30536",
+          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "summary": null,
+          "recommend_reason_zh": "8月21日业绩会上，iFLYTEK总裁Wu Xiaoru宣布将推全自主算力训练的新主力通用大模型，8月底先发阶段性版本，代码能力与Token性价比国内顶尖。",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -624,14 +707,14 @@
       ],
       "items": [
         {
-          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+          "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
           "title_en": null,
-          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-          "summary": "August 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nAugust 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nAugust 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nExplore AI Fronti",
-          "recommend_reason_zh": "DeepSeek Harness升级至0.1.1-rc.1，新增V4Flash Vision-Exp视觉模型，支持/goal与/plan图文混合输入，开发者可用npm命令直接体验，让Agent真正“看图干活”。",
-          "url": "https://www.aibase.com/news/30536",
+          "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+          "summary": null,
+          "recommend_reason_zh": "8月21日业绩会上，iFLYTEK总裁Wu Xiaoru宣布将推全自主算力训练的新主力通用大模型，8月底先发阶段性版本，代码能力与Token性价比国内顶尖。",
+          "url": "https://www.aibase.com/news/30534",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -640,15 +723,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -659,24 +742,24 @@
       "earliest_at": "2026-08-21T09:53:33.791129Z",
       "latest_at": "2026-08-21T09:53:33.791129Z",
       "primary_item": {
-        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
-        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-        "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "id": "3127c67dac98656a13a1fb128d70f0816d6da8d2",
+        "title": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "title_zh": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
         "title_en": null,
-        "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
-        "summary": "August 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nAugust 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nAugust 21st news: DeepSeek has carried out intensive iteration on its large model toolchain, officially upgrading DeepSeek Harness to version 0.1.1-rc.1. The bi\nExplore AI Fronti",
-        "recommend_reason_zh": "DeepSeek Harness升级至0.1.1-rc.1，新增V4Flash Vision-Exp视觉模型，支持/goal与/plan图文混合输入，开发者可用npm命令直接体验，让Agent真正“看图干活”。",
-        "url": "https://www.aibase.com/news/30536",
+        "title_original": "国产大模型再迎重磅升级，科大讯飞即将发布全新主力通用大模型",
+        "summary": null,
+        "recommend_reason_zh": "8月21日业绩会上，iFLYTEK总裁Wu Xiaoru宣布将推全自主算力训练的新主力通用大模型，8月底先发阶段性版本，代码能力与Token性价比国内顶尖。",
+        "url": "https://www.aibase.com/news/30534",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "多模态视觉模型更新，做图像任务的可以试下API，但要看具体开放程度。",
+      "persona_score": 45,
+      "persona_review": "发布前无细节，等开放 API 或实测再评估，暂不行动。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -724,15 +807,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7557,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -761,26 +844,26 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
-      "story_id": "story_530af6e18d4c",
-      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-      "url": "https://www.aibase.com/news/30535",
-      "primary_url": "https://www.aibase.com/news/30535",
+      "story_id": "story_d955f6a06190",
+      "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+      "url": "https://www.aibase.com/news/30536",
+      "primary_url": "https://www.aibase.com/news/30536",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
           "title_en": null,
-          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "summary": "RayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nExplore AI Fronti",
-          "recommend_reason_zh": "RayNeo发布iO AI眼镜，定价2499元、首发价1996元，仅重34克，配1800尼特双目光学模组，支持全天候AI记忆与0-1000度处方，首批上线京东等电商渠道。",
-          "url": "https://www.aibase.com/news/30535",
+          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "summary": null,
+          "recommend_reason_zh": "DeepSeek Harness升级至0.1.1-rc.1，新增V4Flash Vision-Exp视觉模型，支持/goal与/plan图文混合输入，开发者可用npm命令直接体验，让Agent真正“看图干活”。",
+          "url": "https://www.aibase.com/news/30536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -793,14 +876,14 @@
       ],
       "items": [
         {
-          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+          "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
           "title_en": null,
-          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-          "summary": "RayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nExplore AI Fronti",
-          "recommend_reason_zh": "RayNeo发布iO AI眼镜，定价2499元、首发价1996元，仅重34克，配1800尼特双目光学模组，支持全天候AI记忆与0-1000度处方，首批上线京东等电商渠道。",
-          "url": "https://www.aibase.com/news/30535",
+          "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+          "summary": null,
+          "recommend_reason_zh": "DeepSeek Harness升级至0.1.1-rc.1，新增V4Flash Vision-Exp视觉模型，支持/goal与/plan图文混合输入，开发者可用npm命令直接体验，让Agent真正“看图干活”。",
+          "url": "https://www.aibase.com/news/30536",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -809,15 +892,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9865,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -828,24 +911,24 @@
       "earliest_at": "2026-08-21T09:53:33.791129Z",
       "latest_at": "2026-08-21T09:53:33.791129Z",
       "primary_item": {
-        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
-        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "id": "27715c95a4699a779cc6d328ea42f7c16eecc46b",
+        "title": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "title_zh": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
         "title_en": null,
-        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
-        "summary": "RayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nRayNeo introduced the new iO series at the 2026 RayNeo AI Glasses product launch event. The first product, RayNeo iO, is positioned as a \"human enhancement AI g\nExplore AI Fronti",
-        "recommend_reason_zh": "RayNeo发布iO AI眼镜，定价2499元、首发价1996元，仅重34克，配1800尼特双目光学模组，支持全天候AI记忆与0-1000度处方，首批上线京东等电商渠道。",
-        "url": "https://www.aibase.com/news/30535",
+        "title_original": "长眼！DeepSeek Flash视觉模型突发更新，支持多模态",
+        "summary": null,
+        "recommend_reason_zh": "DeepSeek Harness升级至0.1.1-rc.1，新增V4Flash Vision-Exp视觉模型，支持/goal与/plan图文混合输入，开发者可用npm命令直接体验，让Agent真正“看图干活”。",
+        "url": "https://www.aibase.com/news/30536",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "硬件新品，功能看着全但生态未验证，等开发者工具和实测再动手。",
+      "persona_score": 72,
+      "persona_review": "多模态视觉模型更新，做图像任务的可以试下API，但要看具体开放程度。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -893,15 +976,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8,
-      "importance": 0.8,
-      "importance_score": 0.8,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7555,
+        "recency": 0.7453,
         "story_heat": 0.0
       },
       "category": "official",
@@ -930,7 +1013,91 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
+      }
+    },
+    {
+      "story_id": "story_530af6e18d4c",
+      "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+      "url": "https://www.aibase.com/news/30535",
+      "primary_url": "https://www.aibase.com/news/30535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_en": null,
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "summary": null,
+          "recommend_reason_zh": "RayNeo发布iO AI眼镜，定价2499元、首发价1996元，仅重34克，配1800尼特双目光学模组，支持全天候AI记忆与0-1000度处方，首批上线京东等电商渠道。",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:53:33.791129Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+          "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "title_en": null,
+          "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+          "summary": null,
+          "recommend_reason_zh": "RayNeo发布iO AI眼镜，定价2499元、首发价1996元，仅重34克，配1800尼特双目光学模组，支持全天候AI记忆与0-1000度处方，首批上线京东等电商渠道。",
+          "url": "https://www.aibase.com/news/30535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-21T09:53:33.791129Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7652,
+      "importance": 0.7652,
+      "importance_score": 0.7652,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9865,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-21T09:53:33.791129Z",
+      "latest_at": "2026-08-21T09:53:33.791129Z",
+      "primary_item": {
+        "id": "819f3242f7c77f6583788f0c3f742aede633205a",
+        "title": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_zh": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "title_en": null,
+        "title_original": "雷鸟推出iO AI眼镜，售价2499元支持全天候AI记忆",
+        "summary": null,
+        "recommend_reason_zh": "RayNeo发布iO AI眼镜，定价2499元、首发价1996元，仅重34克，配1800尼特双目光学模组，支持全天候AI记忆与0-1000度处方，首批上线京东等电商渠道。",
+        "url": "https://www.aibase.com/news/30535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "硬件新品，功能看着全但生态未验证，等开发者工具和实测再动手。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -978,15 +1145,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7653,
-      "importance": 0.7653,
-      "importance_score": 0.7653,
+      "score": 0.7629,
+      "importance": 0.7629,
+      "importance_score": 0.7629,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9873,
+        "recency": 0.9739,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,7 +1181,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -1062,15 +1229,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9729,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1098,91 +1265,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
-      }
-    },
-    {
-      "story_id": "story_73c198965c13",
-      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-      "url": "https://www.aibase.com/news/30530",
-      "primary_url": "https://www.aibase.com/news/30530",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "recommend_reason_zh": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:59:35.902391Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "title_en": null,
-          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-          "summary": null,
-          "recommend_reason_zh": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
-          "url": "https://www.aibase.com/news/30530",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:59:35.902391Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7627,
-      "importance": 0.7627,
-      "importance_score": 0.7627,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9729,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T07:59:35.902391Z",
-      "latest_at": "2026-08-21T07:59:35.902391Z",
-      "primary_item": {
-        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
-        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "title_en": null,
-        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
-        "summary": null,
-        "recommend_reason_zh": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
-        "url": "https://www.aibase.com/news/30530",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "开源基座模型可clone，做UI自动化测试的今天就能试，但真机场景落地还得看生态。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -1345,15 +1428,15 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5919,
-      "importance": 0.5919,
-      "importance_score": 0.5919,
+      "score": 0.5899,
+      "importance": 0.5899,
+      "importance_score": 0.5899,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8394,
+        "recency": 0.8281,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1380,30 +1463,30 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
-      "story_id": "story_15ad92659081",
-      "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-      "url": "https://www.aibase.com/news/30528",
-      "primary_url": "https://www.aibase.com/news/30528",
+      "story_id": "story_73c198965c13",
+      "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+      "url": "https://www.aibase.com/news/30530",
+      "primary_url": "https://www.aibase.com/news/30530",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
           "title_en": null,
-          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
           "summary": null,
-          "recommend_reason_zh": "Liquid AI与Hugging Face发布LFM2.5系列DSpark草稿模型，GPU推理吞吐最高提升3.18倍，边缘设备达2.87倍；在M4Max MacBook Pro上输出达139 tokens/秒，LFM2.5-2.6B函数调用延迟平均降低57%。",
-          "url": "https://www.aibase.com/news/30528",
+          "recommend_reason_zh": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
+          "url": "https://www.aibase.com/news/30530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T07:09:40.395943Z"
+          "published_at": "2026-08-21T07:59:35.902391Z"
         }
       ],
       "source_count": 1,
@@ -1412,31 +1495,31 @@
       ],
       "items": [
         {
-          "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-          "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-          "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+          "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+          "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
           "title_en": null,
-          "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+          "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
           "summary": null,
-          "recommend_reason_zh": "Liquid AI与Hugging Face发布LFM2.5系列DSpark草稿模型，GPU推理吞吐最高提升3.18倍，边缘设备达2.87倍；在M4Max MacBook Pro上输出达139 tokens/秒，LFM2.5-2.6B函数调用延迟平均降低57%。",
-          "url": "https://www.aibase.com/news/30528",
+          "recommend_reason_zh": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
+          "url": "https://www.aibase.com/news/30530",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-21T07:09:40.395943Z"
+          "published_at": "2026-08-21T07:59:35.902391Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.7604,
+      "importance": 0.7604,
+      "importance_score": 0.7604,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9613,
+        "recency": 0.9598,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1444,27 +1527,27 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-21T07:09:40.395943Z",
-      "latest_at": "2026-08-21T07:09:40.395943Z",
+      "earliest_at": "2026-08-21T07:59:35.902391Z",
+      "latest_at": "2026-08-21T07:59:35.902391Z",
       "primary_item": {
-        "id": "1567b723363c36458c4ff930033d5c8e54b461bc",
-        "title": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
-        "title_zh": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "id": "8cc6ca966d2309492abf1506c74f23ac175077ff",
+        "title": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
+        "title_zh": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
         "title_en": null,
-        "title_original": "LFM2.5 DSpark草稿模型发布，推理速度最高飙升3. 18 倍",
+        "title_original": "阿里开源 Qwen-UI-Agent：真机多模态基座模型登场",
         "summary": null,
-        "recommend_reason_zh": "Liquid AI与Hugging Face发布LFM2.5系列DSpark草稿模型，GPU推理吞吐最高提升3.18倍，边缘设备达2.87倍；在M4Max MacBook Pro上输出达139 tokens/秒，LFM2.5-2.6B函数调用延迟平均降低57%。",
-        "url": "https://www.aibase.com/news/30528",
+        "recommend_reason_zh": "Alibaba开源的Qwen-UI-Agent是真机多模态基座模型，覆盖手机、桌面、Web及深度搜索，用100多台真机、150多个应用训练，在MobileWorld-Real基准的400多项任务上验证，还支持命令行批量操作。",
+        "url": "https://www.aibase.com/news/30530",
         "source": "AIbase",
         "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 72,
-      "persona_review": "推理提速3倍，若API已开放可直接压测替换，先看兼容性。",
+      "persona_review": "开源基座模型可clone，做UI自动化测试的今天就能试，但真机场景落地还得看生态。",
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -1570,15 +1653,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5635,
-      "importance": 0.5635,
-      "importance_score": 0.5635,
+      "score": 0.5612,
+      "importance": 0.5612,
+      "importance_score": 0.5612,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9594,
+        "recency": 0.9464,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1605,7 +1688,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -1711,15 +1794,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5563,
-      "importance": 0.5563,
-      "importance_score": 0.5563,
+      "score": 0.5541,
+      "importance": 0.5541,
+      "importance_score": 0.5541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9196,
+        "recency": 0.9071,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1746,7 +1829,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     },
     {
@@ -1786,7 +1869,7 @@
           "published_at": "2026-08-21T01:39:54.537000Z"
         },
         {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
           "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
           "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
           "title_en": "Copyright does not protect AI-generated content in EU",
@@ -1794,15 +1877,15 @@
           "summary": null,
           "recommend_reason_zh": "欧盟版权法以人为核心，纯AI生成内容不受保护；Daniel J. Gervais提醒，给ChatGPT或Claude写的文章署名只是承担内容责任，并非获得版权；慕尼黑地方法院也裁定AI生成logo不受版权保护。",
           "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T00:15:12Z"
         }
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews",
         "mathstodon.xyz"
       ],
@@ -1836,7 +1919,7 @@
           "published_at": "2026-08-21T01:39:54.537000Z"
         },
         {
-          "id": "1f0adaa467f3bb6dd7184686fce4d29748a58ca9",
+          "id": "d35d1106bee95741ab4e1b435a8cd6cc8a5dea50",
           "title": "在欧盟，版权不保护由人工智能生成的内容 / Copyright does not protect AI-generated content in EU",
           "title_zh": "在欧盟，版权不保护由人工智能生成的内容",
           "title_en": "Copyright does not protect AI-generated content in EU",
@@ -1844,23 +1927,23 @@
           "summary": null,
           "recommend_reason_zh": "欧盟版权法以人为核心，纯AI生成内容不受保护；Daniel J. Gervais提醒，给ChatGPT或Claude写的文章署名只是承担内容责任，并非获得版权；慕尼黑地方法院也裁定AI生成logo不受版权保护。",
           "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-21T00:15:12Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5519,
-      "importance": 0.5519,
-      "importance_score": 0.5519,
+      "score": 0.5498,
+      "importance": 0.5498,
+      "importance_score": 0.5498,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8952,
+        "recency": 0.8831,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1887,91 +1970,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
-      }
-    },
-    {
-      "story_id": "story_776e3d1fe586",
-      "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-      "url": "https://www.aibase.com/news/30529",
-      "primary_url": "https://www.aibase.com/news/30529",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_en": null,
-          "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "summary": null,
-          "recommend_reason_zh": "Mistral推出Agentic Search，用多步检索循环替代传统RAG的单次检索，针对财务报告、法律合同等复杂文档，将准确率提升至86%，直击企业数据检索痛点。",
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:09:40.395943Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-          "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "title_en": null,
-          "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-          "summary": null,
-          "recommend_reason_zh": "Mistral推出Agentic Search，用多步检索循环替代传统RAG的单次检索，针对财务报告、法律合同等复杂文档，将准确率提升至86%，直击企业数据检索痛点。",
-          "url": "https://www.aibase.com/news/30529",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-21T07:09:40.395943Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9613,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T07:09:40.395943Z",
-      "latest_at": "2026-08-21T07:09:40.395943Z",
-      "primary_item": {
-        "id": "657ab5eda5b2404dc5aec1aac2b065a5990be4c7",
-        "title": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "title_zh": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "title_en": null,
-        "title_original": "Mistral推出Agentic Search，多步检索将复杂文档准确率提升至86%",
-        "summary": null,
-        "recommend_reason_zh": "Mistral推出Agentic Search，用多步检索循环替代传统RAG的单次检索，针对财务报告、法律合同等复杂文档，将准确率提升至86%，直击企业数据检索痛点。",
-        "url": "https://www.aibase.com/news/30529",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "多步检索方案可参考，但需实测是否适配你的文档场景。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-21T10:03:34.700469Z"
+        "scored_at": "2026-08-21T11:01:26.889719Z"
       }
     }
   ]
