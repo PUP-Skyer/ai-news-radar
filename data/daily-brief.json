@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:38:21.889397Z",
+  "generated_at": "2026-08-22T20:42:07.190810Z",
   "window_hours": 24,
   "total_items": 8,
   "items": [
@@ -48,21 +48,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7511,
-      "importance": 0.7511,
-      "importance_score": 0.7511,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9249,
+        "recency": 0.9108,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-22T14:13:48Z",
       "latest_at": "2026-08-22T14:13:48Z",
@@ -152,15 +151,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5661,
-      "importance": 0.5661,
-      "importance_score": 0.5661,
+      "score": 0.5641,
+      "importance": 0.5641,
+      "importance_score": 0.5641,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.7256,
+        "recency": 0.7146,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -285,15 +284,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5645,
-      "importance": 0.5645,
-      "importance_score": 0.5645,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9648,
+        "recency": 0.9501,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -418,15 +417,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5584,
-      "importance": 0.5584,
-      "importance_score": 0.5584,
+      "score": 0.5558,
+      "importance": 0.5558,
+      "importance_score": 0.5558,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.931,
+        "recency": 0.9168,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -444,6 +443,110 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49399941",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8a2541a1bf06",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://news.ycombinator.com/item?id=49402232",
+      "primary_url": "https://news.ycombinator.com/item?id=49402232",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "reply\nreply\nBut I’m having a lot of luck just running things when I’m away from the computer and can leave it plugged in. It starts going weird (unreliable and slow) with context over 80k so you have to pick tasks one at a time and baby sit a lot more than Claude. But it really is very capable and feels like there’s an intelligence there to talk to. Maybe gpt-4 level clever? I have an m5 max 64gb and I think anything slower would be quite painful.\nIt starts going weird (unreliable and slow) with",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:42:27.609000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "recommend_reason_zh": null,
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "reply\nreply\nBut I’m having a lot of luck just running things when I’m away from the computer and can leave it plugged in. It starts going weird (unreliable and slow) with context over 80k so you have to pick tasks one at a time and baby sit a lot more than Claude. But it really is very capable and feels like there’s an intelligence there to talk to. Maybe gpt-4 level clever? I have an m5 max 64gb and I think anything slower would be quite painful.\nIt starts going weird (unreliable and slow) with",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:42:27.609000Z"
+        },
+        {
+          "id": "b55232b916abe6ce04bd936a2b8bc550ab63e6e7",
+          "title": "Why your local LLM feels dumber than it is",
+          "title_zh": null,
+          "title_en": "Why your local LLM feels dumber than it is",
+          "title_original": "Why your local LLM feels dumber than it is",
+          "summary": "Quick Introduction We have all been on forums, chats, reddit, discord, youtube, or somewhere and heard “Oh! Model XYZ is AMAZEBALLZ!zomgwtfbbq” then downloaded it (or more likely, some quantized form of it) and said “eww… This sucks!”  This post is going to be a rather technical series of experiments to demonstrate the impact of implementation-specific hazards with inference. I will be using the term “reference implementation” to describe the lab that published and offers first-party hosting of ",
+          "recommend_reason_zh": null,
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5458,
+      "importance": 0.5458,
+      "importance_score": 0.5458,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T20:42:27.609000Z",
+      "primary_item": {
+        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+        "title": "Why your local LLM feels dumber than it is",
+        "title_zh": null,
+        "title_en": "Why your local LLM feels dumber than it is",
+        "title_original": "Why your local LLM feels dumber than it is",
+        "summary": "reply\nreply\nBut I’m having a lot of luck just running things when I’m away from the computer and can leave it plugged in. It starts going weird (unreliable and slow) with context over 80k so you have to pick tasks one at a time and baby sit a lot more than Claude. But it really is very capable and feels like there’s an intelligence there to talk to. Maybe gpt-4 level clever? I have an m5 max 64gb and I think anything slower would be quite painful.\nIt starts going weird (unreliable and slow) with",
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=49402232",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -521,15 +624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5404,
+      "importance": 0.5404,
+      "importance_score": 0.5404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.985,
+        "recency": 0.97,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -625,15 +728,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5369,
+      "importance": 0.5369,
+      "importance_score": 0.5369,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9652,
+        "recency": 0.9505,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -678,7 +781,7 @@
           "published_at": "2026-08-22T06:43:59.267000Z"
         },
         {
-          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
           "title": "GPT 5.6 Sol 20% price reduction",
           "title_zh": null,
           "title_en": "GPT 5.6 Sol 20% price reduction",
@@ -686,15 +789,15 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T04:33:06Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -713,7 +816,7 @@
           "published_at": "2026-08-22T06:43:59.267000Z"
         },
         {
-          "id": "a386741b6b65c710ba3ac756f3a4d056f1e175e0",
+          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
           "title": "GPT 5.6 Sol 20% price reduction",
           "title_zh": null,
           "title_en": "GPT 5.6 Sol 20% price reduction",
@@ -721,23 +824,23 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-08-22T04:33:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5152,
-      "importance": 0.5152,
-      "importance_score": 0.5152,
+      "score": 0.5129,
+      "importance": 0.5129,
+      "importance_score": 0.5129,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.83,
+        "recency": 0.8173,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -755,110 +858,6 @@
         "summary": null,
         "recommend_reason_zh": null,
         "url": "https://news.ycombinator.com/item?id=49396590",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_deed5dc2807d",
-      "title": "快速印象：这一周用Codex比Claude多 / Quick impressions: A week of using Codex more than Claude",
-      "url": "https://news.ycombinator.com/item?id=49393051",
-      "primary_url": "https://news.ycombinator.com/item?id=49393051",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：这一周用Codex比Claude多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：这一周用Codex比Claude多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "作者实测一周后认为Codex的CLI和桌面端都比Claude更简单易用，并称赞sol在xhigh模式下可处理长提示、omp工具链领先Claude Code数月，还提到Gemini 3.7速度快、Kimi K3适合前端，以及5090价格将持续上涨。",
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:32:02.097000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：这一周用Codex比Claude多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：这一周用Codex比Claude多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "作者用Codex超过Claude一周后分享十条印象：Codex更快但rebase时产生4000+行误改，Ruby代码注释更少，与Jira协作繁琐，而Claude更主动。",
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-          "title": "快速印象：这一周用Codex比Claude多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：这一周用Codex比Claude多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "作者实测一周后认为Codex的CLI和桌面端都比Claude更简单易用，并称赞sol在xhigh模式下可处理长提示、omp工具链领先Claude Code数月，还提到Gemini 3.7速度快、Kimi K3适合前端，以及5090价格将持续上涨。",
-          "url": "https://news.ycombinator.com/item?id=49393051",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-21T20:32:02.097000Z"
-        },
-        {
-          "id": "48aa24f65578ce52e3984df7eead950686309a55",
-          "title": "快速印象：这一周用Codex比Claude多 / Quick impressions: A week of using Codex more than Claude",
-          "title_zh": "快速印象：这一周用Codex比Claude多",
-          "title_en": "Quick impressions: A week of using Codex more than Claude",
-          "title_original": "Quick impressions: A week of using Codex more than Claude",
-          "summary": null,
-          "recommend_reason_zh": "作者用Codex超过Claude一周后分享十条印象：Codex更快但rebase时产生4000+行误改，Ruby代码注释更少，与Jira协作繁琐，而Claude更主动。",
-          "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-21T19:51:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4947,
-      "importance": 0.4947,
-      "importance_score": 0.4947,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7163,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T19:51:48Z",
-      "latest_at": "2026-08-21T20:32:02.097000Z",
-      "primary_item": {
-        "id": "843f1c8777425b5db989c00d8a227f7bad67acb3",
-        "title": "快速印象：这一周用Codex比Claude多 / Quick impressions: A week of using Codex more than Claude",
-        "title_zh": "快速印象：这一周用Codex比Claude多",
-        "title_en": "Quick impressions: A week of using Codex more than Claude",
-        "title_original": "Quick impressions: A week of using Codex more than Claude",
-        "summary": null,
-        "recommend_reason_zh": "作者实测一周后认为Codex的CLI和桌面端都比Claude更简单易用，并称赞sol在xhigh模式下可处理长提示、omp工具链领先Claude Code数月，还提到Gemini 3.7速度快、Kimi K3适合前端，以及5090价格将持续上涨。",
-        "url": "https://news.ycombinator.com/item?id=49393051",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
