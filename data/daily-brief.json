@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:41:48.753893Z",
+  "generated_at": "2026-08-22T01:52:21.761515Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -48,15 +48,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8333,
-      "importance": 0.8333,
-      "importance_score": 0.8333,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8964,
+        "recency": 0.8686,
         "story_heat": 0.0
       },
       "category": "official",
@@ -85,7 +85,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -133,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.816,
-      "importance": 0.816,
-      "importance_score": 0.816,
+      "score": 0.8113,
+      "importance": 0.8113,
+      "importance_score": 0.8113,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8445,
+        "recency": 0.8184,
         "story_heat": 0.0
       },
       "category": "official",
@@ -170,92 +170,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
-      }
-    },
-    {
-      "story_id": "story_8ea439a37deb",
-      "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "primary_url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
-          "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-          "title_zh": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-          "title_en": "Measuring benchmark optimization in speech recognition",
-          "title_original": "Measuring benchmark optimization in speech recognition",
-          "summary": null,
-          "recommend_reason_zh": "这篇研究用11个开源ASR模型测试发现，多个高分系统在VoxPopuli和LibriSpeech上会复现错误基准转录，甚至忽略音频中的“Thank you”，揭示benchmark优化令分数虚高。",
-          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
-          "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-          "title_zh": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-          "title_en": "Measuring benchmark optimization in speech recognition",
-          "title_original": "Measuring benchmark optimization in speech recognition",
-          "summary": null,
-          "recommend_reason_zh": "这篇研究用11个开源ASR模型测试发现，多个高分系统在VoxPopuli和LibriSpeech上会复现错误基准转录，甚至忽略音频中的“Thank you”，揭示benchmark优化令分数虚高。",
-          "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-21T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7102,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-21T00:00:00Z",
-      "latest_at": "2026-08-21T00:00:00Z",
-      "primary_item": {
-        "id": "fe77e56bac5251db7491d1afe78e9985f9471676",
-        "title": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象 / Measuring benchmark optimization in speech recognition",
-        "title_zh": "测量语音识别中的基准优化：Hugging Face 新测试揭示 ASR 模型\"刷分\"现象",
-        "title_en": "Measuring benchmark optimization in speech recognition",
-        "title_original": "Measuring benchmark optimization in speech recognition",
-        "summary": null,
-        "recommend_reason_zh": "这篇研究用11个开源ASR模型测试发现，多个高分系统在VoxPopuli和LibriSpeech上会复现错误基准转录，甚至忽略音频中的“Thank you”，揭示benchmark优化令分数虚高。",
-        "url": "https://huggingface.co/blog/asr-benchmark-optimization",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "ASR刷分测试能帮你避开虚高榜单，选模型时多留个心眼。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -303,15 +218,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8332,
-      "importance": 0.8332,
-      "importance_score": 0.8332,
+      "score": 0.8282,
+      "importance": 0.8282,
+      "importance_score": 0.8282,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8956,
+        "recency": 0.8679,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,7 +255,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -446,15 +361,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7691,
-      "importance": 0.7691,
-      "importance_score": 0.7691,
+      "score": 0.7646,
+      "importance": 0.7646,
+      "importance_score": 0.7646,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8139,
+        "recency": 0.7887,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -483,7 +398,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -531,15 +446,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8221,
-      "importance": 0.8221,
-      "importance_score": 0.8221,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8785,
+        "recency": 0.8513,
         "story_heat": 0.0
       },
       "category": "official",
@@ -568,7 +483,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -616,15 +531,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7482,
-      "importance": 0.7482,
-      "importance_score": 0.7482,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8753,
+        "recency": 0.8482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -651,7 +566,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -699,15 +614,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7431,
-      "importance": 0.7431,
-      "importance_score": 0.7431,
+      "score": 0.7386,
+      "importance": 0.7386,
+      "importance_score": 0.7386,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.75,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8138,
+        "recency": 0.7886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -734,7 +649,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -782,15 +697,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9202,
+        "recency": 0.8918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -817,7 +732,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -865,15 +780,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7371,
-      "importance": 0.7371,
-      "importance_score": 0.7371,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8305,
+        "recency": 0.8048,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -900,7 +815,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -948,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7329,
-      "importance": 0.7329,
-      "importance_score": 0.7329,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8306,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,7 +898,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1060,15 +975,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.61,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9207,
+        "recency": 0.8922,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1096,7 +1011,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1144,15 +1059,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,7 +1094,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1227,15 +1142,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9202,
+        "recency": 0.8918,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1262,7 +1177,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1310,15 +1225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1345,7 +1260,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1393,15 +1308,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8193,
+        "recency": 0.7939,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1428,7 +1343,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1476,15 +1391,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8088,
+        "recency": 0.7838,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1511,7 +1426,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1587,15 +1502,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6097,
-      "importance": 0.6097,
-      "importance_score": 0.6097,
+      "score": 0.6043,
+      "importance": 0.6043,
+      "importance_score": 0.6043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9678,
+        "recency": 0.9379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1748,15 +1663,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5829,
-      "importance": 0.5829,
-      "importance_score": 0.5829,
+      "score": 0.5777,
+      "importance": 0.5777,
+      "importance_score": 0.5777,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9281,
+        "recency": 0.8994,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1783,7 +1698,7 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     },
     {
@@ -1831,15 +1746,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7311,
-      "importance": 0.7311,
-      "importance_score": 0.7311,
+      "score": 0.7266,
+      "importance": 0.7266,
+      "importance_score": 0.7266,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7971,
+        "recency": 0.7724,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1866,7 +1781,177 @@
       "persona_meta": {
         "mode": "llm",
         "model": "deepseek-chat",
-        "scored_at": "2026-08-21T23:45:03.315464Z"
+        "scored_at": "2026-08-22T01:55:41.981794Z"
+      }
+    },
+    {
+      "story_id": "story_ed2f5c618aab",
+      "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+      "url": "https://canews24.online/?p=71",
+      "primary_url": "https://canews24.online/?p=71",
+      "source": "canews24.online",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": null,
+          "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "summary": null,
+          "recommend_reason_zh": "一项追踪27,000名中国学生的研究显示，使用Doubao、DeepSeek等AI工具的学生作业成绩平均提高18%，但在无AI辅助的考试中比未使用者低20%，凸显了AI辅助学习效果的矛盾。",
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
+          "title": "研究显示：AI将作业分数提升18%，却使考试成绩下降20%。 / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_zh": "研究显示：AI将作业分数提升18%，却使考试成绩下降20%。",
+          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "summary": null,
+          "recommend_reason_zh": "一项研究显示，学生使用AI辅助完成作业后，作业分数平均提高18%，但后续考试成绩却下降20%，说明看似提升的作业表现可能掩盖了真实学习效果的倒退。",
+          "url": "https://news.ycombinator.com/item?id=49389565",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T16:31:50.459000Z"
+        },
+        {
+          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "summary": null,
+          "recommend_reason_zh": "一项追踪中国27,000名学生的研究发现，使用Doubao、DeepSeek等AI工具的学生作业分提升18%，但无AI考试时成绩低20%。这揭示AI短期提分与真实掌握度之间的落差，值得读。",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI boosted homework scores, then exam scores dropped: Study",
+          "title_original": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:25:42Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "canews24.online",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": null,
+          "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "summary": null,
+          "recommend_reason_zh": "一项追踪27,000名中国学生的研究显示，使用Doubao、DeepSeek等AI工具的学生作业成绩平均提高18%，但在无AI辅助的考试中比未使用者低20%，凸显了AI辅助学习效果的矛盾。",
+          "url": "https://canews24.online/?p=71",
+          "source": "canews24.online",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-21T17:25:45.772000Z"
+        },
+        {
+          "id": "a06a40f4ba95423013d77e6aca040dac3e57e8f5",
+          "title": "研究显示：AI将作业分数提升18%，却使考试成绩下降20%。 / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_zh": "研究显示：AI将作业分数提升18%，却使考试成绩下降20%。",
+          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "summary": null,
+          "recommend_reason_zh": "一项研究显示，学生使用AI辅助完成作业后，作业分数平均提高18%，但后续考试成绩却下降20%，说明看似提升的作业表现可能掩盖了真实学习效果的倒退。",
+          "url": "https://news.ycombinator.com/item?id=49389565",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-21T16:31:50.459000Z"
+        },
+        {
+          "id": "b3cf7db966841b278a436f05c884dd38384c456c",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "title_original": "AI Boosted Homework Scores by 18% – Then Exam Scores Dropped 20%, Study Shows",
+          "summary": null,
+          "recommend_reason_zh": "一项追踪中国27,000名学生的研究发现，使用Doubao、DeepSeek等AI工具的学生作业分提升18%，但无AI考试时成绩低20%。这揭示AI短期提分与真实掌握度之间的落差，值得读。",
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-21T15:25:42Z"
+        },
+        {
+          "id": "551bbf42d27367ceb414677e5bb42f35ebc915b3",
+          "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20% / AI boosted homework scores, then exam scores dropped: Study",
+          "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+          "title_en": "AI boosted homework scores, then exam scores dropped: Study",
+          "title_original": "AI boosted homework scores, then exam scores dropped: Study",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://canews24.online/?p=71",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-21T15:25:42Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5751,
+      "importance": 0.5751,
+      "importance_score": 0.5751,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8852,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-21T15:25:42Z",
+      "latest_at": "2026-08-21T17:25:45.772000Z",
+      "primary_item": {
+        "id": "ff26426a8adb8ff4a7c31a6ac9149850259a2625",
+        "title": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+        "title_zh": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+        "title_en": null,
+        "title_original": "研究表明：人工智能使作业成绩提高了18%——随后考试成绩却下降了20%",
+        "summary": null,
+        "recommend_reason_zh": "一项追踪27,000名中国学生的研究显示，使用Doubao、DeepSeek等AI工具的学生作业成绩平均提高18%，但在无AI辅助的考试中比未使用者低20%，凸显了AI辅助学习效果的矛盾。",
+        "url": "https://canews24.online/?p=71",
+        "source": "canews24.online",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 45,
+      "persona_review": "提醒你别把AI当作业代写工具，短期提分长期翻车，教学场景要谨慎。",
+      "persona_meta": {
+        "mode": "llm",
+        "model": "deepseek-chat",
+        "scored_at": "2026-08-22T01:55:41.981794Z"
       }
     }
   ]
