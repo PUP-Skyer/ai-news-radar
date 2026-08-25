@@ -1,36 +1,6 @@
 {
   "version": 1,
   "entries": {
-    "story_58483f682cc5|pragmatic|0a5c5b24": {
-      "score": 72,
-      "review": "CodeQL 跟上新语言版本，用 Swift/Kotlin 的可以升级扫描，老项目不急。",
-      "title_hash": "0a89e3cf",
-      "scored_at": "2026-08-04T12:36:47.522674Z"
-    },
-    "story_417741cd5bf0|pragmatic|0a5c5b24": {
-      "score": 55,
-      "review": "标准定了但离落地还早，做L3/L4的团队该提前对齐合规，短期不影响交付。",
-      "title_hash": "3b9667fd",
-      "scored_at": "2026-08-04T12:36:49.213377Z"
-    },
-    "story_15af0d503f7c|pragmatic|0a5c5b24": {
-      "score": 82,
-      "review": "4GB 跑 70B 是硬核优化，低显存党今天就能试，但推理速度别抱幻想。",
-      "title_hash": "c0edee93",
-      "scored_at": "2026-08-04T12:36:50.765470Z"
-    },
-    "story_15af0d503f7c|cynic|f4237a62": {
-      "score": 72,
-      "review": "省显存靠分层加载，速度慢到能泡杯咖啡，但至少真跑起来了。",
-      "title_hash": "c0edee93",
-      "scored_at": "2026-08-04T12:36:52.131802Z"
-    },
-    "story_15af0d503f7c|paper-police|966065bf": {
-      "score": 72,
-      "review": "GitHub 仓库有代码和说明，但缺论文与独立 benchmark，单卡跑 70B 待验证。",
-      "title_hash": "c0edee93",
-      "scored_at": "2026-08-04T12:36:53.521285Z"
-    },
     "story_bcfdafe93ce8|pragmatic|0a5c5b24": {
       "score": 85,
       "review": "2.6B小模型能本地跑Agent，部署门槛低，今天就能试。",
