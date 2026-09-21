@@ -1,8 +1,162 @@
 {
-  "generated_at": "2026-09-21T06:25:13.457088Z",
+  "generated_at": "2026-09-21T14:14:39.623743Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_017e418e0a89",
+      "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "primary_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
+          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "summary": "A Blog post by Multiverse Computing on Hugging Face\nA Blog post by Multiverse Computing on Hugging Face\nWhy picking blocks is a many-body problem The idea: turn block selection into an energy-minimization problem Solving it: exact when you can, quantum or quantum-inspired when you can't Why the whole low-energy spectrum matters Results It generalizes beyond dense transformers Why this fits Multiverse Computing One of the cheapest ways to make a large language model faster is also one of the blun",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+          "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
+          "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+          "summary": "A Blog post by Multiverse Computing on Hugging Face\nA Blog post by Multiverse Computing on Hugging Face\nWhy picking blocks is a many-body problem The idea: turn block selection into an energy-minimization problem Solving it: exact when you can, quantum or quantum-inspired when you can't Why the whole low-energy spectrum matters Results It generalizes beyond dense transformers Why this fits Multiverse Computing One of the cheapest ways to make a large language model faster is also one of the blun",
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T13:44:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8667,
+      "importance": 0.8667,
+      "importance_score": 0.8667,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9928,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T13:44:34Z",
+      "latest_at": "2026-09-21T13:44:34Z",
+      "primary_item": {
+        "id": "76c5c8f8fd875803fa668246b20e83f978e99cb5",
+        "title": "像物理学家一样修剪LLM：块去除作为伊辛优化问题 / Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "title_zh": "像物理学家一样修剪LLM：块去除作为伊辛优化问题",
+        "title_en": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "title_original": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem",
+        "summary": "A Blog post by Multiverse Computing on Hugging Face\nA Blog post by Multiverse Computing on Hugging Face\nWhy picking blocks is a many-body problem The idea: turn block selection into an energy-minimization problem Solving it: exact when you can, quantum or quantum-inspired when you can't Why the whole low-energy spectrum matters Results It generalizes beyond dense transformers Why this fits Multiverse Computing One of the cheapest ways to make a large language model faster is also one of the blun",
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_eed721e04523",
+      "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+      "url": "https://openai.com/index/v7",
+      "primary_url": "https://openai.com/index/v7",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
+          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+          "title_zh": "V7 如何为人工智能代理提供机构记忆",
+          "title_en": "How V7 gives AI agents institutional memory",
+          "title_original": "How V7 gives AI agents institutional memory",
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nUsing GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nUsing GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nSeptember 21, 2026\nV7 turns company files into agent context, with GPT‑6 Astra reaching 89% accuracy on its hardest graph-query tests.\nResults\n89%\nAc",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
+          "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+          "title_zh": "V7 如何为人工智能代理提供机构记忆",
+          "title_en": "How V7 gives AI agents institutional memory",
+          "title_original": "How V7 gives AI agents institutional memory",
+          "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nUsing GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nUsing GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nSeptember 21, 2026\nV7 turns company files into agent context, with GPT‑6 Astra reaching 89% accuracy on its hardest graph-query tests.\nResults\n89%\nAc",
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/v7",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8141,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T00:00:00Z",
+      "latest_at": "2026-09-21T00:00:00Z",
+      "primary_item": {
+        "id": "76c72136ab9549bbbee84bf82c5ff91ee0c65ce7",
+        "title": "V7 如何为人工智能代理提供机构记忆 / How V7 gives AI agents institutional memory",
+        "title_zh": "V7 如何为人工智能代理提供机构记忆",
+        "title_en": "How V7 gives AI agents institutional memory",
+        "title_original": "How V7 gives AI agents institutional memory",
+        "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nUsing GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nUsing GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.\nSeptember 21, 2026\nV7 turns company files into agent context, with GPT‑6 Astra reaching 89% accuracy on its hardest graph-query tests.\nResults\n89%\nAc",
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/v7",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_a682219ecb2e",
       "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
@@ -40,23 +194,23 @@
           "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "69eddc9e7361fefc5bf226eed7ff967c71a39fdf",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
           "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T15:18:44Z"
         },
         {
           "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": null,
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
           "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
@@ -70,7 +224,7 @@
       ],
       "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "Hacker News 热门（buzzing.cc 中文翻译）",
         "hackernews",
         "www.buchodi.com"
@@ -105,23 +259,23 @@
           "published_at": "2026-09-20T18:05:38.317000Z"
         },
         {
-          "id": "69eddc9e7361fefc5bf226eed7ff967c71a39fdf",
-          "title": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "独立调查：ChatGPT 的 __obi 跨站 Cookie 可将站外浏览行为关联到 ChatGPT 账号",
+          "id": "4ebf06811dff69eb75975c005a0f1b526fdcac85",
+          "title": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为 / ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": "ChatGPT 现在可以通过广告收集器了解你在其他网站上的行为",
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
           "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-09-20T15:18:44Z"
         },
         {
           "id": "7d18b5731ef9e28fff4e0ab0474ddc3c6c89b701",
-          "title": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么 / ChatGPT now knows what you do on other websites via ad collector",
-          "title_zh": "ChatGPT 现在通过广告收集器知道您在其他网站上做了什么",
+          "title": "ChatGPT now knows what you do on other websites via ad collector",
+          "title_zh": null,
           "title_en": "ChatGPT now knows what you do on other websites via ad collector",
           "title_original": "ChatGPT now knows what you do on other websites via ad collector",
           "summary": null,
@@ -135,15 +289,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.8092,
+      "importance": 0.8092,
+      "importance_score": 0.8092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8369,
+        "recency": 0.7475,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -168,190 +322,179 @@
       }
     },
     {
-      "story_id": "story_67bbb2f19d0e",
-      "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "primary_url": "https://qwen.ai/blog?id=qwen-image-2.1",
-      "source": "Qwen：Blog Retrieval（API）",
-      "source_name": "AI HOT",
+      "story_id": "story_1b06f1be2557",
+      "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+      "url": "https://huggingface.co/blog/tokenizers-v1",
+      "primary_url": "https://huggingface.co/blog/tokenizers-v1",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+          "title_zh": "tokenizers v1：编码、解码和缩放，测量",
+          "title_en": "tokenizers v1: encode, decode and scaling, measured",
+          "title_original": "tokenizers v1: encode, decode and scaling, measured",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nResults What V1 Is The Split: Bitstreams Instead Of A Regex The Word Cache The Merge Loop Method What This Adds Up To Getting It Progress Towards V1 Release Candidate: Implemented 1.0.0 After 1.0.0 The tokenizer has not historically been the bottleneck within ML workflows. Compute-wi",
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
-        },
-        {
-          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
-          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "title_zh": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "title_en": null,
-          "title_original": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T14:40:14.401000Z"
-        },
-        {
-          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen Image 2.1",
-          "title_original": "Qwen Image 2.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T13:09:25Z"
-        },
-        {
-          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-          "title_original": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T13:09:25Z"
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 1,
       "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "Qwen：Blog Retrieval（API）",
-        "qwen.ai"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-          "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+          "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+          "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+          "title_zh": "tokenizers v1：编码、解码和缩放，测量",
+          "title_en": "tokenizers v1: encode, decode and scaling, measured",
+          "title_original": "tokenizers v1: encode, decode and scaling, measured",
+          "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nResults What V1 Is The Split: Bitstreams Instead Of A Regex The Word Cache The Merge Loop Method What This Adds Up To Getting It Progress Towards V1 Release Candidate: Implemented 1.0.0 After 1.0.0 The tokenizer has not historically been the bottleneck within ML workflows. Compute-wi",
           "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Qwen：Blog Retrieval（API）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T12:00:00Z"
-        },
-        {
-          "id": "a61c03e72c1b70942a9ef553e5e659ecedba9f5d",
-          "title": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "title_zh": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "title_en": null,
-          "title_original": "Qwen-Image-2.1：紧凑、高效且统一的图像生成",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "qwen.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T14:40:14.401000Z"
-        },
-        {
-          "id": "9f5e3621a5271eb86e036a8d0a08c719b98c9ba1",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen Image 2.1",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen Image 2.1",
-          "title_original": "Qwen Image 2.1",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T13:09:25Z"
-        },
-        {
-          "id": "01966d29e917cd153e00cd550d8728eb60f8fe1e",
-          "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1: Compact, efficient, and unified image creation",
-          "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-          "title_en": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-          "title_original": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-20T13:09:25Z"
+          "url": "https://huggingface.co/blog/tokenizers-v1",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-21T00:00:00Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8265,
+      "importance": 0.8265,
+      "importance_score": 0.8265,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7664,
-        "story_heat": 0.75
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8141,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "official",
       "reasons": [
-        "multi_source",
+        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-20T12:00:00Z",
-      "latest_at": "2026-09-20T14:40:14.401000Z",
+      "earliest_at": "2026-09-21T00:00:00Z",
+      "latest_at": "2026-09-21T00:00:00Z",
       "primary_item": {
-        "id": "ab009f5e270bc93f5a1e3a6f05778a2fa8b64c49",
-        "title": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像 / Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-        "title_zh": "Qwen 开源 Qwen-Image-2.1：7B 统一生成与编辑并原生支持透明图像",
-        "title_en": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-        "title_original": "Qwen-Image-2.1： Compact， Efficient， and Unified Image Creation",
-        "summary": "Qwen 团队开源 Qwen-Image-2.1，将文生图与图像编辑统一到一个模型中，视觉生成组件仅 7B 参数，并原生支持生成和编辑透明图像。模型支持最多 10 张参考图、圆形/涂鸦/独立蒙版指定局部编辑，通过混合粒度注意力架构和 KV cache 复用提升推理效率，同时改进文字渲染、人像光照与人物产品保真度，并覆盖全景图、信息图和分镜等任务。",
+        "id": "cfb47301ffa7e8e7d82c00a559d4ad4da9096611",
+        "title": "tokenizers v1：编码、解码和缩放，测量 / tokenizers v1: encode, decode and scaling, measured",
+        "title_zh": "tokenizers v1：编码、解码和缩放，测量",
+        "title_en": "tokenizers v1: encode, decode and scaling, measured",
+        "title_original": "tokenizers v1: encode, decode and scaling, measured",
+        "summary": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.\nWe’re on a journey to advance and democratize artificial intelligence through open source and open science.\nResults What V1 Is The Split: Bitstreams Instead Of A Regex The Word Cache The Merge Loop Method What This Adds Up To Getting It Progress Towards V1 Release Candidate: Implemented 1.0.0 After 1.0.0 The tokenizer has not historically been the bottleneck within ML workflows. Compute-wi",
         "recommend_reason_zh": null,
-        "url": "https://qwen.ai/blog?id=qwen-image-2.1",
-        "source": "Qwen：Blog Retrieval（API）",
+        "url": "https://huggingface.co/blog/tokenizers-v1",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2b0462064d4e",
+      "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+      "url": "https://www.ithome.com/1/005/418.htm",
+      "primary_url": "https://www.ithome.com/1/005/418.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_en": null,
+          "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+          "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "title_en": null,
+          "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+          "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/005/418.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T11:52:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9664,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T11:52:52Z",
+      "latest_at": "2026-09-21T11:52:52Z",
+      "primary_item": {
+        "id": "c2478bb68a17ae9d7769897a3f2e634cdebcbc86",
+        "title": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "title_zh": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "title_en": null,
+        "title_original": "亚马逊封禁 Meta Muse 智能体代用户购物，双方争端升级",
+        "summary": "亚马逊阻断了 Meta 个人 AI 智能体 Muse 代用户在其网站购物的访问权限，称从未许可该访问，并指 Muse 不表明身份、会采集保存用户账号凭证，带来隐私和安全隐患。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/005/418.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_924c1201d9fd",
-      "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-      "url": "https://www.aibase.com/news/31217",
-      "primary_url": "https://www.aibase.com/news/31217",
+      "story_id": "story_3550f9dee406",
+      "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+      "url": "https://www.aibase.com/news/31241",
+      "primary_url": "https://www.aibase.com/news/31241",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
           "title_en": null,
-          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "summary": "Google confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nGoogle confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nGoogle confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nExplore AI Fronti",
+          "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "summary": "The AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nThe AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nThe AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31217",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -360,18 +503,18 @@
       ],
       "items": [
         {
-          "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-          "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+          "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+          "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
           "title_en": null,
-          "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-          "summary": "Google confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nGoogle confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nGoogle confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nExplore AI Fronti",
+          "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+          "summary": "The AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nThe AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nThe AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31217",
+          "url": "https://www.aibase.com/news/31241",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -392,19 +535,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "4837935688fa63f80c68bc5260623a138f5af7bf",
-        "title": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-        "title_zh": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
+        "id": "1659a096004845fb17ae234e2b186092ad808ecc",
+        "title": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+        "title_zh": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
         "title_en": null,
-        "title_original": "Gemini 也\"越狱\"了：谷歌确认 5 月安全测试中闯入 3 家真实公司系统，同一家评估商的锅",
-        "summary": "Google confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nGoogle confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nGoogle confirmed on Friday, September 18, an embarrassing incident: its Gemini model accessed the systems of three external companies during a test. The Wall St\nExplore AI Fronti",
+        "title_original": "Anthropic与字节扎堆AI制药，下一个Coding风口卡在了数据这道坎上",
+        "summary": "The AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nThe AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nThe AI drug development sector has recently seen a significant surge, with two major players previously outside this space entering the field. Anthropic is buil\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31217",
+        "url": "https://www.aibase.com/news/31241",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f20bbdeba1e2",
+      "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+      "source": "公众号：月之暗面（Kimi）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_en": null,
+          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：月之暗面（Kimi）"
+      ],
+      "items": [
+        {
+          "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+          "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "title_en": null,
+          "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+          "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+          "source": "公众号：月之暗面（Kimi）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-21T07:54:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7489,
+      "importance": 0.7489,
+      "importance_score": 0.7489,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9126,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-21T07:54:32Z",
+      "latest_at": "2026-09-21T07:54:32Z",
+      "primary_item": {
+        "id": "db5c34aadee5e59351366b04dbf21e0d4feb57ca",
+        "title": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "title_zh": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "title_en": null,
+        "title_original": "Kimi 发布 Kimi Code Desktop 1.0，macOS 与 Windows 版同步上线",
+        "summary": "Kimi（月之暗面）发布 Kimi Code Desktop 1.0，作为 Kimi Code 官方桌面客户端，macOS（Apple 与 Intel 芯片）和 Windows 版同步上线，下载地址为 kimi.com/code。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzkzMTY4NTIyNA%3D%3D&mid=2247484344&idx=1&sn=047cf702ff02ab334e3ea2ba8e34b4a6",
+        "source": "公众号：月之暗面（Kimi）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -452,21 +670,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8646,
+        "recency": 0.7723,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-20T20:20:56Z",
       "latest_at": "2026-09-20T20:20:56Z",
@@ -481,6 +698,82 @@
         "url": "https://www.marktechpost.com/2026/09/20/you-too-google-google-confirms-gemini-breached-3-companies-in-ai-security-tests",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_02e8ffac48ba",
+      "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+      "url": "https://www.aibase.com/news/31231",
+      "primary_url": "https://www.aibase.com/news/31231",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_en": null,
+          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "summary": "Everyone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nEveryone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nEveryone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T14:14:39.623743Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+          "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "title_en": null,
+          "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+          "summary": "Everyone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nEveryone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nEveryone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31231",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-21T14:14:39.623743Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
+      "primary_item": {
+        "id": "f1528efce967282e3ffc899eb06e10ffa20c90eb",
+        "title": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "title_zh": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "title_en": null,
+        "title_original": "Claude Opus 5. 5 疑遭内测泄露：跳级直冲GPT-6，百万Token价格腰斩至 4 美元",
+        "summary": "Everyone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nEveryone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nEveryone is waiting for Opus 5.2, but Anthropic might jump straight to version 5.5. Developer Lyra revealed a big scoop early: Claude Opus 5.5, codenamed claude\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31231",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -528,15 +821,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7495,
-      "importance": 0.7495,
-      "importance_score": 0.7495,
+      "score": 0.7313,
+      "importance": 0.7313,
+      "importance_score": 0.7313,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9497,
+        "recency": 0.8482,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,15 +896,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.7202,
+      "importance": 0.7202,
+      "importance_score": 0.7202,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9366,
+        "recency": 0.8365,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,26 +927,26 @@
       }
     },
     {
-      "story_id": "story_917990886c44",
-      "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-      "url": "https://www.aibase.com/news/31220",
-      "primary_url": "https://www.aibase.com/news/31220",
+      "story_id": "story_d6fca3542f8f",
+      "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+      "url": "https://www.aibase.com/news/31232",
+      "primary_url": "https://www.aibase.com/news/31232",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
           "title_en": null,
-          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "summary": "OpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nOpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nOpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nExplore AI Frontiers",
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "summary": "Everyone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nEveryone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nEveryone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31220",
+          "url": "https://www.aibase.com/news/31232",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -662,18 +955,18 @@
       ],
       "items": [
         {
-          "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-          "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+          "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+          "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
           "title_en": null,
-          "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-          "summary": "OpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nOpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nOpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nExplore AI Frontiers",
+          "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+          "summary": "Everyone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nEveryone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nEveryone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31220",
+          "url": "https://www.aibase.com/news/31232",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -694,42 +987,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "1873ddfdfbc8787305d23f817d29ee374d194c37",
-        "title": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "title_zh": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
+        "id": "f9dc62836aace206bfaa30cd27980698c24d1644",
+        "title": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "title_zh": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
         "title_en": null,
-        "title_original": "OpenAI 一次性摊开六份失准报告：模型越界不再是偶然，而是三种可复现的机制",
-        "summary": "OpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nOpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nOpenAI recently released a framework for disclosing model inaccuracies, along with six real-world reports, bringing to light various boundary-pushing behaviors\nExplore AI Frontiers",
+        "title_original": "Claude Opus 5.5 已在内测：连跳两级直逼 GPT-6，价格还打骨折",
+        "summary": "Everyone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nEveryone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nEveryone is waiting for Opus 5.2, but the latest reports show that the next version number has jumped directly to 5.5. Early today, developer Lyra revealed a ho\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31220",
+        "url": "https://www.aibase.com/news/31232",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_214d4d19f8d1",
-      "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-      "url": "https://www.aibase.com/news/31228",
-      "primary_url": "https://www.aibase.com/news/31228",
+      "story_id": "story_90a54adf640f",
+      "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+      "url": "https://www.aibase.com/news/31237",
+      "primary_url": "https://www.aibase.com/news/31237",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
           "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "summary": "Due to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nDue to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nDue to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nExplore AI Fronti",
+          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "summary": "Kimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nKimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nKimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
+          "url": "https://www.aibase.com/news/31237",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -738,18 +1031,18 @@
       ],
       "items": [
         {
-          "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-          "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+          "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+          "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
           "title_en": null,
-          "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-          "summary": "Due to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nDue to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nDue to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nExplore AI Fronti",
+          "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+          "summary": "Kimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nKimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nKimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31228",
+          "url": "https://www.aibase.com/news/31237",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -770,117 +1063,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "c03a6f692ec6e1e2ac3dd4e0046559506d369f27",
-        "title": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "title_zh": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
+        "id": "3640cd9d3060a429f8ab12ff84262ac8d9d92ddc",
+        "title": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "title_zh": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
         "title_en": null,
-        "title_original": "Siri AI 和解开放申请：符合条件的美国 iPhone 用户每台可领 25 美元",
-        "summary": "Due to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nDue to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nDue to the delay of the Siri AI feature, Apple previously faced a class-action lawsuit in the United States. Now, this case has reached a new development—the Ap\nExplore AI Fronti",
+        "title_original": "Kimi Code 桌面客户端上线：macOS 与 Windows 同步开放",
+        "summary": "Kimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nKimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nKimi Code desktop client for macOS and Windows is now available. Users can start installing and using it by visiting kimi.com/code.Designed for developers' actu\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31228",
+        "url": "https://www.aibase.com/news/31237",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_e7fee7b1503f",
-      "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-      "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
-      ],
-      "items": [
-        {
-          "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-          "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-          "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-          "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-20T13:52:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.69,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-20T13:52:24Z",
-      "latest_at": "2026-09-20T13:52:24Z",
-      "primary_item": {
-        "id": "063ef50ea9ab58ed253b2a1718d5383016f17485",
-        "title": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载 / Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_zh": "Qwen-Image-2.1 已支持 ComfyUI，开源权重开放下载",
-        "title_en": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "title_original": "Qwen-Image-2.1 is now supported in ComfyUI！ Try it now and share your creations！ 🖼️",
-        "summary": "Qwen 宣布 Qwen-Image-2.1 现已支持 ComfyUI，权重开放。单个 7B checkpoint 同时支持图像生成与编辑，可原生 2K 生成，单次最多基于 10 张参考图进行指令编辑，并支持含 alpha 通道的 RGBA 输出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/Alibaba_Qwen/status/2101670814953455780",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_10f34a357915",
-      "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-      "url": "https://www.aibase.com/news/31215",
-      "primary_url": "https://www.aibase.com/news/31215",
+      "story_id": "story_f9d9f69efbad",
+      "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+      "url": "https://www.aibase.com/news/31234",
+      "primary_url": "https://www.aibase.com/news/31234",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "title_en": null,
-          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "summary": "San Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nSan Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nSan Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nExplore AI Frontiers",
+          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "summary": "Unfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nUnfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nUnfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31215",
+          "url": "https://www.aibase.com/news/31234",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -889,18 +1107,18 @@
       ],
       "items": [
         {
-          "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-          "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+          "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+          "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
           "title_en": null,
-          "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-          "summary": "San Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nSan Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nSan Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nExplore AI Frontiers",
+          "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+          "summary": "Unfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nUnfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nUnfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31215",
+          "url": "https://www.aibase.com/news/31234",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -921,42 +1139,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "a08c5d1168a8bd74ef5d1c96307cab24a8335362",
-        "title": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-        "title_zh": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
+        "id": "4905e79a756ec9f225547c1bb9f60b6ec2685b50",
+        "title": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "title_zh": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
         "title_en": null,
-        "title_original": "TypeSafe AI 推出决策专用模型 Jev：比大语言模型快 10 倍、成本仅十分之一",
-        "summary": "San Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nSan Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nSan Francisco startup TypeSafe AI recently launched a new AI model called Jev. Unlike traditional large language models, Jev is specifically designed to answer\nExplore AI Frontiers",
+        "title_original": "开发者实锤OpenAI广告追踪链条：ChatGPT账号正悄悄绑定你的全网浏览足迹",
+        "summary": "Unfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nUnfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nUnfortunately, the worst-case scenario has come true. Security researchers have uncovered that OpenAI has established a complete cross-site tracking chain throu\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31215",
+        "url": "https://www.aibase.com/news/31234",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c153834ea5e5",
-      "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-      "url": "https://www.aibase.com/news/31218",
-      "primary_url": "https://www.aibase.com/news/31218",
+      "story_id": "story_2e1912071185",
+      "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+      "url": "https://www.aibase.com/news/31240",
+      "primary_url": "https://www.aibase.com/news/31240",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
-          "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-          "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "title_zh": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
           "title_en": null,
-          "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-          "summary": "Recently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nRecently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nRecently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nExplore AI Fronti",
+          "title_original": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "summary": "Microsoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nMicrosoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nMicrosoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31218",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -965,18 +1183,18 @@
       ],
       "items": [
         {
-          "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
-          "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-          "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+          "id": "749e770d05615b34278e234511bee1d1d638c41f",
+          "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "title_zh": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
           "title_en": null,
-          "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-          "summary": "Recently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nRecently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nRecently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nExplore AI Fronti",
+          "title_original": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+          "summary": "Microsoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nMicrosoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nMicrosoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31218",
+          "url": "https://www.aibase.com/news/31240",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -997,42 +1215,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "cf42fa0553029b92f44ab03f7e93f1b8c981da09",
-        "title": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-        "title_zh": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
+        "id": "749e770d05615b34278e234511bee1d1d638c41f",
+        "title": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+        "title_zh": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
         "title_en": null,
-        "title_original": "ZCode 道歉并开源:阿里云 OSS 已清空，Repo Wiki 功能已下线",
-        "summary": "Recently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nRecently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nRecently, in response to community feedback regarding ZCode product security issues, the ZCode team officially released a public apology and rectification state\nExplore AI Fronti",
+        "title_original": "微软花 12 万美元让 AI 重写 Copilot 运行时：43 万行 TS 变 80 万行 Rust，快 15.9 倍",
+        "summary": "Microsoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nMicrosoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nMicrosoft used AI agents to fully port the GitHub Copilot runtime from TypeScript to Rust, which cost about $120,000 in token costs and a developer's three week\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31218",
+        "url": "https://www.aibase.com/news/31240",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_594bd34ddeb4",
-      "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-      "url": "https://www.aibase.com/news/31226",
-      "primary_url": "https://www.aibase.com/news/31226",
+      "story_id": "story_92c2485576ea",
+      "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+      "url": "https://www.aibase.com/news/31239",
+      "primary_url": "https://www.aibase.com/news/31239",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "title_zh": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
           "title_en": null,
-          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "summary": "According to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nAccording to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nAccording to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nExplore AI Fronti",
+          "title_original": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "summary": "The back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nThe back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nThe back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nExplore AI Frontiers",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31226",
+          "url": "https://www.aibase.com/news/31239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -1041,18 +1259,18 @@
       ],
       "items": [
         {
-          "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-          "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+          "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+          "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "title_zh": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
           "title_en": null,
-          "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-          "summary": "According to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nAccording to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nAccording to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nExplore AI Fronti",
+          "title_original": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+          "summary": "The back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nThe back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nThe back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nExplore AI Frontiers",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31226",
+          "url": "https://www.aibase.com/news/31239",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -1073,19 +1291,181 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "416d6bb1c4cab320117732f6a68961846c3e2c46",
-        "title": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "title_zh": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
+        "id": "2837ab12cb645a3824255bffbad285d3e37c3619",
+        "title": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "title_zh": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
         "title_en": null,
-        "title_original": "中国大模型周调用量达67.46万亿Token，连续21周领先美国",
-        "summary": "According to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nAccording to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nAccording to the latest data from OpenRouter, the total token usage of global AI large models from September 14 to 20 reached 129 trillion tokens, an increase o\nExplore AI Fronti",
+        "title_original": "月之暗面推出Kimi Code Desktop桌面端，把AI编程Agent直接搬上macOS和Windows",
+        "summary": "The back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nThe back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nThe back side of the moon has released both the macOS and Windows versions of Kimi Code Desktop. This is the official desktop client for Kimi Code, which frees\nExplore AI Frontiers",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31226",
+        "url": "https://www.aibase.com/news/31239",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_acebe6eff1d7",
+      "title": "为什么MCP一直都是个糟糕的主意？",
+      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+      "source": "maharship.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "title_zh": "为什么MCP一直都是个糟糕的主意？",
+          "title_en": null,
+          "title_original": "为什么MCP一直都是个糟糕的主意？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        },
+        {
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
+          "title_zh": "为什么MCP一直都是个糟糕的主意？",
+          "title_en": "MCP was always a bad idea?",
+          "title_original": "MCP was always a bad idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
+          "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
+          "title_zh": "MCP 总是一个坏主意？",
+          "title_en": "MCP was always a bad idea?",
+          "title_original": "MCP was always a bad idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "title_zh": "为什么MCP一直都是个糟糕的主意？",
+          "title_en": "Why MCP Was Always a Bad Idea",
+          "title_original": "Why MCP Was Always a Bad Idea",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "maharship.com"
+      ],
+      "items": [
+        {
+          "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+          "title": "为什么MCP一直都是个糟糕的主意？",
+          "title_zh": "为什么MCP一直都是个糟糕的主意？",
+          "title_en": null,
+          "title_original": "为什么MCP一直都是个糟糕的主意？",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "maharship.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T06:27:15.988000Z"
+        },
+        {
+          "id": "a8836802839bf9e87e6335e7329f75f79314ca92",
+          "title": "为什么MCP一直都是个糟糕的主意？ / MCP was always a bad idea?",
+          "title_zh": "为什么MCP一直都是个糟糕的主意？",
+          "title_en": "MCP was always a bad idea?",
+          "title_original": "MCP was always a bad idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "bf420e078f94036ff7501edd85d2459e390cdd8d",
+          "title": "MCP 总是一个坏主意？ / MCP was always a bad idea?",
+          "title_zh": "MCP 总是一个坏主意？",
+          "title_en": "MCP was always a bad idea?",
+          "title_original": "MCP was always a bad idea?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49779329",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-20T19:44:40Z"
+        },
+        {
+          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
+          "title": "为什么MCP一直都是个糟糕的主意？ / Why MCP Was Always a Bad Idea",
+          "title_zh": "为什么MCP一直都是个糟糕的主意？",
+          "title_en": "Why MCP Was Always a Bad Idea",
+          "title_original": "Why MCP Was Always a Bad Idea",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-20T19:44:40Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5766,
+      "importance": 0.5766,
+      "importance_score": 0.5766,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8936,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-20T19:44:40Z",
+      "latest_at": "2026-09-21T06:27:15.988000Z",
+      "primary_item": {
+        "id": "9b227d0da245bf83211ed24f258db8b09df3d4a6",
+        "title": "为什么MCP一直都是个糟糕的主意？",
+        "title_zh": "为什么MCP一直都是个糟糕的主意？",
+        "title_en": null,
+        "title_original": "为什么MCP一直都是个糟糕的主意？",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+        "source": "maharship.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1161,15 +1541,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5878,
-      "importance": 0.5878,
-      "importance_score": 0.5878,
+      "score": 0.5715,
+      "importance": 0.5715,
+      "importance_score": 0.5715,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.846,
+        "recency": 0.7556,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1192,577 +1572,159 @@
       }
     },
     {
-      "story_id": "story_f66f3268b197",
-      "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-      "url": "https://www.aibase.com/news/31216",
-      "primary_url": "https://www.aibase.com/news/31216",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_0478652bad4f",
+      "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+      "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "primary_url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+      "source": "www.ft.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
+          "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
+          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
           "title_en": null,
-          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "summary": "Microsoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nMicrosoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nMicrosoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nExplore AI Frontiers",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-          "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "title_en": null,
-          "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-          "summary": "Microsoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nMicrosoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nMicrosoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nExplore AI Frontiers",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31216",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
-      "primary_item": {
-        "id": "b8a2b25a7014b70f3f19361c7150707f75df2628",
-        "title": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "title_zh": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "title_en": null,
-        "title_original": "微软Copilot桌面版新增内置浏览器，支持多标签与全屏浏览",
-        "summary": "Microsoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nMicrosoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nMicrosoft is testing an integrated side-by-side web browser in the Copilot desktop application for Windows and macOS, allowing users to open web pages directly\nExplore AI Frontiers",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31216",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_98838815cda3",
-      "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-      "url": "https://www.aibase.com/news/31224",
-      "primary_url": "https://www.aibase.com/news/31224",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_en": null,
-          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "summary": "The Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nThe Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nThe Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-          "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "title_en": null,
-          "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-          "summary": "The Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nThe Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nThe Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31224",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
-      "primary_item": {
-        "id": "c83f612743d7d44dbb461c195a2e37852401f4ea",
-        "title": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "title_zh": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "title_en": null,
-        "title_original": "快手把直播字幕延迟砍到 500 毫秒内：自研端到端工程范式，把电商直播的字幕打成\"实时\"",
-        "summary": "The Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nThe Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nThe Kuaishou E-commerce Live Streaming Technology Team has introduced a real-time captioning engineering paradigm called \"Live Captioning Engineering,\" advancin\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31224",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e9afee2fcdd7",
-      "title": "Why MCP Was Always a Bad Idea",
-      "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "primary_url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea",
-          "title_original": "Why MCP Was Always a Bad Idea",
+          "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T09:51:28.311000Z"
+        },
+        {
+          "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
+          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-21T04:28:44Z"
         },
         {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
+          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
+          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
+          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "title_zh": "为什么 MCP 总是一个坏主意？",
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49779329",
+          "url": "https://news.ycombinator.com/item?id=49783062",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-21T04:28:44Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "hackernews",
+        "www.ft.com"
       ],
       "items": [
         {
-          "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-          "title": "Why MCP Was Always a Bad Idea",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea",
-          "title_original": "Why MCP Was Always a Bad Idea",
+          "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
+          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+          "title_en": null,
+          "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+          "source": "www.ft.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-21T09:51:28.311000Z"
+        },
+        {
+          "id": "cdd0499ca68d385c0c20019c6f4dbb9c9e3eb953",
+          "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
           "source": "Hacker News",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-21T04:28:44Z"
         },
         {
-          "id": "1d4e3c42ce482d25ff1ce9efa37d41542dccf189",
-          "title": "Why MCP Was Always a Bad Idea?",
-          "title_zh": null,
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
+          "id": "9aee337f3dda4dab259e2663211a2da8ac17506b",
+          "title": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案 / AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_zh": "人工智能聊天机器人“大多数时候”对财务查询给出错误答案",
+          "title_en": "AI chatbots give wrong answers to financial queries 'most of the time'",
+          "title_original": "AI chatbots give wrong answers to financial queries 'most of the time'",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T19:44:40Z"
-        },
-        {
-          "id": "af88af4c85be2a253dd6918a254573d13f9c8e87",
-          "title": "为什么 MCP 总是一个坏主意？ / Why MCP Was Always a Bad Idea?",
-          "title_zh": "为什么 MCP 总是一个坏主意？",
-          "title_en": "Why MCP Was Always a Bad Idea?",
-          "title_original": "Why MCP Was Always a Bad Idea?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49779329",
+          "url": "https://news.ycombinator.com/item?id=49783062",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-20T19:44:40Z"
+          "published_at": "2026-09-21T04:28:44Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5598,
+      "importance": 0.5598,
+      "importance_score": 0.5598,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8571,
+        "recency": 0.9386,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-20T19:44:40Z",
-      "latest_at": "2026-09-20T19:44:40Z",
+      "earliest_at": "2026-09-21T04:28:44Z",
+      "latest_at": "2026-09-21T09:51:28.311000Z",
       "primary_item": {
-        "id": "0416f96733a595a1066cc4cd48072b28784e9788",
-        "title": "Why MCP Was Always a Bad Idea",
-        "title_zh": null,
-        "title_en": "Why MCP Was Always a Bad Idea",
-        "title_original": "Why MCP Was Always a Bad Idea",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://maharship.com/blog/why-mcp-was-always-a-bad-idea",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_0486697449ca",
-      "title": "“海盗脸”拯救了大语言模型免遭删除",
-      "url": "https://pirateface.co",
-      "primary_url": "https://pirateface.co",
-      "source": "pirateface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
-          "title_en": null,
-          "title_original": "“海盗脸”拯救了大语言模型免遭删除",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "海盗脸拯救了LLM模型免于被删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "pirateface.co"
-      ],
-      "items": [
-        {
-          "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-          "title": "“海盗脸”拯救了大语言模型免遭删除",
-          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
-          "title_en": null,
-          "title_original": "“海盗脸”拯救了大语言模型免遭删除",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pirateface.co",
-          "source": "pirateface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T17:03:10.347000Z"
-        },
-        {
-          "id": "9522a76c98197316c216bac9e8c541d79e2b3ced",
-          "title": "“海盗脸”拯救了大语言模型免遭删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://pirateface.co",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-20T15:16:07Z"
-        },
-        {
-          "id": "f00eae3af316e417bd61c485ef96c97c02943eac",
-          "title": "海盗脸拯救了LLM模型免于被删除 / Pirate Face Rescues LLM Models from Deletion",
-          "title_zh": "海盗脸拯救了LLM模型免于被删除",
-          "title_en": "Pirate Face Rescues LLM Models from Deletion",
-          "title_original": "Pirate Face Rescues LLM Models from Deletion",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49776699",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T15:16:07Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8245,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T15:16:07Z",
-      "latest_at": "2026-09-20T17:03:10.347000Z",
-      "primary_item": {
-        "id": "33be31ed44086715beae3f63dc914c2171dba0be",
-        "title": "“海盗脸”拯救了大语言模型免遭删除",
-        "title_zh": "“海盗脸”拯救了大语言模型免遭删除",
+        "id": "f608c37b98dbd621517d0a6d66dee557e67cbc73",
+        "title": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
+        "title_zh": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
         "title_en": null,
-        "title_original": "“海盗脸”拯救了大语言模型免遭删除",
+        "title_original": "AI聊天机器人在回答金融问题时“大多数时候”都会给出错误答案",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://pirateface.co",
-        "source": "pirateface.co",
+        "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+        "source": "www.ft.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_59e8eb3eb9e5",
-      "title": "人工智能与“知识共享”的瓦解",
-      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "primary_url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-      "source": "www.chesterwisniewski.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-          "title": "人工智能与“知识共享”的瓦解",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": null,
-          "title_original": "人工智能与“知识共享”的瓦解",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "www.chesterwisniewski.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T12:50:12.972000Z"
-        },
-        {
-          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
-          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": "AI and the Destruction of the Creative Commons",
-          "title_original": "AI and the Destruction of the Creative Commons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "title_zh": "人工智能与知识共享的破坏",
-          "title_en": "AI and the Destruction of the Creative Commons",
-          "title_original": "AI and the Destruction of the Creative Commons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T10:07:51Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.chesterwisniewski.com"
-      ],
-      "items": [
-        {
-          "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-          "title": "人工智能与“知识共享”的瓦解",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": null,
-          "title_original": "人工智能与“知识共享”的瓦解",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "www.chesterwisniewski.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T12:50:12.972000Z"
-        },
-        {
-          "id": "c3d6b1a7c9be9799bda91fd866e9e2214ea3f055",
-          "title": "人工智能与“知识共享”的瓦解 / AI and the Destruction of the Creative Commons",
-          "title_zh": "人工智能与“知识共享”的瓦解",
-          "title_en": "AI and the Destruction of the Creative Commons",
-          "title_original": "AI and the Destruction of the Creative Commons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T10:07:51Z"
-        },
-        {
-          "id": "2f14c09bbcc2c0bbbcc43982591753c4c9f214b9",
-          "title": "人工智能与知识共享的破坏 / AI and the Destruction of the Creative Commons",
-          "title_zh": "人工智能与知识共享的破坏",
-          "title_en": "AI and the Destruction of the Creative Commons",
-          "title_original": "AI and the Destruction of the Creative Commons",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49774329",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-20T10:07:51Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7758,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T10:07:51Z",
-      "latest_at": "2026-09-20T12:50:12.972000Z",
-      "primary_item": {
-        "id": "1479d0bb44615475dc260d7847b1ebe331ca711e",
-        "title": "人工智能与“知识共享”的瓦解",
-        "title_zh": "人工智能与“知识共享”的瓦解",
-        "title_en": null,
-        "title_original": "人工智能与“知识共享”的瓦解",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons",
-        "source": "www.chesterwisniewski.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d808ad1bd79d",
-      "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-      "url": "https://www.aibase.com/news/31213",
-      "primary_url": "https://www.aibase.com/news/31213",
+      "story_id": "story_c3b75295ed35",
+      "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+      "url": "https://www.aibase.com/news/31238",
+      "primary_url": "https://www.aibase.com/news/31238",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
           "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "summary": "On September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nOn September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nOn September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nExplore AI Fronti",
+          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "summary": "According to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nAccording to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nAccording to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31213",
+          "url": "https://www.aibase.com/news/31238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "source_count": 1,
@@ -1771,18 +1733,18 @@
       ],
       "items": [
         {
-          "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-          "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+          "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+          "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
           "title_en": null,
-          "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-          "summary": "On September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nOn September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nOn September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nExplore AI Fronti",
+          "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+          "summary": "According to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nAccording to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nAccording to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nExplore AI Fronti",
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31213",
+          "url": "https://www.aibase.com/news/31238",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-09-21T06:25:13.457088Z"
+          "published_at": "2026-09-21T14:14:39.623743Z"
         }
       ],
       "item_count": 1,
@@ -1803,123 +1765,19 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-21T06:25:13.457088Z",
-      "latest_at": "2026-09-21T06:25:13.457088Z",
+      "earliest_at": "2026-09-21T14:14:39.623743Z",
+      "latest_at": "2026-09-21T14:14:39.623743Z",
       "primary_item": {
-        "id": "eca28f3268ccd49ea216ddf5e3ef875bf13a1c09",
-        "title": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "title_zh": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
+        "id": "c13bce901efc0375769d7bbc9909833cb32087d4",
+        "title": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "title_zh": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
         "title_en": null,
-        "title_original": "我国首款藏语多语言全模态 AI 输入法发布：覆盖手机电脑，支持三大方言语音输入",
-        "summary": "On September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nOn September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nOn September 20th, during the research achievements exhibition session of the conference on the high-quality development of teacher education and the 70th anniv\nExplore AI Fronti",
+        "title_original": "法国兴业银行押注 AI：预计最多省下 6 亿欧元成本",
+        "summary": "According to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nAccording to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nAccording to Bloomberg, Société Générale SA predicts that the expanding application of artificial intelligence will make a significant contribution to the bank'\nExplore AI Fronti",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31213",
+        "url": "https://www.aibase.com/news/31238",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_eaaebca67b10",
-      "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-      "url": "https://softwarecrisis.dev/letters/llmentalist",
-      "primary_url": "https://softwarecrisis.dev/letters/llmentalist",
-      "source": "softwarecrisis.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "title_en": null,
-          "title_original": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "b20cf1b1b84b64809360ce0cfd58f69815da93f2",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
-          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "title_en": "The LLMentalist Effect (2023)",
-          "title_original": "The LLMentalist Effect (2023)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "softwarecrisis.dev"
-      ],
-      "items": [
-        {
-          "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "title_en": null,
-          "title_original": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "softwarecrisis.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-20T15:28:23.669000Z"
-        },
-        {
-          "id": "b20cf1b1b84b64809360ce0cfd58f69815da93f2",
-          "title": "基于对话的大型语言模型复制了通灵师的欺骗手段 / The LLMentalist Effect (2023)",
-          "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-          "title_en": "The LLMentalist Effect (2023)",
-          "title_original": "The LLMentalist Effect (2023)",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://softwarecrisis.dev/letters/llmentalist",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-20T12:20:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8059,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-20T12:20:13Z",
-      "latest_at": "2026-09-20T15:28:23.669000Z",
-      "primary_item": {
-        "id": "28abe9a1d0b0cc9214617d687a52b8e14ea52c7c",
-        "title": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "title_zh": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "title_en": null,
-        "title_original": "基于对话的大型语言模型复制了通灵师的欺骗手段",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://softwarecrisis.dev/letters/llmentalist",
-        "source": "softwarecrisis.dev",
-        "source_name": "Buzzing"
       }
     }
   ]
