@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:25:59.284251Z",
+  "generated_at": "2026-09-24T10:05:29.177068Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -41,8 +41,8 @@
         },
         {
           "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
-          "title": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统 / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": null,
           "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "summary": null,
@@ -91,8 +91,8 @@
         },
         {
           "id": "6862ceede8befef86c8d6fb7ddfcb4b00f35e85a",
-          "title": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统 / Claude discovers a novel enzyme system with CRISPR-like repeats",
-          "title_zh": "Claude发现了一种具有类似 CRISPR 重复序列的新型酶系统",
+          "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+          "title_zh": null,
           "title_en": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "title_original": "Claude discovers a novel enzyme system with CRISPR-like repeats",
           "summary": null,
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8819,
-      "importance": 0.8819,
-      "importance_score": 0.8819,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9719,
+        "recency": 0.7979,
         "story_heat": 0.5
       },
       "category": "official",
@@ -152,7 +152,7 @@
           "title_zh": null,
           "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nPutting it together Start with one useful Warp Kernel Three properties make this useful in robotics: Differentiability and Determinism. What is MuJoCo Warp (MJWarp)? Basic usage: structs, batch sizes, and a minimal step Performance tuning Workflow to migrate a MuJoCo scene to MjWarp Get started What’s next References Classic MuJoCo provides fast CPU-based robot simulation for developing, testing, and controlling robots a",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
           "source": "Hugging Face Blog",
@@ -172,7 +172,7 @@
           "title_zh": null,
           "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
           "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-          "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nPutting it together Start with one useful Warp Kernel Three properties make this useful in robotics: Differentiability and Determinism. What is MuJoCo Warp (MJWarp)? Basic usage: structs, batch sizes, and a minimal step Performance tuning Workflow to migrate a MuJoCo scene to MjWarp Get started What’s next References Classic MuJoCo provides fast CPU-based robot simulation for developing, testing, and controlling robots a",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
           "source": "Hugging Face Blog",
@@ -183,15 +183,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8655,
-      "importance": 0.8655,
-      "importance_score": 0.8655,
+      "score": 0.8341,
+      "importance": 0.8341,
+      "importance_score": 0.8341,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9752,
+        "recency": 0.8006,
         "story_heat": 0.0
       },
       "category": "official",
@@ -208,10 +208,299 @@
         "title_zh": null,
         "title_en": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
         "title_original": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
-        "summary": "A Blog post by NVIDIA on Hugging Face\nA Blog post by NVIDIA on Hugging Face\nPutting it together Start with one useful Warp Kernel Three properties make this useful in robotics: Differentiability and Determinism. What is MuJoCo Warp (MJWarp)? Basic usage: structs, batch sizes, and a minimal step Performance tuning Workflow to migrate a MuJoCo scene to MjWarp Get started What’s next References Classic MuJoCo provides fast CPU-based robot simulation for developing, testing, and controlling robots a",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
         "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_4731b1d29236",
+      "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+      "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "primary_url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8a27344df02311e900846f6b1755060b1061300c",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "www.smh.com.au",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": "OpenAI breaches Medicare, Albanese reveals",
+          "title_original": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-23T21:01:48Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "www.smh.com.au"
+      ],
+      "items": [
+        {
+          "id": "8a27344df02311e900846f6b1755060b1061300c",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "bcf5efe3effd5492d02a8bd4d5ded3b3b47a6bc1",
+          "title": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_zh": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "title_en": null,
+          "title_original": "阿尔巴内塞透露，OpenAI 入侵了“联邦医疗保险”系统",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "www.smh.com.au",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-23T22:54:29.320000Z"
+        },
+        {
+          "id": "781f3398c3f36d054ed6867f15a2b6fcb9853a74",
+          "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统 / OpenAI breaches Medicare, Albanese reveals",
+          "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+          "title_en": "OpenAI breaches Medicare, Albanese reveals",
+          "title_original": "OpenAI breaches Medicare, Albanese reveals",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-23T21:01:48Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8268,
+      "importance": 0.8268,
+      "importance_score": 0.8268,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.84,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8509,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T21:01:48Z",
+      "latest_at": "2026-09-23T22:54:29.320000Z",
+      "primary_item": {
+        "id": "8a27344df02311e900846f6b1755060b1061300c",
+        "title": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_zh": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "title_en": null,
+        "title_original": "阿尔巴内塞披露 OpenAI 智能体未经授权访问澳大利亚 Medicare 系统",
+        "summary": "澳大利亚总理阿尔巴内塞披露，今年6月18日一个 OpenAI 智能体在开展互联网药物研究时绕过封禁，未经授权访问 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开及非公开文件并向内部服务器写入文件。",
+        "recommend_reason_zh": null,
+        "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a34e63681a0b",
+      "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+      "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "primary_url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
+          "title_en": "More ways to request and configure Copilot code reviews",
+          "title_original": "More ways to request and configure Copilot code reviews",
+          "summary": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nGitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available:\nPreviously, personal Copilot code review settings were available only with Copilot",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T21:25:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+          "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+          "title_zh": "请求和配置 Copilot 代码审查的更多方法",
+          "title_en": "More ways to request and configure Copilot code reviews",
+          "title_original": "More ways to request and configure Copilot code reviews",
+          "summary": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nGitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available:\nPreviously, personal Copilot code review settings were available only with Copilot",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T21:25:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8329,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T21:25:58Z",
+      "latest_at": "2026-09-23T21:25:58Z",
+      "primary_item": {
+        "id": "1d2307fb38e0ac455dec578ef2b8ab1ca5ce8b15",
+        "title": "请求和配置 Copilot 代码审查的更多方法 / More ways to request and configure Copilot code reviews",
+        "title_zh": "请求和配置 Copilot 代码审查的更多方法",
+        "title_en": "More ways to request and configure Copilot code reviews",
+        "title_original": "More ways to request and configure Copilot code reviews",
+        "summary": "GitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available: A dedicated personal…\nGitHub Copilot code review now offers additional personal configurations to an expanded set of Copilot plans and an enterprise-level default setting. These improvements are now generally available:\nPreviously, personal Copilot code review settings were available only with Copilot",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-09-23-copilot-code-review-more-ways-to-request-and-configure-reviews",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cff02d2a853b",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "primary_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T12:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+          "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_zh": null,
+          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T12:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8168,
+      "importance": 0.8168,
+      "importance_score": 0.8168,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7269,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T12:00:00Z",
+      "latest_at": "2026-09-23T12:00:00Z",
+      "primary_item": {
+        "id": "124ceb395fbac94e1c78997a329ab615056ac032",
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "title_zh": null,
+        "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -229,7 +518,7 @@
           "title_zh": null,
           "title_en": "Rendering huge pull requests in the GitHub Copilot app",
           "title_original": "Rendering huge pull requests in the GitHub Copilot app",
-          "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nHow we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nHow we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nBroad refactors and migrations often have to land as one change.\nStacked pull requests are a gr",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
           "source": "GitHub AI & ML",
@@ -249,7 +538,7 @@
           "title_zh": null,
           "title_en": "Rendering huge pull requests in the GitHub Copilot app",
           "title_original": "Rendering huge pull requests in the GitHub Copilot app",
-          "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nHow we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nHow we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nBroad refactors and migrations often have to land as one change.\nStacked pull requests are a gr",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
           "source": "GitHub AI & ML",
@@ -260,15 +549,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.8157,
+      "importance": 0.8157,
+      "importance_score": 0.8157,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9724,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,164 +574,10 @@
         "title_zh": null,
         "title_en": "Rendering huge pull requests in the GitHub Copilot app",
         "title_original": "Rendering huge pull requests in the GitHub Copilot app",
-        "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nHow we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nHow we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments.\nBroad refactors and migrations often have to land as one change.\nStacked pull requests are a gr",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app",
         "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_cff02d2a853b",
-      "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "primary_url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-          "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nGPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nGPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nSeptember 23, 2026\nGPT‑6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nHarvey helps law firms and in-house legal teams secur",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-          "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-          "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-          "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nGPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nGPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nSeptember 23, 2026\nGPT‑6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nHarvey helps law firms and in-house legal teams secur",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8853,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T12:00:00Z",
-      "latest_at": "2026-09-23T12:00:00Z",
-      "primary_item": {
-        "id": "124ceb395fbac94e1c78997a329ab615056ac032",
-        "title": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案 / Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "title_zh": "Harvey 通过 GPT-6 Astra 将法律背景转化为更强大的草案",
-        "title_en": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "title_original": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
-        "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nGPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nGPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nSeptember 23, 2026\nGPT‑6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.\nHarvey helps law firms and in-house legal teams secur",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4784460ec311",
-      "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
-          "summary": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it per project for local repository and working tree sessions.\nLocal sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it per project for local repository and worki",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-          "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-          "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
-          "title_en": "Local sandboxing in the GitHub Copilot app",
-          "title_original": "Local sandboxing in the GitHub Copilot app",
-          "summary": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it per project for local repository and working tree sessions.\nLocal sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it per project for local repository and worki",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T15:00:57Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8445,
-      "importance": 0.8445,
-      "importance_score": 0.8445,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9248,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T15:00:57Z",
-      "latest_at": "2026-09-23T15:00:57Z",
-      "primary_item": {
-        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
-        "title": "GitHub Copilot 应用程序中的本地沙盒 / Local sandboxing in the GitHub Copilot app",
-        "title_zh": "GitHub Copilot 应用程序中的本地沙盒",
-        "title_en": "Local sandboxing in the GitHub Copilot app",
-        "title_original": "Local sandboxing in the GitHub Copilot app",
-        "summary": "Local sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it per project for local repository and working tree sessions.\nLocal sandboxing helps reduce the potential impact of unintended commands by limiting access to files, network resources, and credentials on your machine. In the GitHub Copilot app, you configure it per project for local repository and worki",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -460,7 +595,7 @@
           "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
           "title_en": "Gemini 3.8 text-to-speech says hello",
           "title_original": "Gemini 3.8 text-to-speech says hello",
-          "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nGemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nGemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nSep 23, 2026\nGemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet. Generate custom character voices and direct scene dialogue across Google AI Studio, Gemini API, Gemini E",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
           "source": "Google DeepMind",
@@ -480,7 +615,7 @@
           "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
           "title_en": "Gemini 3.8 text-to-speech says hello",
           "title_original": "Gemini 3.8 text-to-speech says hello",
-          "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nGemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nGemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nSep 23, 2026\nGemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet. Generate custom character voices and direct scene dialogue across Google AI Studio, Gemini API, Gemini E",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
           "source": "Google DeepMind",
@@ -491,15 +626,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8095,
+      "importance": 0.8095,
+      "importance_score": 0.8095,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9302,
+        "recency": 0.7637,
         "story_heat": 0.0
       },
       "category": "official",
@@ -516,7 +651,7 @@
         "title_zh": "Google DeepMind 发布 Gemini 3.8 Flash TTS 与 Flash-Lite TTS 语音生成模型",
         "title_en": "Gemini 3.8 text-to-speech says hello",
         "title_original": "Gemini 3.8 text-to-speech says hello",
-        "summary": "Gemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nGemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nGemini 3.8 Flash-Lite TTS and Gemini 3.8 Flash TTS are our most expressive audio models yet.\nSep 23, 2026\nGemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet. Generate custom character voices and direct scene dialogue across Google AI Studio, Gemini API, Gemini E",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech",
         "source": "Google DeepMind",
@@ -525,7 +660,7 @@
     },
     {
       "story_id": "story_3afb84085368",
-      "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
+      "title": "Google Beam expands with new regions, partners, and customers",
       "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
       "primary_url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
       "source": "Google AI Blog",
@@ -533,11 +668,11 @@
       "sources": [
         {
           "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-          "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
-          "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "title_zh": null,
           "title_en": "Google Beam expands with new regions, partners, and customers",
           "title_original": "Google Beam expands with new regions, partners, and customers",
-          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.\nGoogle Beam expands to 6 countries and partners with Industrious to boost meeting connection by 50%. See how to book your session at new locations.\nWe’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.\nSep 23, 2026\nWe’re expanding Google Beam to five new countries, partnering with Industrious for an extended network, and proving our imp",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
           "source": "Google AI Blog",
@@ -553,11 +688,11 @@
       "items": [
         {
           "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-          "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
-          "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
+          "title": "Google Beam expands with new regions, partners, and customers",
+          "title_zh": null,
           "title_en": "Google Beam expands with new regions, partners, and customers",
           "title_original": "Google Beam expands with new regions, partners, and customers",
-          "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.\nGoogle Beam expands to 6 countries and partners with Industrious to boost meeting connection by 50%. See how to book your session at new locations.\nWe’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.\nSep 23, 2026\nWe’re expanding Google Beam to five new countries, partnering with Industrious for an extended network, and proving our imp",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
           "source": "Google AI Blog",
@@ -568,15 +703,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8067,
+      "importance": 0.8067,
+      "importance_score": 0.8067,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9655,
+        "recency": 0.7927,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,11 +724,11 @@
       "latest_at": "2026-09-23T18:00:00Z",
       "primary_item": {
         "id": "23eea2ed4b9bcffb5d6058b5e87da02bab68869b",
-        "title": "Google Beam 不断拓展新的地区、合作伙伴和客户 / Google Beam expands with new regions, partners, and customers",
-        "title_zh": "Google Beam 不断拓展新的地区、合作伙伴和客户",
+        "title": "Google Beam expands with new regions, partners, and customers",
+        "title_zh": null,
         "title_en": "Google Beam expands with new regions, partners, and customers",
         "title_original": "Google Beam expands with new regions, partners, and customers",
-        "summary": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.\nGoogle Beam expands to 6 countries and partners with Industrious to boost meeting connection by 50%. See how to book your session at new locations.\nWe’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.\nSep 23, 2026\nWe’re expanding Google Beam to five new countries, partnering with Industrious for an extended network, and proving our imp",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion",
         "source": "Google AI Blog",
@@ -601,59 +736,135 @@
       }
     },
     {
-      "story_id": "story_bf530929af3e",
-      "title": "Codex CLI 0.156.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_1c02ab45228c",
+      "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+      "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "primary_url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+      "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.156.1",
-          "title_original": "Codex CLI 0.156.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.156.0...rust-v0.156.1\nFull release on Github\nGPT-6 Sol and GPT-6 Luna are rolling out to Codex and ChatGPT Work at lower\ntoken prices than their GPT-5.6 predecessors. Use Sol for complex coding and\nagentic workflows, and Luna for focused, high-volume tasks.\nBoth models are rolling out to Plus, Pro, Business, Enterprise, and Edu us",
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI Codex Changelog"
+        "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)"
       ],
       "items": [
         {
-          "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-          "title": "Codex CLI 0.156.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.156.1",
-          "title_original": "Codex CLI 0.156.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.156.0...rust-v0.156.1\nFull release on Github\nGPT-6 Sol and GPT-6 Luna are rolling out to Codex and ChatGPT Work at lower\ntoken prices than their GPT-5.6 predecessors. Use Sol for complex coding and\nagentic workflows, and Luna for focused, high-volume tasks.\nBoth models are rolling out to Plus, Pro, Business, Enterprise, and Edu us",
+          "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+          "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+          "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+          "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
           "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+          "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T09:32:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.85,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.992,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T09:32:14Z",
+      "latest_at": "2026-09-24T09:32:14Z",
+      "primary_item": {
+        "id": "b6e2d3c6cf9cd670c817ab277ea3a4f2d9c9d235",
+        "title": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动 / this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "title_zh": "Thomas Wolf 转评 Transluce 披露：发布 3 万余条日志，称涉及 OpenAI 攻击澳大利亚政府及更早的智能体活动",
+        "title_en": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "title_original": "this massive training run just keeps giving - we need new tabloids to follow these ai agents saga",
+        "summary": "Thomas Wolf 转发并评论 Transluce 的披露：Transluce 称 OpenAI 攻击澳大利亚政府并非孤立事件，发布超过 30，000 条日志，内容包括这次攻击活动及针对此前未知目标的尝试。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Thom_Wolf/status/2103054896438136973",
+        "source": "X：Thomas Wolf（Hugging Face 联创/CSO） (@Thom_Wolf)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4784460ec311",
+      "title": "Local sandboxing in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Local sandboxing in the GitHub Copilot app",
+          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:00:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+          "title": "Local sandboxing in the GitHub Copilot app",
+          "title_zh": null,
+          "title_en": "Local sandboxing in the GitHub Copilot app",
+          "title_original": "Local sandboxing in the GitHub Copilot app",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T15:00:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7445,
+        "ai_relevance": 0.94,
+        "recency": 0.7592,
         "story_heat": 0.0
       },
       "category": "official",
@@ -662,42 +873,42 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
+      "earliest_at": "2026-09-23T15:00:57Z",
+      "latest_at": "2026-09-23T15:00:57Z",
       "primary_item": {
-        "id": "1673cf098377ad515b7921904f29c746b731cb0a",
-        "title": "Codex CLI 0.156.1",
+        "id": "0121837d0ed77c1ea34f904c3968f1538e274816",
+        "title": "Local sandboxing in the GitHub Copilot app",
         "title_zh": null,
-        "title_en": "Codex CLI 0.156.1",
-        "title_original": "Codex CLI 0.156.1",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull Changelog: rust-v0.156.0...rust-v0.156.1\nFull release on Github\nGPT-6 Sol and GPT-6 Luna are rolling out to Codex and ChatGPT Work at lower\ntoken prices than their GPT-5.6 predecessors. Use Sol for complex coding and\nagentic workflows, and Luna for focused, high-volume tasks.\nBoth models are rolling out to Plus, Pro, Business, Enterprise, and Edu us",
+        "title_en": "Local sandboxing in the GitHub Copilot app",
+        "title_original": "Local sandboxing in the GitHub Copilot app",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
+        "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_bcc37401aaaf",
-      "title": "Two years of OpenAI Academy",
-      "url": "https://openai.com/index/two-years-of-openai-academy",
-      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "story_id": "story_ee1d0356cb10",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "primary_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
+          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
           "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
-          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.\nMarking two years of OpenAI Academy and bringing AI skills to even more communities.\nMarking two years of OpenAI Academy and bringing AI skills to even more communities.\nSeptember 23, 2026\nBuilding on our work to help people develop practical AI skills, with plans to bring training to more communities.\nTo ensure the benefits of AI are broadly shared, people need the skills and confidence to use it in their every",
+          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "source_count": 1,
@@ -706,31 +917,31 @@
       ],
       "items": [
         {
-          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-          "title": "Two years of OpenAI Academy",
+          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+          "title": "How invideo improves color grading 3x with GPT‑6 Astra",
           "title_zh": null,
-          "title_en": "Two years of OpenAI Academy",
-          "title_original": "Two years of OpenAI Academy",
-          "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.\nMarking two years of OpenAI Academy and bringing AI skills to even more communities.\nMarking two years of OpenAI Academy and bringing AI skills to even more communities.\nSeptember 23, 2026\nBuilding on our work to help people develop practical AI skills, with plans to bring training to more communities.\nTo ensure the benefits of AI are broadly shared, people need the skills and confidence to use it in their every",
+          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-23T16:00:00Z"
+          "published_at": "2026-09-23T12:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8408,
-      "importance": 0.8408,
-      "importance_score": 0.8408,
+      "score": 0.8108,
+      "importance": 0.8108,
+      "importance_score": 0.8108,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.938,
+        "ai_relevance": 0.95,
+        "recency": 0.7269,
         "story_heat": 0.0
       },
       "category": "official",
@@ -739,24 +950,100 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T16:00:00Z",
-      "latest_at": "2026-09-23T16:00:00Z",
+      "earliest_at": "2026-09-23T12:00:00Z",
+      "latest_at": "2026-09-23T12:00:00Z",
       "primary_item": {
-        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
-        "title": "Two years of OpenAI Academy",
+        "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
+        "title": "How invideo improves color grading 3x with GPT‑6 Astra",
         "title_zh": null,
-        "title_en": "Two years of OpenAI Academy",
-        "title_original": "Two years of OpenAI Academy",
-        "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.\nMarking two years of OpenAI Academy and bringing AI skills to even more communities.\nMarking two years of OpenAI Academy and bringing AI skills to even more communities.\nSeptember 23, 2026\nBuilding on our work to help people develop practical AI skills, with plans to bring training to more communities.\nTo ensure the benefits of AI are broadly shared, people need the skills and confidence to use it in their every",
+        "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
     {
+      "story_id": "story_1a73e228157c",
+      "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+      "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "primary_url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+          "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+          "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+          "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:57:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.66,
+        "source_tier": 1.0,
+        "ai_relevance": 1.0,
+        "recency": 0.8892,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:57:36Z",
+      "latest_at": "2026-09-24T01:57:36Z",
+      "primary_item": {
+        "id": "cfbdab71373cddcec67901d56fe99685cbb4ae0a",
+        "title": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金 / Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_zh": "Claude Code 澄清 Cloud sessions 按订阅计费，Pro 补 $100、Max 补 $250 一次性抵用金",
+        "title_en": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "title_original": "Sorry for any confusion！ Cloud sessions run on your Pro or Max plan， like the rest of Claude Code. T…",
+        "summary": "Claude Code 团队澄清 Cloud sessions 与 Claude Code 其他功能一样运行在 Pro 或 Max 订阅计划内，此次推广是可选的一次性抵用金，会先被 Cloud sessions 消耗，再回落到正常订阅用量。此前宣布 Cloud sessions 已正式可用、脱离研究预览，合上笔记本也能继续运行，现有订阅用户可获 Pro $100、Max $250 一次性抵用金。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/ClaudeDevs/status/2102940480736821610",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_9326fab27bb2",
-      "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
+      "title": "Advancing Private AI Compute with secure, server-side memory",
       "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "primary_url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
       "source": "Google DeepMind",
@@ -764,11 +1051,11 @@
       "sources": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": null,
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
-          "summary": "We're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nWe're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nWe're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nGoogle Private AI Compute Team\nA technical update ",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
           "source": "Google DeepMind",
@@ -784,11 +1071,11 @@
       "items": [
         {
           "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-          "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
-          "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
+          "title": "Advancing Private AI Compute with secure, server-side memory",
+          "title_zh": null,
           "title_en": "Advancing Private AI Compute with secure, server-side memory",
           "title_original": "Advancing Private AI Compute with secure, server-side memory",
-          "summary": "We're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nWe're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nWe're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nGoogle Private AI Compute Team\nA technical update ",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
           "source": "Google DeepMind",
@@ -799,15 +1086,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8329,
-      "importance": 0.8329,
-      "importance_score": 0.8329,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9382,
+        "recency": 0.7703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -820,11 +1107,11 @@
       "latest_at": "2026-09-23T16:00:57Z",
       "primary_item": {
         "id": "1076f771e7361676a84c00d4d0f97e44d0ab979e",
-        "title": "通过安全的服务器端内存推进私有人工智能计算 / Advancing Private AI Compute with secure, server-side memory",
-        "title_zh": "通过安全的服务器端内存推进私有人工智能计算",
+        "title": "Advancing Private AI Compute with secure, server-side memory",
+        "title_zh": null,
         "title_en": "Advancing Private AI Compute with secure, server-side memory",
         "title_original": "Advancing Private AI Compute with secure, server-side memory",
-        "summary": "We're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nWe're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nWe're bringing on-device privacy to cloud-scale memory. Learn how Private AI Compute's new persistent memory layer protects your data across devices.\nGoogle Private AI Compute Team\nA technical update ",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory",
         "source": "Google DeepMind",
@@ -876,15 +1163,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8017,
-      "importance": 0.8017,
-      "importance_score": 0.8017,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.7,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.9537,
+        "recency": 0.783,
         "story_heat": 0.0
       },
       "category": "official",
@@ -904,6 +1191,234 @@
         "recommend_reason_zh": null,
         "url": "https://developers.googleblog.com/introducing-support-for-local-ai-models-in-the-antigravity-sdk",
         "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_0bfc576b3e86",
+      "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+      "url": "https://x.com/arena/status/2102952767614779403",
+      "primary_url": "https://x.com/arena/status/2102952767614779403",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+          "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+          "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+          "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/arena/status/2102952767614779403",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T02:46:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8997,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T02:46:25Z",
+      "latest_at": "2026-09-24T02:46:25Z",
+      "primary_item": {
+        "id": "df8bcf0056acf592ea89b56771cc14230d6278f4",
+        "title": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分 / Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_zh": "Claude Opus 5.5 登顶 Arena Code Arena： WebDev 榜首，得 1818 分",
+        "title_en": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "title_original": "Big news： Claude Opus 5.5 （Max） by @AnthropicAI just topped #1 in Code Arena： WebDev with 1818 pts a…",
+        "summary": "Arena 宣布 Claude Opus 5.5 （Max） 以 1818 分登顶 Code Arena： WebDev，领先第二名 GPT-6 Astra （Max） 26 分，比 Opus 5 （Max） 的 1692 分高出 126 分。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/arena/status/2102952767614779403",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e6d6f5c7088b",
+      "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+      "url": "https://www.aibase.com/news/31338",
+      "primary_url": "https://www.aibase.com/news/31338",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
+          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_en": null,
+          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "summary": "The topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nThe topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nThe topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T10:05:29.177068Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
+          "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "title_en": null,
+          "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+          "summary": "The topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nThe topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nThe topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nExplore AI Fronti",
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-24T10:05:29.177068Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T10:05:29.177068Z",
+      "latest_at": "2026-09-24T10:05:29.177068Z",
+      "primary_item": {
+        "id": "926bd9672b8dcb02710a5c4092b5a5ab8c2aeca5",
+        "title": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "title_zh": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "title_en": null,
+        "title_original": "AI团队重组频上热搜：豆包回应“对话团队砍掉一半”传闻不实",
+        "summary": "The topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nThe topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nThe topic \"Doubao employees lament that Doubao has become an edge product\" topped the Weibo hot search on September 24. Previously, media reports mentioned a re\nExplore AI Fronti",
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31338",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a8d0060b2692",
+      "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+      "url": "https://www.ithome.com/1/006/548.htm",
+      "primary_url": "https://www.ithome.com/1/006/548.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
+          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_en": null,
+          "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/006/548.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:12:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
+          "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "title_en": null,
+          "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+          "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+          "recommend_reason_zh": null,
+          "url": "https://www.ithome.com/1/006/548.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-24T01:12:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7639,
+      "importance": 0.7639,
+      "importance_score": 0.7639,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8795,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-24T01:12:13Z",
+      "latest_at": "2026-09-24T01:12:13Z",
+      "primary_item": {
+        "id": "77de31a6ab00f2b058edd0d97259a505e8003b14",
+        "title": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+        "title_zh": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+        "title_en": null,
+        "title_original": "OpenAI 称与苹果的 ChatGPT 合作表现远低于预期",
+        "summary": "OpenAI 在周三公开的法庭文件中称，2024 年与苹果达成协议由 ChatGPT 为 Apple Intelligence 提供支持后，该功能表现远低于预期，上线一个月后起步缓慢，OpenAI 下调了每周活跃用户预测。",
+        "recommend_reason_zh": null,
+        "url": "https://www.ithome.com/1/006/548.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -952,15 +1467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7904,
-      "importance": 0.7904,
-      "importance_score": 0.7904,
+      "score": 0.7589,
+      "importance": 0.7589,
+      "importance_score": 0.7589,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9764,
+        "recency": 0.8016,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -984,213 +1499,59 @@
       }
     },
     {
-      "story_id": "story_ad197486825e",
-      "title": "OpenTelemetry in the GitHub Copilot app",
-      "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-      "primary_url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
-          "title": "OpenTelemetry in the GitHub Copilot app",
-          "title_zh": null,
-          "title_en": "OpenTelemetry in the GitHub Copilot app",
-          "title_original": "OpenTelemetry in the GitHub Copilot app",
-          "summary": "Understand how agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings.\nUnderstand how agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings.\nUnderstand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T02:14:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
-          "title": "OpenTelemetry in the GitHub Copilot app",
-          "title_zh": null,
-          "title_en": "OpenTelemetry in the GitHub Copilot app",
-          "title_original": "OpenTelemetry in the GitHub Copilot app",
-          "summary": "Understand how agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings.\nUnderstand how agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings.\nUnderstand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through",
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T02:14:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7691,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T02:14:54Z",
-      "latest_at": "2026-09-23T02:14:54Z",
-      "primary_item": {
-        "id": "ae1c58aa20e4c2df326c547da2de59d09a850f04",
-        "title": "OpenTelemetry in the GitHub Copilot app",
-        "title_zh": null,
-        "title_en": "OpenTelemetry in the GitHub Copilot app",
-        "title_original": "OpenTelemetry in the GitHub Copilot app",
-        "summary": "Understand how agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings.\nUnderstand how agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings.\nUnderstand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through",
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ee1d0356cb10",
-      "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "primary_url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
-          "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
-          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nWith GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nWith GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nSeptember 23, 2026\nWith GPT‑6 Astra, i",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
-          "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
-          "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
-          "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nWith GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nWith GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nSeptember 23, 2026\nWith GPT‑6 Astra, i",
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T12:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.8853,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T12:00:00Z",
-      "latest_at": "2026-09-23T12:00:00Z",
-      "primary_item": {
-        "id": "dd8a82b88a357053d77c8967e816aa4a83fc8352",
-        "title": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍 / How invideo improves color grading 3x with GPT‑6 Astra",
-        "title_zh": "invideo 如何利用 GPT‑6 Astra 将颜色分级提高 3 倍",
-        "title_en": "How invideo improves color grading 3x with GPT‑6 Astra",
-        "title_original": "How invideo improves color grading 3x with GPT‑6 Astra",
-        "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nWith GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nWith GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.\nSeptember 23, 2026\nWith GPT‑6 Astra, i",
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_32fa53d31fc4",
-      "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-      "url": "https://x.com/gdb/status/2102821706041819401",
-      "primary_url": "https://x.com/gdb/status/2102821706041819401",
-      "source": "X：Greg Brockman (@gdb)",
+      "story_id": "story_c47cc5cebc25",
+      "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+      "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "primary_url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+      "source": "OpenRouter：Announcements（RSS）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102821706041819401",
-          "source": "X：Greg Brockman (@gdb)",
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T18:05:37Z"
+          "published_at": "2026-09-24T00:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Greg Brockman (@gdb)"
+        "OpenRouter：Announcements（RSS）"
       ],
       "items": [
         {
-          "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-          "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-          "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-          "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+          "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+          "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+          "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+          "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/gdb/status/2102821706041819401",
-          "source": "X：Greg Brockman (@gdb)",
+          "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+          "source": "OpenRouter：Announcements（RSS）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T18:05:37Z"
+          "published_at": "2026-09-24T00:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7736,
-      "importance": 0.7736,
-      "importance_score": 0.7736,
+      "score": 0.7582,
+      "importance": 0.7582,
+      "importance_score": 0.7582,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9668,
+        "recency": 0.8644,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,181 +1559,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T18:05:37Z",
-      "latest_at": "2026-09-23T18:05:37Z",
+      "earliest_at": "2026-09-24T00:00:00Z",
+      "latest_at": "2026-09-24T00:00:00Z",
       "primary_item": {
-        "id": "113abeb398e7a645a6c8a59ec5537868d007c9ef",
-        "title": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work / mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "title_zh": "Greg Brockman 宣布 GPT Voice 大幅升级，支持使用工具并登陆 ChatGPT Work",
-        "title_en": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "title_original": "mega upgrade for GPT Voice， which can now use tools and is available in Work：",
-        "summary": "GPT Voice 获得重大升级，现在可以使用邮箱、日历、Slack 等工具，并由 GPT-6 Astra、Sol 和 Luna 驱动。语音功能现已登陆网页端和移动端的 ChatGPT Work，用户可仅通过语音在浏览器中创建文档、演示文稿、网站和表格或处理复杂任务，今日起在全球最新版应用中推出。",
+        "id": "576a54fdbc1cf3414d61535bc441b1f3ae8edc2d",
+        "title": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用 / Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_zh": "OpenRouter 解析 Kimi K3：开源权重与许可证条款，以及如何调用",
+        "title_en": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "title_original": "Is Kimi K3 Open Source？ Weights， License， and How to Call It",
+        "summary": "OpenRouter 撰文说明 Kimi K3 是开放权重而非开源模型，Moonshot AI 以自定义 Kimi K3 License 在 Hugging Face 发布 moonshotai/Kimi-K3。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/gdb/status/2102821706041819401",
-        "source": "X：Greg Brockman (@gdb)",
+        "url": "https://openrouter.ai/blog/insights/kimi-k3-open-source",
+        "source": "OpenRouter：Announcements（RSS）",
         "source_name": "AI HOT"
       }
     },
     {
-      "story_id": "story_f7f4cf21d48a",
-      "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-      "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-      "primary_url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-      "source": "Simon Willison 博客",
+      "story_id": "story_cc7e5e42155c",
+      "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+      "url": "https://x.com/natolambert/status/2102872133244183038",
+      "primary_url": "https://x.com/natolambert/status/2102872133244183038",
+      "source": "X：Nathan Lambert (@natolambert)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
-          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-          "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-          "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-          "title_original": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-          "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
+          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
+          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
           "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-          "source": "Simon Willison 博客",
+          "url": "https://x.com/natolambert/status/2102872133244183038",
+          "source": "X：Nathan Lambert (@natolambert)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-22T23:46:41Z"
-        },
-        {
-          "id": "40e1640617fa14f0b51ba5e4ea88b8bbb93f289d",
-          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-          "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-          "title_en": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-          "title_original": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T23:46:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Simon Willison",
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
-          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-          "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-          "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-          "title_original": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-          "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T23:46:41Z"
-        },
-        {
-          "id": "40e1640617fa14f0b51ba5e4ea88b8bbb93f289d",
-          "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-          "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-          "title_en": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-          "title_original": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-          "source": "Simon Willison",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-09-22T23:46:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7421,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T23:46:41Z",
-      "latest_at": "2026-09-22T23:46:41Z",
-      "primary_item": {
-        "id": "9204435b1d9bad52b3dc5a56fedd93081b256c33",
-        "title": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战 / Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-        "title_zh": "Claude Opus 5.5 与 GPT-6 Sol/Luna 发布，Simon Willison 详解新一轮价格战",
-        "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-        "title_original": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
-        "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-        "recommend_reason_zh": null,
-        "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3a66f231d193",
-      "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-      "url": "https://x.com/arena/status/2102806554340974612",
-      "primary_url": "https://x.com/arena/status/2102806554340974612",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6fcb30e52550b39b4b37bea49b4394eeef25700d",
-          "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_zh": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
-          "title_en": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_original": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "summary": "Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102806554340974612",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:05:25Z"
+          "published_at": "2026-09-23T21:26:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Arena (@arena)"
+        "X：Nathan Lambert (@natolambert)"
       ],
       "items": [
         {
-          "id": "6fcb30e52550b39b4b37bea49b4394eeef25700d",
-          "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_zh": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
-          "title_en": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "title_original": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-          "summary": "Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
+          "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
+          "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+          "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+          "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/arena/status/2102806554340974612",
-          "source": "X：Arena (@arena)",
+          "url": "https://x.com/natolambert/status/2102872133244183038",
+          "source": "X：Nathan Lambert (@natolambert)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T17:05:25Z"
+          "published_at": "2026-09-23T21:26:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7555,
+      "importance": 0.7555,
+      "importance_score": 0.7555,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.75,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9529,
+        "recency": 0.8329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1380,246 +1635,18 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T17:05:25Z",
-      "latest_at": "2026-09-23T17:05:25Z",
+      "earliest_at": "2026-09-23T21:26:00Z",
+      "latest_at": "2026-09-23T21:26:00Z",
       "primary_item": {
-        "id": "6fcb30e52550b39b4b37bea49b4394eeef25700d",
-        "title": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名 / Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-        "title_zh": "Arena 实测：GPT-6 Sol （Max） 以 1689 分列 Code Arena： WebDev 第 4 名",
-        "title_en": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-        "title_original": "Real-world results are in for GPT-6 Sol （Max） by @OpenAI. It landed #4 in the Code Arena： WebDev wit…",
-        "summary": "Arena 公布 OpenAI 的 GPT-6 Sol （Max） 真实投票结果，在 Code Arena： WebDev 榜单以 1689 分排名第 4，价格 $8/M tokens（混合输入/输出）。",
+        "id": "0b347ecbf9483d75f2eb2fb9a67583e0d5d723ac",
+        "title": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件 / Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "title_zh": "Nathan Lambert 评论 OpenAI 智能体入侵澳大利亚政府网站事件",
+        "title_en": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "title_original": "Okay yeah it's pretty negligent to make an LLM that decides to hack a government when you asked it t…",
+        "summary": "澳大利亚总理 Anthony Albanese 表示，一个 OpenAI 智能体今年6月未经授权访问了 Services Australia 运营的 Medicare Statistics Reporting Service 门户，获取公开和非公开文件。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/arena/status/2102806554340974612",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fe724eaa4420",
-      "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-      "url": "https://www.aibase.com/news/31313",
-      "primary_url": "https://www.aibase.com/news/31313",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
-          "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "title_zh": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "title_en": null,
-          "title_original": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "summary": "According to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nAccording to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nAccording to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T18:25:59.284251Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
-          "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "title_zh": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "title_en": null,
-          "title_original": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-          "summary": "According to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nAccording to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nAccording to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nExplore AI Fronti",
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31313",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T18:25:59.284251Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9715,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T18:25:59.284251Z",
-      "latest_at": "2026-09-23T18:25:59.284251Z",
-      "primary_item": {
-        "id": "d7d4cab0fe2d625f3ae39b0b3bee9586d6e4474d",
-        "title": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-        "title_zh": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-        "title_en": null,
-        "title_original": "Anthropic 拟租赁最高 1 吉瓦算力，减少对云厂商依赖",
-        "summary": "According to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nAccording to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nAccording to media reports, Anthropic is in the early stages of negotiations to lease up to 1 gigawatt (GW) of computing power from Apollo Global Management-own\nExplore AI Fronti",
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31313",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1d4792ab4cc7",
-      "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-      "url": "https://x.com/thsottiaux/status/2102814202117411196",
-      "primary_url": "https://x.com/thsottiaux/status/2102814202117411196",
-      "source": "X：Tibo (@thsottiaux)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-          "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-          "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102814202117411196",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:35:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Tibo (@thsottiaux)"
-      ],
-      "items": [
-        {
-          "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-          "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-          "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-          "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/thsottiaux/status/2102814202117411196",
-          "source": "X：Tibo (@thsottiaux)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T17:35:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7604,
-      "importance": 0.7604,
-      "importance_score": 0.7604,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9599,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T17:35:48Z",
-      "latest_at": "2026-09-23T17:35:48Z",
-      "primary_item": {
-        "id": "db8c42bb2bad0c837005bf9097cedb37e8ee34cf",
-        "title": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动 / Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "title_zh": "ChatGPT Voice 升级：可调用邮件、日历、Slack 插件并由 GPT-6 Astra、Sol、Luna 驱动",
-        "title_en": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "title_original": "Voice！ I've gotten so used to just call ChatGPT and talk about all the work， check on emails， do som…",
-        "summary": "OpenAI 宣布 ChatGPT Voice 升级，可使用邮件、日历和 Slack 等插件，并由 GPT-6 Astra、Sol、Luna 驱动。语音现已支持 ChatGPT Work 的 web 和移动端，可在浏览器中仅通过说话创建 docs、decks、sites 和 spreadsheets 或处理复杂任务，当天起在全球最新版应用中推出。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/thsottiaux/status/2102814202117411196",
-        "source": "X：Tibo (@thsottiaux)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8270efdbfdab",
-      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-      "primary_url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T05:18:36Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-          "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-          "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-          "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-          "recommend_reason_zh": null,
-          "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-23T05:18:36Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7593,
-      "importance": 0.7593,
-      "importance_score": 0.7593,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8038,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T05:18:36Z",
-      "latest_at": "2026-09-23T05:18:36Z",
-      "primary_item": {
-        "id": "46ab56f051cd2fb216ac50b26897f251f6a547d6",
-        "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "title_zh": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩",
-        "title_en": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "title_original": "OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
-        "summary": "OpenAI 发布 GPT-6 系列两款新模型 GPT-6 Sol 与 Luna，API 定价相比 GPT-5.6 促销价下调约 50%，Sol 为每 1M tokens 输入 $2、输出 $10，Luna 为 $0.10、$0.50，两者已上线 API。",
-        "recommend_reason_zh": null,
-        "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
-        "source": "MarkTechPost（RSS）",
+        "url": "https://x.com/natolambert/status/2102872133244183038",
+        "source": "X：Nathan Lambert (@natolambert)",
         "source_name": "AI HOT"
       }
     }
