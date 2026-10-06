@@ -1,11 +1,88 @@
 {
-  "generated_at": "2026-10-05T22:41:25.810838Z",
+  "generated_at": "2026-10-06T03:02:32.532367Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 20,
   "items": [
     {
+      "story_id": "story_45464a737294",
+      "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+      "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "primary_url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nSecret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.\nThe following provider joined the secret scanning partnership program. When one of their secrets is found in a public repository, GitHub forwards it to the partner so they can revoke or r",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+          "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+          "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+          "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nSecret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.\nThe following provider joined the secret scanning partnership program. When one of their secrets is found in a public repository, GitHub forwards it to the partner so they can revoke or r",
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-05T22:42:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8331,
+      "importance": 0.8331,
+      "importance_score": 0.8331,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9393,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-05T22:42:14Z",
+      "latest_at": "2026-10-05T22:42:14Z",
+      "primary_item": {
+        "id": "63b1b612bfba39b214b5ffc13153f4dbf893d546",
+        "title": "秘密扫描添加了 Lovable、Supabase 等探测器 / Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_zh": "秘密扫描添加了 Lovable、Supabase 等探测器",
+        "title_en": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "title_original": "Secret scanning adds detectors for Lovable, Supabase, and more",
+        "summary": "Secret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase. New secret scanning partner The following provider joined the secret scanning partnership program. When one…\nSecret scanning now detects new secret types from Lovable Labs, Pydantic Services Inc., and Supabase.\nThe following provider joined the secret scanning partnership program. When one of their secrets is found in a public repository, GitHub forwards it to the partner so they can revoke or r",
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-05-secret-scanning-adds-detectors-for-lovable-supabase-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
       "story_id": "story_b4c0a1b83afc",
-      "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
+      "title": "ReviewBench: An open benchmark for AI code review",
       "url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
       "primary_url": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review",
       "source": "GitHub AI & ML",
@@ -13,8 +90,8 @@
       "sources": [
         {
           "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "title_zh": null,
           "title_en": "ReviewBench: An open benchmark for AI code review",
           "title_original": "ReviewBench: An open benchmark for AI code review",
           "summary": null,
@@ -33,8 +110,8 @@
       "items": [
         {
           "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-          "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-          "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+          "title": "ReviewBench: An open benchmark for AI code review",
+          "title_zh": null,
           "title_en": "ReviewBench: An open benchmark for AI code review",
           "title_original": "ReviewBench: An open benchmark for AI code review",
           "summary": null,
@@ -48,15 +125,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.9,
-        "recency": 0.9078,
+        "recency": 0.8525,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,8 +146,8 @@
       "latest_at": "2026-10-05T15:59:40Z",
       "primary_item": {
         "id": "5485f124bd8b54fc5ffe89af7e88245b913e1568",
-        "title": "ReviewBench：人工智能代码审查的开放基准 / ReviewBench: An open benchmark for AI code review",
-        "title_zh": "ReviewBench：人工智能代码审查的开放基准",
+        "title": "ReviewBench: An open benchmark for AI code review",
+        "title_zh": null,
         "title_en": "ReviewBench: An open benchmark for AI code review",
         "title_original": "ReviewBench: An open benchmark for AI code review",
         "summary": null,
@@ -125,15 +202,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8949,
+        "recency": 0.8404,
         "story_heat": 0.0
       },
       "category": "official",
@@ -154,83 +231,6 @@
         "recommend_reason_zh": null,
         "url": "https://openai.com/index/eu-text-provenance",
         "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_443f271584c4",
-      "title": "Codex CLI 0.160.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
-          "title": "Codex CLI 0.160.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.160.1",
-          "title_original": "Codex CLI 0.160.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull release on Github\nFull Changelog: rust-v0.159.0...rust-v0.160.0\nFull release on Github\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your p",
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
-          "title": "Codex CLI 0.160.1",
-          "title_zh": null,
-          "title_en": "Codex CLI 0.160.1",
-          "title_original": "Codex CLI 0.160.1",
-          "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull release on Github\nFull Changelog: rust-v0.159.0...rust-v0.160.0\nFull release on Github\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your p",
-          "recommend_reason_zh": null,
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-05T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8157,
-      "importance": 0.8157,
-      "importance_score": 0.8157,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.7206,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-05T00:00:00Z",
-      "latest_at": "2026-10-05T00:00:00Z",
-      "primary_item": {
-        "id": "8f32195906ba9e98320fafbd78d04e63a6e16758",
-        "title": "Codex CLI 0.160.1",
-        "title_zh": null,
-        "title_en": "Codex CLI 0.160.1",
-        "title_original": "Codex CLI 0.160.1",
-        "summary": "Latest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nLatest updates to ChatGPT and Codex\nFull release on Github\nFull Changelog: rust-v0.159.0...rust-v0.160.0\nFull release on Github\nFull Changelog: rust-v0.159.2...rust-v0.159.3\nFull release on Github\nGPT-6.1 Sol offers near-Astra performance for complex work at a lower cost than\nAstra. Consider it for repeated, long-running work across code, apps, and\ndocuments. Availability depends on your p",
-        "recommend_reason_zh": null,
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       }
     },
@@ -308,15 +308,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7883,
+      "importance": 0.7883,
+      "importance_score": 0.7883,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9331,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -385,15 +385,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8219,
-      "importance": 0.8219,
-      "importance_score": 0.8219,
+      "score": 0.8127,
+      "importance": 0.8127,
+      "importance_score": 0.8127,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8326,
+        "recency": 0.7818,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,6 +415,158 @@
         "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b9170f476686",
+      "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+      "url": "https://x.com/Khazix0918/status/2107297777583825359",
+      "primary_url": "https://x.com/Khazix0918/status/2107297777583825359",
+      "source": "X：卡兹克 (@Khazix0918)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
+          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_en": null,
+          "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2107297777583825359",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T02:31:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：卡兹克 (@Khazix0918)"
+      ],
+      "items": [
+        {
+          "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
+          "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "title_en": null,
+          "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+          "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2107297777583825359",
+          "source": "X：卡兹克 (@Khazix0918)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T02:31:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9927,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T02:31:56Z",
+      "latest_at": "2026-10-06T02:31:56Z",
+      "primary_item": {
+        "id": "c9a673d6e65e64c99d578906d5fd5117eed00424",
+        "title": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+        "title_zh": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+        "title_en": null,
+        "title_original": "卡兹克解读 A16Z 两份 AI 报告：AI 使用很广但用得还浅，头部 1% 用户月均花 903 美元",
+        "summary": "作者解读 A16Z 第七版《Top 100 消费级 AI 应用》和 90 多页的《市场状况 II》报告，指出反常识数据。美国近一半人用过 AI 但只有 25% 每天在用，截至 2026 年 8 月仅 4.5% 有 ChatGPT、Gemini 或 Claude 个人付费订阅；付费用户中头部 1% 月均消费 903 美元、贡献 19.5% 的全部消费。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2107297777583825359",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_874feeef6ecb",
+      "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
+          "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "title_en": null,
+          "title_original": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T00:18:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
+          "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "title_en": null,
+          "title_original": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+          "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
+          "recommend_reason_zh": null,
+          "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-06T00:18:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7576,
+      "importance": 0.7576,
+      "importance_score": 0.7576,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.71,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9612,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-06T00:18:00Z",
+      "latest_at": "2026-10-06T00:18:00Z",
+      "primary_item": {
+        "id": "0c59abf680fe79a36ddbefdc88193c9be8071cdf",
+        "title": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+        "title_zh": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+        "title_en": null,
+        "title_original": "卡兹克解读A16Z两份AI报告，AI使用广但付费和深度仍小众",
+        "summary": "作者解读A16Z第七版《Top 100 消费级 AI 应用》和90多页的《市场状况 II》报告，指出美国近一半人用过AI但仅25%每天使用，ChatGPT、Gemini或Claude个人付费订阅率仅4.5%，标普500公司只有2%长期追踪AI价值指标。",
+        "recommend_reason_zh": null,
+        "url": "https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&mid=2647686876&idx=1&sn=55c719c9dded44507dbd2a000a2ec5a7",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -462,21 +614,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9622,
+        "recency": 0.9036,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-05T20:01:09Z",
       "latest_at": "2026-10-05T20:01:09Z",
@@ -490,6 +641,81 @@
         "recommend_reason_zh": null,
         "url": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
         "source": "SemiAnalysis 长文 RSS（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_549df6d3483f",
+      "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
+      "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "primary_url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+      "source": "Simon Willison 博客",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
+          "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
+          "title_zh": "Anthropic Cowork 改为云端运行模型推理与 VM",
+          "title_en": "Quoting Felix Rieseberg",
+          "title_original": "Quoting Felix Rieseberg",
+          "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T23:56:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Simon Willison 博客"
+      ],
+      "items": [
+        {
+          "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
+          "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
+          "title_zh": "Anthropic Cowork 改为云端运行模型推理与 VM",
+          "title_en": "Quoting Felix Rieseberg",
+          "title_original": "Quoting Felix Rieseberg",
+          "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
+          "recommend_reason_zh": null,
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+          "source": "Simon Willison 博客",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-05T23:56:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7267,
+      "importance": 0.7267,
+      "importance_score": 0.7267,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.61,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9563,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-05T23:56:47Z",
+      "latest_at": "2026-10-05T23:56:47Z",
+      "primary_item": {
+        "id": "cb0cddb76e30c17e18f4721998588c248f390c4c",
+        "title": "Anthropic Cowork 改为云端运行模型推理与 VM / Quoting Felix Rieseberg",
+        "title_zh": "Anthropic Cowork 改为云端运行模型推理与 VM",
+        "title_en": "Quoting Felix Rieseberg",
+        "title_original": "Quoting Felix Rieseberg",
+        "summary": "Anthropic 工程师 Felix Rieseberg 说明 Cowork 的新旧架构差异：旧版在云端推理、在用户电脑上运行本地 VM，磁盘、电池和性能开销大，合上笔记本工作就停止。新版把模型推理和 VM 都移到云端，每个会话有独立沙盒，桌面应用只负责文件访问等需要本机设备的工具调用，官方认为这解决了手机使用、保持工作运行和电池消耗等问题。",
+        "recommend_reason_zh": null,
+        "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg",
+        "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       }
     },
@@ -567,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6313,
-      "importance": 0.6313,
-      "importance_score": 0.6313,
+      "score": 0.6219,
+      "importance": 0.6219,
+      "importance_score": 0.6219,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5616,
         "source_tier": 0.58,
         "ai_relevance": 0.78,
-        "recency": 0.8569,
+        "recency": 0.8048,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -598,8 +824,111 @@
       }
     },
     {
+      "story_id": "story_a886b790c2de",
+      "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "summary": "Would you call your parents with Google’s AI?\nGoogle could be planning to expand its Gemini Calling feature so you can send automated phone calls to friends and family, rather than just businesses.\nWould you call your parents with Google’s AI?\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email di",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T23:09:55Z"
+        },
+        {
+          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_en": "Gemini Call for Me might tell your mom you’re running late",
+          "title_original": "Gemini Call for Me might tell your mom you’re running late",
+          "summary": "Would you call your parents with Google’s AI?\nGoogle could be planning to expand its Gemini Calling feature so you can send automated phone calls to friends and family, rather than just businesses.\nWould you call your parents with Google’s AI?\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email di",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T23:09:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
+          "summary": "Would you call your parents with Google’s AI?\nGoogle could be planning to expand its Gemini Calling feature so you can send automated phone calls to friends and family, rather than just businesses.\nWould you call your parents with Google’s AI?\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email di",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-10-05T23:09:55Z"
+        },
+        {
+          "id": "afc87f46d15bdc51d47afd10a55a7d6d683340fd",
+          "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you’re running late",
+          "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+          "title_en": "Gemini Call for Me might tell your mom you’re running late",
+          "title_original": "Gemini Call for Me might tell your mom you’re running late",
+          "summary": "Would you call your parents with Google’s AI?\nGoogle could be planning to expand its Gemini Calling feature so you can send automated phone calls to friends and family, rather than just businesses.\nWould you call your parents with Google’s AI?\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email di",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-05T23:09:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6182,
+      "importance": 0.6182,
+      "importance_score": 0.6182,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.5112,
+        "source_tier": 0.58,
+        "ai_relevance": 0.71,
+        "recency": 0.9456,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T23:09:55Z",
+      "latest_at": "2026-10-05T23:09:55Z",
+      "primary_item": {
+        "id": "9f50ea291113227861db0a922f6ccf9a1d899eae",
+        "title": "Gemini打电话给我可能会告诉你妈妈你迟到了 / Gemini Call for Me might tell your mom you&#8217;re running late",
+        "title_zh": "Gemini打电话给我可能会告诉你妈妈你迟到了",
+        "title_en": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "title_original": "Gemini Call for Me might tell your mom you&#8217;re running late",
+        "summary": "Would you call your parents with Google’s AI?\nGoogle could be planning to expand its Gemini Calling feature so you can send automated phone calls to friends and family, rather than just businesses.\nWould you call your parents with Google’s AI?\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All AI\nPosts from this topic will be added to your daily email digest and your homepage feed.\nSee All News\nPosts from this topic will be added to your daily email di",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      }
+    },
+    {
       "story_id": "story_f4763bfb35df",
-      "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
+      "title": "OpenAI is sticking more ads in ChatGPT",
       "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
       "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
       "source": "The Verge",
@@ -607,8 +936,8 @@
       "sources": [
         {
           "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title": "OpenAI is sticking more ads in ChatGPT",
+          "title_zh": null,
           "title_en": "OpenAI is sticking more ads in ChatGPT",
           "title_original": "OpenAI is sticking more ads in ChatGPT",
           "summary": null,
@@ -621,8 +950,8 @@
         },
         {
           "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title": "OpenAI is testing more ads in ChatGPT",
+          "title_zh": null,
           "title_en": "OpenAI is testing more ads in ChatGPT",
           "title_original": "OpenAI is testing more ads in ChatGPT",
           "summary": null,
@@ -642,8 +971,8 @@
       "items": [
         {
           "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-          "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-          "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+          "title": "OpenAI is sticking more ads in ChatGPT",
+          "title_zh": null,
           "title_en": "OpenAI is sticking more ads in ChatGPT",
           "title_original": "OpenAI is sticking more ads in ChatGPT",
           "summary": null,
@@ -656,8 +985,8 @@
         },
         {
           "id": "b4e193360f4f349951d9bd8fd059a31e76865917",
-          "title": "OpenAI 正在 ChatGPT 中测试更多广告 / OpenAI is testing more ads in ChatGPT",
-          "title_zh": "OpenAI 正在 ChatGPT 中测试更多广告",
+          "title": "OpenAI is testing more ads in ChatGPT",
+          "title_zh": null,
           "title_en": "OpenAI is testing more ads in ChatGPT",
           "title_original": "OpenAI is testing more ads in ChatGPT",
           "summary": null,
@@ -671,15 +1000,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6173,
-      "importance": 0.6173,
-      "importance_score": 0.6173,
+      "score": 0.6077,
+      "importance": 0.6077,
+      "importance_score": 0.6077,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5328,
         "source_tier": 0.58,
         "ai_relevance": 0.74,
-        "recency": 0.8715,
+        "recency": 0.8184,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -690,8 +1019,8 @@
       "latest_at": "2026-10-05T14:38:31Z",
       "primary_item": {
         "id": "683687f5488bf215a4ce2630c2b248d8543640fd",
-        "title": "OpenAI 将在 ChatGPT 中投放更多广告 / OpenAI is sticking more ads in ChatGPT",
-        "title_zh": "OpenAI 将在 ChatGPT 中投放更多广告",
+        "title": "OpenAI is sticking more ads in ChatGPT",
+        "title_zh": null,
         "title_en": "OpenAI is sticking more ads in ChatGPT",
         "title_original": "OpenAI is sticking more ads in ChatGPT",
         "summary": null,
@@ -699,6 +1028,272 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
         "source": "The Verge",
         "source_name": "Curated Media"
+      }
+    },
+    {
+      "story_id": "story_28fb0368d56f",
+      "title": "Dust：无需反向传播的Transformer预训练",
+      "url": "https://qlabs.sh/research/dust",
+      "primary_url": "https://qlabs.sh/research/dust",
+      "source": "qlabs.sh",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6abc950411f12d66528f0bb68255022157286bbb",
+          "title": "Dust：无需反向传播的Transformer预训练",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_en": null,
+          "title_original": "Dust：无需反向传播的Transformer预训练",
+          "summary": "Contents\nQ Labs Research\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the am",
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "qlabs.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T02:07:52.842000Z"
+        },
+        {
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
+        },
+        {
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": null,
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "qlabs.sh"
+      ],
+      "items": [
+        {
+          "id": "6abc950411f12d66528f0bb68255022157286bbb",
+          "title": "Dust：无需反向传播的Transformer预训练",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_en": null,
+          "title_original": "Dust：无需反向传播的Transformer预训练",
+          "summary": "Contents\nQ Labs Research\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the am",
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "qlabs.sh",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T02:07:52.842000Z"
+        },
+        {
+          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
+          "title": "Dust：无需反向传播的Transformer预训练 / Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": "Dust：无需反向传播的Transformer预训练",
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://qlabs.sh/research/dust",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T21:15:07Z"
+        },
+        {
+          "id": "7389c431f138003ff1424c3abc0027a58665a484",
+          "title": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_zh": null,
+          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
+          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49970871",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T21:15:07Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5684,
+      "importance": 0.5684,
+      "importance_score": 0.5684,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9869,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T21:15:07Z",
+      "latest_at": "2026-10-06T02:07:52.842000Z",
+      "primary_item": {
+        "id": "6abc950411f12d66528f0bb68255022157286bbb",
+        "title": "Dust：无需反向传播的Transformer预训练",
+        "title_zh": "Dust：无需反向传播的Transformer预训练",
+        "title_en": null,
+        "title_original": "Dust：无需反向传播的Transformer预训练",
+        "summary": "Contents\nQ Labs Research\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the am",
+        "recommend_reason_zh": null,
+        "url": "https://qlabs.sh/research/dust",
+        "source": "qlabs.sh",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e679b691cbbf",
+      "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "primary_url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+      "source": "www.niemanlab.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "title_en": null,
+          "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "summary": "OpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nOpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nAll the latest headlines and insights from the world of digital journalism and publishing. Our daily newsletter is a must-read from newsrooms to executive suites.\nWe will never sell your address. Prefer a weekly email?\nNearly there — check your e",
+          "recommend_reason_zh": null,
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "www.niemanlab.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.500000Z"
+        },
+        {
+          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "summary": "OpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nOpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nAll the latest headlines and insights from the world of digital journalism and publishing. Our daily newsletter is a must-read from newsrooms to executive suites.\nWe will never sell your address. Prefer a weekly email?\nNearly there — check your e",
+          "recommend_reason_zh": null,
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T22:46:45Z"
+        },
+        {
+          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
+          "title": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_zh": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中",
+          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49971846",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T22:46:45Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.niemanlab.org"
+      ],
+      "items": [
+        {
+          "id": "1318638ce556ac31bceb2a87eda81988b5311701",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "title_en": null,
+          "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "summary": "OpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nOpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nAll the latest headlines and insights from the world of digital journalism and publishing. Our daily newsletter is a must-read from newsrooms to executive suites.\nWe will never sell your address. Prefer a weekly email?\nNearly there — check your e",
+          "recommend_reason_zh": null,
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "www.niemanlab.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-06T00:19:39.500000Z"
+        },
+        {
+          "id": "b01db7403fc715c7d7920fbea41774cf3146fac8",
+          "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "summary": "OpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nOpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nAll the latest headlines and insights from the world of digital journalism and publishing. Our daily newsletter is a must-read from newsrooms to executive suites.\nWe will never sell your address. Prefer a weekly email?\nNearly there — check your e",
+          "recommend_reason_zh": null,
+          "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-05T22:46:45Z"
+        },
+        {
+          "id": "2cb70f077d555c7fa7caf48e06b154d6a1751555",
+          "title": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中 / ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_zh": "ChatGPT 正在将真正的漫画家的签名添加到假《纽约客》漫画中",
+          "title_en": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "title_original": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=49971846",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-05T22:46:45Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5639,
+      "importance": 0.5639,
+      "importance_score": 0.5639,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9616,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-05T22:46:45Z",
+      "latest_at": "2026-10-06T00:19:39.500000Z",
+      "primary_item": {
+        "id": "1318638ce556ac31bceb2a87eda81988b5311701",
+        "title": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+        "title_zh": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+        "title_en": null,
+        "title_original": "ChatGPT正在将真实漫画家的签名添加到伪造的《纽约客》漫画中",
+        "summary": "OpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nOpenAI's chatbot isn't just imitating the magazine's style. It's also falsely attributing AI-generated images to real artists.\nAll the latest headlines and insights from the world of digital journalism and publishing. Our daily newsletter is a must-read from newsrooms to executive suites.\nWe will never sell your address. Prefer a weekly email?\nNearly there — check your e",
+        "recommend_reason_zh": null,
+        "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons",
+        "source": "www.niemanlab.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -715,7 +1310,7 @@
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "title_en": null,
           "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "www.vals.ai",
@@ -729,7 +1324,7 @@
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "Hacker News (黑客新闻)",
@@ -739,8 +1334,8 @@
         },
         {
           "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "summary": null,
@@ -765,7 +1360,7 @@
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "title_en": null,
           "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "www.vals.ai",
@@ -779,7 +1374,7 @@
           "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+          "summary": null,
           "recommend_reason_zh": null,
           "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
           "source": "Hacker News (黑客新闻)",
@@ -789,8 +1384,8 @@
         },
         {
           "id": "c0407e92a3d6ccaf35a78647a157f61f833b3f23",
-          "title": "Opus 5.5 特工发现两种室温磁性半导体候选物 / Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-          "title_zh": "Opus 5.5 特工发现两种室温磁性半导体候选物",
+          "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+          "title_zh": null,
           "title_en": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "title_original": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
           "summary": null,
@@ -804,15 +1399,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.993,
+        "recency": 0.9325,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -827,7 +1422,7 @@
         "title_zh": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
         "title_en": null,
         "title_original": "Opus 5.5的研究人员发现了两种室温磁性半导体候选材料",
-        "summary": "We are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net magnetism yet still sort electrons by spin: one a new compound we designed, the other a material first made in 1999. We're sharing the full calculations, the code, and a list of known caveats.\nWe are sharing two candidate magnets for next-generation computer memory, found by a team of Claude Opus 5.5 agents. Both are predicted to have zero net m",
+        "summary": null,
         "recommend_reason_zh": null,
         "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
         "source": "www.vals.ai",
@@ -937,15 +1532,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5566,
-      "importance": 0.5566,
-      "importance_score": 0.5566,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9211,
+        "recency": 0.865,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -968,40 +1563,40 @@
       }
     },
     {
-      "story_id": "story_28fb0368d56f",
-      "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-      "url": "https://qlabs.sh/research/dust",
-      "primary_url": "https://qlabs.sh/research/dust",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_4130ba1b9a2d",
+      "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+      "url": "https://news.ycombinator.com/item?id=49972419",
+      "primary_url": "https://news.ycombinator.com/item?id=49972419",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": "Contents\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the amount of compute ",
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970871",
+          "url": "https://news.ycombinator.com/item?id=49972419",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
+          "published_at": "2026-10-06T00:00:45Z"
+        },
+        {
+          "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
+          "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
+          "summary": "Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with its AI tutor, Khanmigo, configured to coach rather than give answers, during existing daily remedial mathematics sessions.\nGenerative AI has been promoted as the technology that c",
+          "recommend_reason_zh": null,
+          "url": "https://edworkingpapers.com/ai26-1551",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T00:00:45Z"
         }
       ],
       "source_count": 2,
@@ -1011,64 +1606,64 @@
       ],
       "items": [
         {
-          "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-          "summary": "Contents\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the amount of compute ",
-          "recommend_reason_zh": null,
-          "url": "https://qlabs.sh/research/dust",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T21:15:07Z"
-        },
-        {
-          "id": "7389c431f138003ff1424c3abc0027a58665a484",
-          "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-          "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-          "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-          "title_original": "Dust: Pretraining Transformers Without Backpropagation",
+          "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+          "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49970871",
+          "url": "https://news.ycombinator.com/item?id=49972419",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-05T21:15:07Z"
+          "published_at": "2026-10-06T00:00:45Z"
+        },
+        {
+          "id": "e2399e6edde98fba848c3ff490a06f209f3cba34",
+          "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI tutoring with Khanmigo in a two-year school experiment",
+          "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+          "title_en": "AI tutoring with Khanmigo in a two-year school experiment",
+          "title_original": "AI tutoring with Khanmigo in a two-year school experiment",
+          "summary": "Generative AI has been promoted as the technology that could transform education by providing every student a personal tutor. We provide some of the first large-scale experimental evidence, from a two-year cluster randomized trial in 18 Tennessee middle schools in which randomly assigned students used Khan Academy with its AI tutor, Khanmigo, configured to coach rather than give answers, during existing daily remedial mathematics sessions.\nGenerative AI has been promoted as the technology that c",
+          "recommend_reason_zh": null,
+          "url": "https://edworkingpapers.com/ai26-1551",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-06T00:00:45Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9794,
+        "recency": 0.9572,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-05T21:15:07Z",
-      "latest_at": "2026-10-05T21:15:07Z",
+      "earliest_at": "2026-10-06T00:00:45Z",
+      "latest_at": "2026-10-06T00:00:45Z",
       "primary_item": {
-        "id": "e3a8211c35b9804f3ac5076228b60f7a685091f2",
-        "title": "Dust：在没有反向传播的情况下预训练 Transformer / Dust: Pretraining Transformers Without Backpropagation",
-        "title_zh": "Dust：在没有反向传播的情况下预训练 Transformer",
-        "title_en": "Dust: Pretraining Transformers Without Backpropagation",
-        "title_original": "Dust: Pretraining Transformers Without Backpropagation",
-        "summary": "Contents\nSamip Dahal, Bishwas Mandal, Serdar Gülbahar, Akshay Vegesna\nOctober 2026 Correspondence to [redacted-email] · Code · Cite\nDeep learning has been built around backprop, the only credit assignment algorithm capable of training modern neural nets, including transformer-based language models. Backprop requires differentiability and produces first-order gradients, and deep learning’s architectures, optimizers, and hardware have co-evolved around this constraint.\nHowever, as the amount of compute ",
+        "id": "524dc7139f27489f87eb2f98f304fb9e3e0e35d4",
+        "title": "Khanmigo 在为期两年的学校实验中进行人工智能辅导 / AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "title_zh": "Khanmigo 在为期两年的学校实验中进行人工智能辅导",
+        "title_en": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "title_original": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://qlabs.sh/research/dust",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "url": "https://news.ycombinator.com/item?id=49972419",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1145,15 +1740,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9671,
+        "recency": 0.9082,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1177,7 +1772,7 @@
     },
     {
       "story_id": "story_6d84f167e6c4",
-      "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+      "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
       "url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
       "primary_url": "https://slashdot.org/story/26/10/05/1525207/sam-altman-the-world-should-accept-some-bad-things-happening-for-the-benefits-of-ai",
       "source": "Slashdot",
@@ -1185,8 +1780,8 @@
       "sources": [
         {
           "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_zh": null,
           "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "summary": null,
@@ -1199,8 +1794,8 @@
         },
         {
           "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": null,
           "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
           "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
@@ -1220,8 +1815,8 @@
       "items": [
         {
           "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-          "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-          "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
+          "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+          "title_zh": null,
           "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
           "summary": null,
@@ -1234,8 +1829,8 @@
         },
         {
           "id": "f52c52878ab3528d3684df7354ef92e484e72fdb",
-          "title": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益 / Altman: The world should accept some bad things happening for the benefits of AI",
-          "title_zh": "奥特曼：世界应该接受一些坏事的发生，让人工智能受益",
+          "title": "Altman: The world should accept some bad things happening for the benefits of AI",
+          "title_zh": null,
           "title_en": "Altman: The world should accept some bad things happening for the benefits of AI",
           "title_original": "Altman: The world should accept some bad things happening for the benefits of AI",
           "summary": null,
@@ -1249,15 +1844,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5292,
-      "importance": 0.5292,
-      "importance_score": 0.5292,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9079,
+        "recency": 0.8526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1268,8 +1863,8 @@
       "latest_at": "2026-10-05T16:00:00Z",
       "primary_item": {
         "id": "a80790ec32c8d283b04d3b91ef9bbe8c1950678b",
-        "title": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生” / Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
-        "title_zh": "Sam Altman：为了人工智能的利益，“世界应该接受一些坏事的发生”",
+        "title": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
+        "title_zh": null,
         "title_en": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
         "title_original": "Sam Altman: 'The World Should Accept Some Bad Things Happening' For the Benefits of AI",
         "summary": null,
@@ -1281,7 +1876,7 @@
     },
     {
       "story_id": "story_0a892e8086c0",
-      "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
+      "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
       "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
       "primary_url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
       "source": "Hacker News · 24h最热",
@@ -1289,8 +1884,8 @@
       "sources": [
         {
           "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
           "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
@@ -1303,8 +1898,8 @@
         },
         {
           "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
           "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
@@ -1324,8 +1919,8 @@
       "items": [
         {
           "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
           "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
@@ -1338,8 +1933,8 @@
         },
         {
           "id": "bfe2150c777cd87631161420d58652649ca7ddcb",
-          "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-          "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+          "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+          "title_zh": null,
           "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
           "summary": null,
@@ -1353,15 +1948,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8963,
+        "recency": 0.8417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1372,8 +1967,8 @@
       "latest_at": "2026-10-05T15:06:27Z",
       "primary_item": {
         "id": "eac00cc5c34397209550ab29883d539daf7546b6",
-        "title": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票 / People are asking ChatGPT to help them decide how to vote in the midterms",
-        "title_zh": "人们请求 ChatGPT 帮助他们决定如何在中期选举中投票",
+        "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+        "title_zh": null,
         "title_en": "People are asking ChatGPT to help them decide how to vote in the midterms",
         "title_original": "People are asking ChatGPT to help them decide how to vote in the midterms",
         "summary": null,
@@ -1381,214 +1976,6 @@
         "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_99cb3de970e3",
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "primary_url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": null,
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": null,
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49963366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-          "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": null,
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-05T11:13:51Z"
-        },
-        {
-          "id": "734f4d6c940895063ba652a764e19dd600662efb",
-          "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_zh": null,
-          "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=49963366",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-05T11:13:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8475,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-05T11:13:51Z",
-      "latest_at": "2026-10-05T11:13:51Z",
-      "primary_item": {
-        "id": "79a6e4042f76f22a7be9b70fc1181b298f932f8f",
-        "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "title_zh": null,
-        "title_en": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "title_original": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_2c99fa8bc7f3",
-      "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-      "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-      "primary_url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-          "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_zh": null,
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T00:51:00Z"
-        },
-        {
-          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-          "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_zh": null,
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:34:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "HN Algolia · AI 24h",
-        "Slashdot"
-      ],
-      "items": [
-        {
-          "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-          "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_zh": null,
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-05T00:51:00Z"
-        },
-        {
-          "id": "6e58ab69faa5d4c36b712da5e5834ed75242868b",
-          "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_zh": null,
-          "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing at StarCraft and Decides to Cheat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://kotaku.com/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead-2000739607",
-          "source": "HN Algolia · AI 24h",
-          "source_name": "Hacker News",
-          "site_id": "hackernews",
-          "published_at": "2026-10-04T23:34:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7295,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-04T23:34:17Z",
-      "latest_at": "2026-10-05T00:51:00Z",
-      "primary_item": {
-        "id": "400a2170bfe0b30e36ab4f7ac2c4924dca86c0da",
-        "title": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-        "title_zh": null,
-        "title_en": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-        "title_original": "OpenAI's GPT-6 Astra Gets Frustrated Losing At StarCraft And Decides To Cheat Instead",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://games.slashdot.org/story/26/10/05/0047248/openais-gpt-6-astra-gets-frustrated-losing-at-starcraft-and-decides-to-cheat-instead",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
       }
     }
   ]
